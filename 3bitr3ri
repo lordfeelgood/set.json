@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "th",
+    "<->",
+    "ch",
+    ")"
+  ],
+  "label": "3bitr3ri",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "3bitr3i.1",
+    "3bitr3i.2",
+    "3bitr3i.3"
+  ],
+  "proofSteps": [
+    "wth",
+    "wps",
+    "wch",
+    "3bitr3i.3",
+    "wps",
+    "wph",
+    "wch",
+    "3bitr3i.1",
+    "3bitr3i.2",
+    "bitr3i",
+    "bitr3i"
+  ]
+}

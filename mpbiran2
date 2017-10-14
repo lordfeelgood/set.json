@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")"
+  ],
+  "label": "mpbiran2",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "mpbiran2.1",
+    "mpbiran2.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wa",
+    "wps",
+    "mpbiran2.2",
+    "wch",
+    "wps",
+    "mpbiran2.1",
+    "biantru",
+    "bitr4i"
+  ]
+}

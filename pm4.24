@@ -1,0 +1,26 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "<->",
+    "(",
+    "ph",
+    "/\\",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "pm4.24",
+  "mandatoryHypotheses": [
+    "wph"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wph",
+    "id",
+    "pm4.71i"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "~~",
+    "=",
+    "_V"
+  ],
+  "label": "dmen",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cvv",
+    "cen",
+    "cdm",
+    "",
+    "wss",
+    "",
+    "cvv",
+    "wceq",
+    "cid",
+    "cen",
+    "wss",
+    "",
+    "idssen",
+    "cvv",
+    "cid",
+    "cdm",
+    "dmi",
+    "cid",
+    "cen",
+    "dmss",
+    "syl5eqssr",
+    "ax-mp",
+    "vss",
+    "mpbi"
+  ]
+}

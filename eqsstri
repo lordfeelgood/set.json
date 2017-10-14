@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "C"
+  ],
+  "label": "eqsstri",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "eqsstr.1",
+    "eqsstr.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "wss",
+    "cB",
+    "cC",
+    "wss",
+    "eqsstr.2",
+    "cA",
+    "cB",
+    "cC",
+    "eqsstr.1",
+    "sseq1i",
+    "mpbir"
+  ]
+}

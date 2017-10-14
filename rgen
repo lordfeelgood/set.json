@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph"
+  ],
+  "label": "rgen",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "rgen.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "wral",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wi",
+    "vx",
+    "wph",
+    "vx",
+    "cA",
+    "df-ral",
+    "rgen.1",
+    "mpgbir"
+  ]
+}

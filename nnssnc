@@ -1,0 +1,18 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Nn",
+    "C_",
+    "NC"
+  ],
+  "label": "nnssnc",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cnnc",
+    "cncs",
+    "cv",
+    "nnnc",
+    "ssriv"
+  ]
+}

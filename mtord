@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "-.",
+    "ps",
+    ")"
+  ],
+  "label": "mtord",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mtord.1",
+    "mtord.2",
+    "mtord.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wth",
+    "mtord.2",
+    "wph",
+    "wps",
+    "wch",
+    "wn",
+    "",
+    "wth",
+    "mtord.1",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wo",
+    "wth",
+    "wi",
+    "mtord.3",
+    "wch",
+    "wth",
+    "df-or",
+    "syl6ib",
+    "mpid",
+    "mtod"
+  ]
+}

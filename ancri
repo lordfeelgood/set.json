@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "/\\",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "ancri",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "ancri.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wph",
+    "ancri.1",
+    "wph",
+    "id",
+    "jca"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    ":",
+    "A",
+    "-->",
+    "B",
+    "->",
+    "Rel",
+    "F",
+    ")"
+  ],
+  "label": "frel",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cF",
+    "wf",
+    "cF",
+    "cA",
+    "wfn",
+    "cF",
+    "wrel",
+    "cA",
+    "cB",
+    "cF",
+    "ffn",
+    "cA",
+    "cF",
+    "fnrel",
+    "syl"
+  ]
+}

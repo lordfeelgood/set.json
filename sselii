@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "C",
+    "e.",
+    "B"
+  ],
+  "label": "sselii",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "sseli.1",
+    "sselii.2"
+  ],
+  "proofSteps": [
+    "cC",
+    "cA",
+    "wcel",
+    "cC",
+    "cB",
+    "wcel",
+    "sselii.2",
+    "cA",
+    "cB",
+    "cC",
+    "sseli.1",
+    "sseli",
+    "ax-mp"
+  ]
+}

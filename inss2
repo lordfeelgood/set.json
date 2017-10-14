@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "i^i",
+    "B",
+    ")",
+    "C_",
+    "B"
+  ],
+  "label": "inss2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cin",
+    "cB",
+    "cA",
+    "cin",
+    "cB",
+    "cB",
+    "cA",
+    "incom",
+    "cB",
+    "cA",
+    "inss1",
+    "eqsstr3i"
+  ]
+}

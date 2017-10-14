@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "\\/",
+    "A",
+    "=/=",
+    "B",
+    ")"
+  ],
+  "label": "exmidne",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "cA",
+    "cB",
+    "wne",
+    "",
+    "wo",
+    "wn",
+    "",
+    "wo",
+    "exmid",
+    "cA",
+    "cB",
+    "df-ne",
+    "orbi2i",
+    "mpbir"
+  ]
+}

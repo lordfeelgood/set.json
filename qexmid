@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "E.",
+    "x",
+    "(",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "qexmid",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "vx",
+    "wal",
+    "",
+    "vx",
+    "vx",
+    "19.8a",
+    "19.35ri"
+  ]
+}

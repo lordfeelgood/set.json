@@ -1,0 +1,67 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "x",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "dfss3f",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "dfss2f.1",
+    "dfss2f.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "cB",
+    "wcel",
+    "",
+    "wi",
+    "vx",
+    "wal",
+    "vx",
+    "cA",
+    "wral",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "dfss2f.1",
+    "dfss2f.2",
+    "dfss2f",
+    "vx",
+    "cA",
+    "df-ral",
+    "bitr4i"
+  ]
+}

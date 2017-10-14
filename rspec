@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "rspec",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "rspec.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "wral",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wi",
+    "rspec.1",
+    "wph",
+    "vx",
+    "cA",
+    "ra4",
+    "ax-mp"
+  ]
+}

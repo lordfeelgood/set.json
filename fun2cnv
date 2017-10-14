@@ -1,0 +1,77 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "`'",
+    "`'",
+    "A",
+    "<->",
+    "A.",
+    "x",
+    "E*",
+    "y",
+    "x",
+    "A",
+    "y",
+    ")"
+  ],
+  "label": "fun2cnv",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccnv",
+    "",
+    "ccnv",
+    "wfun",
+    "vy",
+    "cv",
+    "",
+    "vx",
+    "cv",
+    "",
+    "wbr",
+    "",
+    "vy",
+    "wmo",
+    "",
+    "vx",
+    "wal",
+    "cA",
+    "wbr",
+    "",
+    "vy",
+    "wmo",
+    "",
+    "vx",
+    "wal",
+    "vy",
+    "vx",
+    "funcnv2",
+    "vx",
+    "vy",
+    "cA",
+    "brcnv",
+    "mobii",
+    "albii",
+    "bitri"
+  ]
+}

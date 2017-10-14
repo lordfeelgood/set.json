@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "-.",
+    "ph"
+  ],
+  "label": "notnoti",
+  "mandatoryHypotheses": [
+    "wph",
+    "negbi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wn",
+    "wn",
+    "negbi.1",
+    "wph",
+    "notnot1",
+    "ax-mp"
+  ]
+}

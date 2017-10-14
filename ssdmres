@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "dom",
+    "B",
+    "<->",
+    "dom",
+    "(",
+    "B",
+    "|`",
+    "A",
+    ")",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "ssdmres",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cdm",
+    "",
+    "wss",
+    "cA",
+    "cin",
+    "",
+    "cA",
+    "wceq",
+    "cB",
+    "cA",
+    "cres",
+    "cdm",
+    "",
+    "cA",
+    "wceq",
+    "cA",
+    "df-ss",
+    "cA",
+    "cB",
+    "cA",
+    "dmres",
+    "eqeq1i",
+    "bitr4i"
+  ]
+}

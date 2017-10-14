@@ -1,0 +1,20 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "~~"
+  ],
+  "label": "relen",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "cv",
+    "wf1o",
+    "wex",
+    "cen",
+    "df-en",
+    "relopabi"
+  ]
+}

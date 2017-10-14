@@ -1,0 +1,62 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "C",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "|^|_",
+    "x",
+    "e.",
+    "A",
+    "B",
+    "=",
+    "|^|_",
+    "y",
+    "e.",
+    "A",
+    "C"
+  ],
+  "label": "cbviinv",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "cbviunv.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "cv",
+    "",
+    "cB",
+    "wcel",
+    "vy",
+    "ax-17",
+    "cC",
+    "wcel",
+    "vx",
+    "ax-17",
+    "cbviunv.1",
+    "cbviin"
+  ]
+}

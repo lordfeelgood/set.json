@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "|`",
+    "B",
+    ")",
+    "\"",
+    "B",
+    ")",
+    "=",
+    "(",
+    "A",
+    "\"",
+    "B",
+    ")"
+  ],
+  "label": "resima",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cres",
+    "",
+    "cB",
+    "cres",
+    "",
+    "crn",
+    "crn",
+    "cB",
+    "cima",
+    "cA",
+    "cB",
+    "cima",
+    "cA",
+    "cB",
+    "residm",
+    "rneqi",
+    "cB",
+    "dfima3",
+    "cA",
+    "cB",
+    "dfima3",
+    "3eqtr4i"
+  ]
+}

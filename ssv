@@ -1,0 +1,21 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "_V"
+  ],
+  "label": "ssv",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "cv",
+    "cA",
+    "elex",
+    "ssriv"
+  ]
+}

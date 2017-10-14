@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "if",
+    "(",
+    "ph",
+    ",",
+    "A",
+    ",",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "ifex",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "dedex.1",
+    "dedex.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "cvv",
+    "dedex.1",
+    "dedex.2",
+    "keepel"
+  ]
+}

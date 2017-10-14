@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(/)",
+    "=",
+    "{",
+    "x",
+    "|",
+    "-.",
+    "x",
+    "=",
+    "x",
+    "}"
+  ],
+  "label": "dfnul2",
+  "mandatoryHypotheses": [
+    "vx"
+  ],
+  "proofSteps": [
+    "c0",
+    "cvv",
+    "ccompl",
+    "vx",
+    "vx",
+    "weq",
+    "",
+    "vx",
+    "cab",
+    "",
+    "ccompl",
+    "wn",
+    "vx",
+    "cab",
+    "df-nul",
+    "cvv",
+    "vx",
+    "df-v",
+    "compleqi",
+    "vx",
+    "complab",
+    "3eqtri"
+  ]
+}

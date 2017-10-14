@@ -1,0 +1,54 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "Rel",
+    "x",
+    "->",
+    "Rel",
+    "|^|",
+    "A",
+    ")"
+  ],
+  "label": "relint",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "wrel",
+    "vx",
+    "cA",
+    "wrex",
+    "vx",
+    "cA",
+    "ciin",
+    "",
+    "wrel",
+    "cA",
+    "cint",
+    "",
+    "wrel",
+    "vx",
+    "cA",
+    "reliin",
+    "vx",
+    "cA",
+    "intiin",
+    "releqi",
+    "sylibr"
+  ]
+}

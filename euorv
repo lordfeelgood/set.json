@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "-.",
+    "ph",
+    "/\\",
+    "E!",
+    "x",
+    "ps",
+    ")",
+    "->",
+    "E!",
+    "x",
+    "(",
+    "ph",
+    "\\/",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "euorv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "wph",
+    "vx",
+    "ax-17",
+    "euor"
+  ]
+}

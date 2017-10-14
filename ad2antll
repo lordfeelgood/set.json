@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ch",
+    "/\\",
+    "(",
+    "th",
+    "/\\",
+    "ph",
+    ")",
+    ")",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "ad2antll",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "ad2ant.1"
+  ],
+  "proofSteps": [
+    "wth",
+    "wph",
+    "wa",
+    "wps",
+    "wch",
+    "wph",
+    "wps",
+    "wth",
+    "ad2ant.1",
+    "adantl",
+    "adantl"
+  ]
+}

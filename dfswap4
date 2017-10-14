@@ -1,0 +1,59 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "Swap",
+    "=",
+    "(",
+    "x",
+    "e.",
+    "_V",
+    ",",
+    "y",
+    "e.",
+    "_V",
+    "|->",
+    "<.",
+    "y",
+    ",",
+    "x",
+    ">.",
+    ")"
+  ],
+  "label": "dfswap4",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "cswap",
+    "cv",
+    "vy",
+    "cv",
+    "vx",
+    "cv",
+    "cop",
+    "",
+    "wceq",
+    "vx",
+    "vy",
+    "copab2",
+    "vx",
+    "vy",
+    "cvv",
+    "cvv",
+    "cmpt2",
+    "vx",
+    "vy",
+    "dfswap3",
+    "vx",
+    "vy",
+    "mpt2v",
+    "eqtr4i"
+  ]
+}

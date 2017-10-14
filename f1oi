@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "_I",
+    "|`",
+    "A",
+    ")",
+    ":",
+    "A",
+    "-1-1-onto->",
+    "A"
+  ],
+  "label": "f1oi",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cid",
+    "cA",
+    "cres",
+    "",
+    "wf1o",
+    "cA",
+    "wfn",
+    "",
+    "ccnv",
+    "",
+    "cA",
+    "wfn",
+    "",
+    "cA",
+    "fnresi",
+    "",
+    "cA",
+    "cA",
+    "cnvresid",
+    "fneq1i",
+    "mpbir",
+    "cA",
+    "cA",
+    "dff1o4",
+    "mpbir2an"
+  ]
+}

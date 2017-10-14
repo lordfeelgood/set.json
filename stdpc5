@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "stdpc5",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "stdpc5.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "vx",
+    "wal",
+    "wph",
+    "wps",
+    "vx",
+    "wal",
+    "wi",
+    "wph",
+    "wps",
+    "vx",
+    "stdpc5.1",
+    "19.21",
+    "biimpi"
+  ]
+}

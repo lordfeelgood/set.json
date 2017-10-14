@@ -1,0 +1,65 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "C",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "[_",
+    "A",
+    "/",
+    "x",
+    "]_",
+    "B",
+    "=",
+    "C"
+  ],
+  "label": "csbief",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "csbief.1",
+    "csbief.2",
+    "csbief.3"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "cB",
+    "cC",
+    "wceq",
+    "wi",
+    "vx",
+    "cA",
+    "cB",
+    "csb",
+    "cC",
+    "wceq",
+    "vx",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "csbief.1",
+    "csbief.2",
+    "csbieb",
+    "csbief.3",
+    "mpgbi"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "X.",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "X.",
+    "B",
+    ")"
+  ],
+  "label": "xpeq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "xpeq1i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cxp",
+    "cC",
+    "cB",
+    "cxp",
+    "wceq",
+    "xpeq1i.1",
+    "cA",
+    "cB",
+    "cC",
+    "xpeq2",
+    "ax-mp"
+  ]
+}

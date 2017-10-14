@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ps",
+    "<->",
+    "(",
+    "ps",
+    "-/\\",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "nic-justneg",
+  "mandatoryHypotheses": [
+    "wps"
+  ],
+  "proofSteps": [
+    "wps",
+    "wps",
+    "wnand",
+    "",
+    "wps",
+    "wn",
+    "wps",
+    "wps",
+    "wa",
+    "wps",
+    "wps",
+    "wps",
+    "df-nand",
+    "wps",
+    "anidm",
+    "xchbinx",
+    "bicomi"
+  ]
+}

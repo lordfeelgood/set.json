@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "\"",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "imaex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "imaex.1",
+    "imaex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cima",
+    "cvv",
+    "wcel",
+    "imaex.1",
+    "imaex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "imaexg",
+    "mp2an"
+  ]
+}

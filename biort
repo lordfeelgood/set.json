@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ph",
+    "<->",
+    "(",
+    "ph",
+    "\\/",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "biort",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wph",
+    "wps",
+    "wo",
+    "",
+    "wph",
+    "wps",
+    "orc",
+    "wph",
+    "ax-1",
+    "impbid2"
+  ]
+}

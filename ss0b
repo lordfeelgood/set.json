@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "(/)",
+    "<->",
+    "A",
+    "=",
+    "(/)",
+    ")"
+  ],
+  "label": "ss0b",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "wceq",
+    "",
+    "cA",
+    "c0",
+    "wss",
+    "",
+    "c0",
+    "cA",
+    "wss",
+    "cA",
+    "0ss",
+    "cA",
+    "c0",
+    "eqss",
+    "mpbiran2",
+    "bicomi"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "ch",
+    ")",
+    "<->",
+    "(",
+    "(",
+    "ps",
+    "/\\",
+    "ph",
+    ")",
+    "->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "ancomsimp",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "wps",
+    "wph",
+    "wa",
+    "wch",
+    "wph",
+    "wps",
+    "ancom",
+    "imbi1i"
+  ]
+}

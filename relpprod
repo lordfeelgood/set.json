@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "PProd",
+    "(",
+    "A",
+    ",",
+    "B",
+    ")"
+  ],
+  "label": "relpprod",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cpprod",
+    "",
+    "wrel",
+    "cA",
+    "c1st",
+    "ccom",
+    "",
+    "cB",
+    "c2nd",
+    "ccom",
+    "",
+    "ctxp",
+    "",
+    "wrel",
+    "reltxp",
+    "cA",
+    "cB",
+    "df-pprod",
+    "releqi",
+    "mpbir"
+  ]
+}

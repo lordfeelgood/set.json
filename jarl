@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "ch",
+    ")",
+    "->",
+    "(",
+    "-.",
+    "ph",
+    "->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "jarl",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "wph",
+    "wps",
+    "wi",
+    "wch",
+    "wph",
+    "wps",
+    "pm2.21",
+    "imim1i"
+  ]
+}

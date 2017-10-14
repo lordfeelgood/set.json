@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "\"_k",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "\"_k",
+    "B",
+    ")"
+  ],
+  "label": "imakeq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "imakeq1i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cimak",
+    "cC",
+    "cB",
+    "cimak",
+    "wceq",
+    "imakeq1i.1",
+    "cA",
+    "cB",
+    "cC",
+    "imakeq2",
+    "ax-mp"
+  ]
+}

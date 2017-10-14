@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "C",
+    "\"",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "\"",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "imaeq2d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "imaeq1d.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cima",
+    "cC",
+    "cB",
+    "cima",
+    "wceq",
+    "imaeq1d.1",
+    "cA",
+    "cB",
+    "cC",
+    "imaeq2",
+    "syl"
+  ]
+}

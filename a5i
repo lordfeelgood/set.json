@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "ps",
+    ")"
+  ],
+  "label": "a5i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "a5i.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wal",
+    "",
+    "wps",
+    "wi",
+    "",
+    "wps",
+    "vx",
+    "wal",
+    "",
+    "wi",
+    "vx",
+    "vx",
+    "wal",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "hba1",
+    "wps",
+    "vx",
+    "ax-5",
+    "syl5",
+    "a5i.1",
+    "mpg"
+  ]
+}

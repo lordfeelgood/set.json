@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(/)",
+    ":",
+    "(/)",
+    "-->",
+    "A"
+  ],
+  "label": "f0",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "c0",
+    "cA",
+    "c0",
+    "wf",
+    "c0",
+    "c0",
+    "wfn",
+    "",
+    "c0",
+    "crn",
+    "",
+    "cA",
+    "wss",
+    "c0",
+    "wfun",
+    "c0",
+    "cdm",
+    "c0",
+    "wceq",
+    "fun0",
+    "dm0",
+    "c0",
+    "c0",
+    "df-fn",
+    "mpbir2an",
+    "c0",
+    "cA",
+    "rn0",
+    "cA",
+    "0ss",
+    "eqsstri",
+    "c0",
+    "cA",
+    "c0",
+    "df-f",
+    "mpbir2an"
+  ]
+}

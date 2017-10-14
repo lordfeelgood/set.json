@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "U.",
+    "dom",
+    "{",
+    "<.",
+    "A",
+    ",",
+    "B",
+    ">.",
+    "}",
+    "=",
+    "A"
+  ],
+  "label": "op1sta",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "op1sta.1",
+    "op1sta.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cop",
+    "csn",
+    "cdm",
+    "",
+    "cuni",
+    "cA",
+    "csn",
+    "",
+    "cuni",
+    "cA",
+    "cA",
+    "cB",
+    "op1sta.2",
+    "dmsnop",
+    "unieqi",
+    "cA",
+    "op1sta.1",
+    "unisn",
+    "eqtri"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "C",
+    "u.",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "u.",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "uneq2d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "uneqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cun",
+    "cC",
+    "cB",
+    "cun",
+    "wceq",
+    "uneqd.1",
+    "cA",
+    "cB",
+    "cC",
+    "uneq2",
+    "syl"
+  ]
+}

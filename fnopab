@@ -1,0 +1,56 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "F",
+    "Fn",
+    "A"
+  ],
+  "label": "fnopab",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "cA",
+    "cF",
+    "fnopab.1",
+    "fnopab.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "weu",
+    "",
+    "vx",
+    "cA",
+    "wral",
+    "cF",
+    "cA",
+    "wfn",
+    "vx",
+    "cA",
+    "fnopab.1",
+    "rgen",
+    "wph",
+    "vx",
+    "vy",
+    "cA",
+    "cF",
+    "fnopab.2",
+    "fnopabg",
+    "mpbi"
+  ]
+}

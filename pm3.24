@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "(",
+    "ph",
+    "/\\",
+    "-.",
+    "ph",
+    ")"
+  ],
+  "label": "pm3.24",
+  "mandatoryHypotheses": [
+    "wph"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wi",
+    "wph",
+    "wph",
+    "wn",
+    "wa",
+    "wn",
+    "wph",
+    "id",
+    "wph",
+    "wph",
+    "iman",
+    "mpbi"
+  ]
+}

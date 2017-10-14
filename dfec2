@@ -1,0 +1,57 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "R",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "[",
+    "A",
+    "]",
+    "R",
+    "=",
+    "{",
+    "y",
+    "|",
+    "A",
+    "R",
+    "y",
+    "}"
+  ],
+  "label": "dfec2",
+  "mandatoryHypotheses": [
+    "vy",
+    "cA",
+    "cR"
+  ],
+  "proofSteps": [
+    "cA",
+    "cR",
+    "cec",
+    "cR",
+    "cA",
+    "csn",
+    "cima",
+    "cA",
+    "vy",
+    "cv",
+    "cR",
+    "wbr",
+    "vy",
+    "cab",
+    "cA",
+    "cR",
+    "df-ec",
+    "vy",
+    "cA",
+    "cR",
+    "imasn",
+    "eqtri"
+  ]
+}

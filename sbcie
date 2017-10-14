@@ -1,0 +1,54 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ph",
+    "<->",
+    "ps",
+    ")"
+  ],
+  "label": "sbcie",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "sbcie.1",
+    "sbcie.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "wph",
+    "vx",
+    "cA",
+    "wsbc",
+    "wps",
+    "wb",
+    "sbcie.1",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cvv",
+    "sbcie.2",
+    "sbcieg",
+    "ax-mp"
+  ]
+}

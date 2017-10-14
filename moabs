@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E*",
+    "x",
+    "ph",
+    "<->",
+    "(",
+    "E.",
+    "x",
+    "ph",
+    "->",
+    "E*",
+    "x",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "moabs",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wex",
+    "",
+    "wph",
+    "vx",
+    "weu",
+    "",
+    "wi",
+    "",
+    "wi",
+    "wph",
+    "vx",
+    "wmo",
+    "",
+    "wi",
+    "pm5.4",
+    "wph",
+    "vx",
+    "df-mo",
+    "",
+    "imbi2i",
+    "3bitr4ri"
+  ]
+}

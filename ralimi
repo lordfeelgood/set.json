@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ps",
+    ")"
+  ],
+  "label": "ralimi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "ralimi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "wph",
+    "wps",
+    "wi",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "ralimi.1",
+    "a1i",
+    "ralimia"
+  ]
+}

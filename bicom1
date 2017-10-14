@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "bicom1",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "wps",
+    "wph",
+    "wph",
+    "wps",
+    "bi2",
+    "wph",
+    "wps",
+    "bi1",
+    "impbid"
+  ]
+}

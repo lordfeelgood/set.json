@@ -1,0 +1,22 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "<_c"
+  ],
+  "label": "rellec",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "wss",
+    "cv",
+    "wrex",
+    "cv",
+    "wrex",
+    "clec",
+    "df-lec",
+    "relopabi"
+  ]
+}

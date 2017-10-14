@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    "e.",
+    "Funs",
+    "<->",
+    "Fun",
+    "F",
+    ")"
+  ],
+  "label": "elfuns",
+  "mandatoryHypotheses": [
+    "cF",
+    "elfuns.1"
+  ],
+  "proofSteps": [
+    "cv",
+    "",
+    "wfun",
+    "cF",
+    "wfun",
+    "cF",
+    "cfuns",
+    "elfuns.1",
+    "cF",
+    "funeq",
+    "df-funs",
+    "elab2"
+  ]
+}

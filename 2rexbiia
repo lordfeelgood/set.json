@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "E.",
+    "y",
+    "e.",
+    "B",
+    "ph",
+    "<->",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "E.",
+    "y",
+    "e.",
+    "B",
+    "ps",
+    ")"
+  ],
+  "label": "2rexbiia",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "2rexbiia.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "cB",
+    "wrex",
+    "wps",
+    "vy",
+    "cB",
+    "wrex",
+    "vx",
+    "cA",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wps",
+    "vy",
+    "cB",
+    "2rexbiia.1",
+    "rexbidva",
+    "rexbiia"
+  ]
+}

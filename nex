@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "E.",
+    "x",
+    "ph"
+  ],
+  "label": "nex",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "nex.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "wph",
+    "vx",
+    "wex",
+    "wn",
+    "vx",
+    "wph",
+    "vx",
+    "alnex",
+    "nex.1",
+    "mpgbi"
+  ]
+}

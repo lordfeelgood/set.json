@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "ph",
+    "<->",
+    "A.",
+    "z",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "a16gb",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "vx",
+    "wal",
+    "wph",
+    "wph",
+    "vz",
+    "wal",
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "a16g",
+    "wph",
+    "vz",
+    "ax-4",
+    "impbid1"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "\\/",
+    "-.",
+    "ph",
+    ")"
+  ],
+  "label": "exmid",
+  "mandatoryHypotheses": [
+    "wph"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wn",
+    "",
+    "id",
+    "orri"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "Nn",
+    "->",
+    "(",
+    "A",
+    "+c",
+    "1c",
+    ")",
+    "=/=",
+    "0c",
+    ")"
+  ],
+  "label": "peano3",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c1c",
+    "cplc",
+    "c0c",
+    "wne",
+    "cA",
+    "cnnc",
+    "wcel",
+    "cA",
+    "0cnsuc",
+    "a1i"
+  ]
+}

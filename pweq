@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "->",
+    "~P",
+    "A",
+    "=",
+    "~P",
+    "B",
+    ")"
+  ],
+  "label": "pweq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "cv",
+    "",
+    "cA",
+    "wss",
+    "",
+    "cab",
+    "cB",
+    "wss",
+    "",
+    "cab",
+    "cA",
+    "cpw",
+    "cB",
+    "cpw",
+    "cA",
+    "cB",
+    "sseq2",
+    "abbidv",
+    "cA",
+    "df-pw",
+    "cB",
+    "df-pw",
+    "3eqtr4g"
+  ]
+}

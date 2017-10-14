@@ -1,0 +1,25 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "2nd",
+    "e.",
+    "_V"
+  ],
+  "label": "2ndex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c2nd",
+    "c1st",
+    "cswap",
+    "ccom",
+    "cvv",
+    "df2nd2",
+    "c1st",
+    "cswap",
+    "1stex",
+    "swapex",
+    "coex",
+    "eqeltri"
+  ]
+}

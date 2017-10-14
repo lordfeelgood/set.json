@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "->",
+    "|^|",
+    "A",
+    "=",
+    "|^|",
+    "B",
+    ")"
+  ],
+  "label": "inteq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "cv",
+    "cv",
+    "wcel",
+    "",
+    "cA",
+    "wral",
+    "",
+    "cab",
+    "cB",
+    "wral",
+    "",
+    "cab",
+    "cA",
+    "cint",
+    "cB",
+    "cint",
+    "cA",
+    "cB",
+    "raleq",
+    "abbidv",
+    "cA",
+    "dfint2",
+    "cB",
+    "dfint2",
+    "3eqtr4g"
+  ]
+}

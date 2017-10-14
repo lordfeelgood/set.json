@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "(",
+    "B",
+    "F",
+    "C",
+    ")",
+    "->",
+    "C",
+    "e.",
+    "_V",
+    ")"
+  ],
+  "label": "elovex2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cF"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "co",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cC",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "elovex12",
+    "simprd"
+  ]
+}

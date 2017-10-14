@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "FullFun",
+    "F",
+    "B",
+    "<->",
+    "(",
+    "F",
+    "`",
+    "A",
+    ")",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "brfullfun",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF",
+    "brfullfun.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cF",
+    "cfullfun",
+    "wbr",
+    "cA",
+    "cF",
+    "cfv",
+    "cB",
+    "wceq",
+    "wb",
+    "brfullfun.1",
+    "cA",
+    "cB",
+    "cF",
+    "cvv",
+    "brfullfung",
+    "ax-mp"
+  ]
+}

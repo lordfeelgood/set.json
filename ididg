@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "A",
+    "_I",
+    "A",
+    ")"
+  ],
+  "label": "ididg",
+  "mandatoryHypotheses": [
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "cA",
+    "cA",
+    "cid",
+    "wbr",
+    "cA",
+    "cA",
+    "wceq",
+    "cA",
+    "eqid",
+    "cA",
+    "cA",
+    "cV",
+    "ideqg",
+    "mpbiri"
+  ]
+}

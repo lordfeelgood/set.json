@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "1c",
+    "=",
+    "Nc",
+    "{",
+    "A",
+    "}",
+    ")"
+  ],
+  "label": "df1c3g",
+  "mandatoryHypotheses": [
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "c1c",
+    "cv",
+    "",
+    "csn",
+    "",
+    "cnc",
+    "",
+    "wceq",
+    "c1c",
+    "cA",
+    "csn",
+    "",
+    "cnc",
+    "",
+    "wceq",
+    "cA",
+    "cV",
+    "cA",
+    "wceq",
+    "",
+    "c1c",
+    "cA",
+    "sneq",
+    "nceqd",
+    "eqeq2d",
+    "vex",
+    "df1c3",
+    "vtoclg"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    "/\\",
+    "(",
+    "ch",
+    "<->",
+    "ps",
+    ")",
+    ")",
+    "->",
+    "(",
+    "ph",
+    "<->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "biantr",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch"
+  ],
+  "proofSteps": [
+    "wch",
+    "wps",
+    "wb",
+    "",
+    "wph",
+    "wch",
+    "wb",
+    "wph",
+    "wps",
+    "wb",
+    "wch",
+    "wps",
+    "wph",
+    "id",
+    "bibi2d",
+    "biimparc"
+  ]
+}

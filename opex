@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "<.",
+    "A",
+    ",",
+    "B",
+    ">.",
+    "e.",
+    "_V"
+  ],
+  "label": "opex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "opex.1",
+    "opex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cop",
+    "cvv",
+    "wcel",
+    "opex.1",
+    "opex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "opexg",
+    "mp2an"
+  ]
+}

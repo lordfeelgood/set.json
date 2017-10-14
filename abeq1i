@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "<->",
+    "x",
+    "e.",
+    "A",
+    ")"
+  ],
+  "label": "abeq1i",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "abeqri.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cv",
+    "",
+    "wph",
+    "vx",
+    "cab",
+    "",
+    "wcel",
+    "cA",
+    "wcel",
+    "wph",
+    "vx",
+    "abid",
+    "cA",
+    "abeqri.1",
+    "eleq2i",
+    "bitr3i"
+  ]
+}

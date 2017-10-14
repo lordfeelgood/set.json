@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ran",
+    "(",
+    "_I",
+    "|`",
+    "A",
+    ")",
+    "=",
+    "A"
+  ],
+  "label": "rnresi",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cid",
+    "cA",
+    "cima",
+    "cid",
+    "cA",
+    "cres",
+    "crn",
+    "cA",
+    "cid",
+    "cA",
+    "dfima3",
+    "cA",
+    "imai",
+    "eqtr3i"
+  ]
+}

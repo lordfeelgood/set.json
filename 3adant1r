@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ta",
+    ")",
+    "/\\",
+    "ps",
+    "/\\",
+    "ch",
+    ")",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "3adant1r",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "3adant1l.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wta",
+    "wa",
+    "wps",
+    "wch",
+    "wth",
+    "wph",
+    "wps",
+    "wch",
+    "wa",
+    "wth",
+    "wta",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "3adant1l.1",
+    "3expb",
+    "adantlr",
+    "3impb"
+  ]
+}

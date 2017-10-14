@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "_V",
+    "ph",
+    "<->",
+    "E.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "rexv",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cvv",
+    "wrex",
+    "vx",
+    "cv",
+    "cvv",
+    "wcel",
+    "",
+    "wph",
+    "wa",
+    "",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "cvv",
+    "df-rex",
+    "wph",
+    "vx",
+    "wph",
+    "vx",
+    "vex",
+    "biantrur",
+    "exbii",
+    "bitr4i"
+  ]
+}

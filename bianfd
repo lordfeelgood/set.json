@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "(",
+    "ps",
+    "/\\",
+    "ch",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "bianfd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "bianfd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wps",
+    "wch",
+    "wa",
+    "bianfd.1",
+    "wph",
+    "wps",
+    "wch",
+    "bianfd.1",
+    "intnanrd",
+    "2falsed"
+  ]
+}

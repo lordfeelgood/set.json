@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "A",
+    "e.",
+    "{",
+    "A",
+    ",",
+    "B",
+    "}",
+    ")"
+  ],
+  "label": "prid1g",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cV"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "cA",
+    "cA",
+    "cB",
+    "cpr",
+    "wcel",
+    "cA",
+    "cA",
+    "wceq",
+    "",
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "wo",
+    "cA",
+    "eqid",
+    "orci",
+    "cA",
+    "cA",
+    "cB",
+    "cV",
+    "elprg",
+    "mpbiri"
+  ]
+}

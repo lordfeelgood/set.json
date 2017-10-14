@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "|^|_",
+    "x",
+    "e.",
+    "A",
+    "B",
+    "=",
+    "|^|_",
+    "x",
+    "e.",
+    "A",
+    "C"
+  ],
+  "label": "iineq2i",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "iuneq2i.1"
+  ],
+  "proofSteps": [
+    "cB",
+    "cC",
+    "wceq",
+    "vx",
+    "cA",
+    "cB",
+    "ciin",
+    "vx",
+    "cA",
+    "cC",
+    "ciin",
+    "wceq",
+    "vx",
+    "cA",
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "iineq2",
+    "iuneq2i.1",
+    "mprg"
+  ]
+}

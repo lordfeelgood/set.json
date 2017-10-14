@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "1c",
+    "=",
+    "~P1",
+    "_V"
+  ],
+  "label": "df1c2",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c1c",
+    "cvv",
+    "cpw1",
+    "",
+    "cv",
+    "",
+    "cv",
+    "csn",
+    "wceq",
+    "",
+    "cvv",
+    "wrex",
+    "wex",
+    "wcel",
+    "c1c",
+    "wcel",
+    "rexv",
+    "cvv",
+    "elpw1",
+    "el1c",
+    "3bitr4ri",
+    "eqriv"
+  ]
+}

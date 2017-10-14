@@ -1,0 +1,20 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "F."
+  ],
+  "label": "notfal",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "wfal",
+    "wtru",
+    "wn",
+    "wtru",
+    "tru",
+    "notnoti",
+    "df-fal",
+    "mtbir"
+  ]
+}

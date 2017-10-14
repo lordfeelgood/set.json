@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "ibib",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wph",
+    "wps",
+    "wb",
+    "wph",
+    "wps",
+    "pm5.501",
+    "pm5.74i"
+  ]
+}

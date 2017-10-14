@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "<->",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ph",
+    ")"
+  ],
+  "label": "elabsbc",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "elabs.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "wph",
+    "vx",
+    "cab",
+    "wcel",
+    "cA",
+    "cvv",
+    "wcel",
+    "wph",
+    "vx",
+    "cA",
+    "wsbc",
+    "elabs.1",
+    "wph",
+    "vx",
+    "cA",
+    "elabs2",
+    "mpbiran"
+  ]
+}

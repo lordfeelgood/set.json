@@ -1,0 +1,67 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ch",
+      "x"
+    ],
+    [
+      "th",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "ch",
+    "<->",
+    "th",
+    ")",
+    ")"
+  ],
+  "label": "vtoclbg",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "vx",
+    "cA",
+    "cV",
+    "vtoclbg.1",
+    "vtoclbg.2",
+    "vtoclbg.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "wch",
+    "wth",
+    "wb",
+    "vx",
+    "cA",
+    "cV",
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "wph",
+    "wch",
+    "wps",
+    "wth",
+    "vtoclbg.1",
+    "vtoclbg.2",
+    "bibi12d",
+    "vtoclbg.3",
+    "vtoclg"
+  ]
+}

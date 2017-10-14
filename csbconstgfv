@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "[_",
+    "A",
+    "/",
+    "x",
+    "]_",
+    "B",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "csbconstgfv",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cV"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cB",
+    "cV",
+    "cv",
+    "cB",
+    "wcel",
+    "vx",
+    "ax-17",
+    "csbconstgf"
+  ]
+}

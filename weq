@@ -1,0 +1,21 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "wff",
+    "x",
+    "=",
+    "y"
+  ],
+  "label": "weq",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "wceq"
+  ]
+}

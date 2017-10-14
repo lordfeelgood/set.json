@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "(",
+    "ps",
+    "\\/",
+    "th",
+    ")",
+    ")",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "jaodan",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "jaodan.1",
+    "jaodan.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wth",
+    "wo",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wph",
+    "wps",
+    "wch",
+    "jaodan.1",
+    "ex",
+    "wph",
+    "wth",
+    "wch",
+    "jaodan.2",
+    "ex",
+    "jaod",
+    "imp"
+  ]
+}

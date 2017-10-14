@@ -1,0 +1,65 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "|^|",
+    "{",
+    "x",
+    "e.",
+    "B",
+    "|",
+    "A",
+    "C_",
+    "x",
+    "}"
+  ],
+  "label": "ssintub",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "vx",
+    "cv",
+    "",
+    "wss",
+    "",
+    "vx",
+    "cB",
+    "crab",
+    "",
+    "cint",
+    "wss",
+    "cA",
+    "cv",
+    "",
+    "wss",
+    "",
+    "cA",
+    "ssint",
+    "wcel",
+    "cB",
+    "wcel",
+    "vx",
+    "cB",
+    "cA",
+    "sseq2",
+    "elrab",
+    "simprbi",
+    "mprgbir"
+  ]
+}

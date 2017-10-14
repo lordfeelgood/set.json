@@ -1,0 +1,56 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "A",
+    "<->",
+    "(",
+    "Rel",
+    "A",
+    "/\\",
+    "A.",
+    "x",
+    "E*",
+    "y",
+    "x",
+    "A",
+    "y",
+    ")",
+    ")"
+  ],
+  "label": "dffun6",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "cA",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "ax-17",
+    "vy",
+    "ax-17",
+    "dffun6f"
+  ]
+}

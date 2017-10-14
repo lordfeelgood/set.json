@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "`'",
+    "`'",
+    "A",
+    "=",
+    "dom",
+    "A"
+  ],
+  "label": "dmcnvcnv",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cdm",
+    "cA",
+    "ccnv",
+    "",
+    "crn",
+    "ccnv",
+    "cdm",
+    "cA",
+    "df-dm",
+    "dfrn4",
+    "eqtr2i"
+  ]
+}

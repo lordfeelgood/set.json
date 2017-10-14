@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "B",
+    "=",
+    "A",
+    "->",
+    "A",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "eqimss2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "cB",
+    "cA",
+    "cB",
+    "eqimss",
+    "eqcoms"
+  ]
+}

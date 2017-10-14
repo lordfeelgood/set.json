@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "A.",
+    "x",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "19.17",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "19.17.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "wal",
+    "wps",
+    "vx",
+    "wal",
+    "wps",
+    "wph",
+    "wps",
+    "vx",
+    "albi",
+    "wps",
+    "vx",
+    "19.17.1",
+    "19.3",
+    "syl6bb"
+  ]
+}

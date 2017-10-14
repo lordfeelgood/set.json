@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "`'",
+    "(/)",
+    "=",
+    "(/)"
+  ],
+  "label": "cnv0",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "ccnv",
+    "",
+    "c0",
+    "c0",
+    "relcnv",
+    "rel0",
+    "cv",
+    "",
+    "cv",
+    "",
+    "cop",
+    "",
+    "wcel",
+    "",
+    "c0",
+    "wcel",
+    "cop",
+    "",
+    "c0",
+    "wcel",
+    "noel",
+    "c0",
+    "opelcnv",
+    "mtbir",
+    "noel",
+    "2false",
+    "eqrelriiv"
+  ]
+}

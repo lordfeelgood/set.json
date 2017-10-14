@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "\"",
+    "B",
+    ")",
+    "C_",
+    "ran",
+    "A"
+  ],
+  "label": "imassrn",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cv",
+    "",
+    "cB",
+    "wcel",
+    "",
+    "cv",
+    "cop",
+    "cA",
+    "wcel",
+    "",
+    "wa",
+    "",
+    "wex",
+    "",
+    "cab",
+    "wex",
+    "",
+    "cab",
+    "cA",
+    "cB",
+    "cima",
+    "cA",
+    "crn",
+    "simpr",
+    "eximi",
+    "ss2abi",
+    "cA",
+    "cB",
+    "dfima4",
+    "cA",
+    "dfrn3",
+    "3sstr4i"
+  ]
+}

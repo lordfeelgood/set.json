@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "-/\\",
+    "ch",
+    ")",
+    "<->",
+    "(",
+    "ps",
+    "-/\\",
+    "th",
+    ")",
+    ")"
+  ],
+  "label": "nandbi12i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "nandbi12.1",
+    "nandbi12.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wch",
+    "wnand",
+    "wps",
+    "wch",
+    "wnand",
+    "wps",
+    "wth",
+    "wnand",
+    "wph",
+    "wps",
+    "wch",
+    "nandbi12.1",
+    "nandbi1i",
+    "wch",
+    "wth",
+    "wps",
+    "nandbi12.2",
+    "nandbi2i",
+    "bitri"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "(",
+    "_I",
+    "|`",
+    "A",
+    ")",
+    "=",
+    "A"
+  ],
+  "label": "dmresi",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cid",
+    "cdm",
+    "",
+    "wss",
+    "cid",
+    "cA",
+    "cres",
+    "cdm",
+    "cA",
+    "wceq",
+    "cA",
+    "cvv",
+    "cA",
+    "ssv",
+    "dmi",
+    "sseqtr4i",
+    "cA",
+    "cid",
+    "ssdmres",
+    "mpbi"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "\\",
+    "A",
+    ")",
+    "=",
+    "(/)"
+  ],
+  "label": "difid",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cdif",
+    "cA",
+    "cA",
+    "ccompl",
+    "cin",
+    "c0",
+    "cA",
+    "cA",
+    "df-dif",
+    "cA",
+    "incompl",
+    "eqtri"
+  ]
+}

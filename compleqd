@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "~",
+    "A",
+    "=",
+    "~",
+    "B",
+    ")"
+  ],
+  "label": "compleqd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "compleqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "ccompl",
+    "cB",
+    "ccompl",
+    "wceq",
+    "compleqd.1",
+    "cA",
+    "cB",
+    "compleq",
+    "syl"
+  ]
+}

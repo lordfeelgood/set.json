@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "E.",
+    "x",
+    "x",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "elisset",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "cA",
+    "cvv",
+    "wcel",
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "vx",
+    "wex",
+    "cA",
+    "cV",
+    "elex",
+    "vx",
+    "cA",
+    "isset",
+    "sylib"
+  ]
+}

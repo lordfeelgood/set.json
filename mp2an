@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ch"
+  ],
+  "label": "mp2an",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "mp2an.1",
+    "mp2an.2",
+    "mp2an.3"
+  ],
+  "proofSteps": [
+    "wps",
+    "wch",
+    "mp2an.2",
+    "wph",
+    "wps",
+    "wch",
+    "mp2an.1",
+    "mp2an.3",
+    "mpan",
+    "ax-mp"
+  ]
+}

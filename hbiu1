@@ -1,0 +1,65 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "y",
+    "e.",
+    "U_",
+    "x",
+    "e.",
+    "A",
+    "B",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "e.",
+    "U_",
+    "x",
+    "e.",
+    "A",
+    "B",
+    ")"
+  ],
+  "label": "hbiu1",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "vx",
+    "cA",
+    "cB",
+    "ciun",
+    "cv",
+    "cB",
+    "wcel",
+    "",
+    "vx",
+    "cA",
+    "wrex",
+    "",
+    "cab",
+    "vx",
+    "cA",
+    "cB",
+    "df-iun",
+    "vx",
+    "vy",
+    "vx",
+    "cA",
+    "hbre1",
+    "hbab",
+    "hbxfreq"
+  ]
+}

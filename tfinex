@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "_T[fin]",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "tfinex",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ctfin",
+    "cA",
+    "c0",
+    "wceq",
+    "",
+    "c0",
+    "cv",
+    "",
+    "cnnc",
+    "wcel",
+    "cv",
+    "cpw1",
+    "wcel",
+    "cA",
+    "wrex",
+    "wa",
+    "",
+    "cio",
+    "",
+    "cif",
+    "cvv",
+    "cA",
+    "df-tfin",
+    "c0",
+    "0ex",
+    "iotaex",
+    "ifex",
+    "eqeltri"
+  ]
+}

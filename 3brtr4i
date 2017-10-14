@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "C",
+    "R",
+    "D"
+  ],
+  "label": "3brtr4i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "cR",
+    "3brtr4.1",
+    "3brtr4.2",
+    "3brtr4.3"
+  ],
+  "proofSteps": [
+    "cC",
+    "cB",
+    "cD",
+    "cR",
+    "cC",
+    "cA",
+    "cB",
+    "cR",
+    "3brtr4.2",
+    "3brtr4.1",
+    "eqbrtri",
+    "3brtr4.3",
+    "breqtrri"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "->",
+    "(",
+    "Rel",
+    "B",
+    "->",
+    "Rel",
+    "A",
+    ")",
+    ")"
+  ],
+  "label": "relss",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "cB",
+    "cvv",
+    "cvv",
+    "cxp",
+    "",
+    "wss",
+    "cA",
+    "wss",
+    "cB",
+    "wrel",
+    "cA",
+    "wrel",
+    "cA",
+    "cB",
+    "sstr2",
+    "cB",
+    "df-rel",
+    "cA",
+    "df-rel",
+    "3imtr4g"
+  ]
+}

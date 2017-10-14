@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "`'_k",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "cnvkex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cnvkex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "ccnvk",
+    "cvv",
+    "wcel",
+    "cnvkex.1",
+    "cA",
+    "cvv",
+    "cnvkexg",
+    "ax-mp"
+  ]
+}

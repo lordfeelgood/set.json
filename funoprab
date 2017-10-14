@@ -1,0 +1,67 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ],
+    [
+      "x",
+      "z"
+    ],
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "Fun",
+    "{",
+    "<.",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    ",",
+    "z",
+    ">.",
+    "|",
+    "ph",
+    "}"
+  ],
+  "label": "funoprab",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "funoprab.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vz",
+    "wmo",
+    "",
+    "vy",
+    "wal",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "copab2",
+    "wfun",
+    "vx",
+    "vy",
+    "funoprab.1",
+    "gen2",
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "funoprabg",
+    "ax-mp"
+  ]
+}

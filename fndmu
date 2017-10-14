@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "/\\",
+    "F",
+    "Fn",
+    "B",
+    ")",
+    "->",
+    "A",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "fndmu",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "cF",
+    "cB",
+    "wfn",
+    "cA",
+    "cF",
+    "cdm",
+    "cB",
+    "cA",
+    "cF",
+    "fndm",
+    "cB",
+    "cF",
+    "fndm",
+    "sylan9req"
+  ]
+}

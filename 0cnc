@@ -1,0 +1,22 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "0c",
+    "e.",
+    "NC"
+  ],
+  "label": "0cnc",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0c",
+    "c0",
+    "cnc",
+    "cncs",
+    "df0c2",
+    "c0",
+    "0ex",
+    "ncelncsi",
+    "eqeltri"
+  ]
+}

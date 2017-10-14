@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    ",",
+    "C",
+    "}",
+    "=",
+    "{",
+    "B",
+    ",",
+    "D",
+    "}"
+  ],
+  "label": "preq12i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "preq1i.1",
+    "preq12i.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cD",
+    "wceq",
+    "cA",
+    "cC",
+    "cpr",
+    "cB",
+    "cD",
+    "cpr",
+    "wceq",
+    "preq1i.1",
+    "preq12i.2",
+    "cA",
+    "cC",
+    "cB",
+    "cD",
+    "preq12",
+    "mp2an"
+  ]
+}

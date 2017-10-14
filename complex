@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "~",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "complex",
+  "mandatoryHypotheses": [
+    "cA",
+    "boolex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "ccompl",
+    "cvv",
+    "wcel",
+    "boolex.1",
+    "cA",
+    "cvv",
+    "complexg",
+    "ax-mp"
+  ]
+}

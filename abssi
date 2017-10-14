@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "C_",
+    "A"
+  ],
+  "label": "abssi",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "abssi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cab",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "cab",
+    "cA",
+    "wph",
+    "vx",
+    "abssi.1",
+    "ss2abi",
+    "vx",
+    "cA",
+    "abid2",
+    "sseqtri"
+  ]
+}

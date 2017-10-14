@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "exlimiv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "exlimiv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "wps",
+    "vx",
+    "ax-17",
+    "exlimiv.1",
+    "exlimi"
+  ]
+}

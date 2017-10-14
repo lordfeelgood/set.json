@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "E*",
+    "x",
+    "ph",
+    "/\\",
+    "A.",
+    "x",
+    "E*",
+    "y",
+    "ps",
+    ")",
+    "->",
+    "E*",
+    "y",
+    "E.",
+    "x",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "moexexv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "wph",
+    "vy",
+    "ax-17",
+    "moexex"
+  ]
+}

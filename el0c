@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "0c",
+    "<->",
+    "A",
+    "=",
+    "(/)",
+    ")"
+  ],
+  "label": "el0c",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0c",
+    "wcel",
+    "cA",
+    "c0",
+    "csn",
+    "",
+    "wcel",
+    "cA",
+    "c0",
+    "wceq",
+    "c0c",
+    "cA",
+    "df-0c",
+    "eleq2i",
+    "cA",
+    "c0",
+    "0ex",
+    "elsn2",
+    "bitri"
+  ]
+}

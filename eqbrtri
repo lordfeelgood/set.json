@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "R",
+    "C"
+  ],
+  "label": "eqbrtri",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cR",
+    "eqbrtr.1",
+    "eqbrtr.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "cR",
+    "wbr",
+    "cB",
+    "cC",
+    "cR",
+    "wbr",
+    "eqbrtr.2",
+    "cA",
+    "cB",
+    "cC",
+    "cR",
+    "eqbrtr.1",
+    "breq1i",
+    "mpbir"
+  ]
+}

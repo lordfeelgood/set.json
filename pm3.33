@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "/\\",
+    "(",
+    "ps",
+    "->",
+    "ch",
+    ")",
+    ")",
+    "->",
+    "(",
+    "ph",
+    "->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "pm3.33",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "wps",
+    "wch",
+    "wi",
+    "wph",
+    "wch",
+    "wi",
+    "wph",
+    "wps",
+    "wch",
+    "imim1",
+    "imp"
+  ]
+}

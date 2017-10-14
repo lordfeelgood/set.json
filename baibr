@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "ch",
+    "<->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "baibr",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "baibr.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "baibr.1",
+    "baib",
+    "bicomd"
+  ]
+}

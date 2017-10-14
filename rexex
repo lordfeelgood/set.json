@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "->",
+    "E.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "rexex",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "wrex",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "wph",
+    "wa",
+    "",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "cA",
+    "df-rex",
+    "wph",
+    "vx",
+    "wph",
+    "simpr",
+    "eximi",
+    "sylbi"
+  ]
+}

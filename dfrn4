@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ran",
+    "A",
+    "=",
+    "dom",
+    "`'",
+    "A"
+  ],
+  "label": "dfrn4",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "crn",
+    "",
+    "cA",
+    "ccnv",
+    "",
+    "cdm",
+    "",
+    "cv",
+    "",
+    "cv",
+    "",
+    "wbr",
+    "",
+    "wex",
+    "cA",
+    "wbr",
+    "",
+    "wex",
+    "wcel",
+    "wcel",
+    "cA",
+    "brcnv",
+    "exbii",
+    "eldm",
+    "cA",
+    "elrn",
+    "3bitr4ri",
+    "eqriv"
+  ]
+}

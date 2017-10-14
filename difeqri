@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "C",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "\\",
+    "B",
+    ")",
+    "=",
+    "C"
+  ],
+  "label": "difeqri",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "difeqri.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cB",
+    "cdif",
+    "",
+    "cC",
+    "vx",
+    "cv",
+    "",
+    "wcel",
+    "cA",
+    "wcel",
+    "cB",
+    "wcel",
+    "wn",
+    "wa",
+    "cC",
+    "wcel",
+    "cA",
+    "cB",
+    "eldif",
+    "difeqri.1",
+    "bitri",
+    "eqriv"
+  ]
+}

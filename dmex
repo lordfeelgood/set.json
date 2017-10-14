@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "dmex",
+  "mandatoryHypotheses": [
+    "cA",
+    "dmex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cdm",
+    "cvv",
+    "wcel",
+    "dmex.1",
+    "cA",
+    "cvv",
+    "dmexg",
+    "ax-mp"
+  ]
+}

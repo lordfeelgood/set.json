@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "vtoclri",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "vtoclri.1",
+    "vtoclri.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "vtoclri.1",
+    "wph",
+    "vx",
+    "cB",
+    "vtoclri.2",
+    "rspec",
+    "vtoclga"
+  ]
+}

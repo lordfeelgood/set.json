@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "_V",
+    "C_",
+    "A",
+    "<->",
+    "A",
+    "=",
+    "_V",
+    ")"
+  ],
+  "label": "vss",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cvv",
+    "cA",
+    "wss",
+    "",
+    "cA",
+    "cvv",
+    "wss",
+    "",
+    "wa",
+    "cA",
+    "cvv",
+    "wceq",
+    "cA",
+    "ssv",
+    "biantrur",
+    "cA",
+    "cvv",
+    "eqss",
+    "bitr4i"
+  ]
+}

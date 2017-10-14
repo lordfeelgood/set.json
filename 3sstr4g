@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "C",
+    "C_",
+    "D",
+    ")"
+  ],
+  "label": "3sstr4g",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "3sstr4g.1",
+    "3sstr4g.2",
+    "3sstr4g.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wss",
+    "cC",
+    "cD",
+    "wss",
+    "3sstr4g.1",
+    "cC",
+    "cA",
+    "cD",
+    "cB",
+    "3sstr4g.2",
+    "3sstr4g.3",
+    "sseq12i",
+    "sylibr"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "condan",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "condan.1",
+    "condan.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wn",
+    "",
+    "wn",
+    "wps",
+    "wph",
+    "wch",
+    "condan.1",
+    "condan.2",
+    "pm2.65da",
+    "wps",
+    "notnot2",
+    "syl"
+  ]
+}

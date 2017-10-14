@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "i^i",
+    "B",
+    ")",
+    "C_",
+    "A"
+  ],
+  "label": "inss1",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cin",
+    "",
+    "cA",
+    "wss",
+    "cA",
+    "cin",
+    "",
+    "wceq",
+    "cA",
+    "cA",
+    "cin",
+    "",
+    "cB",
+    "cin",
+    "cA",
+    "cB",
+    "cA",
+    "in32",
+    "cA",
+    "cB",
+    "cA",
+    "inidm",
+    "ineq1i",
+    "eqtri",
+    "cA",
+    "df-ss",
+    "mpbir"
+  ]
+}

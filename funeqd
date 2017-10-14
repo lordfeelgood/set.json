@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "Fun",
+    "A",
+    "<->",
+    "Fun",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "funeqd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "funeqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "wfun",
+    "cB",
+    "wfun",
+    "wb",
+    "funeqd.1",
+    "cA",
+    "cB",
+    "funeq",
+    "syl"
+  ]
+}

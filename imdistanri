@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ps",
+    "/\\",
+    "ph",
+    ")",
+    "->",
+    "(",
+    "ch",
+    "/\\",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "imdistanri",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "imdistanri.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "imdistanri.1",
+    "com12",
+    "impac"
+  ]
+}

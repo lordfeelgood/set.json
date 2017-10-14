@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "{",
+    "B",
+    "}",
+    "<->",
+    "A",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "elsn",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "elsn.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "csn",
+    "wcel",
+    "cA",
+    "cB",
+    "wceq",
+    "wb",
+    "elsn.1",
+    "cA",
+    "cB",
+    "cvv",
+    "elsng",
+    "ax-mp"
+  ]
+}

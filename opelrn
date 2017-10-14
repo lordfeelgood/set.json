@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "<.",
+    "A",
+    ",",
+    "B",
+    ">.",
+    "e.",
+    "C",
+    "->",
+    "B",
+    "e.",
+    "ran",
+    "C",
+    ")"
+  ],
+  "label": "opelrn",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cop",
+    "cC",
+    "wcel",
+    "cA",
+    "cB",
+    "cC",
+    "wbr",
+    "cB",
+    "cC",
+    "crn",
+    "wcel",
+    "cA",
+    "cB",
+    "cC",
+    "df-br",
+    "cA",
+    "cB",
+    "cC",
+    "brelrn",
+    "sylbir"
+  ]
+}

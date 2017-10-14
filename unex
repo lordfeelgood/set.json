@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "u.",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "unex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "boolex.1",
+    "boolex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cun",
+    "cvv",
+    "wcel",
+    "boolex.1",
+    "boolex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "unexg",
+    "mp2an"
+  ]
+}

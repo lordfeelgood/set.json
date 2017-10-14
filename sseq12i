@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "C",
+    "<->",
+    "B",
+    "C_",
+    "D",
+    ")"
+  ],
+  "label": "sseq12i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "sseq1i.1",
+    "sseq12i.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cD",
+    "wceq",
+    "cA",
+    "cC",
+    "wss",
+    "cB",
+    "cD",
+    "wss",
+    "wb",
+    "sseq1i.1",
+    "sseq12i.2",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "sseq12",
+    "mp2an"
+  ]
+}

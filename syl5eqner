@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A",
+    "=/=",
+    "C",
+    ")"
+  ],
+  "label": "syl5eqner",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "syl5eqner.1",
+    "syl5eqner.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cB",
+    "cC",
+    "wne",
+    "cA",
+    "cC",
+    "wne",
+    "syl5eqner.2",
+    "cB",
+    "cA",
+    "cC",
+    "syl5eqner.1",
+    "neeq1i",
+    "sylib"
+  ]
+}

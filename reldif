@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "A",
+    "->",
+    "Rel",
+    "(",
+    "A",
+    "\\",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "reldif",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cdif",
+    "",
+    "cA",
+    "wss",
+    "cA",
+    "wrel",
+    "wrel",
+    "wi",
+    "cA",
+    "cB",
+    "difss",
+    "cA",
+    "relss",
+    "ax-mp"
+  ]
+}

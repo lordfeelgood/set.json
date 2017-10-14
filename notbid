@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "-.",
+    "ps",
+    "<->",
+    "-.",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "notbid",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "notbid.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wn",
+    "",
+    "wch",
+    "wn",
+    "",
+    "wph",
+    "wps",
+    "wch",
+    "wn",
+    "wn",
+    "notbid.1",
+    "wps",
+    "notnot",
+    "wch",
+    "notnot",
+    "3bitr3g",
+    "con4bid"
+  ]
+}

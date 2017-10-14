@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "E*",
+    "y",
+    "ph",
+    "->",
+    "E*",
+    "x",
+    "E!",
+    "y",
+    "ph",
+    ")"
+  ],
+  "label": "2eumo",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "weu",
+    "",
+    "wph",
+    "vy",
+    "wmo",
+    "",
+    "wi",
+    "vx",
+    "weu",
+    "vx",
+    "wmo",
+    "wi",
+    "vx",
+    "vx",
+    "euimmo",
+    "wph",
+    "vy",
+    "eumo",
+    "mpg"
+  ]
+}

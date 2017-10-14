@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "C",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "sseldi",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "sseli.1",
+    "sseldi.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cC",
+    "cA",
+    "wcel",
+    "cC",
+    "cB",
+    "wcel",
+    "sseldi.2",
+    "cA",
+    "cB",
+    "cC",
+    "sseli.1",
+    "sseli",
+    "syl"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "A.",
+    "y",
+    "ph",
+    "<->",
+    "A.",
+    "x",
+    "A.",
+    "y",
+    "ps",
+    ")"
+  ],
+  "label": "2albii",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "albii.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "wal",
+    "wps",
+    "vy",
+    "wal",
+    "vx",
+    "wph",
+    "wps",
+    "vy",
+    "albii.1",
+    "albii",
+    "albii"
+  ]
+}

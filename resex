@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "|`",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "resex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "resex.1",
+    "resex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cres",
+    "cvv",
+    "wcel",
+    "resex.1",
+    "resex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "resexg",
+    "mp2an"
+  ]
+}

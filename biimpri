@@ -1,0 +1,26 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "biimpri",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "biimpri.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wph",
+    "wps",
+    "biimpri.1",
+    "bicomi",
+    "biimpi"
+  ]
+}

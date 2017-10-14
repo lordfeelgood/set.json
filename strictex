@@ -1,0 +1,25 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Or",
+    "e.",
+    "_V"
+  ],
+  "label": "strictex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cstrict",
+    "cpartial",
+    "cconnex",
+    "cin",
+    "cvv",
+    "df-strict",
+    "cpartial",
+    "cconnex",
+    "partialex",
+    "connexex",
+    "inex",
+    "eqeltri"
+  ]
+}

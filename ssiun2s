@@ -1,0 +1,85 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "C",
+      "x"
+    ],
+    [
+      "D",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "e.",
+    "A",
+    "->",
+    "D",
+    "C_",
+    "U_",
+    "x",
+    "e.",
+    "A",
+    "B",
+    ")"
+  ],
+  "label": "ssiun2s",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "ssiun2s.1"
+  ],
+  "proofSteps": [
+    "cB",
+    "vx",
+    "cA",
+    "cB",
+    "ciun",
+    "",
+    "wss",
+    "cD",
+    "wss",
+    "vx",
+    "cC",
+    "cA",
+    "cv",
+    "",
+    "cC",
+    "wcel",
+    "vx",
+    "ax-17",
+    "vx",
+    "cD",
+    "cD",
+    "wcel",
+    "vx",
+    "ax-17",
+    "vx",
+    "cA",
+    "cB",
+    "hbiu1",
+    "hbss",
+    "vx",
+    "cv",
+    "cC",
+    "wceq",
+    "cB",
+    "cD",
+    "ssiun2s.1",
+    "sseq1d",
+    "vx",
+    "cA",
+    "cB",
+    "ssiun2",
+    "vtoclgaf"
+  ]
+}

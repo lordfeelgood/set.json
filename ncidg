@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "A",
+    "e.",
+    "Nc",
+    "A",
+    ")"
+  ],
+  "label": "ncidg",
+  "mandatoryHypotheses": [
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "",
+    "cA",
+    "cA",
+    "cen",
+    "cec",
+    "",
+    "cA",
+    "cnc",
+    "cA",
+    "cA",
+    "cen",
+    "wbr",
+    "cA",
+    "wcel",
+    "cA",
+    "cV",
+    "enrflxg",
+    "cA",
+    "cA",
+    "cen",
+    "elec",
+    "sylibr",
+    "cA",
+    "df-nc",
+    "syl6eleqr"
+  ]
+}

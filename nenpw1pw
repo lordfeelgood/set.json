@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "~P1",
+    "A",
+    "~~",
+    "~P",
+    "A"
+  ],
+  "label": "nenpw1pw",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cv",
+    "",
+    "csn",
+    "cv",
+    "cfv",
+    "wcel",
+    "wn",
+    "cA",
+    "crab",
+    "",
+    "eqid",
+    "nenpw1pwlem2"
+  ]
+}

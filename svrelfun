@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "A",
+    "<->",
+    "(",
+    "Rel",
+    "A",
+    "/\\",
+    "Fun",
+    "`'",
+    "`'",
+    "A",
+    ")",
+    ")"
+  ],
+  "label": "svrelfun",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "wfun",
+    "cA",
+    "wrel",
+    "",
+    "cv",
+    "cv",
+    "cA",
+    "wbr",
+    "wmo",
+    "wal",
+    "",
+    "wa",
+    "cA",
+    "ccnv",
+    "ccnv",
+    "wfun",
+    "",
+    "wa",
+    "cA",
+    "dffun6",
+    "cA",
+    "fun2cnv",
+    "anbi2i",
+    "bitr4i"
+  ]
+}

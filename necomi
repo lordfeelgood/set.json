@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "B",
+    "=/=",
+    "A"
+  ],
+  "label": "necomi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "necomi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wne",
+    "cB",
+    "cA",
+    "wne",
+    "necomi.1",
+    "cA",
+    "cB",
+    "necom",
+    "mpbi"
+  ]
+}

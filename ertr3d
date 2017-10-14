@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "X",
+    "R",
+    "Z",
+    ")"
+  ],
+  "label": "ertr3d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cR",
+    "cX",
+    "cY",
+    "cZ",
+    "ertr.1",
+    "ertr.2",
+    "ertr.3",
+    "ertr.4",
+    "ertr3d.5",
+    "ertr3d.6"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cR",
+    "cX",
+    "cY",
+    "cZ",
+    "ertr.1",
+    "ertr.2",
+    "ertr.3",
+    "ertr.4",
+    "wph",
+    "cA",
+    "cR",
+    "cY",
+    "cX",
+    "ertr.1",
+    "ertr.3",
+    "ertr.2",
+    "ertr3d.5",
+    "ersym",
+    "ertr3d.6",
+    "ertrd"
+  ]
+}

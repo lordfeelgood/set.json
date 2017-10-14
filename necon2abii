@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "<->",
+    "A",
+    "=/=",
+    "B",
+    ")"
+  ],
+  "label": "necon2abii",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "necon2abii.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wne",
+    "wph",
+    "wph",
+    "cA",
+    "cB",
+    "cA",
+    "cB",
+    "wceq",
+    "wph",
+    "wn",
+    "necon2abii.1",
+    "bicomi",
+    "necon1abii",
+    "bicomi"
+  ]
+}

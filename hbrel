@@ -1,0 +1,55 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "A",
+    "->",
+    "A.",
+    "x",
+    "Rel",
+    "A",
+    ")"
+  ],
+  "label": "hbrel",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "hbrel.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "wrel",
+    "cA",
+    "cvv",
+    "cvv",
+    "cxp",
+    "",
+    "wss",
+    "vx",
+    "cA",
+    "df-rel",
+    "vx",
+    "vy",
+    "cA",
+    "hbrel.1",
+    "vy",
+    "cv",
+    "wcel",
+    "vx",
+    "ax-17",
+    "hbss",
+    "hbxfrbi"
+  ]
+}

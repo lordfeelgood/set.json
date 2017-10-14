@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(/)",
+    "e.",
+    "A",
+    "->",
+    "|^|",
+    "A",
+    "=",
+    "(/)",
+    ")"
+  ],
+  "label": "int0el",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "c0",
+    "cA",
+    "wcel",
+    "",
+    "cA",
+    "cint",
+    "",
+    "c0",
+    "c0",
+    "cA",
+    "intss1",
+    "c0",
+    "wss",
+    "0ss",
+    "a1i",
+    "eqssd"
+  ]
+}

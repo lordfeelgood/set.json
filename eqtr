@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "=",
+    "B",
+    "/\\",
+    "B",
+    "=",
+    "C",
+    ")",
+    "->",
+    "A",
+    "=",
+    "C",
+    ")"
+  ],
+  "label": "eqtr",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cC",
+    "wceq",
+    "cB",
+    "cC",
+    "wceq",
+    "cA",
+    "cB",
+    "cC",
+    "eqeq1",
+    "biimpar"
+  ]
+}

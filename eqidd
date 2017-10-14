@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "eqidd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "wceq",
+    "wph",
+    "cA",
+    "eqid",
+    "a1i"
+  ]
+}

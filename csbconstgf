@@ -1,0 +1,82 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "V",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "[_",
+    "A",
+    "/",
+    "x",
+    "]_",
+    "B",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "csbconstgf",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cV",
+    "csbconstgf.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "",
+    "vx",
+    "cA",
+    "cB",
+    "csb",
+    "vy",
+    "cv",
+    "cB",
+    "wcel",
+    "",
+    "vx",
+    "cA",
+    "wsbc",
+    "",
+    "vy",
+    "cab",
+    "cB",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "df-csb",
+    "vy",
+    "cB",
+    "vx",
+    "cA",
+    "cV",
+    "csbconstgf.1",
+    "sbcgf",
+    "abbi1dv",
+    "syl5eq"
+  ]
+}

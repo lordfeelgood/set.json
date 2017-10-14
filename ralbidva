@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ps",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "ralbidva",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "ralbidva.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "wph",
+    "vx",
+    "ax-17",
+    "ralbidva.1",
+    "ralbida"
+  ]
+}

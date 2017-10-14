@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "th",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "exp3a",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "exp3a.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wch",
+    "wph",
+    "wth",
+    "wps",
+    "wch",
+    "wph",
+    "wth",
+    "wi",
+    "wph",
+    "wps",
+    "wch",
+    "wa",
+    "wth",
+    "exp3a.1",
+    "com12",
+    "ex",
+    "com3r"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "<->",
+    "E.",
+    "x",
+    "e.",
+    "B",
+    "x",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "risset",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "cB",
+    "wcel",
+    "",
+    "cA",
+    "wceq",
+    "",
+    "wa",
+    "vx",
+    "wex",
+    "wa",
+    "vx",
+    "wex",
+    "vx",
+    "cB",
+    "wrex",
+    "cA",
+    "cB",
+    "wcel",
+    "vx",
+    "exancom",
+    "vx",
+    "cB",
+    "df-rex",
+    "vx",
+    "cA",
+    "cB",
+    "df-clel",
+    "3bitr4ri"
+  ]
+}

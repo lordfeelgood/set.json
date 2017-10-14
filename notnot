@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "<->",
+    "-.",
+    "-.",
+    "ph",
+    ")"
+  ],
+  "label": "notnot",
+  "mandatoryHypotheses": [
+    "wph"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wn",
+    "wn",
+    "wph",
+    "notnot1",
+    "wph",
+    "notnot2",
+    "impbii"
+  ]
+}

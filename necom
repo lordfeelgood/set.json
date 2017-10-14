@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=/=",
+    "B",
+    "<->",
+    "B",
+    "=/=",
+    "A",
+    ")"
+  ],
+  "label": "necom",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cB",
+    "cA",
+    "cA",
+    "cB",
+    "eqcom",
+    "necon3bii"
+  ]
+}

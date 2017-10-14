@@ -1,0 +1,78 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "C",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "(",
+    "B",
+    "\"",
+    "C",
+    ")",
+    "<->",
+    "E.",
+    "x",
+    "(",
+    "x",
+    "e.",
+    "C",
+    "/\\",
+    "x",
+    "B",
+    "A",
+    ")",
+    ")"
+  ],
+  "label": "elima2",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cC",
+    "cima",
+    "wcel",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "cB",
+    "wbr",
+    "",
+    "vx",
+    "cC",
+    "wrex",
+    "cC",
+    "wcel",
+    "wa",
+    "vx",
+    "wex",
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "elima",
+    "vx",
+    "cC",
+    "df-rex",
+    "bitri"
+  ]
+}

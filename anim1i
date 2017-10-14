@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ch",
+    ")",
+    "->",
+    "(",
+    "ps",
+    "/\\",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "anim1i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "anim1i.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wch",
+    "anim1i.1",
+    "wch",
+    "id",
+    "anim12i"
+  ]
+}

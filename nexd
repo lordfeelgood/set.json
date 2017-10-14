@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "-.",
+    "E.",
+    "x",
+    "ps",
+    ")"
+  ],
+  "label": "nexd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "nexd.1",
+    "nexd.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "wps",
+    "vx",
+    "wex",
+    "wn",
+    "wph",
+    "vx",
+    "nexd.1",
+    "nexd.2",
+    "alrimi",
+    "wps",
+    "vx",
+    "alnex",
+    "sylib"
+  ]
+}

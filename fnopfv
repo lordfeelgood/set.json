@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "/\\",
+    "B",
+    "e.",
+    "A",
+    ")",
+    "->",
+    "<.",
+    "B",
+    ",",
+    "(",
+    "F",
+    "`",
+    "B",
+    ")",
+    ">.",
+    "e.",
+    "F",
+    ")"
+  ],
+  "label": "fnopfv",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF"
+  ],
+  "proofSteps": [
+    "cB",
+    "cB",
+    "cF",
+    "cfv",
+    "cop",
+    "cF",
+    "wcel",
+    "cA",
+    "cB",
+    "cF",
+    "cB",
+    "cF",
+    "funfvop",
+    "funfni"
+  ]
+}

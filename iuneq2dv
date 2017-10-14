@@ -1,0 +1,65 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "U_",
+    "x",
+    "e.",
+    "A",
+    "B",
+    "=",
+    "U_",
+    "x",
+    "e.",
+    "A",
+    "C",
+    ")"
+  ],
+  "label": "iuneq2dv",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "iuneq2dv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cB",
+    "cC",
+    "wceq",
+    "",
+    "vx",
+    "cA",
+    "wral",
+    "vx",
+    "cA",
+    "cB",
+    "ciun",
+    "vx",
+    "cA",
+    "cC",
+    "ciun",
+    "wceq",
+    "wph",
+    "vx",
+    "cA",
+    "iuneq2dv.1",
+    "ralrimiva",
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "iuneq2",
+    "syl"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "<->",
+    "ph",
+    ")",
+    "<->",
+    "(",
+    "ps",
+    "<->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "trujust",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wb",
+    "wps",
+    "wps",
+    "wb",
+    "wph",
+    "biid",
+    "wps",
+    "biid",
+    "2th"
+  ]
+}

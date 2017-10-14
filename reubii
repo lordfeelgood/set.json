@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "<->",
+    "E!",
+    "x",
+    "e.",
+    "A",
+    "ps",
+    ")"
+  ],
+  "label": "reubii",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "reubii.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "wph",
+    "wps",
+    "wb",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "reubii.1",
+    "a1i",
+    "reubiia"
+  ]
+}

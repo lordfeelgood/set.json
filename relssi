@@ -1,0 +1,77 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "B"
+  ],
+  "label": "relssi",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "relssi.1",
+    "relssi.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "",
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "cop",
+    "",
+    "cA",
+    "wcel",
+    "cB",
+    "wcel",
+    "wi",
+    "",
+    "vy",
+    "wal",
+    "",
+    "vx",
+    "cA",
+    "wrel",
+    "vx",
+    "wal",
+    "wb",
+    "relssi.1",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "ssrel",
+    "ax-mp",
+    "vy",
+    "relssi.2",
+    "ax-gen",
+    "mpgbir"
+  ]
+}

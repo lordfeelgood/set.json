@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A.",
+    "x",
+    "ph",
+    "/\\",
+    "A.",
+    "x",
+    "ps",
+    ")",
+    "->",
+    "A.",
+    "x",
+    "ch",
+    ")"
+  ],
+  "label": "alanimi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "alanimi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wal",
+    "wps",
+    "vx",
+    "wal",
+    "wch",
+    "vx",
+    "wal",
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "wph",
+    "wps",
+    "wch",
+    "alanimi.1",
+    "ex",
+    "al2imi",
+    "imp"
+  ]
+}

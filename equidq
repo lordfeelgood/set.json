@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A.",
+    "y",
+    "x",
+    "=",
+    "x"
+  ],
+  "label": "equidq",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vx",
+    "weq",
+    "",
+    "vy",
+    "wal",
+    "",
+    "wn",
+    "",
+    "vy",
+    "wal",
+    "vx",
+    "vy",
+    "equidqe",
+    "wn",
+    "vy",
+    "vy",
+    "ax-6",
+    "vx",
+    "vy",
+    "hbequid",
+    "con3i",
+    "alrimi",
+    "mt3"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "ph",
+      "y"
+    ],
+    [
+      "ps",
+      "x"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "E.",
+    "y",
+    "e.",
+    "B",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "/\\",
+    "E.",
+    "y",
+    "e.",
+    "B",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "reeanv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "wph",
+    "vy",
+    "ax-17",
+    "wps",
+    "vx",
+    "ax-17",
+    "reean"
+  ]
+}

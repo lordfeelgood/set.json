@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")",
+    ")",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "loolinALT",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "wps",
+    "wph",
+    "wi",
+    "",
+    "wi",
+    "wps",
+    "wph",
+    "wph",
+    "wps",
+    "jarr",
+    "pm2.43d"
+  ]
+}

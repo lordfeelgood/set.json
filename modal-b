@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "-.",
+    "A.",
+    "x",
+    "-.",
+    "ph",
+    ")"
+  ],
+  "label": "modal-b",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "wn",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "ax6o",
+    "con4i"
+  ]
+}

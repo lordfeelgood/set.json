@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ph",
+    "<->",
+    "-.",
+    "ps",
+    ")"
+  ],
+  "label": "notbii",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "notbii.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "wph",
+    "wn",
+    "wps",
+    "wn",
+    "wb",
+    "notbii.1",
+    "wph",
+    "wps",
+    "notbi",
+    "mpbi"
+  ]
+}

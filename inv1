@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "i^i",
+    "_V",
+    ")",
+    "=",
+    "A"
+  ],
+  "label": "inv1",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "cin",
+    "",
+    "cA",
+    "cv",
+    "",
+    "wcel",
+    "cA",
+    "wcel",
+    "cvv",
+    "wcel",
+    "vex",
+    "cA",
+    "cvv",
+    "elin",
+    "mpbiran2",
+    "eqriv"
+  ]
+}

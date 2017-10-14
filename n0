@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=/=",
+    "(/)",
+    "<->",
+    "E.",
+    "x",
+    "x",
+    "e.",
+    "A",
+    ")"
+  ],
+  "label": "n0",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cv",
+    "cA",
+    "wcel",
+    "vx",
+    "ax-17",
+    "n0f"
+  ]
+}

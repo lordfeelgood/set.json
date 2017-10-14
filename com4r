@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "th",
+    "->",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "ta",
+    ")",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "com4r",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "com4.1"
+  ],
+  "proofSteps": [
+    "wch",
+    "wth",
+    "wph",
+    "wps",
+    "wta",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "com4.1",
+    "com4t",
+    "com4l"
+  ]
+}

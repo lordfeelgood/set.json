@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "E.",
+    "x",
+    "ps",
+    ")"
+  ],
+  "label": "a4imev",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "a4imev.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "wph",
+    "vx",
+    "ax-17",
+    "a4imev.1",
+    "a4ime"
+  ]
+}

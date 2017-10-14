@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "`'",
+    "`'",
+    "(",
+    "A",
+    "|`",
+    "B",
+    ")",
+    "=",
+    "(",
+    "`'",
+    "`'",
+    "A",
+    "|`",
+    "B",
+    ")"
+  ],
+  "label": "cnvcnvres",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cres",
+    "",
+    "ccnv",
+    "ccnv",
+    "",
+    "cA",
+    "ccnv",
+    "ccnv",
+    "cB",
+    "cres",
+    "wrel",
+    "wceq",
+    "cA",
+    "cB",
+    "relres",
+    "dfrel2",
+    "mpbi",
+    "cA",
+    "cB",
+    "rescnvcnv",
+    "eqtr4i"
+  ]
+}

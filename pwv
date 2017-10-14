@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "~P",
+    "_V",
+    "=",
+    "_V"
+  ],
+  "label": "pwv",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cvv",
+    "cpw",
+    "",
+    "cvv",
+    "cv",
+    "",
+    "wcel",
+    "",
+    "cvv",
+    "wcel",
+    "cvv",
+    "wss",
+    "ssv",
+    "cvv",
+    "vex",
+    "",
+    "elpw",
+    "mpbir",
+    "2th",
+    "eqriv"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "A",
+    "<->",
+    "Rel",
+    "B",
+    ")"
+  ],
+  "label": "releqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "releqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "wrel",
+    "cB",
+    "wrel",
+    "wb",
+    "releqi.1",
+    "cA",
+    "cB",
+    "releq",
+    "ax-mp"
+  ]
+}

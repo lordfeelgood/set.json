@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "R",
+    "Or",
+    "(/)",
+    ")"
+  ],
+  "label": "so0",
+  "mandatoryHypotheses": [
+    "wph",
+    "cR",
+    "cV",
+    "ord0.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cR",
+    "c0",
+    "cpartial",
+    "wbr",
+    "cR",
+    "c0",
+    "cconnex",
+    "wbr",
+    "cR",
+    "c0",
+    "cstrict",
+    "wbr",
+    "wph",
+    "cR",
+    "cV",
+    "ord0.1",
+    "po0",
+    "wph",
+    "cR",
+    "cV",
+    "ord0.1",
+    "connex0",
+    "c0",
+    "cR",
+    "sopc",
+    "sylanbrc"
+  ]
+}

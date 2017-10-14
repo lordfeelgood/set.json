@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "(+)",
+    "B",
+    ")",
+    "=",
+    "(",
+    "B",
+    "(+)",
+    "A",
+    ")"
+  ],
+  "label": "symdifcom",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cdif",
+    "",
+    "cB",
+    "cA",
+    "cdif",
+    "",
+    "cun",
+    "cun",
+    "cA",
+    "cB",
+    "csymdif",
+    "cB",
+    "cA",
+    "csymdif",
+    "uncom",
+    "cA",
+    "cB",
+    "df-symdif",
+    "cB",
+    "cA",
+    "df-symdif",
+    "3eqtr4i"
+  ]
+}

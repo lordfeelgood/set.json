@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "E*",
+    "x",
+    "(",
+    "ph",
+    "/\\",
+    "E*",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "moanmo",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "vx",
+    "wmo",
+    "",
+    "wa",
+    "",
+    "vx",
+    "wmo",
+    "wph",
+    "wa",
+    "",
+    "vx",
+    "wmo",
+    "",
+    "wi",
+    "id",
+    "wph",
+    "vx",
+    "wph",
+    "vx",
+    "hbmo1",
+    "moanim",
+    "mpbir",
+    "vx",
+    "wph",
+    "ancom",
+    "mobii",
+    "mpbir"
+  ]
+}

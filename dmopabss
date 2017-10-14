@@ -1,0 +1,87 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "dom",
+    "{",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    "|",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "/\\",
+    "ph",
+    ")",
+    "}",
+    "C_",
+    "A"
+  ],
+  "label": "dmopabss",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "wph",
+    "wa",
+    "",
+    "vx",
+    "vy",
+    "copab",
+    "cdm",
+    "vy",
+    "wex",
+    "",
+    "vx",
+    "cab",
+    "",
+    "cA",
+    "vx",
+    "vy",
+    "dmopab",
+    "wph",
+    "vy",
+    "wex",
+    "",
+    "wa",
+    "",
+    "vx",
+    "cab",
+    "cA",
+    "vx",
+    "wph",
+    "vy",
+    "19.42v",
+    "abbii",
+    "vx",
+    "cA",
+    "ssab2",
+    "eqsstri",
+    "eqsstri"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "e.",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "<->",
+    "ph",
+    ")"
+  ],
+  "label": "abid",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "wph",
+    "vx",
+    "cab",
+    "wcel",
+    "wph",
+    "vx",
+    "wsbc",
+    "wph",
+    "wph",
+    "vx",
+    "vx",
+    "df-clab",
+    "wph",
+    "vx",
+    "sbid",
+    "bitri"
+  ]
+}

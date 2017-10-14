@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "[",
+    "x",
+    "/",
+    "y",
+    "]",
+    "ph",
+    "->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "stdpc7",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "vx",
+    "wsb",
+    "wph",
+    "wi",
+    "vy",
+    "vx",
+    "wph",
+    "vy",
+    "vx",
+    "sbequ2",
+    "equcoms"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "C",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    ",",
+    "B",
+    ",",
+    "C",
+    "}",
+    "=",
+    "{",
+    "x",
+    "|",
+    "(",
+    "x",
+    "=",
+    "A",
+    "\\/",
+    "x",
+    "=",
+    "B",
+    "\\/",
+    "x",
+    "=",
+    "C",
+    ")",
+    "}"
+  ],
+  "label": "dftp2",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wceq",
+    "cB",
+    "wceq",
+    "cC",
+    "wceq",
+    "w3o",
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "ctp",
+    "cA",
+    "cB",
+    "cC",
+    "vx",
+    "vex",
+    "eltp",
+    "abbi2i"
+  ]
+}

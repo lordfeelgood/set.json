@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "U.",
+    "{",
+    "A",
+    "}",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "unisng",
+  "mandatoryHypotheses": [
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "cv",
+    "",
+    "csn",
+    "",
+    "cuni",
+    "",
+    "wceq",
+    "cA",
+    "csn",
+    "",
+    "cuni",
+    "",
+    "cA",
+    "wceq",
+    "cA",
+    "cV",
+    "cA",
+    "wceq",
+    "",
+    "cA",
+    "cA",
+    "sneq",
+    "unieqd",
+    "id",
+    "eqeq12d",
+    "vex",
+    "unisn",
+    "vtoclg"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "ta",
+    ")",
+    ")"
+  ],
+  "label": "syl6c",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "syl6c.1",
+    "syl6c.2",
+    "syl6c.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wth",
+    "wta",
+    "syl6c.2",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "wi",
+    "syl6c.1",
+    "syl6c.3",
+    "syl6",
+    "mpdd"
+  ]
+}

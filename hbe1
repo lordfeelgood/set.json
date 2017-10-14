@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "E.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "hbe1",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wex",
+    "wph",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "wn",
+    "vx",
+    "wph",
+    "vx",
+    "df-ex",
+    "vx",
+    "hbn1",
+    "hbxfrbi"
+  ]
+}

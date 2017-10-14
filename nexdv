@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "-.",
+    "E.",
+    "x",
+    "ps",
+    ")"
+  ],
+  "label": "nexdv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "nexdv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "wph",
+    "vx",
+    "ax-17",
+    "nexdv.1",
+    "nexd"
+  ]
+}

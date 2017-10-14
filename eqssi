@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "=",
+    "B"
+  ],
+  "label": "eqssi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "eqssi.1",
+    "eqssi.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cB",
+    "wss",
+    "cB",
+    "cA",
+    "wss",
+    "eqssi.1",
+    "eqssi.2",
+    "cA",
+    "cB",
+    "eqss",
+    "mpbir2an"
+  ]
+}

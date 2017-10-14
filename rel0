@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "(/)"
+  ],
+  "label": "rel0",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "wrel",
+    "c0",
+    "cvv",
+    "cvv",
+    "cxp",
+    "",
+    "wss",
+    "0ss",
+    "c0",
+    "df-rel",
+    "mpbir"
+  ]
+}

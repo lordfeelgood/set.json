@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "<<",
+    "C",
+    ",",
+    "A",
+    ">>",
+    "=",
+    "<<",
+    "C",
+    ",",
+    "B",
+    ">>"
+  ],
+  "label": "opkeq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "opkeq1i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "copk",
+    "cC",
+    "cB",
+    "copk",
+    "wceq",
+    "opkeq1i.1",
+    "cA",
+    "cB",
+    "cC",
+    "opkeq2",
+    "ax-mp"
+  ]
+}

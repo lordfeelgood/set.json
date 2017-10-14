@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "A.",
+    "y",
+    "y",
+    "=",
+    "x",
+    ")"
+  ],
+  "label": "alequcom",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "ax-10"
+  ]
+}

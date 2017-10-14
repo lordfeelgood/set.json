@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "mpbid",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "mpbid.min",
+    "mpbid.maj"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "mpbid.min",
+    "wph",
+    "wps",
+    "wch",
+    "mpbid.maj",
+    "biimpd",
+    "mpd"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ],
+    [
+      "ph",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "A.",
+    "x",
+    "A.",
+    "y",
+    "ps",
+    "->",
+    "A.",
+    "x",
+    "A.",
+    "y",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "2alimdv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "vy",
+    "2alimdv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vy",
+    "wal",
+    "wch",
+    "vy",
+    "wal",
+    "vx",
+    "wph",
+    "wps",
+    "wch",
+    "vy",
+    "2alimdv.1",
+    "alimdv",
+    "alimdv"
+  ]
+}

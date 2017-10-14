@@ -1,0 +1,75 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "|^|",
+    "{",
+    "x",
+    "e.",
+    "B",
+    "|",
+    "ph",
+    "}",
+    "C_",
+    "A",
+    ")"
+  ],
+  "label": "intminss",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "intminss.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "wps",
+    "wa",
+    "cA",
+    "wph",
+    "vx",
+    "cB",
+    "crab",
+    "",
+    "wcel",
+    "cint",
+    "cA",
+    "wss",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "intminss.1",
+    "elrab",
+    "cA",
+    "intss1",
+    "sylbir"
+  ]
+}

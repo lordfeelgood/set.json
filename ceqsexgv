@@ -1,0 +1,55 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "E.",
+    "x",
+    "(",
+    "x",
+    "=",
+    "A",
+    "/\\",
+    "ph",
+    ")",
+    "<->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "ceqsexgv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cV",
+    "ceqsexgv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cV",
+    "wps",
+    "vx",
+    "ax-17",
+    "ceqsexgv.1",
+    "ceqsexg"
+  ]
+}

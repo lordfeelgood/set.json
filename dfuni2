@@ -1,0 +1,81 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "U.",
+    "A",
+    "=",
+    "{",
+    "x",
+    "|",
+    "E.",
+    "y",
+    "e.",
+    "A",
+    "x",
+    "e.",
+    "y",
+    "}"
+  ],
+  "label": "dfuni2",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cuni",
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "",
+    "wcel",
+    "",
+    "cA",
+    "wcel",
+    "",
+    "wa",
+    "vy",
+    "wex",
+    "",
+    "vx",
+    "cab",
+    "vy",
+    "cA",
+    "wrex",
+    "",
+    "vx",
+    "cab",
+    "vx",
+    "vy",
+    "cA",
+    "df-uni",
+    "vx",
+    "wa",
+    "vy",
+    "wex",
+    "vy",
+    "exancom",
+    "vy",
+    "cA",
+    "df-rex",
+    "bitr4i",
+    "abbii",
+    "eqtri"
+  ]
+}

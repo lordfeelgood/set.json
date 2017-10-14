@@ -1,0 +1,66 @@
+{
+  "disjunctVariables": [
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "[",
+    "x",
+    "/",
+    "y",
+    "]",
+    "y",
+    "=",
+    "z",
+    "<->",
+    "x",
+    "=",
+    "z",
+    ")"
+  ],
+  "label": "equsb3",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vy",
+    "vz",
+    "weq",
+    "",
+    "vy",
+    "wsb",
+    "",
+    "vx",
+    "wsb",
+    "vz",
+    "weq",
+    "",
+    "vx",
+    "wsb",
+    "vy",
+    "vx",
+    "wsb",
+    "vx",
+    "vz",
+    "weq",
+    "vx",
+    "vy",
+    "vz",
+    "equsb3lem",
+    "sbbii",
+    "vy",
+    "vx",
+    "ax-17",
+    "sbco2",
+    "vx",
+    "vz",
+    "equsb3lem",
+    "3bitr3i"
+  ]
+}

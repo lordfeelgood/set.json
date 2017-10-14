@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "sylancom",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "sylancom.1",
+    "sylancom.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "wch",
+    "wps",
+    "wth",
+    "sylancom.1",
+    "wph",
+    "wps",
+    "simpr",
+    "sylancom.2",
+    "syl2anc"
+  ]
+}

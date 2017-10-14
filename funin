@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "F",
+    "->",
+    "Fun",
+    "(",
+    "F",
+    "i^i",
+    "G",
+    ")",
+    ")"
+  ],
+  "label": "funin",
+  "mandatoryHypotheses": [
+    "cF",
+    "cG"
+  ],
+  "proofSteps": [
+    "cF",
+    "cG",
+    "cin",
+    "",
+    "cF",
+    "wss",
+    "cF",
+    "wfun",
+    "wfun",
+    "wi",
+    "cF",
+    "cG",
+    "inss1",
+    "cF",
+    "funss",
+    "ax-mp"
+  ]
+}

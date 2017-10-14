@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "Disj",
+    "B",
+    "<->",
+    "(",
+    "A",
+    "i^i",
+    "B",
+    ")",
+    "=",
+    "(/)",
+    ")"
+  ],
+  "label": "brdisj",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "brdisj.1",
+    "brdisj.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cdisj",
+    "wbr",
+    "cA",
+    "cB",
+    "cin",
+    "c0",
+    "wceq",
+    "wb",
+    "brdisj.1",
+    "brdisj.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "brdisjg",
+    "mp2an"
+  ]
+}

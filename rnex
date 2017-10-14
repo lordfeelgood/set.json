@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ran",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "rnex",
+  "mandatoryHypotheses": [
+    "cA",
+    "dmex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "crn",
+    "cvv",
+    "wcel",
+    "dmex.1",
+    "cA",
+    "cvv",
+    "rnexg",
+    "ax-mp"
+  ]
+}

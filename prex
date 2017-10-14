@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    ",",
+    "B",
+    "}",
+    "e.",
+    "_V"
+  ],
+  "label": "prex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cpr",
+    "cA",
+    "csn",
+    "",
+    "cB",
+    "csn",
+    "",
+    "cun",
+    "cvv",
+    "cA",
+    "cB",
+    "df-pr",
+    "cA",
+    "snex",
+    "cB",
+    "snex",
+    "unex",
+    "eqeltri"
+  ]
+}

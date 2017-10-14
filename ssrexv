@@ -1,0 +1,65 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "->",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "->",
+    "E.",
+    "x",
+    "e.",
+    "B",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "ssrexv",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "",
+    "wph",
+    "wph",
+    "vx",
+    "cA",
+    "cB",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "cB",
+    "wcel",
+    "wph",
+    "cA",
+    "cB",
+    "ssel",
+    "anim1d",
+    "reximdv2"
+  ]
+}

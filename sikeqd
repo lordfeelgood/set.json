@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "SI_k",
+    "A",
+    "=",
+    "SI_k",
+    "B",
+    ")"
+  ],
+  "label": "sikeqd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "sikeqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "csik",
+    "cB",
+    "csik",
+    "wceq",
+    "sikeqd.1",
+    "cA",
+    "cB",
+    "sikeq",
+    "syl"
+  ]
+}

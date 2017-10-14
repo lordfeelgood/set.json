@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "e.",
+    "A",
+    "->",
+    "(",
+    "F",
+    "`",
+    "C",
+    ")",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "ffvelrni",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "ffvrni.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cF",
+    "wf",
+    "cC",
+    "cA",
+    "wcel",
+    "cC",
+    "cF",
+    "cfv",
+    "cB",
+    "wcel",
+    "ffvrni.1",
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "ffvelrn",
+    "mpan"
+  ]
+}

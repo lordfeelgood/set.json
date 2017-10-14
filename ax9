@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "A.",
+    "x",
+    "-.",
+    "x",
+    "=",
+    "y"
+  ],
+  "label": "ax9",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "wn",
+    "vx",
+    "wal",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "wi",
+    "vx",
+    "vx",
+    "vy",
+    "ax-9o",
+    "vx",
+    "modal-b",
+    "mpg"
+  ]
+}

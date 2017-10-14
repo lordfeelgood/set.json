@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "F",
+    "=",
+    "A"
+  ],
+  "label": "fdmi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF",
+    "fdmi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cF",
+    "wf",
+    "cF",
+    "cdm",
+    "cA",
+    "wceq",
+    "fdmi.1",
+    "cA",
+    "cB",
+    "cF",
+    "fdm",
+    "ax-mp"
+  ]
+}

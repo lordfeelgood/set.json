@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "FullFun",
+    "F",
+    "e.",
+    "_V"
+  ],
+  "label": "fullfunex",
+  "mandatoryHypotheses": [
+    "cF",
+    "fullfunex.1"
+  ],
+  "proofSteps": [
+    "cF",
+    "cvv",
+    "wcel",
+    "cF",
+    "cfullfun",
+    "cvv",
+    "wcel",
+    "fullfunex.1",
+    "cF",
+    "cvv",
+    "fullfunexg",
+    "ax-mp"
+  ]
+}

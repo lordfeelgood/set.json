@@ -1,0 +1,75 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "->",
+    "A.",
+    "x",
+    "A",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "hbel",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz",
+    "cA",
+    "cB",
+    "hbel.1",
+    "hbel.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "cv",
+    "",
+    "cA",
+    "wceq",
+    "",
+    "cB",
+    "wcel",
+    "",
+    "wa",
+    "",
+    "wex",
+    "vx",
+    "cA",
+    "cB",
+    "df-clel",
+    "vx",
+    "vx",
+    "vx",
+    "vy",
+    "cA",
+    "cv",
+    "wcel",
+    "vx",
+    "ax-17",
+    "hbel.1",
+    "hbeq",
+    "vx",
+    "vz",
+    "cB",
+    "hbel.2",
+    "hblem",
+    "hban",
+    "hbex",
+    "hbxfrbi"
+  ]
+}

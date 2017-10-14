@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "2c",
+    "e.",
+    "Nn"
+  ],
+  "label": "2nnc",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c1c",
+    "c1c",
+    "cplc",
+    "",
+    "c2c",
+    "cnnc",
+    "1p1e2c",
+    "c1c",
+    "cnnc",
+    "wcel",
+    "cnnc",
+    "wcel",
+    "1cnnc",
+    "c1c",
+    "peano2",
+    "ax-mp",
+    "eqeltrri"
+  ]
+}

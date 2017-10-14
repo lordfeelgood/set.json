@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "-.",
+    "ps",
+    "->",
+    "-.",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "mth8",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wps",
+    "wi",
+    "wps",
+    "wph",
+    "wps",
+    "pm2.27",
+    "con3d"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "{",
+    "B",
+    "}",
+    "->",
+    "A",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "elsni",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "csn",
+    "",
+    "wcel",
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cB",
+    "elsng",
+    "ibi"
+  ]
+}

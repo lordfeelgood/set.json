@@ -1,0 +1,77 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "Rel",
+    "dom",
+    "F"
+  ],
+  "label": "reldmmpt2",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "rngop.1"
+  ],
+  "proofSteps": [
+    "cF",
+    "cdm",
+    "",
+    "wrel",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "vy",
+    "cv",
+    "cB",
+    "wcel",
+    "wa",
+    "cv",
+    "cC",
+    "wceq",
+    "wa",
+    "",
+    "vx",
+    "vy",
+    "copab2",
+    "",
+    "cdm",
+    "",
+    "wrel",
+    "vx",
+    "vy",
+    "reldmoprab",
+    "cF",
+    "cF",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "cmpt2",
+    "rngop.1",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "df-mpt2",
+    "eqtri",
+    "dmeqi",
+    "releqi",
+    "mpbir"
+  ]
+}

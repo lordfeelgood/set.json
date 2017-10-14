@@ -1,0 +1,68 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "\"",
+    "U.",
+    "B",
+    ")",
+    "=",
+    "U_",
+    "x",
+    "e.",
+    "B",
+    "(",
+    "A",
+    "\"",
+    "x",
+    ")"
+  ],
+  "label": "imauni",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cuni",
+    "",
+    "cima",
+    "cA",
+    "vx",
+    "cB",
+    "vx",
+    "cv",
+    "",
+    "ciun",
+    "",
+    "cima",
+    "vx",
+    "cB",
+    "cA",
+    "cima",
+    "ciun",
+    "cA",
+    "vx",
+    "cB",
+    "uniiun",
+    "imaeq2i",
+    "vx",
+    "cA",
+    "cB",
+    "imaiun",
+    "eqtri"
+  ]
+}

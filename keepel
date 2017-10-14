@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "if",
+    "(",
+    "ph",
+    ",",
+    "A",
+    ",",
+    "B",
+    ")",
+    "e.",
+    "C"
+  ],
+  "label": "keepel",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "keepel.1",
+    "keepel.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cC",
+    "wcel",
+    "cB",
+    "cC",
+    "wcel",
+    "wph",
+    "cA",
+    "cB",
+    "cif",
+    "",
+    "cC",
+    "wcel",
+    "cA",
+    "cB",
+    "cA",
+    "cC",
+    "eleq1",
+    "cB",
+    "cC",
+    "eleq1",
+    "keepel.1",
+    "keepel.2",
+    "keephyp"
+  ]
+}

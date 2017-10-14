@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "<->",
+    "(",
+    "ps",
+    "/\\",
+    "ch",
+    ")",
+    ")",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "simplbi2comg",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wa",
+    "",
+    "wb",
+    "wps",
+    "wch",
+    "wph",
+    "wph",
+    "bi2",
+    "exp3acom23"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "Fin",
+    "<->",
+    "E.",
+    "x",
+    "e.",
+    "Nn",
+    "A",
+    "e.",
+    "x",
+    ")"
+  ],
+  "label": "elfin",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cfin",
+    "wcel",
+    "cA",
+    "cnnc",
+    "cuni",
+    "",
+    "wcel",
+    "cA",
+    "vx",
+    "cv",
+    "wcel",
+    "vx",
+    "cnnc",
+    "wrex",
+    "cfin",
+    "cA",
+    "df-fin",
+    "eleq2i",
+    "vx",
+    "cA",
+    "cnnc",
+    "eluni2",
+    "bitri"
+  ]
+}

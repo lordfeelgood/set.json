@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "ph",
+    "->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "a2i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "a2i.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wi",
+    "wi",
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "wch",
+    "wi",
+    "wi",
+    "a2i.1",
+    "wph",
+    "wps",
+    "wch",
+    "ax-2",
+    "ax-mp"
+  ]
+}

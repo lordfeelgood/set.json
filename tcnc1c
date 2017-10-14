@@ -1,0 +1,20 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "T_c",
+    "Nc",
+    "1c",
+    "=",
+    "Nc",
+    "~P1",
+    "1c"
+  ],
+  "label": "tcnc1c",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c1c",
+    "1cex",
+    "tcnc"
+  ]
+}

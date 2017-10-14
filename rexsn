@@ -1,0 +1,56 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "{",
+    "A",
+    "}",
+    "ph",
+    "<->",
+    "ps",
+    ")"
+  ],
+  "label": "rexsn",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "rexsn.1",
+    "rexsn.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "wph",
+    "vx",
+    "cA",
+    "csn",
+    "wrex",
+    "wps",
+    "wb",
+    "rexsn.1",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cvv",
+    "rexsn.2",
+    "rexsng",
+    "ax-mp"
+  ]
+}

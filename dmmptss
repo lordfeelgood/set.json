@@ -1,0 +1,58 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "dom",
+    "F",
+    "C_",
+    "A"
+  ],
+  "label": "dmmptss",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cF",
+    "dmmptss.1"
+  ],
+  "proofSteps": [
+    "cF",
+    "cdm",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "cv",
+    "cB",
+    "wceq",
+    "",
+    "wa",
+    "vx",
+    "copab",
+    "",
+    "cdm",
+    "cA",
+    "cF",
+    "cF",
+    "vx",
+    "cA",
+    "cB",
+    "cmpt",
+    "dmmptss.1",
+    "vx",
+    "cA",
+    "cB",
+    "df-mpt",
+    "eqtri",
+    "dmeqi",
+    "vx",
+    "cA",
+    "dmopabss",
+    "eqsstri"
+  ]
+}

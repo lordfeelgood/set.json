@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "SSet",
+    "B",
+    "<->",
+    "A",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "brsset",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "brsset.1",
+    "brsset.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "csset",
+    "wbr",
+    "cA",
+    "cB",
+    "wss",
+    "wb",
+    "brsset.1",
+    "brsset.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "brssetg",
+    "mp2an"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "e.",
+    "{",
+    "A",
+    "}"
+  ],
+  "label": "snid",
+  "mandatoryHypotheses": [
+    "cA",
+    "snid.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cA",
+    "csn",
+    "wcel",
+    "snid.1",
+    "cA",
+    "cvv",
+    "snidg",
+    "ax-mp"
+  ]
+}

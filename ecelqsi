@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "B",
+    "e.",
+    "A",
+    "->",
+    "[",
+    "B",
+    "]",
+    "R",
+    "e.",
+    "(",
+    "A",
+    "/.",
+    "R",
+    ")",
+    ")"
+  ],
+  "label": "ecelqsi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cR",
+    "ecelqsi.1"
+  ],
+  "proofSteps": [
+    "cR",
+    "cvv",
+    "wcel",
+    "cB",
+    "cA",
+    "wcel",
+    "cB",
+    "cR",
+    "cec",
+    "cA",
+    "cR",
+    "cqs",
+    "wcel",
+    "ecelqsi.1",
+    "cA",
+    "cB",
+    "cR",
+    "cvv",
+    "ecelqsg",
+    "mpan"
+  ]
+}

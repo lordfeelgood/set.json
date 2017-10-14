@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "X.",
+    "{",
+    "B",
+    "}",
+    ")",
+    ":",
+    "A",
+    "-->",
+    "{",
+    "B",
+    "}"
+  ],
+  "label": "fconst",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "fconst.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "csn",
+    "",
+    "cA",
+    "cxp",
+    "",
+    "wf",
+    "cA",
+    "wfn",
+    "crn",
+    "wss",
+    "cA",
+    "cB",
+    "fconst.1",
+    "cA",
+    "cB",
+    "fconstopab",
+    "fnopab2",
+    "cA",
+    "rnxpss",
+    "cA",
+    "df-f",
+    "mpbir2an"
+  ]
+}

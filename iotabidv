@@ -1,0 +1,59 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "iota",
+    "x",
+    "ps",
+    ")",
+    "=",
+    "(",
+    "iota",
+    "x",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "iotabidv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "iotabidv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wb",
+    "",
+    "vx",
+    "wal",
+    "wps",
+    "vx",
+    "cio",
+    "wch",
+    "vx",
+    "cio",
+    "wceq",
+    "wph",
+    "vx",
+    "iotabidv.1",
+    "alrimiv",
+    "wps",
+    "wch",
+    "vx",
+    "iotabi",
+    "syl"
+  ]
+}

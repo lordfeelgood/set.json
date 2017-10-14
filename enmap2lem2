@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "G",
+      "s"
+    ],
+    [
+      "a",
+      "s"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "W",
+    "Fn",
+    "(",
+    "G",
+    "^m",
+    "a",
+    ")"
+  ],
+  "label": "enmap2lem2",
+  "mandatoryHypotheses": [
+    "cG",
+    "cW",
+    "vs",
+    "vr",
+    "va",
+    "enmap2lem2.1"
+  ],
+  "proofSteps": [
+    "vs",
+    "cv",
+    "",
+    "vr",
+    "cv",
+    "",
+    "ccnv",
+    "",
+    "ccom",
+    "",
+    "cvv",
+    "wcel",
+    "",
+    "cW",
+    "cG",
+    "va",
+    "cv",
+    "cmap",
+    "co",
+    "",
+    "wfn",
+    "vs",
+    "vs",
+    "cW",
+    "cvv",
+    "enmap2lem2.1",
+    "fnmpt",
+    "wcel",
+    "vs",
+    "vex",
+    "vr",
+    "vex",
+    "cnvex",
+    "coex",
+    "a1i",
+    "mprg"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "-.",
+    "ph",
+    "\\/",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "imor",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "wn",
+    "",
+    "wn",
+    "",
+    "wps",
+    "wi",
+    "wps",
+    "wo",
+    "wph",
+    "wps",
+    "wph",
+    "notnot",
+    "imbi1i",
+    "wps",
+    "df-or",
+    "bitr4i"
+  ]
+}

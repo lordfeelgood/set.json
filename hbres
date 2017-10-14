@@ -1,0 +1,77 @@
+{
+  "disjunctVariables": [
+    [
+      "B",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "y",
+    "e.",
+    "(",
+    "A",
+    "|`",
+    "B",
+    ")",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "e.",
+    "(",
+    "A",
+    "|`",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "hbres",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "hbres.1",
+    "hbres.2"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cres",
+    "cA",
+    "cB",
+    "cvv",
+    "cxp",
+    "",
+    "cin",
+    "cA",
+    "cB",
+    "df-res",
+    "vy",
+    "vx",
+    "cA",
+    "hbres.1",
+    "vx",
+    "vy",
+    "cB",
+    "cvv",
+    "hbres.2",
+    "vy",
+    "cv",
+    "cvv",
+    "wcel",
+    "vx",
+    "ax-17",
+    "hbxp",
+    "hbin",
+    "hbxfreq"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "~~",
+    "B",
+    "<->",
+    "B",
+    "~~",
+    "A",
+    ")"
+  ],
+  "label": "ensym",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cen",
+    "wbr",
+    "cB",
+    "cA",
+    "cen",
+    "wbr",
+    "cA",
+    "cB",
+    "ensymi",
+    "cB",
+    "cA",
+    "ensymi",
+    "impbii"
+  ]
+}

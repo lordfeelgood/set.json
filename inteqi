@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "|^|",
+    "A",
+    "=",
+    "|^|",
+    "B"
+  ],
+  "label": "inteqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "inteqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cint",
+    "cB",
+    "cint",
+    "wceq",
+    "inteqi.1",
+    "cA",
+    "cB",
+    "inteq",
+    "ax-mp"
+  ]
+}

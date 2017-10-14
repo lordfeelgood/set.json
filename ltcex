@@ -1,0 +1,25 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "<c",
+    "e.",
+    "_V"
+  ],
+  "label": "ltcex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cltc",
+    "clec",
+    "cid",
+    "cdif",
+    "cvv",
+    "df-ltc",
+    "clec",
+    "cid",
+    "lecex",
+    "idex",
+    "difex",
+    "eqeltri"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "~",
+    "A",
+    "=",
+    "~",
+    "B"
+  ],
+  "label": "compleqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "compleqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "ccompl",
+    "cB",
+    "ccompl",
+    "wceq",
+    "compleqi.1",
+    "cA",
+    "cB",
+    "compleq",
+    "ax-mp"
+  ]
+}

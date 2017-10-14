@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "Rel",
+    "A",
+    "<->",
+    "Rel",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "releqd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "releqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "wrel",
+    "cB",
+    "wrel",
+    "wb",
+    "releqd.1",
+    "cA",
+    "cB",
+    "releq",
+    "syl"
+  ]
+}

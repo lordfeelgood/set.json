@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "dedth",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "cA",
+    "cB",
+    "dedth.1",
+    "dedth.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "dedth.2",
+    "wph",
+    "cA",
+    "wph",
+    "cA",
+    "cB",
+    "cif",
+    "",
+    "wceq",
+    "wps",
+    "wch",
+    "wb",
+    "wph",
+    "cA",
+    "wph",
+    "cA",
+    "cB",
+    "iftrue",
+    "eqcomd",
+    "dedth.1",
+    "syl",
+    "mpbiri"
+  ]
+}

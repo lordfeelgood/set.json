@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "<->",
+    "(",
+    "ps",
+    "/\\",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "bianfi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "bianfi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wph",
+    "wa",
+    "bianfi.1",
+    "wph",
+    "wps",
+    "bianfi.1",
+    "intnan",
+    "2false"
+  ]
+}

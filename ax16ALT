@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "ax16ALT",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "vx",
+    "wsb",
+    "vx",
+    "vy",
+    "wph",
+    "vx",
+    "sbequ12",
+    "wph",
+    "vx",
+    "wph",
+    "ax-17",
+    "hbsb3",
+    "ax16i"
+  ]
+}

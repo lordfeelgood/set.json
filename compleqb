@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "<->",
+    "~",
+    "A",
+    "=",
+    "~",
+    "B",
+    ")"
+  ],
+  "label": "compleqb",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "ccompl",
+    "",
+    "cB",
+    "ccompl",
+    "",
+    "wceq",
+    "",
+    "cA",
+    "cB",
+    "compleq",
+    "ccompl",
+    "ccompl",
+    "cA",
+    "cB",
+    "compleq",
+    "cA",
+    "dblcompl",
+    "cB",
+    "dblcompl",
+    "3eqtr3g",
+    "impbii"
+  ]
+}

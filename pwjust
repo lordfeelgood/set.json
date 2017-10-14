@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "x",
+    "C_",
+    "A",
+    "}",
+    "=",
+    "{",
+    "y",
+    "|",
+    "y",
+    "C_",
+    "A",
+    "}"
+  ],
+  "label": "pwjust",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wss",
+    "",
+    "vx",
+    "cab",
+    "cv",
+    "",
+    "cA",
+    "wss",
+    "",
+    "cab",
+    "vy",
+    "cv",
+    "",
+    "cA",
+    "wss",
+    "",
+    "vy",
+    "cab",
+    "vx",
+    "cA",
+    "sseq1",
+    "cbvabv",
+    "vy",
+    "cA",
+    "sseq1",
+    "cbvabv",
+    "eqtri"
+  ]
+}

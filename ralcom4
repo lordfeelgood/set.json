@@ -1,0 +1,81 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "A.",
+    "y",
+    "ph",
+    "<->",
+    "A.",
+    "y",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    ")"
+  ],
+  "label": "ralcom4",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "cvv",
+    "wral",
+    "",
+    "vx",
+    "cA",
+    "wral",
+    "wph",
+    "vx",
+    "cA",
+    "wral",
+    "",
+    "vy",
+    "cvv",
+    "wral",
+    "wph",
+    "vy",
+    "wal",
+    "",
+    "vx",
+    "cA",
+    "wral",
+    "vy",
+    "wal",
+    "wph",
+    "vx",
+    "vy",
+    "cA",
+    "cvv",
+    "ralcom",
+    "vx",
+    "cA",
+    "wph",
+    "vy",
+    "ralv",
+    "ralbii",
+    "vy",
+    "ralv",
+    "3bitr3i"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "`'",
+    "A",
+    "\"",
+    "B",
+    ")",
+    "C_",
+    "dom",
+    "A"
+  ],
+  "label": "cnvimass",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccnv",
+    "",
+    "cB",
+    "cima",
+    "crn",
+    "cA",
+    "cdm",
+    "cB",
+    "imassrn",
+    "cA",
+    "df-dm",
+    "sseqtr4i"
+  ]
+}

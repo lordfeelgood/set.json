@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "-.",
+    "(",
+    "ch",
+    "/\\",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "intnand",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "intnand.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wps",
+    "wa",
+    "intnand.1",
+    "wch",
+    "wps",
+    "simpr",
+    "nsyl"
+  ]
+}

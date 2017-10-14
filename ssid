@@ -1,0 +1,22 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "A"
+  ],
+  "label": "ssid",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cv",
+    "cA",
+    "wcel",
+    "id",
+    "ssriv"
+  ]
+}

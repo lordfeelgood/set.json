@@ -1,0 +1,78 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "z",
+    "e.",
+    "A",
+    "->",
+    "A.",
+    "x",
+    "z",
+    "e.",
+    "A",
+    ")",
+    ")"
+  ],
+  "label": "hblemd",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "cA",
+    "hblemd.1",
+    "hblemd.2",
+    "hblemd.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "vy",
+    "vz",
+    "cv",
+    "",
+    "wsbc",
+    "",
+    "vx",
+    "wal",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "wal",
+    "wph",
+    "vy",
+    "vz",
+    "vx",
+    "hblemd.2",
+    "hblemd.1",
+    "hblemd.3",
+    "hbsbd",
+    "vz",
+    "vy",
+    "cA",
+    "clelsb3",
+    "",
+    "vx",
+    "albii",
+    "3imtr3g"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "z"
+    ],
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "e.",
+    "y",
+    "->",
+    "A.",
+    "z",
+    "x",
+    "e.",
+    "y",
+    ")"
+  ],
+  "label": "ax17el",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vz",
+    "vx",
+    "weq",
+    "vz",
+    "wal",
+    "vz",
+    "vy",
+    "weq",
+    "vz",
+    "wal",
+    "vx",
+    "vy",
+    "wel",
+    "",
+    "vz",
+    "wal",
+    "wi",
+    "vx",
+    "vy",
+    "vz",
+    "ax-15",
+    "vz",
+    "vx",
+    "ax-16",
+    "vz",
+    "vy",
+    "ax-16",
+    "pm2.61ii"
+  ]
+}

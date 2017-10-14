@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Nc",
+    "~P",
+    "~P1",
+    "A",
+    "=",
+    "Nc",
+    "~P1",
+    "~P",
+    "A"
+  ],
+  "label": "ncpwpw1",
+  "mandatoryHypotheses": [
+    "cA",
+    "ncpwpw1.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cpw1",
+    "",
+    "cpw",
+    "",
+    "cnc",
+    "cA",
+    "cpw",
+    "cpw1",
+    "",
+    "cnc",
+    "wceq",
+    "cen",
+    "wbr",
+    "",
+    "cen",
+    "wbr",
+    "cA",
+    "ncpwpw1.1",
+    "enpw1pw",
+    "ensym",
+    "mpbi",
+    "cA",
+    "ncpwpw1.1",
+    "pw1ex",
+    "pwex",
+    "eqnc",
+    "mpbir"
+  ]
+}

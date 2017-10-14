@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "<.",
+    "{",
+    "A",
+    "}",
+    ",",
+    "B",
+    ">.",
+    "e.",
+    "SSet",
+    "<->",
+    "A",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "opelssetsn",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "brssetsn.1",
+    "brssetsn.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "csn",
+    "",
+    "cB",
+    "cop",
+    "csset",
+    "wcel",
+    "cB",
+    "csset",
+    "wbr",
+    "cA",
+    "cB",
+    "wcel",
+    "cB",
+    "csset",
+    "df-br",
+    "cA",
+    "cB",
+    "brssetsn.1",
+    "brssetsn.2",
+    "brssetsn",
+    "bitr3i"
+  ]
+}

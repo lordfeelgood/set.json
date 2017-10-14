@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "SI",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "siex",
+  "mandatoryHypotheses": [
+    "cA",
+    "siex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "csi",
+    "cvv",
+    "wcel",
+    "siex.1",
+    "cA",
+    "cvv",
+    "siexg",
+    "ax-mp"
+  ]
+}

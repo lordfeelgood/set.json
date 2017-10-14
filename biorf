@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "(",
+    "ph",
+    "\\/",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "biorf",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "wps",
+    "wph",
+    "wps",
+    "wo",
+    "wps",
+    "wph",
+    "olc",
+    "wph",
+    "wps",
+    "orel1",
+    "impbid2"
+  ]
+}

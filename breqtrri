@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "R",
+    "C"
+  ],
+  "label": "breqtrri",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cR",
+    "breqtrr.1",
+    "breqtrr.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cC",
+    "cR",
+    "breqtrr.1",
+    "cC",
+    "cB",
+    "breqtrr.2",
+    "eqcomi",
+    "breqtri"
+  ]
+}

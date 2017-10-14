@@ -1,0 +1,83 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "F",
+      "x"
+    ],
+    [
+      "G",
+      "x"
+    ],
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "F",
+    "=",
+    "G",
+    ")"
+  ],
+  "label": "eqfnfvd",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cF",
+    "cG",
+    "eqfnfvd.1",
+    "eqfnfvd.2",
+    "eqfnfvd.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "cF",
+    "cG",
+    "wceq",
+    "",
+    "vx",
+    "cv",
+    "",
+    "cF",
+    "cfv",
+    "cG",
+    "cfv",
+    "wceq",
+    "",
+    "vx",
+    "cA",
+    "wral",
+    "",
+    "wph",
+    "vx",
+    "cA",
+    "eqfnfvd.3",
+    "ralrimiva",
+    "wph",
+    "cF",
+    "cA",
+    "wfn",
+    "cG",
+    "cA",
+    "wfn",
+    "wb",
+    "eqfnfvd.1",
+    "eqfnfvd.2",
+    "vx",
+    "cA",
+    "cF",
+    "cG",
+    "eqfnfv2",
+    "syl2anc",
+    "mpbird"
+  ]
+}

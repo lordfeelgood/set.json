@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "_I",
+    "e.",
+    "_V"
+  ],
+  "label": "idex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cid",
+    "csset",
+    "csset",
+    "ccnv",
+    "",
+    "cin",
+    "cvv",
+    "dfid4",
+    "csset",
+    "ssetex",
+    "csset",
+    "ssetex",
+    "cnvex",
+    "inex",
+    "eqeltri"
+  ]
+}

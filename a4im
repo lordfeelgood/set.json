@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "a4im",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "a4im.1",
+    "a4im.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wal",
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "wps",
+    "vx",
+    "wal",
+    "",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "wps",
+    "wph",
+    "vx",
+    "wph",
+    "wps",
+    "a4im.2",
+    "a4im.1",
+    "syl6com",
+    "alimi",
+    "wps",
+    "vx",
+    "vy",
+    "ax9o",
+    "syl"
+  ]
+}

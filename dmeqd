@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "dom",
+    "A",
+    "=",
+    "dom",
+    "B",
+    ")"
+  ],
+  "label": "dmeqd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "dmeqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cdm",
+    "cB",
+    "cdm",
+    "wceq",
+    "dmeqd.1",
+    "cA",
+    "cB",
+    "dmeq",
+    "syl"
+  ]
+}

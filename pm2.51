@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "ph",
+    "->",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "pm2.51",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "",
+    "wn",
+    "wps",
+    "wn",
+    "wph",
+    "wps",
+    "wps",
+    "wph",
+    "ax-1",
+    "con3i",
+    "a1d"
+  ]
+}

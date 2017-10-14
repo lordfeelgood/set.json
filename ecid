@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "[",
+    "A",
+    "]",
+    "`'",
+    "_E",
+    "=",
+    "A"
+  ],
+  "label": "ecid",
+  "mandatoryHypotheses": [
+    "cA",
+    "ecid.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cep",
+    "ccnv",
+    "",
+    "cec",
+    "cA",
+    "csn",
+    "cima",
+    "cA",
+    "cA",
+    "df-ec",
+    "cA",
+    "ecid.1",
+    "epini",
+    "eqtri"
+  ]
+}

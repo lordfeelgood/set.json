@@ -1,0 +1,71 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "B",
+    "C_",
+    "{",
+    "x",
+    "e.",
+    "A",
+    "|",
+    "ps",
+    "}",
+    ")"
+  ],
+  "label": "ssrabdv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "ssrabdv.1",
+    "ssrabdv.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cB",
+    "cA",
+    "wss",
+    "wps",
+    "vx",
+    "cB",
+    "wral",
+    "cB",
+    "wps",
+    "vx",
+    "cA",
+    "crab",
+    "wss",
+    "ssrabdv.1",
+    "wph",
+    "wps",
+    "vx",
+    "cB",
+    "ssrabdv.2",
+    "ralrimiva",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "ssrab",
+    "sylanbrc"
+  ]
+}

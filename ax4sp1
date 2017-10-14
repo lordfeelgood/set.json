@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "y",
+    "-.",
+    "x",
+    "=",
+    "x",
+    "->",
+    "-.",
+    "x",
+    "=",
+    "x",
+    ")"
+  ],
+  "label": "ax4sp1",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vx",
+    "weq",
+    "wn",
+    "",
+    "vy",
+    "wal",
+    "vx",
+    "vy",
+    "equidqe",
+    "pm2.21i"
+  ]
+}

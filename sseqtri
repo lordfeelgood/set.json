@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "C"
+  ],
+  "label": "sseqtri",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "sseqtr.1",
+    "sseqtr.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "cC",
+    "wss",
+    "sseqtr.1",
+    "cB",
+    "cC",
+    "cA",
+    "sseqtr.2",
+    "sseq2i",
+    "mpbi"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "y",
+    "=",
+    "z",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "=",
+    "z",
+    ")",
+    ")"
+  ],
+  "label": "dveeq1",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vz",
+    "weq",
+    "",
+    "vy",
+    "vz",
+    "weq",
+    "vx",
+    "vy",
+    "vx",
+    "ax-17",
+    "vy",
+    "vz",
+    "equequ1",
+    "dvelim"
+  ]
+}

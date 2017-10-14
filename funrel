@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "A",
+    "->",
+    "Rel",
+    "A",
+    ")"
+  ],
+  "label": "funrel",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "wfun",
+    "cA",
+    "wrel",
+    "cA",
+    "cA",
+    "ccnv",
+    "ccom",
+    "cid",
+    "wss",
+    "cA",
+    "df-fun",
+    "simplbi"
+  ]
+}

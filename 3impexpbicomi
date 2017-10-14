@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "(",
+    "ta",
+    "<->",
+    "th",
+    ")",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "3impexpbicomi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "3impexpbicomi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wta",
+    "wth",
+    "wb",
+    "wph",
+    "wps",
+    "wch",
+    "w3a",
+    "wth",
+    "wta",
+    "3impexpbicomi.1",
+    "bicomd",
+    "3exp"
+  ]
+}

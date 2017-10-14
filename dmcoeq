@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "dom",
+    "A",
+    "=",
+    "ran",
+    "B",
+    "->",
+    "dom",
+    "(",
+    "A",
+    "o.",
+    "B",
+    ")",
+    "=",
+    "dom",
+    "B",
+    ")"
+  ],
+  "label": "dmcoeq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cdm",
+    "",
+    "cB",
+    "crn",
+    "",
+    "wceq",
+    "wss",
+    "cA",
+    "cB",
+    "ccom",
+    "cdm",
+    "cB",
+    "cdm",
+    "wceq",
+    "eqimss2",
+    "cA",
+    "cB",
+    "dmcosseq",
+    "syl"
+  ]
+}

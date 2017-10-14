@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "x",
+    "e.",
+    "B",
+    "<->",
+    "A",
+    "e.",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "sbcel1gv",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cV"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "cB",
+    "wcel",
+    "",
+    "vx",
+    "cv",
+    "",
+    "wsbc",
+    "cB",
+    "wcel",
+    "vx",
+    "cA",
+    "wsbc",
+    "cA",
+    "cB",
+    "wcel",
+    "cA",
+    "cV",
+    "vx",
+    "cA",
+    "dfsbcq",
+    "cA",
+    "cB",
+    "eleq1",
+    "vx",
+    "cB",
+    "clelsb3",
+    "vtoclbg"
+  ]
+}

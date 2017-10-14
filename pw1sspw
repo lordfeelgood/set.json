@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "~P1",
+    "A",
+    "C_",
+    "~P",
+    "A"
+  ],
+  "label": "pw1sspw",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cpw1",
+    "cA",
+    "cpw",
+    "",
+    "c1c",
+    "cin",
+    "cA",
+    "df-pw1",
+    "c1c",
+    "inss1",
+    "eqsstri"
+  ]
+}

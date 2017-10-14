@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "A.",
+    "y",
+    "y",
+    "=",
+    "x",
+    ")"
+  ],
+  "label": "ax10",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "vx",
+    "wal",
+    "",
+    "vy",
+    "wal",
+    "",
+    "vy",
+    "vx",
+    "weq",
+    "",
+    "vy",
+    "wal",
+    "vx",
+    "vy",
+    "ax-10o",
+    "pm2.43i",
+    "vy",
+    "vx",
+    "vy",
+    "equcomi",
+    "alimi",
+    "syl"
+  ]
+}

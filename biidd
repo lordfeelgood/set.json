@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "biidd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wps",
+    "wps",
+    "wb",
+    "wph",
+    "wps",
+    "biid",
+    "a1i"
+  ]
+}

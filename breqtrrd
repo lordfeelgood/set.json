@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A",
+    "R",
+    "C",
+    ")"
+  ],
+  "label": "breqtrrd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "cR",
+    "breqtrrd.1",
+    "breqtrrd.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "cR",
+    "breqtrrd.1",
+    "wph",
+    "cC",
+    "cB",
+    "breqtrrd.2",
+    "eqcomd",
+    "breqtrd"
+  ]
+}

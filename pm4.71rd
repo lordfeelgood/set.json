@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "(",
+    "ch",
+    "/\\",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "pm4.71rd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "pm4.71rd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wi",
+    "wps",
+    "wch",
+    "wps",
+    "wa",
+    "wb",
+    "pm4.71rd.1",
+    "wps",
+    "wch",
+    "pm4.71r",
+    "sylib"
+  ]
+}

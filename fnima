@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "->",
+    "(",
+    "F",
+    "\"",
+    "A",
+    ")",
+    "=",
+    "ran",
+    "F",
+    ")"
+  ],
+  "label": "fnima",
+  "mandatoryHypotheses": [
+    "cA",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "",
+    "cF",
+    "cA",
+    "cima",
+    "cF",
+    "cA",
+    "cres",
+    "",
+    "crn",
+    "cF",
+    "crn",
+    "cF",
+    "cA",
+    "dfima3",
+    "cF",
+    "cA",
+    "cF",
+    "fnresdm",
+    "rneqd",
+    "syl5eq"
+  ]
+}

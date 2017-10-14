@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "`'",
+    "`'",
+    "A",
+    "C_",
+    "A"
+  ],
+  "label": "cnvcnvss",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccnv",
+    "ccnv",
+    "cA",
+    "cvv",
+    "cvv",
+    "cxp",
+    "",
+    "cin",
+    "cA",
+    "cA",
+    "cnvcnv",
+    "cA",
+    "inss1",
+    "eqsstri"
+  ]
+}

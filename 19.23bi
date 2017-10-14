@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "19.23bi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "19.23bi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "vx",
+    "wex",
+    "wps",
+    "wph",
+    "vx",
+    "19.8a",
+    "19.23bi.1",
+    "syl"
+  ]
+}

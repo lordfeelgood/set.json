@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph"
+  ],
+  "label": "rgenz",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "rgenz.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "wral",
+    "cA",
+    "c0",
+    "wph",
+    "vx",
+    "cA",
+    "rzal",
+    "cA",
+    "c0",
+    "wne",
+    "wph",
+    "vx",
+    "cA",
+    "rgenz.1",
+    "ralrimiva",
+    "pm2.61ine"
+  ]
+}

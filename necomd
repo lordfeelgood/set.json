@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "B",
+    "=/=",
+    "A",
+    ")"
+  ],
+  "label": "necomd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "necomd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wne",
+    "cB",
+    "cA",
+    "wne",
+    "necomd.1",
+    "cA",
+    "cB",
+    "necom",
+    "sylib"
+  ]
+}

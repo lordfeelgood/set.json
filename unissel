@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "U.",
+    "A",
+    "C_",
+    "B",
+    "/\\",
+    "B",
+    "e.",
+    "A",
+    ")",
+    "->",
+    "U.",
+    "A",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "unissel",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cuni",
+    "",
+    "cB",
+    "wss",
+    "",
+    "cB",
+    "cA",
+    "wcel",
+    "",
+    "wa",
+    "cB",
+    "simpl",
+    "cB",
+    "wss",
+    "cB",
+    "cA",
+    "elssuni",
+    "adantl",
+    "eqssd"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "~",
+    "B",
+    "<->",
+    "-.",
+    "A",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "elcompl",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "elbool.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "ccompl",
+    "wcel",
+    "cA",
+    "cB",
+    "wcel",
+    "wn",
+    "wb",
+    "elbool.1",
+    "cA",
+    "cB",
+    "cvv",
+    "elcomplg",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ps",
+    "/\\",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    ")",
+    "<->",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "anabs7",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "",
+    "wps",
+    "wa",
+    "wps",
+    "wph",
+    "wps",
+    "simpr",
+    "pm4.71ri",
+    "bicomi"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "E.",
+    "y",
+    "E.",
+    "z",
+    "ph",
+    "<->",
+    "E.",
+    "x",
+    "E.",
+    "y",
+    "E.",
+    "z",
+    "ps",
+    ")"
+  ],
+  "label": "3exbii",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "3exbii.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vz",
+    "wex",
+    "wps",
+    "vz",
+    "wex",
+    "vx",
+    "vy",
+    "wph",
+    "wps",
+    "vz",
+    "3exbii.1",
+    "exbii",
+    "2exbii"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "z",
+    "e.",
+    "y",
+    "->",
+    "A.",
+    "x",
+    "z",
+    "e.",
+    "y",
+    ")",
+    ")"
+  ],
+  "label": "dveel2ALT",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vz",
+    "wel",
+    "vz",
+    "vy",
+    "wel",
+    "vx",
+    "vy",
+    "vz",
+    "vx",
+    "ax17el",
+    "vz",
+    "vy",
+    "ax17el",
+    "vy",
+    "vz",
+    "elequ2",
+    "dvelimfALT"
+  ]
+}

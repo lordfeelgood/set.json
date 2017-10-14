@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "=",
+    "(/)"
+  ],
+  "label": "abf",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "abf.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cab",
+    "c0",
+    "wceq",
+    "wph",
+    "vx",
+    "cv",
+    "",
+    "c0",
+    "wcel",
+    "",
+    "wb",
+    "vx",
+    "wph",
+    "vx",
+    "c0",
+    "abeq1",
+    "wph",
+    "abf.1",
+    "noel",
+    "2false",
+    "mpgbir"
+  ]
+}

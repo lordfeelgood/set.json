@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "luklem5",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wn",
+    "wph",
+    "wi",
+    "wph",
+    "wi",
+    "wps",
+    "wph",
+    "wi",
+    "",
+    "wi",
+    "wph",
+    "wph",
+    "wph",
+    "wps",
+    "luklem3",
+    "wph",
+    "luklem4",
+    "luklem1"
+  ]
+}

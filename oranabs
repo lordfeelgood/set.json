@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "\\/",
+    "-.",
+    "ps",
+    ")",
+    "/\\",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "oranabs",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wps",
+    "wn",
+    "",
+    "wo",
+    "",
+    "wph",
+    "wps",
+    "wph",
+    "wph",
+    "wo",
+    "wps",
+    "wph",
+    "biortn",
+    "wph",
+    "orcom",
+    "syl6rbb",
+    "pm5.32ri"
+  ]
+}

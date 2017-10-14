@@ -1,0 +1,62 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ps",
+    "->",
+    "A",
+    "e.",
+    "B",
+    ")",
+    "->",
+    "(",
+    "A",
+    "e.",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "<->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "elab3g",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "elab3g.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "cv",
+    "cA",
+    "wcel",
+    "vx",
+    "ax-17",
+    "wps",
+    "vx",
+    "ax-17",
+    "elab3g.1",
+    "elab3gf"
+  ]
+}

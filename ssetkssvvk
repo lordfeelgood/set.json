@@ -1,0 +1,23 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "SSet_k",
+    "C_",
+    "(",
+    "_V",
+    "X._k",
+    "_V",
+    ")"
+  ],
+  "label": "ssetkssvvk",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "wss",
+    "cssetk",
+    "df-ssetk",
+    "opkabssvvki"
+  ]
+}

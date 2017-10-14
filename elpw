@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "~P",
+    "B",
+    "<->",
+    "A",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "elpw",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "elpw.1"
+  ],
+  "proofSteps": [
+    "cv",
+    "",
+    "cB",
+    "cpw",
+    "",
+    "wcel",
+    "cB",
+    "wss",
+    "",
+    "cA",
+    "wcel",
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "elpw.1",
+    "cA",
+    "eleq1",
+    "cA",
+    "cB",
+    "sseq1",
+    "cB",
+    "df-pw",
+    "abeq2i",
+    "vtoclb"
+  ]
+}

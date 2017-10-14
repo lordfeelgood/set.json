@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "(/)",
+    "=",
+    "(/)"
+  ],
+  "label": "dm0",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "cdm",
+    "",
+    "c0",
+    "wceq",
+    "cv",
+    "",
+    "wcel",
+    "",
+    "wn",
+    "eq0",
+    "cv",
+    "cop",
+    "",
+    "c0",
+    "wcel",
+    "",
+    "wex",
+    "noel",
+    "nex",
+    "c0",
+    "eldm2",
+    "mtbir",
+    "mpgbir"
+  ]
+}

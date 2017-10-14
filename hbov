@@ -1,0 +1,84 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "F",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "y",
+    "e.",
+    "(",
+    "A",
+    "F",
+    "B",
+    ")",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "e.",
+    "(",
+    "A",
+    "F",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "hbov",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cF",
+    "hbov.1",
+    "hbov.2",
+    "hbov.3"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cF",
+    "co",
+    "cA",
+    "cB",
+    "cop",
+    "",
+    "cF",
+    "cfv",
+    "cA",
+    "cB",
+    "cF",
+    "df-ov",
+    "vx",
+    "vy",
+    "cF",
+    "hbov.2",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "hbov.1",
+    "hbov.3",
+    "hbop",
+    "hbfv",
+    "hbxfreq"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "anabsi7",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "anabsi7.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wch",
+    "wps",
+    "wph",
+    "wch",
+    "anabsi7.1",
+    "anabsi6",
+    "ancoms"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "-.",
+    "ph",
+    "->",
+    "-.",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "ax3",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "",
+    "wps",
+    "wn",
+    "wi",
+    "wph",
+    "wi",
+    "wph",
+    "wi",
+    "wps",
+    "wph",
+    "wi",
+    "",
+    "wi",
+    "wps",
+    "wph",
+    "wph",
+    "luklem2",
+    "wph",
+    "luklem4",
+    "luklem1"
+  ]
+}

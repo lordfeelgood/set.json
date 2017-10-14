@@ -1,0 +1,63 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=/=",
+    "(/)",
+    "->",
+    "(",
+    "E*",
+    "x",
+    "x",
+    "e.",
+    "A",
+    "<->",
+    "E!",
+    "x",
+    "x",
+    "e.",
+    "A",
+    ")",
+    ")"
+  ],
+  "label": "n0moeu",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "wne",
+    "",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "wmo",
+    "",
+    "vx",
+    "wex",
+    "",
+    "wa",
+    "vx",
+    "weu",
+    "vx",
+    "cA",
+    "n0",
+    "biimpi",
+    "biantrurd",
+    "vx",
+    "eu5",
+    "syl6bbr"
+  ]
+}

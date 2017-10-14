@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ch",
+    "/\\",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "3comr",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "3exp.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wch",
+    "wph",
+    "wth",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "3exp.1",
+    "3coml",
+    "3coml"
+  ]
+}

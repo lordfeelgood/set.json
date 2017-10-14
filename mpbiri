@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "mpbiri",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "mpbiri.min",
+    "mpbiri.maj"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wch",
+    "wph",
+    "mpbiri.min",
+    "a1i",
+    "mpbiri.maj",
+    "mpbird"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "<->",
+    "-.",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "-.",
+    "ph",
+    ")"
+  ],
+  "label": "dfral2",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "vx",
+    "cA",
+    "wrex",
+    "wph",
+    "vx",
+    "cA",
+    "wral",
+    "wph",
+    "vx",
+    "cA",
+    "rexnal",
+    "con2bii"
+  ]
+}

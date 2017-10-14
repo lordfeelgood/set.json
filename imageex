@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Image",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "imageex",
+  "mandatoryHypotheses": [
+    "cA",
+    "imageex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cimage",
+    "cvv",
+    "wcel",
+    "imageex.1",
+    "cA",
+    "cvv",
+    "imageexg",
+    "ax-mp"
+  ]
+}

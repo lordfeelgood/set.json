@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "C",
+    "e.",
+    "A",
+    ")",
+    "->",
+    "C",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "sselda",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "sseld.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cC",
+    "cA",
+    "wcel",
+    "cC",
+    "cB",
+    "wcel",
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "sseld.1",
+    "sseld",
+    "imp"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "e.",
+    "_V",
+    "ph",
+    "<->",
+    "E!",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "reuv",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cvv",
+    "wreu",
+    "vx",
+    "cv",
+    "cvv",
+    "wcel",
+    "",
+    "wph",
+    "wa",
+    "",
+    "vx",
+    "weu",
+    "wph",
+    "vx",
+    "weu",
+    "wph",
+    "vx",
+    "cvv",
+    "df-reu",
+    "wph",
+    "vx",
+    "wph",
+    "vx",
+    "vex",
+    "biantrur",
+    "eubii",
+    "bitr4i"
+  ]
+}

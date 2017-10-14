@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "e.",
+    "C"
+  ],
+  "label": "eleqtri",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "eleqtr.1",
+    "eleqtr.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "cA",
+    "cC",
+    "wcel",
+    "eleqtr.1",
+    "cB",
+    "cC",
+    "cA",
+    "eleqtr.2",
+    "eleq2i",
+    "mpbi"
+  ]
+}

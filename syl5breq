@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A",
+    "R",
+    "C",
+    ")"
+  ],
+  "label": "syl5breq",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "cR",
+    "syl5breq.1",
+    "syl5breq.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "cR",
+    "cA",
+    "cB",
+    "cR",
+    "wbr",
+    "wph",
+    "syl5breq.1",
+    "a1i",
+    "syl5breq.2",
+    "breqtrd"
+  ]
+}

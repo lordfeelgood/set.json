@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ta",
+    "-/\\",
+    "(",
+    "ta",
+    "-/\\",
+    "ta",
+    ")",
+    ")"
+  ],
+  "label": "nic-id",
+  "mandatoryHypotheses": [
+    "wta"
+  ],
+  "proofSteps": [
+    "wnand",
+    "",
+    "wnand",
+    "",
+    "wnand",
+    "wnand",
+    "",
+    "wnand",
+    "",
+    "wnand",
+    "",
+    "wnand",
+    "",
+    "wnand",
+    "wnand",
+    "",
+    "wnand",
+    "wta",
+    "wta",
+    "wta",
+    "wnand",
+    "wnand",
+    "",
+    "nic-ax",
+    "nic-idlem2",
+    "wnand",
+    "wta",
+    "nic-idlem1",
+    "nic-idlem2",
+    "nic-mp"
+  ]
+}

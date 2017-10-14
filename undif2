@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "u.",
+    "(",
+    "B",
+    "\\",
+    "A",
+    ")",
+    ")",
+    "=",
+    "(",
+    "A",
+    "u.",
+    "B",
+    ")"
+  ],
+  "label": "undif2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cA",
+    "cdif",
+    "",
+    "cun",
+    "cA",
+    "cun",
+    "cB",
+    "cA",
+    "cun",
+    "cA",
+    "cB",
+    "cun",
+    "cA",
+    "uncom",
+    "cB",
+    "cA",
+    "undif1",
+    "cB",
+    "cA",
+    "uncom",
+    "3eqtri"
+  ]
+}

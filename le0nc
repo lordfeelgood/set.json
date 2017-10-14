@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "NC",
+    "->",
+    "0c",
+    "<_c",
+    "A",
+    ")"
+  ],
+  "label": "le0nc",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cncs",
+    "wcel",
+    "",
+    "cA",
+    "c0",
+    "wne",
+    "c0c",
+    "cA",
+    "clec",
+    "wbr",
+    "cA",
+    "c0",
+    "cA",
+    "c0",
+    "wceq",
+    "c0",
+    "cncs",
+    "wcel",
+    "nulnnc",
+    "cA",
+    "c0",
+    "cncs",
+    "eleq1",
+    "mtbiri",
+    "necon2ai",
+    "cA",
+    "cncs",
+    "lec0cg",
+    "mpdan"
+  ]
+}

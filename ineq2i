@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "i^i",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "i^i",
+    "B",
+    ")"
+  ],
+  "label": "ineq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "ineqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cin",
+    "cC",
+    "cB",
+    "cin",
+    "wceq",
+    "ineqi.1",
+    "cA",
+    "cB",
+    "cC",
+    "ineq2",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "T."
+  ],
+  "label": "tru",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "wtru",
+    "wb",
+    "biid",
+    "df-tru",
+    "mpbir"
+  ]
+}

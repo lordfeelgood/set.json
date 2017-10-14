@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "\"",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "\"",
+    "B",
+    ")"
+  ],
+  "label": "imaeq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "imaeq1i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cima",
+    "cC",
+    "cB",
+    "cima",
+    "wceq",
+    "imaeq1i.1",
+    "cA",
+    "cB",
+    "cC",
+    "imaeq2",
+    "ax-mp"
+  ]
+}

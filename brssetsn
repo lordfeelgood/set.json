@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "{",
+    "A",
+    "}",
+    "SSet",
+    "B",
+    "<->",
+    "A",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "brssetsn",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "brssetsn.1",
+    "brssetsn.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "csn",
+    "",
+    "cB",
+    "csset",
+    "wbr",
+    "cB",
+    "wss",
+    "cA",
+    "cB",
+    "wcel",
+    "cB",
+    "cA",
+    "snex",
+    "brssetsn.2",
+    "brsset",
+    "cA",
+    "cB",
+    "brssetsn.1",
+    "snss",
+    "bitr4i"
+  ]
+}

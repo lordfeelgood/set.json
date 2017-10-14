@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Image_k",
+    "A",
+    "C_",
+    "(",
+    "_V",
+    "X._k",
+    "_V",
+    ")"
+  ],
+  "label": "imagekrelk",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cimagek",
+    "cvv",
+    "cvv",
+    "cxpk",
+    "",
+    "cssetk",
+    "cins2k",
+    "cssetk",
+    "cA",
+    "csik",
+    "ccnvk",
+    "ccomk",
+    "cins3k",
+    "csymdif",
+    "c1c",
+    "cpw1",
+    "cpw1",
+    "cimak",
+    "",
+    "cdif",
+    "cA",
+    "df-imagek",
+    "difss",
+    "eqsstri"
+  ]
+}

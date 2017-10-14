@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "u.",
+    "A",
+    ")",
+    "=",
+    "A"
+  ],
+  "label": "unidm",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cun",
+    "cA",
+    "ccompl",
+    "",
+    "cnin",
+    "ccompl",
+    "cA",
+    "cA",
+    "cA",
+    "df-un",
+    "df-compl",
+    "cA",
+    "dblcompl",
+    "3eqtr2i"
+  ]
+}

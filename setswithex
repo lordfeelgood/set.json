@@ -1,0 +1,59 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "A",
+    "e.",
+    "x",
+    "}",
+    "e.",
+    "_V"
+  ],
+  "label": "setswithex",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "vx",
+    "cv",
+    "wcel",
+    "vx",
+    "cab",
+    "cA",
+    "cvv",
+    "wcel",
+    "",
+    "cssetk",
+    "cA",
+    "csn",
+    "",
+    "csn",
+    "",
+    "cimak",
+    "",
+    "c0",
+    "cif",
+    "cvv",
+    "vx",
+    "cA",
+    "setswith",
+    "c0",
+    "cssetk",
+    "ssetkex",
+    "snex",
+    "imakex",
+    "0ex",
+    "ifex",
+    "eqeltri"
+  ]
+}

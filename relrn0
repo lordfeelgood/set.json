@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "A",
+    "->",
+    "(",
+    "A",
+    "=",
+    "(/)",
+    "<->",
+    "ran",
+    "A",
+    "=",
+    "(/)",
+    ")",
+    ")"
+  ],
+  "label": "relrn0",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "wrel",
+    "cA",
+    "c0",
+    "wceq",
+    "cA",
+    "cdm",
+    "c0",
+    "wceq",
+    "cA",
+    "crn",
+    "c0",
+    "wceq",
+    "cA",
+    "reldm0",
+    "cA",
+    "dm0rn0",
+    "syl6bb"
+  ]
+}

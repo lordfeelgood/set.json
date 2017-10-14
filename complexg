@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "~",
+    "A",
+    "e.",
+    "_V",
+    ")"
+  ],
+  "label": "complexg",
+  "mandatoryHypotheses": [
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "",
+    "cA",
+    "ccompl",
+    "cA",
+    "cA",
+    "cnin",
+    "",
+    "cvv",
+    "cA",
+    "df-compl",
+    "cvv",
+    "wcel",
+    "cA",
+    "cA",
+    "cV",
+    "cV",
+    "ninexg",
+    "anidms",
+    "syl5eqel"
+  ]
+}

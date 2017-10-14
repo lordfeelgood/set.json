@@ -1,0 +1,57 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "_V",
+    "<->",
+    "A.",
+    "x",
+    "x",
+    "e.",
+    "A",
+    ")"
+  ],
+  "label": "eqv",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wceq",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "",
+    "cvv",
+    "wcel",
+    "",
+    "wb",
+    "",
+    "vx",
+    "wal",
+    "vx",
+    "wal",
+    "vx",
+    "cA",
+    "cvv",
+    "dfcleq",
+    "vx",
+    "vx",
+    "vex",
+    "tbt",
+    "albii",
+    "bitr4i"
+  ]
+}

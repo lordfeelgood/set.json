@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "/\\",
+    "ph",
+    ")",
+    "}",
+    "C_",
+    "A"
+  ],
+  "label": "ssab2",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "wph",
+    "wa",
+    "vx",
+    "cA",
+    "wph",
+    "simpl",
+    "abssi"
+  ]
+}

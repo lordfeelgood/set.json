@@ -1,0 +1,85 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "ps",
+      "x"
+    ],
+    [
+      "ps",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "R",
+    "B",
+    "<->",
+    "ps",
+    ")"
+  ],
+  "label": "braba",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cR",
+    "opelopaba.1",
+    "opelopaba.2",
+    "opelopaba.3",
+    "braba.4"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cR",
+    "wbr",
+    "wps",
+    "wb",
+    "opelopaba.1",
+    "opelopaba.2",
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cR",
+    "cvv",
+    "cvv",
+    "opelopaba.3",
+    "braba.4",
+    "brabga",
+    "mp2an"
+  ]
+}

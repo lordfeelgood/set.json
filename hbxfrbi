@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "hbxfrbi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "hbxfrbi.1",
+    "hbxfrbi.2"
+  ],
+  "proofSteps": [
+    "wps",
+    "wps",
+    "vx",
+    "wal",
+    "wph",
+    "wph",
+    "vx",
+    "wal",
+    "hbxfrbi.2",
+    "hbxfrbi.1",
+    "wph",
+    "wps",
+    "vx",
+    "hbxfrbi.1",
+    "albii",
+    "3imtr4i"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "A",
+    "=",
+    "B"
+  ],
+  "label": "eqriv",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "eqriv.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "cB",
+    "wcel",
+    "wb",
+    "vx",
+    "vx",
+    "cA",
+    "cB",
+    "dfcleq",
+    "eqriv.1",
+    "mpgbir"
+  ]
+}

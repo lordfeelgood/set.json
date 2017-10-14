@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "A.",
+    "z",
+    "-.",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    ")"
+  ],
+  "label": "hbnae",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "vx",
+    "wal",
+    "vz",
+    "vx",
+    "vy",
+    "vz",
+    "hbae",
+    "hbn"
+  ]
+}

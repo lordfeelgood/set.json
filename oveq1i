@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "F",
+    "C",
+    ")",
+    "=",
+    "(",
+    "B",
+    "F",
+    "C",
+    ")"
+  ],
+  "label": "oveq1i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "oveq1i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cC",
+    "cF",
+    "co",
+    "cB",
+    "cC",
+    "cF",
+    "co",
+    "wceq",
+    "oveq1i.1",
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "oveq1",
+    "ax-mp"
+  ]
+}

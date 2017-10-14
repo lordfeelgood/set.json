@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "->",
+    "ran",
+    "A",
+    "=",
+    "ran",
+    "B",
+    ")"
+  ],
+  "label": "rneq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cvv",
+    "cima",
+    "cB",
+    "cvv",
+    "cima",
+    "cA",
+    "crn",
+    "cB",
+    "crn",
+    "cA",
+    "cB",
+    "cvv",
+    "imaeq1",
+    "cA",
+    "df-rn",
+    "cB",
+    "df-rn",
+    "3eqtr4g"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "i^i",
+    "B",
+    ")",
+    "=",
+    "(",
+    "B",
+    "i^i",
+    "A",
+    ")"
+  ],
+  "label": "incom",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cnin",
+    "",
+    "ccompl",
+    "cB",
+    "cA",
+    "cnin",
+    "",
+    "ccompl",
+    "cA",
+    "cB",
+    "cin",
+    "cB",
+    "cA",
+    "cin",
+    "cA",
+    "cB",
+    "nincom",
+    "compleqi",
+    "cA",
+    "cB",
+    "df-in",
+    "cB",
+    "cA",
+    "df-in",
+    "3eqtr4i"
+  ]
+}

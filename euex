@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "ph",
+    "->",
+    "E.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "euex",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "weu",
+    "wph",
+    "wph",
+    "vx",
+    "wsb",
+    "vx",
+    "weq",
+    "wi",
+    "wal",
+    "",
+    "wa",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "wph",
+    "ax-17",
+    "eu1",
+    "wph",
+    "vx",
+    "exsimpl",
+    "sylbi"
+  ]
+}

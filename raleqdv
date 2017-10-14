@@ -1,0 +1,63 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ps",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "B",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "raleqdv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "raleq1d.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "wps",
+    "vx",
+    "cA",
+    "wral",
+    "wps",
+    "vx",
+    "cB",
+    "wral",
+    "wb",
+    "raleq1d.1",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "raleq",
+    "syl"
+  ]
+}

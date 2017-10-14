@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "(",
+    "ps",
+    "/\\",
+    "ch",
+    ")",
+    "->",
+    "(",
+    "ps",
+    "/\\",
+    "th",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "imdistanda",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "imdistanda.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wi",
+    "imdistanda.1",
+    "ex",
+    "imdistand"
+  ]
+}

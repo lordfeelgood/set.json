@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "S",
+    "C_",
+    "C"
+  ],
+  "label": "clos1base",
+  "mandatoryHypotheses": [
+    "cC",
+    "cR",
+    "cS",
+    "clos1base.1"
+  ],
+  "proofSteps": [
+    "cS",
+    "cS",
+    "cv",
+    "",
+    "wss",
+    "cR",
+    "cima",
+    "wss",
+    "",
+    "wa",
+    "cab",
+    "cint",
+    "",
+    "cC",
+    "cS",
+    "ssmin",
+    "cC",
+    "cS",
+    "cR",
+    "cclos1",
+    "clos1base.1",
+    "cR",
+    "cS",
+    "df-clos1",
+    "eqtr2i",
+    "sseqtri"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "_V",
+    "e.",
+    "_V"
+  ],
+  "label": "vvex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "",
+    "ccompl",
+    "",
+    "cun",
+    "cvv",
+    "cvv",
+    "uncompl",
+    "vex",
+    "",
+    "complex",
+    "unex",
+    "eqeltrri"
+  ]
+}

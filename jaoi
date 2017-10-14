@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "\\/",
+    "ch",
+    ")",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "jaoi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "jaoi.1",
+    "jaoi.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wch",
+    "wo",
+    "",
+    "wph",
+    "wps",
+    "wph",
+    "wn",
+    "wch",
+    "wps",
+    "wph",
+    "wch",
+    "pm2.53",
+    "jaoi.2",
+    "syl6",
+    "jaoi.1",
+    "pm2.61d2"
+  ]
+}

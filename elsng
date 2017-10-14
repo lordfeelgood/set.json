@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "A",
+    "e.",
+    "{",
+    "B",
+    "}",
+    "<->",
+    "A",
+    "=",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "elsng",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cV"
+  ],
+  "proofSteps": [
+    "cv",
+    "",
+    "cB",
+    "wceq",
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cB",
+    "csn",
+    "cV",
+    "cA",
+    "cB",
+    "eqeq1",
+    "cB",
+    "df-sn",
+    "elab2g"
+  ]
+}

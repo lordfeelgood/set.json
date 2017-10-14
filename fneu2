@@ -1,0 +1,79 @@
+{
+  "disjunctVariables": [
+    [
+      "B",
+      "y"
+    ],
+    [
+      "F",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "/\\",
+    "B",
+    "e.",
+    "A",
+    ")",
+    "->",
+    "E!",
+    "y",
+    "<.",
+    "B",
+    ",",
+    "y",
+    ">.",
+    "e.",
+    "F",
+    ")"
+  ],
+  "label": "fneu2",
+  "mandatoryHypotheses": [
+    "vy",
+    "cA",
+    "cB",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "cB",
+    "cA",
+    "wcel",
+    "wa",
+    "cB",
+    "vy",
+    "cv",
+    "",
+    "cF",
+    "wbr",
+    "",
+    "vy",
+    "weu",
+    "cB",
+    "cop",
+    "cF",
+    "wcel",
+    "",
+    "vy",
+    "weu",
+    "vy",
+    "cA",
+    "cB",
+    "cF",
+    "fneu",
+    "vy",
+    "cB",
+    "cF",
+    "df-br",
+    "eubii",
+    "sylib"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "ta",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "syl8ib",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "syl8ib.1",
+    "syl8ib.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "syl8ib.1",
+    "wth",
+    "wta",
+    "syl8ib.2",
+    "biimpi",
+    "syl8"
+  ]
+}

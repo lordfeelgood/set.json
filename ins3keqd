@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "Ins3_k",
+    "A",
+    "=",
+    "Ins3_k",
+    "B",
+    ")"
+  ],
+  "label": "ins3keqd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "inskeqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cins3k",
+    "cB",
+    "cins3k",
+    "wceq",
+    "inskeqd.1",
+    "cA",
+    "cB",
+    "ins3keq",
+    "syl"
+  ]
+}

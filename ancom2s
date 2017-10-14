@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "(",
+    "ch",
+    "/\\",
+    "ps",
+    ")",
+    ")",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "ancom2s",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "an12s.1"
+  ],
+  "proofSteps": [
+    "wch",
+    "wps",
+    "wa",
+    "wph",
+    "wps",
+    "wch",
+    "wa",
+    "wth",
+    "wch",
+    "wps",
+    "pm3.22",
+    "an12s.1",
+    "sylan2"
+  ]
+}

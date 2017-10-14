@@ -1,0 +1,73 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "B",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "<->",
+    "E.",
+    "x",
+    "(",
+    "x",
+    "=",
+    "B",
+    "/\\",
+    "A",
+    "e.",
+    "x",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "clel3g",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cV"
+  ],
+  "proofSteps": [
+    "cB",
+    "cV",
+    "wcel",
+    "vx",
+    "cv",
+    "",
+    "cB",
+    "wceq",
+    "cA",
+    "wcel",
+    "",
+    "wa",
+    "vx",
+    "wex",
+    "cA",
+    "cB",
+    "wcel",
+    "",
+    "vx",
+    "cB",
+    "cV",
+    "cB",
+    "cA",
+    "eleq2",
+    "ceqsexgv",
+    "bicomd"
+  ]
+}

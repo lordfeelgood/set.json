@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "->",
+    "A",
+    "C_",
+    "U.",
+    "B",
+    ")"
+  ],
+  "label": "elssuni",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "wss",
+    "cA",
+    "cB",
+    "wcel",
+    "cA",
+    "cB",
+    "cuni",
+    "wss",
+    "cA",
+    "ssid",
+    "cA",
+    "cA",
+    "cB",
+    "ssuni",
+    "mpan"
+  ]
+}

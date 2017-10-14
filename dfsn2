@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    "}",
+    "=",
+    "{",
+    "A",
+    ",",
+    "A",
+    "}"
+  ],
+  "label": "dfsn2",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cpr",
+    "cA",
+    "csn",
+    "",
+    "cun",
+    "cA",
+    "cA",
+    "df-pr",
+    "unidm",
+    "eqtr2i"
+  ]
+}

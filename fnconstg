@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "B",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "A",
+    "X.",
+    "{",
+    "B",
+    "}",
+    ")",
+    "Fn",
+    "A",
+    ")"
+  ],
+  "label": "fnconstg",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cV"
+  ],
+  "proofSteps": [
+    "cB",
+    "cV",
+    "wcel",
+    "cA",
+    "cB",
+    "csn",
+    "",
+    "cA",
+    "cxp",
+    "",
+    "wf",
+    "cA",
+    "wfn",
+    "cA",
+    "cB",
+    "cV",
+    "fconstg",
+    "cA",
+    "ffn",
+    "syl"
+  ]
+}

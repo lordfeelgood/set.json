@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "R",
+    "<->",
+    "(",
+    "R",
+    "|`",
+    "_V",
+    ")",
+    "=",
+    "R",
+    ")"
+  ],
+  "label": "dfrel3",
+  "mandatoryHypotheses": [
+    "cR"
+  ],
+  "proofSteps": [
+    "cR",
+    "wrel",
+    "cR",
+    "ccnv",
+    "ccnv",
+    "",
+    "cR",
+    "wceq",
+    "cR",
+    "cvv",
+    "cres",
+    "",
+    "cR",
+    "wceq",
+    "cR",
+    "dfrel2",
+    "cR",
+    "cR",
+    "cnvcnv2",
+    "eqeq1i",
+    "bitri"
+  ]
+}

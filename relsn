@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "{",
+    "A",
+    "}",
+    "<->",
+    "A",
+    "e.",
+    "(",
+    "_V",
+    "X.",
+    "_V",
+    ")",
+    ")"
+  ],
+  "label": "relsn",
+  "mandatoryHypotheses": [
+    "cA",
+    "relsn.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "csn",
+    "",
+    "wrel",
+    "cvv",
+    "cvv",
+    "cxp",
+    "",
+    "wss",
+    "cA",
+    "wcel",
+    "df-rel",
+    "cA",
+    "relsn.1",
+    "snss",
+    "bitr4i"
+  ]
+}

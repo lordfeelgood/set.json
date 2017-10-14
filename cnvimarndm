@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "`'",
+    "A",
+    "\"",
+    "ran",
+    "A",
+    ")",
+    "=",
+    "dom",
+    "A"
+  ],
+  "label": "cnvimarndm",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccnv",
+    "",
+    "cdm",
+    "",
+    "cima",
+    "crn",
+    "cA",
+    "crn",
+    "",
+    "cima",
+    "cA",
+    "cdm",
+    "imadmrn",
+    "cA",
+    "dfrn4",
+    "imaeq2i",
+    "cA",
+    "df-dm",
+    "3eqtr4i"
+  ]
+}

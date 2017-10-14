@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "->",
+    "{",
+    "A",
+    "}",
+    "e.",
+    "~P",
+    "B",
+    ")"
+  ],
+  "label": "snelpwi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "cA",
+    "csn",
+    "",
+    "cB",
+    "wss",
+    "cB",
+    "cpw",
+    "wcel",
+    "cA",
+    "cB",
+    "snssi",
+    "cB",
+    "cA",
+    "snex",
+    "elpw",
+    "sylibr"
+  ]
+}

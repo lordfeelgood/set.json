@@ -1,0 +1,66 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "C",
+      "x"
+    ],
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "F",
+    ":",
+    "A",
+    "-->",
+    "C",
+    ")"
+  ],
+  "label": "fmptd",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "fmptd.1",
+    "fmptd.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cB",
+    "cC",
+    "wcel",
+    "",
+    "vx",
+    "cA",
+    "wral",
+    "cA",
+    "cC",
+    "cF",
+    "wf",
+    "wph",
+    "vx",
+    "cA",
+    "fmptd.1",
+    "ralrimiva",
+    "vx",
+    "cA",
+    "cC",
+    "cB",
+    "cF",
+    "fmptd.2",
+    "fmpt",
+    "sylib"
+  ]
+}

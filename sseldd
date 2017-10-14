@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "C",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "sseldd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "sseld.1",
+    "sseldd.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cC",
+    "cA",
+    "wcel",
+    "cC",
+    "cB",
+    "wcel",
+    "sseldd.2",
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "sseld.1",
+    "sseld",
+    "mpd"
+  ]
+}

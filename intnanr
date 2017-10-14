@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")"
+  ],
+  "label": "intnanr",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "intnan.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "wph",
+    "intnan.1",
+    "wph",
+    "wps",
+    "simpl",
+    "mto"
+  ]
+}

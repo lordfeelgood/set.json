@@ -1,0 +1,76 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "f"
+    ],
+    [
+      "B",
+      "f"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A",
+    "e.",
+    "_V",
+    "->",
+    "{",
+    "f",
+    "|",
+    "f",
+    ":",
+    "A",
+    "-->",
+    "B",
+    "}",
+    "=",
+    "(/)",
+    ")"
+  ],
+  "label": "mapprc",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "vf"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "",
+    "cA",
+    "cB",
+    "vf",
+    "cv",
+    "",
+    "wf",
+    "",
+    "vf",
+    "cab",
+    "",
+    "c0",
+    "c0",
+    "wne",
+    "vf",
+    "wex",
+    "vf",
+    "abn0",
+    "vf",
+    "cA",
+    "cdm",
+    "cvv",
+    "cA",
+    "cB",
+    "fdm",
+    "vf",
+    "vex",
+    "dmex",
+    "syl6eqelr",
+    "exlimiv",
+    "sylbi",
+    "necon1bi"
+  ]
+}

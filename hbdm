@@ -1,0 +1,56 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "y",
+    "e.",
+    "dom",
+    "A",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "e.",
+    "dom",
+    "A",
+    ")"
+  ],
+  "label": "hbdm",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "hbdm.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "cA",
+    "cdm",
+    "cA",
+    "ccnv",
+    "",
+    "crn",
+    "cA",
+    "df-dm",
+    "vx",
+    "vy",
+    "vx",
+    "vy",
+    "cA",
+    "hbdm.1",
+    "hbcnv",
+    "hbrn",
+    "hbxfreq"
+  ]
+}

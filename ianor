@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "-.",
+    "ph",
+    "\\/",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "ianor",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "wn",
+    "wph",
+    "wps",
+    "wn",
+    "",
+    "wi",
+    "wph",
+    "wn",
+    "wo",
+    "wph",
+    "wps",
+    "imnan",
+    "wph",
+    "wps",
+    "pm4.62",
+    "bitr3i"
+  ]
+}

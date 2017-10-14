@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "C_",
+    "{",
+    "x",
+    "|",
+    "ps",
+    "}"
+  ],
+  "label": "ss2abi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "ss2abi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cab",
+    "wps",
+    "vx",
+    "cab",
+    "wss",
+    "wph",
+    "wps",
+    "wi",
+    "vx",
+    "wph",
+    "wps",
+    "vx",
+    "ss2ab",
+    "ss2abi.1",
+    "mpgbir"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "|^|",
+    "{",
+    "A",
+    "}",
+    "=",
+    "A"
+  ],
+  "label": "intsn",
+  "mandatoryHypotheses": [
+    "cA",
+    "intsn.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "csn",
+    "",
+    "cint",
+    "cA",
+    "cA",
+    "cpr",
+    "",
+    "cint",
+    "cA",
+    "cA",
+    "cin",
+    "cA",
+    "cA",
+    "dfsn2",
+    "inteqi",
+    "cA",
+    "cA",
+    "intsn.1",
+    "intsn.1",
+    "intpr",
+    "cA",
+    "inidm",
+    "3eqtri"
+  ]
+}

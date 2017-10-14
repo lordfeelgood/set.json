@@ -1,0 +1,25 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "NC",
+    "e.",
+    "_V"
+  ],
+  "label": "ncsex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cncs",
+    "cvv",
+    "cen",
+    "cqs",
+    "cvv",
+    "df-ncs",
+    "cvv",
+    "cen",
+    "enex",
+    "vvex",
+    "qsex",
+    "eqeltri"
+  ]
+}

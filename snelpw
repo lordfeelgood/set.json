@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "{",
+    "A",
+    "}",
+    "e.",
+    "~P",
+    "B",
+    "<->",
+    "A",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "snelpw",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "snelpw.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "csn",
+    "cB",
+    "cpw",
+    "wcel",
+    "cA",
+    "cB",
+    "wcel",
+    "wb",
+    "snelpw.1",
+    "cA",
+    "cB",
+    "cvv",
+    "snelpwg",
+    "ax-mp"
+  ]
+}

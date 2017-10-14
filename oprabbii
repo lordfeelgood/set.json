@@ -1,0 +1,81 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "z"
+    ],
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "<.",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    ",",
+    "z",
+    ">.",
+    "|",
+    "ph",
+    "}",
+    "=",
+    "{",
+    "<.",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    ",",
+    "z",
+    ">.",
+    "|",
+    "ps",
+    "}"
+  ],
+  "label": "oprabbii",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "oprabbii.1"
+  ],
+  "proofSteps": [
+    "cv",
+    "",
+    "wceq",
+    "",
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "copab2",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "copab2",
+    "wceq",
+    "eqid",
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "wph",
+    "wps",
+    "wb",
+    "oprabbii.1",
+    "a1i",
+    "oprabbidv",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "y",
+    "e.",
+    "~P",
+    "A",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "e.",
+    "~P",
+    "A",
+    ")"
+  ],
+  "label": "hbpw",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "hbpw.1"
+  ],
+  "proofSteps": [
+    "vy",
+    "cv",
+    "",
+    "cA",
+    "cpw",
+    "wcel",
+    "cA",
+    "wss",
+    "vx",
+    "cA",
+    "vy",
+    "vex",
+    "elpw",
+    "vx",
+    "cA",
+    "cv",
+    "",
+    "wcel",
+    "vx",
+    "ax-17",
+    "vx",
+    "vy",
+    "vy",
+    "cA",
+    "wcel",
+    "vx",
+    "ax-17",
+    "hbpw.1",
+    "hbel",
+    "hbss",
+    "hbxfrbi"
+  ]
+}

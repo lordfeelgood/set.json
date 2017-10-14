@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Phi",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "phiex",
+  "mandatoryHypotheses": [
+    "cA",
+    "phiex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cphi",
+    "cvv",
+    "wcel",
+    "phiex.1",
+    "cA",
+    "cvv",
+    "phiexg",
+    "ax-mp"
+  ]
+}

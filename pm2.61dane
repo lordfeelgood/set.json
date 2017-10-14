@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "pm2.61dane",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "cA",
+    "cB",
+    "pm2.61dane.1",
+    "pm2.61dane.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "cA",
+    "cB",
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "wps",
+    "pm2.61dane.1",
+    "ex",
+    "wph",
+    "cA",
+    "cB",
+    "wne",
+    "wps",
+    "pm2.61dane.2",
+    "ex",
+    "pm2.61dne"
+  ]
+}

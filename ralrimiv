@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ps",
+    ")"
+  ],
+  "label": "ralrimiv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "ralrimiv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "wph",
+    "vx",
+    "ax-17",
+    "ralrimiv.1",
+    "ralrimi"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "<->",
+    "-.",
+    "(",
+    "ph",
+    "/\\",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "iman",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "wps",
+    "wn",
+    "",
+    "wn",
+    "",
+    "wi",
+    "wph",
+    "wa",
+    "wn",
+    "wps",
+    "wph",
+    "wps",
+    "notnot",
+    "imbi2i",
+    "wph",
+    "imnan",
+    "bitri"
+  ]
+}

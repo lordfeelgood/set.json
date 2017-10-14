@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "vtoclef",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "vtoclef.1",
+    "vtoclef.2",
+    "vtoclef.3"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "cA",
+    "vtoclef.2",
+    "isseti",
+    "wph",
+    "vx",
+    "vtoclef.1",
+    "vtoclef.3",
+    "exlimi",
+    "ax-mp"
+  ]
+}

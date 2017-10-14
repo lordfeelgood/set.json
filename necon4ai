@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "necon4ai",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "necon4ai.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wne",
+    "",
+    "wn",
+    "cA",
+    "cB",
+    "wceq",
+    "wph",
+    "necon4ai.1",
+    "con2i",
+    "cA",
+    "cB",
+    "nne",
+    "sylib"
+  ]
+}

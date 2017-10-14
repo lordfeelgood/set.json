@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "->",
+    "{",
+    "A",
+    "}",
+    "=",
+    "{",
+    "B",
+    "}",
+    ")"
+  ],
+  "label": "sneq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "cv",
+    "",
+    "cA",
+    "wceq",
+    "",
+    "cab",
+    "cB",
+    "wceq",
+    "",
+    "cab",
+    "cA",
+    "csn",
+    "cB",
+    "csn",
+    "cA",
+    "cB",
+    "eqeq2",
+    "abbidv",
+    "cA",
+    "df-sn",
+    "cB",
+    "df-sn",
+    "3eqtr4g"
+  ]
+}

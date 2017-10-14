@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "cla4v",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cla4v.1",
+    "cla4v.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "wph",
+    "vx",
+    "wal",
+    "wps",
+    "wi",
+    "cla4v.1",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cvv",
+    "cla4v.2",
+    "cla4gv",
+    "ax-mp"
+  ]
+}

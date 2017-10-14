@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A.",
+    "y",
+    "y",
+    "=",
+    "x",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "nalequcoms",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "nalequcoms.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "vx",
+    "weq",
+    "vy",
+    "wal",
+    "",
+    "vx",
+    "vy",
+    "weq",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "vy",
+    "alequcom",
+    "nalequcoms.1",
+    "nsyl4",
+    "con1i"
+  ]
+}

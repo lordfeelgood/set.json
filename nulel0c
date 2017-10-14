@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(/)",
+    "e.",
+    "0c"
+  ],
+  "label": "nulel0c",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "c0c",
+    "wcel",
+    "c0",
+    "c0",
+    "wceq",
+    "c0",
+    "eqid",
+    "c0",
+    "el0c",
+    "mpbir"
+  ]
+}

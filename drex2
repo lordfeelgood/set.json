@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "E.",
+    "z",
+    "ph",
+    "<->",
+    "E.",
+    "z",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "drex2",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "drex2.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "vx",
+    "wal",
+    "wph",
+    "wps",
+    "vz",
+    "vx",
+    "vy",
+    "vz",
+    "hbae",
+    "drex2.1",
+    "exbid"
+  ]
+}

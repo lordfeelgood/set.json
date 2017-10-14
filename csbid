@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "[_",
+    "x",
+    "/",
+    "x",
+    "]_",
+    "A",
+    "=",
+    "A"
+  ],
+  "label": "csbid",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "csb",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "wsbc",
+    "",
+    "cab",
+    "cab",
+    "cA",
+    "vx",
+    "cA",
+    "df-csb",
+    "vx",
+    "sbid",
+    "abbii",
+    "cA",
+    "abid2",
+    "3eqtri"
+  ]
+}

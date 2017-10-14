@@ -1,0 +1,59 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "ps"
+  ],
+  "label": "vtoclf",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "vtoclf.1",
+    "vtoclf.2",
+    "vtoclf.3",
+    "vtoclf.4"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "wph",
+    "wps",
+    "vx",
+    "vtoclf.1",
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "",
+    "vx",
+    "wex",
+    "wph",
+    "wps",
+    "wi",
+    "",
+    "vx",
+    "wex",
+    "vx",
+    "cA",
+    "vtoclf.2",
+    "isseti",
+    "vx",
+    "wph",
+    "wps",
+    "vtoclf.3",
+    "biimpd",
+    "eximi",
+    "ax-mp",
+    "19.36i",
+    "vtoclf.4",
+    "mpg"
+  ]
+}

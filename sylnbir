@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ph",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "sylnbir",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "sylnbir.1",
+    "sylnbir.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wps",
+    "wph",
+    "sylnbir.1",
+    "bicomi",
+    "sylnbir.2",
+    "sylnbi"
+  ]
+}

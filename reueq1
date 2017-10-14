@@ -1,0 +1,58 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "->",
+    "(",
+    "E!",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "<->",
+    "E!",
+    "x",
+    "e.",
+    "B",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "reueq1",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "cB",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "vx",
+    "ax-17",
+    "cB",
+    "wcel",
+    "vx",
+    "ax-17",
+    "reueq1f"
+  ]
+}

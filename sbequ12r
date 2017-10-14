@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "[",
+    "x",
+    "/",
+    "y",
+    "]",
+    "ph",
+    "<->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "sbequ12r",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "vx",
+    "wsb",
+    "",
+    "wph",
+    "wb",
+    "vy",
+    "vx",
+    "vy",
+    "vx",
+    "weq",
+    "wph",
+    "wph",
+    "vy",
+    "vx",
+    "sbequ12",
+    "bicomd",
+    "equcoms"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "U.",
+    "{",
+    "A",
+    "}",
+    "=",
+    "A"
+  ],
+  "label": "unisn",
+  "mandatoryHypotheses": [
+    "cA",
+    "unisn.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "csn",
+    "",
+    "cuni",
+    "cA",
+    "cA",
+    "cpr",
+    "",
+    "cuni",
+    "cA",
+    "cA",
+    "cun",
+    "cA",
+    "cA",
+    "dfsn2",
+    "unieqi",
+    "cA",
+    "cA",
+    "unisn.1",
+    "unisn.1",
+    "unipr",
+    "cA",
+    "unidm",
+    "3eqtri"
+  ]
+}

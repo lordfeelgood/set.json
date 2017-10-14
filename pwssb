@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "~P",
+    "B",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "x",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "pwssb",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cpw",
+    "wss",
+    "cA",
+    "cuni",
+    "cB",
+    "wss",
+    "vx",
+    "cv",
+    "cB",
+    "wss",
+    "vx",
+    "cA",
+    "wral",
+    "cA",
+    "cB",
+    "sspwuni",
+    "vx",
+    "cA",
+    "cB",
+    "unissb",
+    "bitri"
+  ]
+}

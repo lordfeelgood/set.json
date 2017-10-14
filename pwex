@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "~P",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "pwex",
+  "mandatoryHypotheses": [
+    "cA",
+    "pwex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cpw",
+    "cvv",
+    "wcel",
+    "pwex.1",
+    "cA",
+    "cvv",
+    "pwexg",
+    "ax-mp"
+  ]
+}

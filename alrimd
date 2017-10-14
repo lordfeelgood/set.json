@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "A.",
+    "x",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "alrimd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "alrimd.1",
+    "alrimd.2",
+    "alrimd.3"
+  ],
+  "proofSteps": [
+    "wps",
+    "wps",
+    "vx",
+    "wal",
+    "wph",
+    "wch",
+    "vx",
+    "wal",
+    "alrimd.2",
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "alrimd.1",
+    "alrimd.3",
+    "alimd",
+    "syl5"
+  ]
+}

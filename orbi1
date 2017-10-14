@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "(",
+    "ph",
+    "\\/",
+    "ch",
+    ")",
+    "<->",
+    "(",
+    "ps",
+    "\\/",
+    "ch",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "orbi1",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "",
+    "wph",
+    "wps",
+    "wch",
+    "id",
+    "orbi1d"
+  ]
+}

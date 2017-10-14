@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "/\\",
+    "C",
+    "e.",
+    "A",
+    ")",
+    "->",
+    "C",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "ssel2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "cC",
+    "cA",
+    "wcel",
+    "cC",
+    "cB",
+    "wcel",
+    "cA",
+    "cB",
+    "cC",
+    "ssel",
+    "imp"
+  ]
+}

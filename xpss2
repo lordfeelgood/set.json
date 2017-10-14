@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "->",
+    "(",
+    "C",
+    "X.",
+    "A",
+    ")",
+    "C_",
+    "(",
+    "C",
+    "X.",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "xpss2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cC",
+    "cC",
+    "wss",
+    "cA",
+    "cB",
+    "wss",
+    "cC",
+    "cA",
+    "cxp",
+    "cC",
+    "cB",
+    "cxp",
+    "wss",
+    "cC",
+    "ssid",
+    "cC",
+    "cC",
+    "cA",
+    "cB",
+    "xpss12",
+    "mpan"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "ph",
+    "->",
+    "(",
+    "E*",
+    "x",
+    "ph",
+    "<->",
+    "E!",
+    "x",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "exmoeu2",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "weu",
+    "wph",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "wmo",
+    "wph",
+    "vx",
+    "eu5",
+    "baibr"
+  ]
+}

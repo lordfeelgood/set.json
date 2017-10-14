@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "bija",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "bija.1",
+    "bija.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "",
+    "wps",
+    "wch",
+    "wps",
+    "wph",
+    "wch",
+    "wph",
+    "wps",
+    "bi2",
+    "bija.1",
+    "syli",
+    "wps",
+    "wn",
+    "wph",
+    "wn",
+    "wch",
+    "wph",
+    "wps",
+    "wph",
+    "wps",
+    "bi1",
+    "con3d",
+    "bija.2",
+    "syli",
+    "pm2.61d"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "B"
+  ],
+  "label": "ssriv",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "ssriv.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "cB",
+    "wcel",
+    "wi",
+    "vx",
+    "vx",
+    "cA",
+    "cB",
+    "dfss2",
+    "ssriv.1",
+    "mpgbir"
+  ]
+}

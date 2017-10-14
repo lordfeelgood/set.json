@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "th",
+    "->",
+    "(",
+    "ph",
+    "->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "mpbidi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mpbidi.min",
+    "mpbidi.maj"
+  ],
+  "proofSteps": [
+    "wth",
+    "wph",
+    "wps",
+    "wch",
+    "mpbidi.min",
+    "wph",
+    "wps",
+    "wch",
+    "mpbidi.maj",
+    "biimpd",
+    "sylcom"
+  ]
+}

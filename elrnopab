@@ -1,0 +1,87 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "C",
+      "x"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "e.",
+    "ran",
+    "F",
+    "<->",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "C",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "elrnopab",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "cF",
+    "elrnopab.1",
+    "elrnopab.2"
+  ],
+  "proofSteps": [
+    "cB",
+    "cvv",
+    "wcel",
+    "",
+    "cC",
+    "cF",
+    "crn",
+    "wcel",
+    "cC",
+    "cB",
+    "wceq",
+    "vx",
+    "cA",
+    "wrex",
+    "wb",
+    "vx",
+    "cA",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cC",
+    "cvv",
+    "cF",
+    "elrnopab.2",
+    "elrnopabg",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "elrnopab.1",
+    "a1i",
+    "mprg"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "R",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "B",
+    "e.",
+    "(",
+    "A",
+    "/.",
+    "R",
+    ")",
+    "->",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "B",
+    "=",
+    "[",
+    "x",
+    "]",
+    "R",
+    ")"
+  ],
+  "label": "elqsi",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cR"
+  ],
+  "proofSteps": [
+    "cB",
+    "cA",
+    "cR",
+    "cqs",
+    "",
+    "wcel",
+    "cB",
+    "vx",
+    "cv",
+    "cR",
+    "cec",
+    "wceq",
+    "vx",
+    "cA",
+    "wrex",
+    "vx",
+    "cA",
+    "cB",
+    "cR",
+    "elqsg",
+    "ibi"
+  ]
+}

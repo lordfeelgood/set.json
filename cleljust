@@ -1,0 +1,64 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "z"
+    ],
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "e.",
+    "y",
+    "<->",
+    "E.",
+    "z",
+    "(",
+    "z",
+    "=",
+    "x",
+    "/\\",
+    "z",
+    "e.",
+    "y",
+    ")",
+    ")"
+  ],
+  "label": "cleljust",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vz",
+    "vx",
+    "weq",
+    "vz",
+    "vy",
+    "wel",
+    "",
+    "wa",
+    "vz",
+    "wex",
+    "vx",
+    "vy",
+    "wel",
+    "",
+    "vz",
+    "vx",
+    "vz",
+    "ax-17",
+    "vz",
+    "vx",
+    "vy",
+    "elequ1",
+    "equsex",
+    "bicomi"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "(",
+    "th",
+    "->",
+    "ta",
+    ")",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "exp41",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "exp41.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "wi",
+    "wph",
+    "wps",
+    "wa",
+    "wch",
+    "wa",
+    "wth",
+    "wta",
+    "exp41.1",
+    "ex",
+    "exp31"
+  ]
+}

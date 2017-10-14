@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "Swap"
+  ],
+  "label": "relswap",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "",
+    "cv",
+    "",
+    "cop",
+    "wceq",
+    "cv",
+    "cop",
+    "wceq",
+    "wa",
+    "wex",
+    "wex",
+    "cswap",
+    "df-swap",
+    "relopabi"
+  ]
+}

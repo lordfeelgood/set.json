@@ -1,0 +1,79 @@
+{
+  "disjunctVariables": [
+    [
+      "B",
+      "c"
+    ],
+    [
+      "a",
+      "c"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "a",
+    "=",
+    "{",
+    "B",
+    "}",
+    "<->",
+    "A.",
+    "c",
+    "(",
+    "c",
+    "e.",
+    "a",
+    "<->",
+    "c",
+    "=",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "axprimlem1",
+  "mandatoryHypotheses": [
+    "cB",
+    "va",
+    "vc"
+  ],
+  "proofSteps": [
+    "va",
+    "cv",
+    "",
+    "cB",
+    "csn",
+    "",
+    "wceq",
+    "vc",
+    "va",
+    "wel",
+    "",
+    "vc",
+    "cv",
+    "",
+    "wcel",
+    "",
+    "wb",
+    "",
+    "vc",
+    "wal",
+    "cB",
+    "wceq",
+    "",
+    "wb",
+    "",
+    "vc",
+    "wal",
+    "vc",
+    "dfcleq",
+    "vc",
+    "cB",
+    "vc",
+    "vex",
+    "elsn",
+    "bibi2i",
+    "albii",
+    "bitri"
+  ]
+}

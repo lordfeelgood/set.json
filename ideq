@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "_I",
+    "B",
+    "<->",
+    "A",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "ideq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "ideq.1"
+  ],
+  "proofSteps": [
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cid",
+    "wbr",
+    "cA",
+    "cB",
+    "wceq",
+    "wb",
+    "ideq.1",
+    "cA",
+    "cB",
+    "cvv",
+    "ideqg",
+    "ax-mp"
+  ]
+}

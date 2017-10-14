@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(/)",
+    ":",
+    "(/)",
+    "-1-1->",
+    "A"
+  ],
+  "label": "f10",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "c0",
+    "cA",
+    "c0",
+    "wf1",
+    "c0",
+    "cA",
+    "c0",
+    "wf",
+    "c0",
+    "ccnv",
+    "",
+    "wfun",
+    "",
+    "cA",
+    "f0",
+    "c0",
+    "wfun",
+    "fun0",
+    "c0",
+    "cnv0",
+    "funeqi",
+    "mpbir",
+    "c0",
+    "cA",
+    "c0",
+    "df-f1",
+    "mpbir2an"
+  ]
+}

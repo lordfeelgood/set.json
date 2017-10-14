@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "|^|",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "intex",
+  "mandatoryHypotheses": [
+    "cA",
+    "intex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cint",
+    "cvv",
+    "wcel",
+    "intex.1",
+    "cA",
+    "cvv",
+    "intexg",
+    "ax-mp"
+  ]
+}

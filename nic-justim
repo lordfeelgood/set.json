@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "ph",
+    "-/\\",
+    "(",
+    "ps",
+    "-/\\",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "nic-justim",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wps",
+    "wnand",
+    "wnand",
+    "wph",
+    "wps",
+    "wps",
+    "wa",
+    "wi",
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "wps",
+    "wps",
+    "nic-justlem",
+    "wph",
+    "wps",
+    "anidmdbi",
+    "bitr2i"
+  ]
+}

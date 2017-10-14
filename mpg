@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ps"
+  ],
+  "label": "mpg",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "mpg.1",
+    "mpg.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wal",
+    "wps",
+    "wph",
+    "vx",
+    "mpg.2",
+    "ax-gen",
+    "mpg.1",
+    "ax-mp"
+  ]
+}

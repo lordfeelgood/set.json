@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "/\\",
+    "B",
+    "C_",
+    "A",
+    ")",
+    "->",
+    "(",
+    "F",
+    "|`",
+    "B",
+    ")",
+    "Fn",
+    "B",
+    ")"
+  ],
+  "label": "fnssres",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "cF",
+    "cB",
+    "cres",
+    "cB",
+    "wfn",
+    "cB",
+    "cA",
+    "wss",
+    "cA",
+    "cB",
+    "cF",
+    "fnssresb",
+    "biimpar"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "E!",
+    "x",
+    "x",
+    "=",
+    "y"
+  ],
+  "label": "euequ1",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "vx",
+    "weu",
+    "vx",
+    "wex",
+    "vy",
+    "weq",
+    "",
+    "wa",
+    "vx",
+    "weq",
+    "wi",
+    "",
+    "wal",
+    "vx",
+    "wal",
+    "vx",
+    "vy",
+    "a9e",
+    "vx",
+    "vx",
+    "vy",
+    "equtr2",
+    "gen2",
+    "vx",
+    "vx",
+    "vy",
+    "equequ1",
+    "eu4",
+    "mpbir2an"
+  ]
+}

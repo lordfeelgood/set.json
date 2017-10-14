@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ps"
+  ],
+  "label": "nic-mp",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "nic-jmin",
+    "nic-jmaj"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "nic-jmin",
+    "wph",
+    "wch",
+    "wps",
+    "wph",
+    "wch",
+    "wps",
+    "wnand",
+    "wnand",
+    "wph",
+    "wch",
+    "wps",
+    "wa",
+    "wi",
+    "nic-jmaj",
+    "wph",
+    "wps",
+    "wch",
+    "nic-justlem",
+    "mpbi",
+    "simprd",
+    "ax-mp"
+  ]
+}

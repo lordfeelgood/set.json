@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "T_c",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "tcex",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ctc",
+    "cv",
+    "",
+    "cncs",
+    "wcel",
+    "cv",
+    "cpw1",
+    "cnc",
+    "wceq",
+    "cA",
+    "wrex",
+    "wa",
+    "",
+    "cio",
+    "cvv",
+    "cA",
+    "df-tc",
+    "iotaex",
+    "eqeltri"
+  ]
+}

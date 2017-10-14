@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "/\\",
+    "A",
+    "=/=",
+    "(/)",
+    ")",
+    "->",
+    "|^|",
+    "A",
+    "C_",
+    "U.",
+    "B",
+    ")"
+  ],
+  "label": "intssuni2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "wne",
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "cint",
+    "cA",
+    "cuni",
+    "cB",
+    "cuni",
+    "cA",
+    "intssuni",
+    "cA",
+    "cB",
+    "uniss",
+    "sylan9ssr"
+  ]
+}

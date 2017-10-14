@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "z",
+    "=",
+    "x",
+    "->",
+    "z",
+    "=",
+    "y",
+    ")",
+    ")"
+  ],
+  "label": "equtrr",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vz",
+    "vx",
+    "weq",
+    "vx",
+    "vy",
+    "weq",
+    "vz",
+    "vy",
+    "weq",
+    "vz",
+    "vx",
+    "vy",
+    "equtr",
+    "com12"
+  ]
+}

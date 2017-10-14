@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "A",
+    "=/=",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "necon2ad",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "cA",
+    "cB",
+    "necon2ad.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wne",
+    "",
+    "wps",
+    "wn",
+    "cA",
+    "cB",
+    "wceq",
+    "wph",
+    "wps",
+    "wn",
+    "cA",
+    "cB",
+    "nne",
+    "necon2ad.1",
+    "syl5bi",
+    "con4d"
+  ]
+}

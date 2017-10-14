@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "R",
+    "B",
+    "->",
+    "A",
+    "e.",
+    "dom",
+    "R",
+    ")"
+  ],
+  "label": "breldm",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cR"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cR",
+    "wbr",
+    "cA",
+    "cB",
+    "cop",
+    "cR",
+    "wcel",
+    "cA",
+    "cR",
+    "cdm",
+    "wcel",
+    "cA",
+    "cB",
+    "cR",
+    "df-br",
+    "cA",
+    "cB",
+    "cR",
+    "opeldm",
+    "sylbi"
+  ]
+}

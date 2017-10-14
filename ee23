@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "th",
+    "->",
+    "et",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "ee23",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "wet",
+    "ee23.1",
+    "ee23.2",
+    "ee23.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wth",
+    "wta",
+    "wet",
+    "ee23.2",
+    "wph",
+    "wps",
+    "wch",
+    "wta",
+    "wet",
+    "wi",
+    "ee23.1",
+    "ee23.3",
+    "syl6",
+    "syldd"
+  ]
+}

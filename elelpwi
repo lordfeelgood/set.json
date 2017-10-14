@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "/\\",
+    "B",
+    "e.",
+    "~P",
+    "C",
+    ")",
+    "->",
+    "A",
+    "e.",
+    "C",
+    ")"
+  ],
+  "label": "elelpwi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cB",
+    "cC",
+    "cpw",
+    "wcel",
+    "",
+    "cA",
+    "cB",
+    "wcel",
+    "cA",
+    "cC",
+    "wcel",
+    "cB",
+    "cC",
+    "cA",
+    "cB",
+    "cC",
+    "elpwi",
+    "sseld",
+    "impcom"
+  ]
+}

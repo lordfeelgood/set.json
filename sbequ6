@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "[",
+    "w",
+    "/",
+    "z",
+    "]",
+    "-.",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "<->",
+    "-.",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    ")"
+  ],
+  "label": "sbequ6",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz",
+    "vw"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "vx",
+    "wal",
+    "wn",
+    "vz",
+    "vw",
+    "vx",
+    "vy",
+    "vz",
+    "hbnae",
+    "sbf"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "th",
+    "/\\",
+    "ch",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "jctild",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "jctild.1",
+    "jctild.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wth",
+    "wch",
+    "wph",
+    "wth",
+    "wps",
+    "jctild.2",
+    "a1d",
+    "jctild.1",
+    "jcad"
+  ]
+}

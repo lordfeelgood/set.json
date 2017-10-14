@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "[",
+    "A",
+    "]",
+    "R",
+    "=",
+    "U.",
+    "(",
+    "{",
+    "A",
+    "}",
+    "/.",
+    "R",
+    ")"
+  ],
+  "label": "ecqs",
+  "mandatoryHypotheses": [
+    "cA",
+    "cR",
+    "ecqs.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cR",
+    "cec",
+    "cR",
+    "cA",
+    "csn",
+    "",
+    "cima",
+    "",
+    "cR",
+    "cqs",
+    "cuni",
+    "",
+    "cA",
+    "cR",
+    "df-ec",
+    "cR",
+    "cvv",
+    "wcel",
+    "wceq",
+    "ecqs.1",
+    "cR",
+    "cvv",
+    "uniqs",
+    "ax-mp",
+    "eqtr4i"
+  ]
+}

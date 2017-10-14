@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "ralrimdva",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "ralrimdva.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "wph",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "wps",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "wi",
+    "ralrimdva.1",
+    "ex",
+    "com23",
+    "ralrimdv"
+  ]
+}

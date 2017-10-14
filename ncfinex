@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Nc[fin]",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "ncfinex",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cncfin",
+    "cv",
+    "",
+    "cnnc",
+    "wcel",
+    "cA",
+    "wcel",
+    "wa",
+    "",
+    "cio",
+    "cvv",
+    "cA",
+    "df-ncfin",
+    "iotaex",
+    "eqeltri"
+  ]
+}

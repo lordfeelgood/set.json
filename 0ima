@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(/)",
+    "\"",
+    "A",
+    ")",
+    "=",
+    "(/)"
+  ],
+  "label": "0ima",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "c0",
+    "cA",
+    "cima",
+    "",
+    "c0",
+    "c0",
+    "crn",
+    "c0",
+    "c0",
+    "cA",
+    "imassrn",
+    "rn0",
+    "sseqtri",
+    "0ss",
+    "eqssi"
+  ]
+}

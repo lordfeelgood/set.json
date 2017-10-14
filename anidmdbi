@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "/\\",
+    "ps",
+    ")",
+    ")",
+    "<->",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "anidmdbi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wps",
+    "wps",
+    "wa",
+    "wps",
+    "wph",
+    "wps",
+    "anidm",
+    "imbi2i"
+  ]
+}

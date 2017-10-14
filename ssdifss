@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "->",
+    "(",
+    "A",
+    "\\",
+    "C",
+    ")",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "ssdifss",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "cdif",
+    "",
+    "cA",
+    "wss",
+    "cA",
+    "cB",
+    "wss",
+    "cB",
+    "wss",
+    "cA",
+    "cC",
+    "difss",
+    "cA",
+    "cB",
+    "sstr",
+    "mpan"
+  ]
+}

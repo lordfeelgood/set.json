@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A",
+    "=/=",
+    "C",
+    ")"
+  ],
+  "label": "eqnetrd",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "eqnetrd.1",
+    "eqnetrd.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cC",
+    "wne",
+    "cB",
+    "cC",
+    "wne",
+    "eqnetrd.2",
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "eqnetrd.1",
+    "neeq1d",
+    "mpbird"
+  ]
+}

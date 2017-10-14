@@ -1,0 +1,78 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ],
+    [
+      "ph",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "{",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    "|",
+    "ps",
+    "}",
+    "C_",
+    "{",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    "|",
+    "ch",
+    "}",
+    ")"
+  ],
+  "label": "ssopab2dv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "vy",
+    "ssopab2dv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wi",
+    "",
+    "vy",
+    "wal",
+    "vx",
+    "wal",
+    "wps",
+    "vx",
+    "vy",
+    "copab",
+    "wch",
+    "vx",
+    "vy",
+    "copab",
+    "wss",
+    "wph",
+    "vx",
+    "vy",
+    "ssopab2dv.1",
+    "alrimivv",
+    "wps",
+    "wch",
+    "vx",
+    "vy",
+    "ssopab2",
+    "syl"
+  ]
+}

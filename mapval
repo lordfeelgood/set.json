@@ -1,0 +1,67 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "f"
+    ],
+    [
+      "B",
+      "f"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "^m",
+    "B",
+    ")",
+    "=",
+    "{",
+    "f",
+    "|",
+    "f",
+    ":",
+    "B",
+    "-->",
+    "A",
+    "}"
+  ],
+  "label": "mapval",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "vf",
+    "mapval.1",
+    "mapval.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cmap",
+    "co",
+    "cB",
+    "cA",
+    "vf",
+    "cv",
+    "wf",
+    "vf",
+    "cab",
+    "wceq",
+    "mapval.1",
+    "mapval.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "vf",
+    "mapvalg",
+    "mp2an"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "-i^i",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "-i^i",
+    "B",
+    ")"
+  ],
+  "label": "nineq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "nineqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cnin",
+    "cC",
+    "cB",
+    "cnin",
+    "wceq",
+    "nineqi.1",
+    "cA",
+    "cB",
+    "cC",
+    "nineq2",
+    "ax-mp"
+  ]
+}

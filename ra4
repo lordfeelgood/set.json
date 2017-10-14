@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "->",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "ra4",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "wral",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "cA",
+    "df-ral",
+    "vx",
+    "ax-4",
+    "sylbi"
+  ]
+}

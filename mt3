@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "mt3",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "mt3.1",
+    "mt3.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wn",
+    "wps",
+    "mt3.1",
+    "mt3.2",
+    "mto",
+    "notnotri"
+  ]
+}

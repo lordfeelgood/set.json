@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "_V",
+    "=/=",
+    "(/)"
+  ],
+  "label": "vn0",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "",
+    "cvv",
+    "wcel",
+    "cvv",
+    "c0",
+    "wne",
+    "vex",
+    "cvv",
+    "ne0i",
+    "ax-mp"
+  ]
+}

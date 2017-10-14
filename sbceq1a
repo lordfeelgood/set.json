@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "=",
+    "A",
+    "->",
+    "(",
+    "ph",
+    "<->",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "sbceq1a",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "vx",
+    "vx",
+    "cv",
+    "",
+    "wsbc",
+    "cA",
+    "wceq",
+    "wph",
+    "vx",
+    "cA",
+    "wsbc",
+    "wph",
+    "vx",
+    "sbid",
+    "wph",
+    "vx",
+    "cA",
+    "dfsbcq",
+    "syl5bbr"
+  ]
+}

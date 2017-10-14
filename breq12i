@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "R",
+    "C",
+    "<->",
+    "B",
+    "R",
+    "D",
+    ")"
+  ],
+  "label": "breq12i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "cR",
+    "breq1i.1",
+    "breq12i.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cD",
+    "wceq",
+    "cA",
+    "cC",
+    "cR",
+    "wbr",
+    "cB",
+    "cD",
+    "cR",
+    "wbr",
+    "wb",
+    "breq1i.1",
+    "breq12i.2",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "cR",
+    "breq12",
+    "mp2an"
+  ]
+}

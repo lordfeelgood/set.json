@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "\\/",
+    "ph",
+    ")",
+    "<->",
+    "ph",
+    ")"
+  ],
+  "label": "oridm",
+  "mandatoryHypotheses": [
+    "wph"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wo",
+    "wph",
+    "wph",
+    "pm1.2",
+    "wph",
+    "pm2.07",
+    "impbii"
+  ]
+}

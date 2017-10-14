@@ -1,0 +1,70 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "_V",
+    "<->",
+    "E!",
+    "x",
+    "x",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "eueq",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wceq",
+    "",
+    "vx",
+    "wex",
+    "",
+    "cv",
+    "",
+    "cA",
+    "wceq",
+    "",
+    "wa",
+    "wceq",
+    "wi",
+    "",
+    "wal",
+    "vx",
+    "wal",
+    "",
+    "wa",
+    "cA",
+    "cvv",
+    "wcel",
+    "vx",
+    "weu",
+    "vx",
+    "cA",
+    "eqtr3",
+    "gen2",
+    "biantru",
+    "vx",
+    "cA",
+    "isset",
+    "vx",
+    "cA",
+    "eqeq1",
+    "eu4",
+    "3bitr4i"
+  ]
+}

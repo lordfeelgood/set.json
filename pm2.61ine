@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "pm2.61ine",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "pm2.61ine.1",
+    "pm2.61ine.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wne",
+    "",
+    "wph",
+    "pm2.61ine.2",
+    "wn",
+    "cA",
+    "cB",
+    "wceq",
+    "wph",
+    "cA",
+    "cB",
+    "nne",
+    "pm2.61ine.1",
+    "sylbi",
+    "pm2.61i"
+  ]
+}

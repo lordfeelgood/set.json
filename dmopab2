@@ -1,0 +1,58 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "dom",
+    "F",
+    "=",
+    "A"
+  ],
+  "label": "dmopab2",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cF",
+    "fnopab2.1",
+    "fnopab2.2"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "cF",
+    "cdm",
+    "cA",
+    "wceq",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cF",
+    "fnopab2.1",
+    "fnopab2.2",
+    "fnopab2",
+    "cA",
+    "cF",
+    "fndm",
+    "ax-mp"
+  ]
+}

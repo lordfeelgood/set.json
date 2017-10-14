@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "X._k",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "xpkex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "xpkex.1",
+    "xpkex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cxpk",
+    "cvv",
+    "wcel",
+    "xpkex.1",
+    "xpkex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "xpkexg",
+    "mp2an"
+  ]
+}

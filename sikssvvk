@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "SI_k",
+    "A",
+    "C_",
+    "(",
+    "_V",
+    "X._k",
+    "_V",
+    ")"
+  ],
+  "label": "sikssvvk",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "",
+    "csn",
+    "wceq",
+    "cv",
+    "cv",
+    "",
+    "csn",
+    "wceq",
+    "copk",
+    "cA",
+    "wcel",
+    "w3a",
+    "wex",
+    "wex",
+    "cA",
+    "csik",
+    "cA",
+    "df-sik",
+    "opkabssvvki"
+  ]
+}

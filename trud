@@ -1,0 +1,19 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "trud",
+  "mandatoryHypotheses": [
+    "wph",
+    "trud.1"
+  ],
+  "proofSteps": [
+    "wtru",
+    "wph",
+    "tru",
+    "trud.1",
+    "ax-mp"
+  ]
+}

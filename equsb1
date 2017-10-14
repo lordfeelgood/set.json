@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "[",
+    "y",
+    "/",
+    "x",
+    "]",
+    "x",
+    "=",
+    "y"
+  ],
+  "label": "equsb1",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "wi",
+    "vx",
+    "vy",
+    "wsb",
+    "vx",
+    "vx",
+    "vy",
+    "sb2",
+    "id",
+    "mpg"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Fun",
+    "_I"
+  ],
+  "label": "funi",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cid",
+    "wfun",
+    "cid",
+    "wrel",
+    "cid",
+    "cid",
+    "ccnv",
+    "",
+    "ccom",
+    "",
+    "cid",
+    "wss",
+    "reli",
+    "cid",
+    "cid",
+    "wrel",
+    "wceq",
+    "cid",
+    "relcnv",
+    "coi2",
+    "ax-mp",
+    "cnvi",
+    "eqtri",
+    "eqimssi",
+    "cid",
+    "df-fun",
+    "mpbir2an"
+  ]
+}

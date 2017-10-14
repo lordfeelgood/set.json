@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "o.",
+    "C",
+    ")",
+    "=",
+    "(",
+    "B",
+    "o.",
+    "D",
+    ")"
+  ],
+  "label": "coeq12i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "coeq12i.1",
+    "coeq12i.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "ccom",
+    "cB",
+    "cC",
+    "ccom",
+    "cB",
+    "cD",
+    "ccom",
+    "cA",
+    "cB",
+    "cC",
+    "coeq12i.1",
+    "coeq1i",
+    "cC",
+    "cD",
+    "cB",
+    "coeq12i.2",
+    "coeq2i",
+    "eqtri"
+  ]
+}

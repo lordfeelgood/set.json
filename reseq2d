@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "C",
+    "|`",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "|`",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "reseq2d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "reseqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cres",
+    "cC",
+    "cB",
+    "cres",
+    "wceq",
+    "reseqd.1",
+    "cA",
+    "cB",
+    "cC",
+    "reseq2",
+    "syl"
+  ]
+}

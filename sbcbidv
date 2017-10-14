@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ps",
+    "<->",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "sbcbidv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "sbcbidv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "wph",
+    "vx",
+    "ax-17",
+    "sbcbidv.1",
+    "sbcbid"
+  ]
+}

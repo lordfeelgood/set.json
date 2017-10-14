@@ -1,0 +1,25 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "ps"
+  ],
+  "label": "mtbi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "mtbi.1",
+    "mtbi.2"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "mtbi.1",
+    "wph",
+    "wps",
+    "mtbi.2",
+    "biimpri",
+    "mto"
+  ]
+}

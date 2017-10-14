@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "hbnaes",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "hbnalequs.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "vx",
+    "wal",
+    "wn",
+    "",
+    "vz",
+    "wal",
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "hbnae",
+    "hbnalequs.1",
+    "syl"
+  ]
+}

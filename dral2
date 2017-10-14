@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "A.",
+    "z",
+    "ph",
+    "<->",
+    "A.",
+    "z",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "dral2",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "dral2.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "vx",
+    "wal",
+    "wph",
+    "wps",
+    "vz",
+    "vx",
+    "vy",
+    "vz",
+    "hbae",
+    "dral2.1",
+    "albid"
+  ]
+}

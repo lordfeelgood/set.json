@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "_E",
+    "y",
+    "<->",
+    "x",
+    "e.",
+    "y",
+    ")"
+  ],
+  "label": "epel",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "vy",
+    "vex",
+    "epelc"
+  ]
+}

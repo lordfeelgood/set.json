@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "e.",
+    "Nc",
+    "A"
+  ],
+  "label": "ncid",
+  "mandatoryHypotheses": [
+    "cA",
+    "ncid.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cA",
+    "cnc",
+    "wcel",
+    "ncid.1",
+    "cA",
+    "cvv",
+    "ncidg",
+    "ax-mp"
+  ]
+}

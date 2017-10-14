@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "e.",
+    "{",
+    "x",
+    "e.",
+    "A",
+    "|",
+    "ph",
+    "}",
+    "<->",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "/\\",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "rabid",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wa",
+    "vx",
+    "wph",
+    "vx",
+    "cA",
+    "crab",
+    "wph",
+    "vx",
+    "cA",
+    "df-rab",
+    "abeq2i"
+  ]
+}

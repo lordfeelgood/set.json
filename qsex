@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "/.",
+    "R",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "qsex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cR",
+    "qsex.1",
+    "qsex.2"
+  ],
+  "proofSteps": [
+    "cR",
+    "cvv",
+    "wcel",
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cR",
+    "cqs",
+    "cvv",
+    "wcel",
+    "qsex.1",
+    "qsex.2",
+    "cA",
+    "cR",
+    "cvv",
+    "cvv",
+    "qsexg",
+    "mp2an"
+  ]
+}

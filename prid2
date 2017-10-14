@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "e.",
+    "{",
+    "B",
+    ",",
+    "A",
+    "}"
+  ],
+  "label": "prid2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "snid.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cA",
+    "cpr",
+    "wcel",
+    "snid.1",
+    "cA",
+    "cB",
+    "cvv",
+    "prid2g",
+    "ax-mp"
+  ]
+}

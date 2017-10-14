@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "E!",
+    "x",
+    "ps",
+    "<->",
+    "E!",
+    "x",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "eubidv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "eubidv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "wph",
+    "vx",
+    "ax-17",
+    "eubidv.1",
+    "eubid"
+  ]
+}

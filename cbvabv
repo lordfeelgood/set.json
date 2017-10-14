@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "y"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "=",
+    "{",
+    "y",
+    "|",
+    "ps",
+    "}"
+  ],
+  "label": "cbvabv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cbvabv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "wph",
+    "vy",
+    "ax-17",
+    "wps",
+    "vx",
+    "ax-17",
+    "cbvabv.1",
+    "cbvab"
+  ]
+}

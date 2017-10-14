@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "=",
+    "D"
+  ],
+  "label": "3eqtri",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "3eqtri.1",
+    "3eqtri.2",
+    "3eqtri.3"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cD",
+    "3eqtri.1",
+    "cB",
+    "cC",
+    "cD",
+    "3eqtri.2",
+    "3eqtri.3",
+    "eqtri",
+    "eqtri"
+  ]
+}

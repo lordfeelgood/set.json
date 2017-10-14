@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "e.",
+    "_V"
+  ],
+  "label": "abexv",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cab",
+    "",
+    "cvv",
+    "wceq",
+    "",
+    "c0",
+    "wceq",
+    "",
+    "wo",
+    "cvv",
+    "wcel",
+    "",
+    "wph",
+    "vx",
+    "abvor0",
+    "cvv",
+    "cvv",
+    "wcel",
+    "vvex",
+    "cvv",
+    "cvv",
+    "eleq1",
+    "mpbiri",
+    "c0",
+    "cvv",
+    "wcel",
+    "0ex",
+    "c0",
+    "cvv",
+    "eleq1",
+    "mpbiri",
+    "jaoi",
+    "ax-mp"
+  ]
+}

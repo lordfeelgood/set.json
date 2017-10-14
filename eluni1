@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "U.1",
+    "B",
+    "<->",
+    "{",
+    "A",
+    "}",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "eluni1",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "eluni1.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cuni1",
+    "wcel",
+    "cA",
+    "csn",
+    "cB",
+    "wcel",
+    "wb",
+    "eluni1.1",
+    "cA",
+    "cB",
+    "cvv",
+    "eluni1g",
+    "ax-mp"
+  ]
+}

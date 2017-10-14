@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "(",
+    "_V",
+    "X.",
+    "_V",
+    ")",
+    "<->",
+    "ran",
+    "{",
+    "A",
+    "}",
+    "=/=",
+    "(/)",
+    ")"
+  ],
+  "label": "rnsnn0",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "cvv",
+    "cxp",
+    "wcel",
+    "cA",
+    "csn",
+    "",
+    "cdm",
+    "",
+    "c0",
+    "wne",
+    "crn",
+    "",
+    "c0",
+    "wne",
+    "cA",
+    "dmsnn0",
+    "c0",
+    "c0",
+    "dm0rn0",
+    "necon3bii",
+    "bitri"
+  ]
+}

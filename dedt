@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ch",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "dedt",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "dedt.1",
+    "dedt.2"
+  ],
+  "proofSteps": [
+    "wch",
+    "wph",
+    "wph",
+    "wch",
+    "wa",
+    "wps",
+    "wch",
+    "wn",
+    "wa",
+    "wo",
+    "wb",
+    "",
+    "wth",
+    "wch",
+    "wph",
+    "wps",
+    "dedlema",
+    "wth",
+    "wta",
+    "dedt.2",
+    "dedt.1",
+    "mpbiri",
+    "syl"
+  ]
+}

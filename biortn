@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "(",
+    "-.",
+    "ph",
+    "\\/",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "biortn",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wn",
+    "",
+    "wn",
+    "wps",
+    "wps",
+    "wo",
+    "wb",
+    "wph",
+    "notnot1",
+    "wps",
+    "biorf",
+    "syl"
+  ]
+}

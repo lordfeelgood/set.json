@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "A",
+    "=",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "necon4bbid",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "cA",
+    "cB",
+    "necon4bbid.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "wps",
+    "wph",
+    "wps",
+    "cA",
+    "cB",
+    "wph",
+    "wps",
+    "wn",
+    "cA",
+    "cB",
+    "wne",
+    "necon4bbid.1",
+    "bicomd",
+    "necon4abid",
+    "bicomd"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "C",
+    "<->",
+    "B",
+    "e.",
+    "D",
+    ")"
+  ],
+  "label": "eleq12i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "eleq1i.1",
+    "eleq12i.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "wcel",
+    "cA",
+    "cD",
+    "wcel",
+    "cB",
+    "cD",
+    "wcel",
+    "cC",
+    "cD",
+    "cA",
+    "eleq12i.2",
+    "eleq2i",
+    "cA",
+    "cB",
+    "cD",
+    "eleq1i.1",
+    "eleq1i",
+    "bitri"
+  ]
+}

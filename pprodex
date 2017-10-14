@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "PProd",
+    "(",
+    "A",
+    ",",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "pprodex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "pprodex.1",
+    "pprodex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cpprod",
+    "cvv",
+    "wcel",
+    "pprodex.1",
+    "pprodex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "pprodexg",
+    "mp2an"
+  ]
+}

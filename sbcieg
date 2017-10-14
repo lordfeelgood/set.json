@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "sbcieg",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cV",
+    "sbcieg.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "cA",
+    "cvv",
+    "wcel",
+    "",
+    "wph",
+    "vx",
+    "cA",
+    "wsbc",
+    "wps",
+    "wb",
+    "cA",
+    "cV",
+    "elex",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cvv",
+    "wps",
+    "vx",
+    "a17d",
+    "sbcieg.1",
+    "sbciegf",
+    "syl"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "->",
+    "~",
+    "A",
+    "=",
+    "~",
+    "B",
+    ")"
+  ],
+  "label": "compleq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "cA",
+    "cA",
+    "cnin",
+    "",
+    "cB",
+    "cB",
+    "cnin",
+    "",
+    "cA",
+    "ccompl",
+    "cB",
+    "ccompl",
+    "wceq",
+    "cA",
+    "cB",
+    "cA",
+    "cB",
+    "nineq12",
+    "anidms",
+    "cA",
+    "df-compl",
+    "cB",
+    "df-compl",
+    "3eqtr4g"
+  ]
+}

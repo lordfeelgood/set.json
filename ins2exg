@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "Ins2",
+    "A",
+    "e.",
+    "_V",
+    ")"
+  ],
+  "label": "ins2exg",
+  "mandatoryHypotheses": [
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "",
+    "cA",
+    "cins2",
+    "cvv",
+    "cA",
+    "ctxp",
+    "",
+    "cvv",
+    "cA",
+    "df-ins2",
+    "cvv",
+    "cvv",
+    "wcel",
+    "cvv",
+    "wcel",
+    "vvex",
+    "cvv",
+    "cA",
+    "cvv",
+    "cV",
+    "txpexg",
+    "mpan",
+    "syl5eqel"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "ph",
+    "<->",
+    "E!",
+    "x",
+    "ps",
+    ")"
+  ],
+  "label": "eubii",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "eubii.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "vx",
+    "weq",
+    "",
+    "wph",
+    "vx",
+    "weu",
+    "wps",
+    "vx",
+    "weu",
+    "wb",
+    "vx",
+    "equid",
+    "wph",
+    "wps",
+    "vx",
+    "vx",
+    "vx",
+    "hbequid",
+    "wph",
+    "wps",
+    "wb",
+    "eubii.1",
+    "a1i",
+    "eubid",
+    "ax-mp"
+  ]
+}

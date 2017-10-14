@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "[",
+    "y",
+    "/",
+    "x",
+    "]",
+    "[",
+    "x",
+    "/",
+    "y",
+    "]",
+    "ph",
+    "<->",
+    "ph",
+    ")"
+  ],
+  "label": "sbid2",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "sbid2.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "vx",
+    "wsb",
+    "vx",
+    "vy",
+    "wsb",
+    "wph",
+    "vx",
+    "vy",
+    "wsb",
+    "wph",
+    "wph",
+    "vx",
+    "vy",
+    "sbco",
+    "wph",
+    "vx",
+    "vy",
+    "sbid2.1",
+    "sbf",
+    "bitri"
+  ]
+}

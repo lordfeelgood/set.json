@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "ibi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "ibi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wph",
+    "wph",
+    "wps",
+    "ibi.1",
+    "biimpd",
+    "pm2.43i"
+  ]
+}

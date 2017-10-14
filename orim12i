@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "\\/",
+    "ch",
+    ")",
+    "->",
+    "(",
+    "ps",
+    "\\/",
+    "th",
+    ")",
+    ")"
+  ],
+  "label": "orim12i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "orim12i.1",
+    "orim12i.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wth",
+    "wo",
+    "wch",
+    "wph",
+    "wps",
+    "wth",
+    "orim12i.1",
+    "orcd",
+    "wch",
+    "wth",
+    "wps",
+    "orim12i.2",
+    "olcd",
+    "jaoi"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Nc",
+    "A",
+    "=",
+    "Nc",
+    "B",
+    "<->",
+    "A",
+    "~~",
+    "B",
+    ")"
+  ],
+  "label": "eqnc",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "eqnc.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cnc",
+    "cB",
+    "cnc",
+    "wceq",
+    "cA",
+    "cB",
+    "cen",
+    "wbr",
+    "wb",
+    "eqnc.1",
+    "cA",
+    "cB",
+    "cvv",
+    "eqncg",
+    "ax-mp"
+  ]
+}

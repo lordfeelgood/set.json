@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "biimt",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wph",
+    "wps",
+    "wi",
+    "wps",
+    "wph",
+    "ax-1",
+    "wph",
+    "wps",
+    "pm2.27",
+    "impbid2"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "C",
+    "C_",
+    "D"
+  ],
+  "label": "3sstr4i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "3sstr4.1",
+    "3sstr4.2",
+    "3sstr4.3"
+  ],
+  "proofSteps": [
+    "cC",
+    "cD",
+    "wss",
+    "cA",
+    "cB",
+    "wss",
+    "3sstr4.1",
+    "cC",
+    "cA",
+    "cD",
+    "cB",
+    "3sstr4.2",
+    "3sstr4.3",
+    "sseq12i",
+    "mpbir"
+  ]
+}

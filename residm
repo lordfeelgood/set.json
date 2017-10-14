@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "|`",
+    "B",
+    ")",
+    "|`",
+    "B",
+    ")",
+    "=",
+    "(",
+    "A",
+    "|`",
+    "B",
+    ")"
+  ],
+  "label": "residm",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cB",
+    "cB",
+    "wss",
+    "cA",
+    "cB",
+    "cres",
+    "",
+    "cB",
+    "cres",
+    "wceq",
+    "cB",
+    "ssid",
+    "cA",
+    "cB",
+    "cB",
+    "resabs2",
+    "ax-mp"
+  ]
+}

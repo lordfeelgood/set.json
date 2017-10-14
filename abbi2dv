@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A",
+    "=",
+    "{",
+    "x",
+    "|",
+    "ps",
+    "}",
+    ")"
+  ],
+  "label": "abbi2dv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "abbirdv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wps",
+    "wb",
+    "",
+    "vx",
+    "wal",
+    "cA",
+    "wps",
+    "vx",
+    "cab",
+    "wceq",
+    "wph",
+    "vx",
+    "abbirdv.1",
+    "alrimiv",
+    "wps",
+    "vx",
+    "cA",
+    "abeq2",
+    "sylibr"
+  ]
+}

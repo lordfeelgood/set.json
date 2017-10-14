@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "U.",
+    "B",
+    "<->",
+    "E.",
+    "x",
+    "e.",
+    "B",
+    "A",
+    "e.",
+    "x",
+    ")"
+  ],
+  "label": "eluni2",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "vx",
+    "cv",
+    "",
+    "wcel",
+    "",
+    "cB",
+    "wcel",
+    "",
+    "wa",
+    "vx",
+    "wex",
+    "wa",
+    "vx",
+    "wex",
+    "cA",
+    "cB",
+    "cuni",
+    "wcel",
+    "vx",
+    "cB",
+    "wrex",
+    "vx",
+    "exancom",
+    "vx",
+    "cA",
+    "cB",
+    "eluni",
+    "vx",
+    "cB",
+    "df-rex",
+    "3bitr4i"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ze",
+    ")"
+  ],
+  "label": "syl212anc",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "wet",
+    "wze",
+    "sylXanc.1",
+    "sylXanc.2",
+    "sylXanc.3",
+    "sylXanc.4",
+    "sylXanc.5",
+    "syl212anc.6"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "wet",
+    "wa",
+    "wze",
+    "sylXanc.1",
+    "sylXanc.2",
+    "sylXanc.3",
+    "wph",
+    "wta",
+    "wet",
+    "sylXanc.4",
+    "sylXanc.5",
+    "jca",
+    "syl212anc.6",
+    "syl211anc"
+  ]
+}

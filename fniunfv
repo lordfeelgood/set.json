@@ -1,0 +1,78 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "F",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "->",
+    "U_",
+    "x",
+    "e.",
+    "A",
+    "(",
+    "F",
+    "`",
+    "x",
+    ")",
+    "=",
+    "U.",
+    "ran",
+    "F",
+    ")"
+  ],
+  "label": "fniunfv",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "",
+    "cF",
+    "crn",
+    "",
+    "cuni",
+    "cv",
+    "vx",
+    "cv",
+    "",
+    "cF",
+    "cfv",
+    "",
+    "wceq",
+    "vx",
+    "cA",
+    "wrex",
+    "cab",
+    "",
+    "cuni",
+    "vx",
+    "cA",
+    "ciun",
+    "vx",
+    "cA",
+    "cF",
+    "fnrnfv",
+    "unieqd",
+    "vx",
+    "cA",
+    "cF",
+    "fvex",
+    "dfiun2",
+    "syl6reqr"
+  ]
+}

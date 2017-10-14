@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "(",
+    "A",
+    "|`",
+    "B",
+    ")"
+  ],
+  "label": "relres",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cres",
+    "",
+    "cB",
+    "cvv",
+    "cxp",
+    "",
+    "wss",
+    "wrel",
+    "wrel",
+    "cA",
+    "cin",
+    "cA",
+    "cB",
+    "df-res",
+    "cA",
+    "inss2",
+    "eqsstri",
+    "cB",
+    "cvv",
+    "relxp",
+    "relss",
+    "mp2"
+  ]
+}

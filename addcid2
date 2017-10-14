@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "0c",
+    "+c",
+    "A",
+    ")",
+    "=",
+    "A"
+  ],
+  "label": "addcid2",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "c0c",
+    "cA",
+    "cplc",
+    "cA",
+    "c0c",
+    "cplc",
+    "cA",
+    "c0c",
+    "cA",
+    "addccom",
+    "cA",
+    "addcid1",
+    "eqtri"
+  ]
+}

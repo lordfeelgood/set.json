@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Pw1Fn",
+    "Fn",
+    "1c"
+  ],
+  "label": "fnpw1fn",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "",
+    "cuni",
+    "",
+    "cpw1",
+    "",
+    "cvv",
+    "wcel",
+    "",
+    "cpw1fn",
+    "c1c",
+    "wfn",
+    "c1c",
+    "c1c",
+    "cpw1fn",
+    "cvv",
+    "df-pw1fn",
+    "fnmpt",
+    "c1c",
+    "wcel",
+    "vex",
+    "uniex",
+    "pw1ex",
+    "a1i",
+    "mprg"
+  ]
+}

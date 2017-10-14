@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "|^|",
+    "{",
+    "x",
+    "|",
+    "A",
+    "C_",
+    "x",
+    "}",
+    "=",
+    "A"
+  ],
+  "label": "intmin2",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "intmin2.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "vx",
+    "cv",
+    "wss",
+    "",
+    "vx",
+    "cvv",
+    "crab",
+    "",
+    "cint",
+    "",
+    "vx",
+    "cab",
+    "",
+    "cint",
+    "cA",
+    "vx",
+    "rabab",
+    "inteqi",
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "wceq",
+    "intmin2.1",
+    "vx",
+    "cA",
+    "cvv",
+    "intmin",
+    "ax-mp",
+    "eqtr3i"
+  ]
+}

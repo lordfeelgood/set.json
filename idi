@@ -1,0 +1,15 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "idi",
+  "mandatoryHypotheses": [
+    "wph",
+    "idi.1"
+  ],
+  "proofSteps": [
+    "idi.1"
+  ]
+}

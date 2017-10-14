@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "E.",
+    "x",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")"
+  ],
+  "label": "exan",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "exan.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wex",
+    "",
+    "wps",
+    "vx",
+    "wal",
+    "wa",
+    "",
+    "wph",
+    "wps",
+    "wa",
+    "vx",
+    "wex",
+    "wps",
+    "wa",
+    "vx",
+    "wps",
+    "vx",
+    "wph",
+    "vx",
+    "hbe1",
+    "19.28",
+    "exan.1",
+    "mpgbi",
+    "wph",
+    "wps",
+    "vx",
+    "19.29r",
+    "ax-mp"
+  ]
+}

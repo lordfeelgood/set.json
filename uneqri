@@ -1,0 +1,59 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "C",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "u.",
+    "B",
+    ")",
+    "=",
+    "C"
+  ],
+  "label": "uneqri",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "uneqri.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cB",
+    "cun",
+    "",
+    "cC",
+    "vx",
+    "cv",
+    "",
+    "wcel",
+    "cA",
+    "wcel",
+    "cB",
+    "wcel",
+    "wo",
+    "cC",
+    "wcel",
+    "cA",
+    "cB",
+    "elun",
+    "uneqri.1",
+    "bitri",
+    "eqriv"
+  ]
+}

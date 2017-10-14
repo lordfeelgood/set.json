@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "-.",
+    "ps",
+    "->",
+    "A.",
+    "x",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "hbnd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "hbnd.1",
+    "hbnd.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wps",
+    "vx",
+    "wal",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "wps",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "wi",
+    "wph",
+    "vx",
+    "hbnd.1",
+    "hbnd.2",
+    "alrimi",
+    "wps",
+    "vx",
+    "hbnt",
+    "syl"
+  ]
+}

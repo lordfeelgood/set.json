@@ -1,0 +1,84 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "w"
+    ],
+    [
+      "ph",
+      "z"
+    ],
+    [
+      "ps",
+      "x"
+    ],
+    [
+      "ps",
+      "y"
+    ],
+    [
+      "w",
+      "x"
+    ],
+    [
+      "w",
+      "z"
+    ],
+    [
+      "x",
+      "y"
+    ],
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "E.",
+    "y",
+    "ph",
+    "<->",
+    "E.",
+    "z",
+    "E.",
+    "w",
+    "ps",
+    ")"
+  ],
+  "label": "cbvex2v",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "vw",
+    "cbval2v.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "vw",
+    "wph",
+    "vz",
+    "ax-17",
+    "wph",
+    "vw",
+    "ax-17",
+    "wps",
+    "vx",
+    "ax-17",
+    "wps",
+    "vy",
+    "ax-17",
+    "cbval2v.1",
+    "cbvex2"
+  ]
+}

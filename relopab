@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "{",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    "|",
+    "ph",
+    "}"
+  ],
+  "label": "relopab",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "vy",
+    "wph",
+    "vx",
+    "vy",
+    "copab",
+    "",
+    "eqid",
+    "relopabi"
+  ]
+}

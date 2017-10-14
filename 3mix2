@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "\\/",
+    "ph",
+    "\\/",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "3mix2",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wch",
+    "wps",
+    "w3o",
+    "wps",
+    "wph",
+    "wch",
+    "w3o",
+    "wph",
+    "wch",
+    "wps",
+    "3mix1",
+    "wps",
+    "wph",
+    "wch",
+    "3orrot",
+    "sylibr"
+  ]
+}

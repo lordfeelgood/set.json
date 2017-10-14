@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ps",
+    "/\\",
+    "ph",
+    ")",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "impcom",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "imp.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "imp.1",
+    "com12",
+    "imp"
+  ]
+}

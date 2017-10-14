@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "->",
+    "-.",
+    "B",
+    "C.",
+    "A",
+    ")"
+  ],
+  "label": "ssnpss",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cB",
+    "cA",
+    "wpss",
+    "",
+    "cA",
+    "cB",
+    "wss",
+    "",
+    "cB",
+    "cA",
+    "wss",
+    "wn",
+    "cB",
+    "cA",
+    "dfpss3",
+    "simprbi",
+    "con2i"
+  ]
+}

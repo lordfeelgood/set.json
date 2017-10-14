@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "E*",
+    "x",
+    "x",
+    "=",
+    "A"
+  ],
+  "label": "moeq",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "",
+    "vx",
+    "wmo",
+    "vx",
+    "wex",
+    "",
+    "vx",
+    "weu",
+    "",
+    "wi",
+    "cA",
+    "cvv",
+    "wcel",
+    "vx",
+    "cA",
+    "isset",
+    "vx",
+    "cA",
+    "eueq",
+    "bitr3i",
+    "biimpi",
+    "vx",
+    "df-mo",
+    "mpbir"
+  ]
+}

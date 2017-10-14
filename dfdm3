@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "dom",
+    "A",
+    "=",
+    "{",
+    "x",
+    "|",
+    "E.",
+    "y",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    "e.",
+    "A",
+    "}"
+  ],
+  "label": "dfdm3",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "vy",
+    "cv",
+    "cop",
+    "cA",
+    "wcel",
+    "vy",
+    "wex",
+    "vx",
+    "cA",
+    "cdm",
+    "vy",
+    "cA",
+    "eldm2",
+    "abbi2i"
+  ]
+}

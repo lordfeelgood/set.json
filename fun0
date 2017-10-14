@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Fun",
+    "(/)"
+  ],
+  "label": "fun0",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "wfun",
+    "c0",
+    "wrel",
+    "c0",
+    "c0",
+    "ccnv",
+    "",
+    "ccom",
+    "",
+    "cid",
+    "wss",
+    "rel0",
+    "c0",
+    "cid",
+    "co01",
+    "cid",
+    "0ss",
+    "eqsstri",
+    "c0",
+    "df-fun",
+    "mpbir2an"
+  ]
+}

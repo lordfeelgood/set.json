@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "ps"
+  ],
+  "label": "chvarv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "chv.1",
+    "chv.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "chv.1",
+    "a4v",
+    "chv.2",
+    "mpg"
+  ]
+}

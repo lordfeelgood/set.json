@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "_I",
+    "|`",
+    "A",
+    ")",
+    "Fn",
+    "A"
+  ],
+  "label": "fnresi",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cid",
+    "cA",
+    "cres",
+    "",
+    "cA",
+    "wfn",
+    "wfun",
+    "",
+    "cdm",
+    "cA",
+    "wceq",
+    "cid",
+    "wfun",
+    "funi",
+    "cA",
+    "cid",
+    "funres",
+    "ax-mp",
+    "cA",
+    "dmresi",
+    "cA",
+    "df-fn",
+    "mpbir2an"
+  ]
+}

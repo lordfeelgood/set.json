@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "ta",
+    ")",
+    ")"
+  ],
+  "label": "ee12an",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "ee12an.1",
+    "ee12an.2",
+    "ee12an.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wch",
+    "wps",
+    "wth",
+    "wa",
+    "wta",
+    "wph",
+    "wch",
+    "wth",
+    "wps",
+    "ee12an.2",
+    "ee12an.1",
+    "jctild",
+    "ee12an.3",
+    "syl6"
+  ]
+}

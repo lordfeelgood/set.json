@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "E.",
+    "x",
+    "x",
+    "=",
+    "y"
+  ],
+  "label": "a9e",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "vx",
+    "wex",
+    "wn",
+    "vx",
+    "wal",
+    "wn",
+    "vx",
+    "vy",
+    "ax-9",
+    "vx",
+    "df-ex",
+    "mpbir"
+  ]
+}

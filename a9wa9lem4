@@ -1,0 +1,66 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "w"
+    ],
+    [
+      "w",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "A.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "a9wa9lem4",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vw",
+    "a9wa9lem3.1",
+    "a9wa9lem3.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wal",
+    "",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "vx",
+    "wal",
+    "vx",
+    "vw",
+    "a9wa9lem3.1",
+    "a9wa9lem3.2",
+    "a9wa9lem3",
+    "con2i",
+    "vx",
+    "ax-6",
+    "vx",
+    "wph",
+    "vx",
+    "ax-6",
+    "con1i",
+    "alimi",
+    "3syl"
+  ]
+}

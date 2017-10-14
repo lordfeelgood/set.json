@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "E.",
+    "x",
+    "ps",
+    "->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "exlimd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "exlimd.1",
+    "exlimd.2",
+    "exlimd.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "wps",
+    "vx",
+    "wex",
+    "wch",
+    "wi",
+    "wph",
+    "vx",
+    "exlimd.1",
+    "exlimd.3",
+    "alrimi",
+    "wps",
+    "wch",
+    "vx",
+    "exlimd.2",
+    "19.23",
+    "sylib"
+  ]
+}

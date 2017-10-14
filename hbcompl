@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "e.",
+    "~",
+    "A",
+    "->",
+    "A.",
+    "y",
+    "x",
+    "e.",
+    "~",
+    "A",
+    ")"
+  ],
+  "label": "hbcompl",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "hbbool.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "ccompl",
+    "wcel",
+    "cA",
+    "wcel",
+    "",
+    "wn",
+    "vy",
+    "cA",
+    "vx",
+    "vex",
+    "elcompl",
+    "vy",
+    "hbbool.1",
+    "hbn",
+    "hbxfrbi"
+  ]
+}

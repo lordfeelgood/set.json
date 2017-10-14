@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Po",
+    "e.",
+    "_V"
+  ],
+  "label": "partialex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cpartial",
+    "cref",
+    "ctrans",
+    "cin",
+    "",
+    "cantisym",
+    "cin",
+    "cvv",
+    "df-partial",
+    "cantisym",
+    "cref",
+    "ctrans",
+    "refex",
+    "transex",
+    "inex",
+    "antisymex",
+    "inex",
+    "eqeltri"
+  ]
+}

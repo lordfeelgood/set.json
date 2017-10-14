@@ -1,0 +1,79 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "|^|",
+    "B",
+    "<->",
+    "A.",
+    "x",
+    "(",
+    "x",
+    "e.",
+    "B",
+    "->",
+    "A",
+    "e.",
+    "x",
+    ")",
+    ")"
+  ],
+  "label": "elint",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "elint.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "cB",
+    "wcel",
+    "",
+    "cv",
+    "",
+    "wcel",
+    "",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "cA",
+    "wcel",
+    "",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "cA",
+    "cB",
+    "cint",
+    "elint.1",
+    "cA",
+    "wceq",
+    "",
+    "vx",
+    "cA",
+    "eleq1",
+    "imbi2d",
+    "albidv",
+    "vx",
+    "cB",
+    "df-int",
+    "elab2"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "<<",
+    "A",
+    ",",
+    "B",
+    ">>",
+    "e.",
+    "_V"
+  ],
+  "label": "opkex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "copk",
+    "cA",
+    "csn",
+    "",
+    "cA",
+    "cB",
+    "cpr",
+    "",
+    "cpr",
+    "cvv",
+    "cA",
+    "cB",
+    "df-opk",
+    "prex",
+    "eqeltri"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "r19.21be",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "r19.21be.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "vx",
+    "cA",
+    "wph",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wps",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "r19.21be.1",
+    "r19.21bi",
+    "expcom",
+    "rgen"
+  ]
+}

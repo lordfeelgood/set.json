@@ -1,0 +1,70 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "E*",
+    "x",
+    "E.",
+    "y",
+    "(",
+    "y",
+    "=",
+    "A",
+    "/\\",
+    "ph",
+    ")"
+  ],
+  "label": "mosub",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "cA",
+    "mosub.1"
+  ],
+  "proofSteps": [
+    "vy",
+    "cv",
+    "cA",
+    "wceq",
+    "",
+    "vy",
+    "wmo",
+    "wph",
+    "vx",
+    "wmo",
+    "",
+    "vy",
+    "wal",
+    "wph",
+    "wa",
+    "vy",
+    "wex",
+    "vx",
+    "wmo",
+    "vy",
+    "cA",
+    "moeq",
+    "vy",
+    "mosub.1",
+    "ax-gen",
+    "wph",
+    "vy",
+    "vx",
+    "moexexv",
+    "mp2an"
+  ]
+}

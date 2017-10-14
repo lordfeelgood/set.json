@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "`'",
+    "_I",
+    "=",
+    "_I"
+  ],
+  "label": "cnvi",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "",
+    "cv",
+    "",
+    "cid",
+    "wbr",
+    "",
+    "copab",
+    "wceq",
+    "",
+    "copab",
+    "cid",
+    "ccnv",
+    "cid",
+    "wceq",
+    "vex",
+    "ideq",
+    "equcom",
+    "bitri",
+    "opabbii",
+    "cid",
+    "df-cnv",
+    "df-id",
+    "3eqtr4i"
+  ]
+}

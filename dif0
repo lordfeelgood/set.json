@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "\\",
+    "(/)",
+    ")",
+    "=",
+    "A"
+  ],
+  "label": "dif0",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "cdif",
+    "cA",
+    "c0",
+    "ccompl",
+    "",
+    "cin",
+    "cA",
+    "cvv",
+    "cin",
+    "cA",
+    "cA",
+    "c0",
+    "df-dif",
+    "cvv",
+    "cA",
+    "dfv2",
+    "ineq2i",
+    "cA",
+    "inv1",
+    "3eqtr2i"
+  ]
+}

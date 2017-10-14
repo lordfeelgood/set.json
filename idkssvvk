@@ -1,0 +1,21 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "_I_k",
+    "C_",
+    "(",
+    "_V",
+    "X._k",
+    "_V",
+    ")"
+  ],
+  "label": "idkssvvk",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "weq",
+    "cidk",
+    "df-idk",
+    "opkabssvvki"
+  ]
+}

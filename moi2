@@ -1,0 +1,82 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "/\\",
+    "E*",
+    "x",
+    "ph",
+    ")",
+    "/\\",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    ")",
+    "->",
+    "x",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "moi2",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "moi2.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "",
+    "wph",
+    "vx",
+    "wmo",
+    "",
+    "wa",
+    "",
+    "wph",
+    "wps",
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "",
+    "wph",
+    "wa",
+    "wps",
+    "wph",
+    "wps",
+    "wb",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "moi2.1",
+    "mob2",
+    "3expa",
+    "biimprd",
+    "impr"
+  ]
+}

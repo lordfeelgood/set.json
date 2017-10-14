@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ps"
+  ],
+  "label": "simp2i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "3simp1i.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "w3a",
+    "wps",
+    "3simp1i.1",
+    "wph",
+    "wps",
+    "wch",
+    "simp2",
+    "ax-mp"
+  ]
+}

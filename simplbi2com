@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ch",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "simplbi2com",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "simplbi2com.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wch",
+    "wph",
+    "wph",
+    "wps",
+    "wch",
+    "simplbi2com.1",
+    "simplbi2",
+    "com12"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "u.",
+    "B",
+    ")",
+    "=",
+    "(",
+    "B",
+    "u.",
+    "A",
+    ")"
+  ],
+  "label": "uncom",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccompl",
+    "",
+    "cB",
+    "ccompl",
+    "",
+    "cnin",
+    "cnin",
+    "cA",
+    "cB",
+    "cun",
+    "cB",
+    "cA",
+    "cun",
+    "nincom",
+    "cA",
+    "cB",
+    "df-un",
+    "cB",
+    "cA",
+    "df-un",
+    "3eqtr4i"
+  ]
+}

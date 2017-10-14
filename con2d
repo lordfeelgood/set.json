@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "con2d",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "con2d.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wn",
+    "",
+    "wch",
+    "wn",
+    "wps",
+    "wph",
+    "wch",
+    "wn",
+    "wps",
+    "notnot2",
+    "con2d.1",
+    "syl5",
+    "con4d"
+  ]
+}

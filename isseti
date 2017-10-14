@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "E.",
+    "x",
+    "x",
+    "=",
+    "A"
+  ],
+  "label": "isseti",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "isseti.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "vx",
+    "wex",
+    "isseti.1",
+    "vx",
+    "cA",
+    "isset",
+    "mpbi"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E*",
+    "x",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "E*",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "hbmo1",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wmo",
+    "wph",
+    "vx",
+    "wex",
+    "",
+    "wph",
+    "vx",
+    "weu",
+    "",
+    "wi",
+    "vx",
+    "wph",
+    "vx",
+    "df-mo",
+    "vx",
+    "wph",
+    "vx",
+    "hbe1",
+    "wph",
+    "vx",
+    "hbeu1",
+    "hbim",
+    "hbxfrbi"
+  ]
+}

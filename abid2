@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "x",
+    "e.",
+    "A",
+    "}",
+    "=",
+    "A"
+  ],
+  "label": "abid2",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "cab",
+    "vx",
+    "cA",
+    "biid",
+    "abbi2i",
+    "eqcomi"
+  ]
+}

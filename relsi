@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "SI",
+    "R"
+  ],
+  "label": "relsi",
+  "mandatoryHypotheses": [
+    "cR"
+  ],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "",
+    "csn",
+    "wceq",
+    "cv",
+    "cv",
+    "",
+    "csn",
+    "wceq",
+    "cR",
+    "wbr",
+    "w3a",
+    "wex",
+    "wex",
+    "cR",
+    "csi",
+    "cR",
+    "df-si",
+    "relopabi"
+  ]
+}

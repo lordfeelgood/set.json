@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "o._k",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "o._k",
+    "B",
+    ")"
+  ],
+  "label": "cokeq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cokeq1i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "ccomk",
+    "cC",
+    "cB",
+    "ccomk",
+    "wceq",
+    "cokeq1i.1",
+    "cA",
+    "cB",
+    "cC",
+    "cokeq2",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "|^|_",
+    "x",
+    "e.",
+    "(/)",
+    "A",
+    "=",
+    "_V"
+  ],
+  "label": "0iin",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "c0",
+    "cA",
+    "ciin",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "c0",
+    "wral",
+    "",
+    "cab",
+    "cvv",
+    "vx",
+    "c0",
+    "cA",
+    "df-iin",
+    "cvv",
+    "cvv",
+    "wcel",
+    "vex",
+    "vx",
+    "ral0",
+    "2th",
+    "abbi2i",
+    "eqtr4i"
+  ]
+}

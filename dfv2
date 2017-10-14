@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "_V",
+    "=",
+    "~",
+    "(/)"
+  ],
+  "label": "dfv2",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "ccompl",
+    "cvv",
+    "ccompl",
+    "",
+    "ccompl",
+    "cvv",
+    "c0",
+    "df-nul",
+    "compleqi",
+    "cvv",
+    "dblcompl",
+    "eqtr2i"
+  ]
+}

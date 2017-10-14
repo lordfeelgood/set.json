@@ -1,0 +1,86 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "ran",
+    "F",
+    "=",
+    "{",
+    "y",
+    "|",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "y",
+    "=",
+    "B",
+    "}"
+  ],
+  "label": "rnmpt",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cF",
+    "rnmpt.1"
+  ],
+  "proofSteps": [
+    "cF",
+    "crn",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "vy",
+    "cv",
+    "cB",
+    "wceq",
+    "",
+    "wa",
+    "vx",
+    "vy",
+    "copab",
+    "",
+    "crn",
+    "vx",
+    "cA",
+    "wrex",
+    "vy",
+    "cab",
+    "cF",
+    "cF",
+    "vx",
+    "cA",
+    "cB",
+    "cmpt",
+    "rnmpt.1",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "df-mpt",
+    "eqtri",
+    "rneqi",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "rnopab2",
+    "eqtri"
+  ]
+}

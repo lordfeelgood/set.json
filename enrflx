@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "~~",
+    "A"
+  ],
+  "label": "enrflx",
+  "mandatoryHypotheses": [
+    "cA",
+    "enrflx.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cA",
+    "cen",
+    "wbr",
+    "enrflx.1",
+    "cA",
+    "cvv",
+    "enrflxg",
+    "ax-mp"
+  ]
+}

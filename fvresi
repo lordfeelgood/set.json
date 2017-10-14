@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "B",
+    "e.",
+    "A",
+    "->",
+    "(",
+    "(",
+    "_I",
+    "|`",
+    "A",
+    ")",
+    "`",
+    "B",
+    ")",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "fvresi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cB",
+    "cA",
+    "wcel",
+    "cB",
+    "cid",
+    "cA",
+    "cres",
+    "cfv",
+    "cB",
+    "cid",
+    "cfv",
+    "cB",
+    "cB",
+    "cA",
+    "cid",
+    "fvres",
+    "cB",
+    "cA",
+    "fvi",
+    "eqtrd"
+  ]
+}

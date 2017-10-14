@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    "}",
+    "=",
+    "{",
+    "B",
+    "}"
+  ],
+  "label": "sneqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "sneqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "csn",
+    "cB",
+    "csn",
+    "wceq",
+    "sneqi.1",
+    "cA",
+    "cB",
+    "sneq",
+    "ax-mp"
+  ]
+}

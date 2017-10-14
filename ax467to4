@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "ph",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "ax467to4",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wal",
+    "",
+    "vx",
+    "wal",
+    "wn",
+    "vx",
+    "wal",
+    "vx",
+    "wal",
+    "",
+    "wi",
+    "wph",
+    "ax-1",
+    "wph",
+    "vx",
+    "vx",
+    "ax467",
+    "syl"
+  ]
+}

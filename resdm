@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "A",
+    "->",
+    "(",
+    "A",
+    "|`",
+    "dom",
+    "A",
+    ")",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "resdm",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "wrel",
+    "cA",
+    "cdm",
+    "",
+    "wss",
+    "cA",
+    "cres",
+    "cA",
+    "wceq",
+    "ssid",
+    "cA",
+    "relssres",
+    "mpan2"
+  ]
+}

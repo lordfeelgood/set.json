@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "C",
+    "R",
+    "D",
+    ")"
+  ],
+  "label": "3brtr4g",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "cR",
+    "3brtr4g.1",
+    "3brtr4g.2",
+    "3brtr4g.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "cR",
+    "wbr",
+    "cC",
+    "cD",
+    "cR",
+    "wbr",
+    "3brtr4g.1",
+    "cC",
+    "cA",
+    "cD",
+    "cB",
+    "cR",
+    "3brtr4g.2",
+    "3brtr4g.3",
+    "breq12i",
+    "sylibr"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "y"
+    ],
+    [
+      "ps",
+      "x"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E*",
+    "x",
+    "ph",
+    "<->",
+    "A.",
+    "x",
+    "A.",
+    "y",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "x",
+    "=",
+    "y",
+    ")",
+    ")"
+  ],
+  "label": "mo4",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "mo4.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "wps",
+    "vx",
+    "ax-17",
+    "mo4.1",
+    "mo4f"
+  ]
+}

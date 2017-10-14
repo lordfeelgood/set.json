@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "<->",
+    "ps",
+    ")"
+  ],
+  "label": "elab",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "elab.1",
+    "elab.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "wps",
+    "vx",
+    "ax-17",
+    "elab.1",
+    "elab.2",
+    "elabf"
+  ]
+}

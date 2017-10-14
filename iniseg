@@ -1,0 +1,68 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "`'",
+    "A",
+    "\"",
+    "{",
+    "B",
+    "}",
+    ")",
+    "=",
+    "{",
+    "x",
+    "|",
+    "x",
+    "A",
+    "B",
+    "}"
+  ],
+  "label": "iniseg",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccnv",
+    "",
+    "cB",
+    "csn",
+    "cima",
+    "cB",
+    "vx",
+    "cv",
+    "",
+    "wbr",
+    "",
+    "vx",
+    "cab",
+    "cB",
+    "cA",
+    "wbr",
+    "",
+    "vx",
+    "cab",
+    "vx",
+    "cB",
+    "imasn",
+    "vx",
+    "cB",
+    "cA",
+    "brcnv",
+    "abbii",
+    "eqtri"
+  ]
+}

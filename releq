@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "->",
+    "(",
+    "Rel",
+    "A",
+    "<->",
+    "Rel",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "releq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cvv",
+    "cvv",
+    "cxp",
+    "",
+    "wss",
+    "cB",
+    "wss",
+    "cA",
+    "wrel",
+    "cB",
+    "wrel",
+    "cA",
+    "cB",
+    "sseq1",
+    "cA",
+    "df-rel",
+    "cB",
+    "df-rel",
+    "3bitr4g"
+  ]
+}

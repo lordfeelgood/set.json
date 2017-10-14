@@ -1,0 +1,67 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "z"
+    ],
+    [
+      "x",
+      "z"
+    ],
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "=",
+    "y",
+    "->",
+    "A",
+    "=",
+    "{",
+    "z",
+    "|",
+    "[",
+    "y",
+    "/",
+    "x",
+    "]",
+    "z",
+    "e.",
+    "A",
+    "}",
+    ")"
+  ],
+  "label": "sbab",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "",
+    "wceq",
+    "vz",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "wsbc",
+    "vz",
+    "cA",
+    "vx",
+    "vy",
+    "sbequ12",
+    "abbi2dv"
+  ]
+}

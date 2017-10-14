@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "(/)",
+    "e.",
+    "1c"
+  ],
+  "label": "0nel1c",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "c1c",
+    "wcel",
+    "c0",
+    "cv",
+    "",
+    "csn",
+    "",
+    "wceq",
+    "",
+    "wex",
+    "wn",
+    "cvv",
+    "wcel",
+    "",
+    "vex",
+    "wn",
+    "c0",
+    "wceq",
+    "snprc",
+    "c0",
+    "eqcom",
+    "bitri",
+    "con1bii",
+    "mpbir",
+    "nex",
+    "c0",
+    "el1c",
+    "mtbir"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "ch",
+      "x"
+    ],
+    [
+      "ch",
+      "y"
+    ],
+    [
+      "ph",
+      "x"
+    ],
+    [
+      "ph",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "E.",
+    "x",
+    "E.",
+    "y",
+    "ps",
+    "->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "exlimdvv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "vy",
+    "exlimdvv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vy",
+    "wex",
+    "wch",
+    "vx",
+    "wph",
+    "wps",
+    "wch",
+    "vy",
+    "exlimdvv.1",
+    "exlimdv",
+    "exlimdv"
+  ]
+}

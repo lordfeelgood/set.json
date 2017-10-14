@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "~P",
+    "{",
+    "A",
+    "}",
+    "=",
+    "{",
+    "(/)",
+    ",",
+    "{",
+    "A",
+    "}",
+    "}"
+  ],
+  "label": "pwsn",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cv",
+    "",
+    "cA",
+    "csn",
+    "",
+    "wss",
+    "",
+    "cab",
+    "c0",
+    "wceq",
+    "wceq",
+    "wo",
+    "",
+    "cab",
+    "cpw",
+    "c0",
+    "cpr",
+    "cA",
+    "sssn",
+    "abbii",
+    "df-pw",
+    "c0",
+    "dfpr2",
+    "3eqtr4i"
+  ]
+}

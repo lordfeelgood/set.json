@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ran",
+    "(",
+    "A",
+    "o.",
+    "B",
+    ")",
+    "=",
+    "(",
+    "A",
+    "\"",
+    "ran",
+    "B",
+    ")"
+  ],
+  "label": "rnco2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "ccom",
+    "crn",
+    "cA",
+    "cB",
+    "crn",
+    "",
+    "cres",
+    "crn",
+    "cA",
+    "cima",
+    "cA",
+    "cB",
+    "rnco",
+    "cA",
+    "dfima3",
+    "eqtr4i"
+  ]
+}

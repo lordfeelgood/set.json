@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [
+    [
+      "ps",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "A.",
+    "x",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "dvelim",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "dvelim.1",
+    "dvelim.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "vz",
+    "dvelim.1",
+    "wps",
+    "vz",
+    "ax-17",
+    "dvelim.2",
+    "dvelimf"
+  ]
+}

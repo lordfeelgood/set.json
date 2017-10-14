@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "<->",
+    "(",
+    "ps",
+    "/\\",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "biadan2",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "biadan2.1",
+    "biadan2.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wph",
+    "wa",
+    "wps",
+    "wch",
+    "wa",
+    "wph",
+    "wps",
+    "biadan2.1",
+    "pm4.71ri",
+    "wps",
+    "wph",
+    "wch",
+    "biadan2.2",
+    "pm5.32i",
+    "bitri"
+  ]
+}

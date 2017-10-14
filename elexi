@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "elexi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "elisseti.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "cA",
+    "cvv",
+    "wcel",
+    "elisseti.1",
+    "cA",
+    "cB",
+    "elex",
+    "ax-mp"
+  ]
+}

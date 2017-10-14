@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "<->",
+    "A",
+    "=",
+    "(",
+    "A",
+    "i^i",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "dfss",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "cB",
+    "cin",
+    "",
+    "cA",
+    "wceq",
+    "cA",
+    "wceq",
+    "cA",
+    "cB",
+    "df-ss",
+    "cA",
+    "eqcom",
+    "bitri"
+  ]
+}

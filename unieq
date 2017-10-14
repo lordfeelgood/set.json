@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "->",
+    "U.",
+    "A",
+    "=",
+    "U.",
+    "B",
+    ")"
+  ],
+  "label": "unieq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "cv",
+    "cv",
+    "wcel",
+    "",
+    "cA",
+    "wrex",
+    "",
+    "cab",
+    "cB",
+    "wrex",
+    "",
+    "cab",
+    "cA",
+    "cuni",
+    "cB",
+    "cuni",
+    "cA",
+    "cB",
+    "rexeq",
+    "abbidv",
+    "cA",
+    "dfuni2",
+    "cB",
+    "dfuni2",
+    "3eqtr4g"
+  ]
+}

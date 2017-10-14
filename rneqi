@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ran",
+    "A",
+    "=",
+    "ran",
+    "B"
+  ],
+  "label": "rneqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "rneqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "crn",
+    "cB",
+    "crn",
+    "wceq",
+    "rneqi.1",
+    "cA",
+    "cB",
+    "rneq",
+    "ax-mp"
+  ]
+}

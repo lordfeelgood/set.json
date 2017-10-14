@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "con4d",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "con4d.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wn",
+    "wch",
+    "wn",
+    "wi",
+    "wch",
+    "wps",
+    "wi",
+    "con4d.1",
+    "wps",
+    "wch",
+    "ax-3",
+    "syl"
+  ]
+}

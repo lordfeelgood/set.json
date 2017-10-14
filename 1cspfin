@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "_V",
+    "e.",
+    "Fin",
+    "->",
+    "Nc[fin]",
+    "1c",
+    "e.",
+    "Sp[fin]",
+    ")"
+  ],
+  "label": "1cspfin",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cvv",
+    "cfin",
+    "wcel",
+    "cvv",
+    "cncfin",
+    "",
+    "cspfin",
+    "wcel",
+    "c1c",
+    "cncfin",
+    "",
+    "wsfin",
+    "cspfin",
+    "wcel",
+    "ncvspfin",
+    "1cvsfin",
+    "spfinsfincl",
+    "sylancr"
+  ]
+}

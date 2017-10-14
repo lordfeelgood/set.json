@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "dom",
+    "A",
+    "e.",
+    "_V",
+    ")"
+  ],
+  "label": "dmexg",
+  "mandatoryHypotheses": [
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "",
+    "cA",
+    "cdm",
+    "cA",
+    "ccnv",
+    "",
+    "crn",
+    "",
+    "cvv",
+    "cA",
+    "df-dm",
+    "cvv",
+    "wcel",
+    "cvv",
+    "wcel",
+    "cA",
+    "cV",
+    "cnvexg",
+    "cvv",
+    "rnexg",
+    "syl",
+    "syl5eqel"
+  ]
+}

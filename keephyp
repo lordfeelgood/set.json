@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "th"
+  ],
+  "label": "keephyp",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "cA",
+    "cB",
+    "keephyp.1",
+    "keephyp.2",
+    "keephyp.3",
+    "keephyp.4"
+  ],
+  "proofSteps": [
+    "wps",
+    "wch",
+    "wth",
+    "keephyp.3",
+    "keephyp.4",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "cA",
+    "cB",
+    "keephyp.1",
+    "keephyp.2",
+    "ifboth",
+    "mp2an"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "(",
+    "ph",
+    "\\/",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "-.",
+    "ph",
+    "/\\",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "ioran",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "",
+    "wps",
+    "wi",
+    "wps",
+    "wn",
+    "wa",
+    "wph",
+    "wps",
+    "wo",
+    "wps",
+    "pm4.61",
+    "wph",
+    "wps",
+    "pm4.64",
+    "xchnxbi"
+  ]
+}

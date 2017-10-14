@@ -1,0 +1,66 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "ps",
+      "x"
+    ],
+    [
+      "ps",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "E.",
+    "y",
+    "e.",
+    "B",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "rexlimivv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "rexlimivv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "cB",
+    "wrex",
+    "wps",
+    "vx",
+    "cA",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wps",
+    "vy",
+    "cB",
+    "rexlimivv.1",
+    "rexlimdva",
+    "rexlimiv"
+  ]
+}

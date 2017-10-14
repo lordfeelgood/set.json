@@ -1,0 +1,57 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "{",
+    "x",
+    "e.",
+    "A",
+    "|",
+    "ps",
+    "}",
+    "=",
+    "{",
+    "x",
+    "e.",
+    "A",
+    "|",
+    "ch",
+    "}",
+    ")"
+  ],
+  "label": "rabbidv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "rabbidv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "wph",
+    "wps",
+    "wch",
+    "wb",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "rabbidv.1",
+    "adantr",
+    "rabbidva"
+  ]
+}

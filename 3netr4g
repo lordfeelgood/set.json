@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "C",
+    "=/=",
+    "D",
+    ")"
+  ],
+  "label": "3netr4g",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "3netr4g.1",
+    "3netr4g.2",
+    "3netr4g.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wne",
+    "cC",
+    "cD",
+    "wne",
+    "3netr4g.1",
+    "cC",
+    "cA",
+    "cD",
+    "cB",
+    "3netr4g.2",
+    "3netr4g.3",
+    "neeq12i",
+    "sylibr"
+  ]
+}

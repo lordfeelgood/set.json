@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "ph",
+    "<->",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "xor3",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wn",
+    "wb",
+    "",
+    "wph",
+    "wps",
+    "wb",
+    "",
+    "wn",
+    "wph",
+    "wps",
+    "pm5.18",
+    "con2bii",
+    "bicomi"
+  ]
+}

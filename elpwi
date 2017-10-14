@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "~P",
+    "B",
+    "->",
+    "A",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "elpwi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cpw",
+    "",
+    "wcel",
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "cB",
+    "elpwg",
+    "ibi"
+  ]
+}

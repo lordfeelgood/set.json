@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ps",
+    "<->",
+    "(",
+    "ps",
+    "<->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "nbn",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "nbn.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wb",
+    "",
+    "wps",
+    "wn",
+    "",
+    "wph",
+    "wn",
+    "wb",
+    "nbn.1",
+    "wps",
+    "wph",
+    "bibif",
+    "ax-mp",
+    "bicomi"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "E*",
+    "x",
+    "(",
+    "ps",
+    "/\\",
+    "ph",
+    ")"
+  ],
+  "label": "moani",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "moani.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wmo",
+    "wps",
+    "wph",
+    "wa",
+    "vx",
+    "wmo",
+    "moani.1",
+    "wph",
+    "wps",
+    "vx",
+    "moan",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=/=",
+    "C",
+    "<->",
+    "B",
+    "=/=",
+    "D",
+    ")"
+  ],
+  "label": "neeq12i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "neeq1i.1",
+    "neeq12i.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "wne",
+    "cA",
+    "cD",
+    "wne",
+    "cB",
+    "cD",
+    "wne",
+    "cC",
+    "cD",
+    "cA",
+    "neeq12i.2",
+    "neeq2i",
+    "cA",
+    "cB",
+    "cD",
+    "neeq1i.1",
+    "neeq1i",
+    "bitri"
+  ]
+}

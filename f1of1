@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    ":",
+    "A",
+    "-1-1-onto->",
+    "B",
+    "->",
+    "F",
+    ":",
+    "A",
+    "-1-1->",
+    "B",
+    ")"
+  ],
+  "label": "f1of1",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cF",
+    "wf1o",
+    "cA",
+    "cB",
+    "cF",
+    "wf1",
+    "cA",
+    "cB",
+    "cF",
+    "wfo",
+    "cA",
+    "cB",
+    "cF",
+    "df-f1o",
+    "simplbi"
+  ]
+}

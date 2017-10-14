@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "=",
+    "B",
+    "/\\",
+    "B",
+    "=/=",
+    "C",
+    ")",
+    "->",
+    "A",
+    "=/=",
+    "C",
+    ")"
+  ],
+  "label": "pm13.181",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cB",
+    "cA",
+    "wceq",
+    "cB",
+    "cC",
+    "wne",
+    "cA",
+    "cC",
+    "wne",
+    "cA",
+    "cB",
+    "eqcom",
+    "cB",
+    "cA",
+    "cC",
+    "pm13.18",
+    "sylanb"
+  ]
+}

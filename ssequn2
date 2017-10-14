@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "<->",
+    "(",
+    "B",
+    "u.",
+    "A",
+    ")",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "ssequn2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "cB",
+    "cun",
+    "",
+    "cB",
+    "wceq",
+    "cB",
+    "cA",
+    "cun",
+    "",
+    "cB",
+    "wceq",
+    "cA",
+    "cB",
+    "ssequn1",
+    "cB",
+    "cA",
+    "cB",
+    "uncom",
+    "eqeq1i",
+    "bitri"
+  ]
+}

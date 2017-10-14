@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "[_",
+    "A",
+    "/",
+    "x",
+    "]_",
+    "B",
+    "e.",
+    "_V"
+  ],
+  "label": "csbex",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "csbex.1",
+    "csbex.2"
+  ],
+  "proofSteps": [
+    "cB",
+    "cvv",
+    "wcel",
+    "",
+    "vx",
+    "cA",
+    "cB",
+    "csb",
+    "cvv",
+    "wcel",
+    "",
+    "vx",
+    "cA",
+    "cvv",
+    "wcel",
+    "vx",
+    "wal",
+    "csbex.1",
+    "vx",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "csbexg",
+    "mpan",
+    "csbex.2",
+    "mpg"
+  ]
+}

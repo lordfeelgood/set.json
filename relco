@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "(",
+    "A",
+    "o.",
+    "B",
+    ")"
+  ],
+  "label": "relco",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "",
+    "cB",
+    "wbr",
+    "cv",
+    "cA",
+    "wbr",
+    "wa",
+    "wex",
+    "cA",
+    "cB",
+    "ccom",
+    "cA",
+    "cB",
+    "df-co",
+    "relopabi"
+  ]
+}

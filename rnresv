@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ran",
+    "(",
+    "A",
+    "|`",
+    "_V",
+    ")",
+    "=",
+    "ran",
+    "A"
+  ],
+  "label": "rnresv",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccnv",
+    "ccnv",
+    "",
+    "crn",
+    "cA",
+    "cvv",
+    "cres",
+    "",
+    "crn",
+    "cA",
+    "crn",
+    "cA",
+    "cnvcnv2",
+    "rneqi",
+    "cA",
+    "rncnvcnv",
+    "eqtr3i"
+  ]
+}

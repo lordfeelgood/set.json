@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "if",
+    "(",
+    "ph",
+    ",",
+    "A",
+    ",",
+    "A",
+    ")",
+    "=",
+    "A"
+  ],
+  "label": "ifid",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "cA",
+    "cA",
+    "cif",
+    "cA",
+    "wceq",
+    "wph",
+    "cA",
+    "cA",
+    "iftrue",
+    "wph",
+    "cA",
+    "cA",
+    "iffalse",
+    "pm2.61i"
+  ]
+}

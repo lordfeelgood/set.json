@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "<->",
+    "(",
+    "B",
+    "i^i",
+    "A",
+    ")",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "sseqin2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "cB",
+    "cin",
+    "",
+    "cA",
+    "wceq",
+    "cB",
+    "cA",
+    "cin",
+    "",
+    "cA",
+    "wceq",
+    "cA",
+    "cB",
+    "df-ss",
+    "cA",
+    "cA",
+    "cB",
+    "incom",
+    "eqeq1i",
+    "bitri"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "Fun",
+    "{",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    "|",
+    "(",
+    "ph",
+    "/\\",
+    "y",
+    "=",
+    "A",
+    ")",
+    "}"
+  ],
+  "label": "funopab4",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "cv",
+    "cA",
+    "wceq",
+    "",
+    "wa",
+    "",
+    "vx",
+    "vy",
+    "copab",
+    "",
+    "vx",
+    "vy",
+    "copab",
+    "",
+    "wss",
+    "wfun",
+    "wfun",
+    "vx",
+    "vy",
+    "wph",
+    "simpr",
+    "ssopab2i",
+    "vx",
+    "vy",
+    "cA",
+    "funopabeq",
+    "funss",
+    "mp2"
+  ]
+}

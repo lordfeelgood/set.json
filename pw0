@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "~P",
+    "(/)",
+    "=",
+    "{",
+    "(/)",
+    "}"
+  ],
+  "label": "pw0",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "",
+    "c0",
+    "wss",
+    "",
+    "cab",
+    "c0",
+    "wceq",
+    "",
+    "cab",
+    "c0",
+    "cpw",
+    "c0",
+    "csn",
+    "ss0b",
+    "abbii",
+    "c0",
+    "df-pw",
+    "c0",
+    "df-sn",
+    "3eqtr4i"
+  ]
+}

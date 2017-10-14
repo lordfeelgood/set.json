@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "x"
+  ],
+  "label": "stdpc6",
+  "mandatoryHypotheses": [
+    "vx"
+  ],
+  "proofSteps": [
+    "vx",
+    "vx",
+    "weq",
+    "vx",
+    "vx",
+    "equid",
+    "ax-gen"
+  ]
+}

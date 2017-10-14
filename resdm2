@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "|`",
+    "dom",
+    "A",
+    ")",
+    "=",
+    "`'",
+    "`'",
+    "A"
+  ],
+  "label": "resdm2",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccnv",
+    "",
+    "ccnv",
+    "",
+    "cdm",
+    "",
+    "cres",
+    "",
+    "cA",
+    "cres",
+    "cA",
+    "cA",
+    "cdm",
+    "",
+    "cres",
+    "cA",
+    "rescnvcnv",
+    "wrel",
+    "wceq",
+    "relcnv",
+    "resdm",
+    "ax-mp",
+    "cA",
+    "cA",
+    "dmcnvcnv",
+    "reseq2i",
+    "3eqtr3ri"
+  ]
+}

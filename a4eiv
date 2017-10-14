@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "E.",
+    "x",
+    "ph"
+  ],
+  "label": "a4eiv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "a4eiv.1",
+    "a4eiv.2"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "vx",
+    "wex",
+    "a4eiv.2",
+    "wps",
+    "wph",
+    "vx",
+    "vy",
+    "vx",
+    "vy",
+    "weq",
+    "wph",
+    "wps",
+    "a4eiv.1",
+    "biimprd",
+    "a4imev",
+    "ax-mp"
+  ]
+}

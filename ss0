@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "(/)",
+    "->",
+    "A",
+    "=",
+    "(/)",
+    ")"
+  ],
+  "label": "ss0",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "wss",
+    "cA",
+    "c0",
+    "wceq",
+    "cA",
+    "ss0b",
+    "biimpi"
+  ]
+}

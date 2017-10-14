@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "y",
+    "=",
+    "A",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "hbeleq",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "hbeleq.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "vy",
+    "cv",
+    "",
+    "cA",
+    "cv",
+    "wcel",
+    "vx",
+    "ax-17",
+    "hbeleq.1",
+    "hbeq"
+  ]
+}

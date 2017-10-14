@@ -1,0 +1,81 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "E.",
+    "y",
+    "ph",
+    "<->",
+    "E.",
+    "y",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    ")"
+  ],
+  "label": "rexcom4",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "cvv",
+    "wrex",
+    "",
+    "vx",
+    "cA",
+    "wrex",
+    "wph",
+    "vx",
+    "cA",
+    "wrex",
+    "",
+    "vy",
+    "cvv",
+    "wrex",
+    "wph",
+    "vy",
+    "wex",
+    "",
+    "vx",
+    "cA",
+    "wrex",
+    "vy",
+    "wex",
+    "wph",
+    "vx",
+    "vy",
+    "cA",
+    "cvv",
+    "rexcom",
+    "vx",
+    "cA",
+    "wph",
+    "vy",
+    "rexv",
+    "rexbii",
+    "vy",
+    "rexv",
+    "3bitr3i"
+  ]
+}

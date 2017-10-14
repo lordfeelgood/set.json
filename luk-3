@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "-.",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "luk-3",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "",
+    "wps",
+    "wi",
+    "",
+    "wi",
+    "wi",
+    "wph",
+    "wi",
+    "wps",
+    "merlem11",
+    "wph",
+    "wps",
+    "merlem1",
+    "ax-mp"
+  ]
+}

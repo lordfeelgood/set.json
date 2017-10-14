@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "E.",
+    "y",
+    "ph",
+    "<->",
+    "E.",
+    "y",
+    "E.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "excom",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "wex",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "wex",
+    "vy",
+    "wex",
+    "wph",
+    "vx",
+    "vy",
+    "excomim",
+    "wph",
+    "vy",
+    "vx",
+    "excomim",
+    "impbii"
+  ]
+}

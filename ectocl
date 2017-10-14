@@ -1,0 +1,71 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "R",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "S",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "ectocl",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "cR",
+    "cS",
+    "ectocl.1",
+    "ectocl.2",
+    "ectocl.3"
+  ],
+  "proofSteps": [
+    "wtru",
+    "cA",
+    "cS",
+    "wcel",
+    "wps",
+    "tru",
+    "wph",
+    "wps",
+    "wtru",
+    "vx",
+    "cA",
+    "cB",
+    "cR",
+    "cS",
+    "ectocl.1",
+    "ectocl.2",
+    "vx",
+    "cv",
+    "cB",
+    "wcel",
+    "wph",
+    "wtru",
+    "ectocl.3",
+    "adantl",
+    "ectocld",
+    "mpan"
+  ]
+}

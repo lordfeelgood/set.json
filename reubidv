@@ -1,0 +1,55 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "E!",
+    "x",
+    "e.",
+    "A",
+    "ps",
+    "<->",
+    "E!",
+    "x",
+    "e.",
+    "A",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "reubidv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "reubidv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "cA",
+    "wph",
+    "wps",
+    "wch",
+    "wb",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "reubidv.1",
+    "adantr",
+    "reubidva"
+  ]
+}

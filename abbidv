@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "{",
+    "x",
+    "|",
+    "ps",
+    "}",
+    "=",
+    "{",
+    "x",
+    "|",
+    "ch",
+    "}",
+    ")"
+  ],
+  "label": "abbidv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "abbidv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "vx",
+    "wph",
+    "vx",
+    "ax-17",
+    "abbidv.1",
+    "abbid"
+  ]
+}

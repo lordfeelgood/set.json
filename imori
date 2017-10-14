@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ph",
+    "\\/",
+    "ps",
+    ")"
+  ],
+  "label": "imori",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "imori.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "wn",
+    "wps",
+    "wo",
+    "imori.1",
+    "wph",
+    "wps",
+    "imor",
+    "mpbi"
+  ]
+}

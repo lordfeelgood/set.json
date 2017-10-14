@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "mpan2",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "mpan2.1",
+    "mpan2.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wps",
+    "wph",
+    "mpan2.1",
+    "a1i",
+    "mpan2.2",
+    "mpdan"
+  ]
+}

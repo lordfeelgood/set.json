@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "th",
+    ")",
+    ")"
+  ],
+  "label": "mpdd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mpdd.1",
+    "mpdd.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wi",
+    "wps",
+    "wth",
+    "wi",
+    "mpdd.1",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mpdd.2",
+    "a2d",
+    "mpd"
+  ]
+}

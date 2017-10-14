@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "ecase3d",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "ecase3d.1",
+    "ecase3d.2",
+    "ecase3d.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wo",
+    "wth",
+    "wph",
+    "wps",
+    "wth",
+    "wch",
+    "ecase3d.1",
+    "ecase3d.2",
+    "jaod",
+    "ecase3d.3",
+    "pm2.61d"
+  ]
+}

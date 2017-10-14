@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "_I",
+    "=",
+    "{",
+    "<.",
+    "x",
+    ",",
+    "x",
+    ">.",
+    "|",
+    "x",
+    "=",
+    "x",
+    "}"
+  ],
+  "label": "dfid2",
+  "mandatoryHypotheses": [
+    "vx"
+  ],
+  "proofSteps": [
+    "vx",
+    "vx",
+    "dfid3"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [
+    [
+      "C",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "C_",
+    "|^|_",
+    "x",
+    "e.",
+    "A",
+    "B",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "C",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "ssiin",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "cv",
+    "cC",
+    "wcel",
+    "vx",
+    "ax-17",
+    "ssiinf"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "=/=",
+    "D",
+    "->",
+    "A",
+    "=/=",
+    "B",
+    ")"
+  ],
+  "label": "necon3i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "necon3i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cD",
+    "wceq",
+    "wi",
+    "",
+    "cC",
+    "cD",
+    "wne",
+    "cA",
+    "cB",
+    "wne",
+    "wi",
+    "necon3i.1",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "id",
+    "necon3d",
+    "ax-mp"
+  ]
+}

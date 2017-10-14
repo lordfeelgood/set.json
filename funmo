@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "A",
+    "->",
+    "E*",
+    "y",
+    "x",
+    "A",
+    "y",
+    ")"
+  ],
+  "label": "funmo",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "wfun",
+    "",
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "cA",
+    "wbr",
+    "vy",
+    "wmo",
+    "",
+    "vx",
+    "cA",
+    "wrel",
+    "vx",
+    "wal",
+    "vx",
+    "vy",
+    "cA",
+    "dffun6",
+    "simprbi",
+    "19.21bi"
+  ]
+}

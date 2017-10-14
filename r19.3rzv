@@ -1,0 +1,80 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=/=",
+    "(/)",
+    "->",
+    "(",
+    "ph",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "r19.3rzv",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "wne",
+    "",
+    "wph",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "wex",
+    "",
+    "wph",
+    "wi",
+    "",
+    "wph",
+    "vx",
+    "cA",
+    "wral",
+    "",
+    "wph",
+    "wb",
+    "vx",
+    "cA",
+    "n0",
+    "wph",
+    "biimt",
+    "sylbi",
+    "wph",
+    "wi",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "cA",
+    "df-ral",
+    "wph",
+    "vx",
+    "19.23v",
+    "bitri",
+    "syl6bbr"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ps",
+    "->",
+    "(",
+    "-.",
+    "ph",
+    "<->",
+    "(",
+    "ch",
+    "/\\",
+    "ps",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "ninba",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "ninba.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wn",
+    "wch",
+    "wps",
+    "wa",
+    "wph",
+    "wn",
+    "wph",
+    "wps",
+    "wch",
+    "ninba.1",
+    "niabn",
+    "bicomd"
+  ]
+}

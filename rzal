@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "(/)",
+    "->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    ")"
+  ],
+  "label": "rzal",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "wceq",
+    "",
+    "wph",
+    "vx",
+    "cA",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "",
+    "wph",
+    "cA",
+    "c0",
+    "cA",
+    "ne0i",
+    "necon2bi",
+    "pm2.21d",
+    "ralrimiv"
+  ]
+}

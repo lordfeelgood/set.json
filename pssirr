@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "A",
+    "C.",
+    "A"
+  ],
+  "label": "pssirr",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "wpss",
+    "cA",
+    "cA",
+    "wss",
+    "",
+    "wn",
+    "wa",
+    "pm3.24",
+    "cA",
+    "cA",
+    "dfpss3",
+    "mtbir"
+  ]
+}

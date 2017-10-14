@@ -1,0 +1,22 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Fin",
+    "e.",
+    "_V"
+  ],
+  "label": "finex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cfin",
+    "cnnc",
+    "cuni",
+    "cvv",
+    "df-fin",
+    "cnnc",
+    "nncex",
+    "uniex",
+    "eqeltri"
+  ]
+}

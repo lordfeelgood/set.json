@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "<->",
+    "F",
+    ":",
+    "A",
+    "-->",
+    "_V",
+    ")"
+  ],
+  "label": "dffn2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "",
+    "cF",
+    "crn",
+    "",
+    "cvv",
+    "wss",
+    "",
+    "wa",
+    "cA",
+    "cvv",
+    "cF",
+    "wf",
+    "ssv",
+    "biantru",
+    "cA",
+    "cvv",
+    "cF",
+    "df-f",
+    "bitr4i"
+  ]
+}

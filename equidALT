@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "x",
+    "=",
+    "x"
+  ],
+  "label": "equidALT",
+  "mandatoryHypotheses": [
+    "vx"
+  ],
+  "proofSteps": [
+    "vx",
+    "vx",
+    "weq",
+    "",
+    "vx",
+    "wal",
+    "",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "vx",
+    "vx",
+    "vx",
+    "vx",
+    "ax-12",
+    "pm2.43i",
+    "alimi",
+    "vx",
+    "vx",
+    "ax-9o",
+    "syl",
+    "vx",
+    "ax-6o",
+    "pm2.61i"
+  ]
+}

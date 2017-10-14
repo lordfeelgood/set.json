@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "=/=",
+    "C"
+  ],
+  "label": "eqnetri",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "eqnetr.1",
+    "eqnetr.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "wne",
+    "cB",
+    "cC",
+    "wne",
+    "eqnetr.2",
+    "cA",
+    "cB",
+    "cC",
+    "eqnetr.1",
+    "neeq1i",
+    "mpbir"
+  ]
+}

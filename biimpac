@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ps",
+    "/\\",
+    "ph",
+    ")",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "biimpac",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "biimpa.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "biimpa.1",
+    "biimpcd",
+    "imp"
+  ]
+}

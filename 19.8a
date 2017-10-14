@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "E.",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "19.8a",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wn",
+    "",
+    "vx",
+    "wal",
+    "",
+    "wn",
+    "wph",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "ax-4",
+    "con2i",
+    "wph",
+    "vx",
+    "df-ex",
+    "sylibr"
+  ]
+}

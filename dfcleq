@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "<->",
+    "A.",
+    "x",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "<->",
+    "x",
+    "e.",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "dfcleq",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cB",
+    "vx",
+    "ax-ext",
+    "df-cleq"
+  ]
+}

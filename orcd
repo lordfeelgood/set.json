@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "\\/",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "orcd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "orcd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wps",
+    "wch",
+    "wo",
+    "orcd.1",
+    "wps",
+    "wch",
+    "orc",
+    "syl"
+  ]
+}

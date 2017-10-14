@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Fix",
+    "R",
+    "e.",
+    "_V"
+  ],
+  "label": "fixex",
+  "mandatoryHypotheses": [
+    "cR",
+    "fixex.1"
+  ],
+  "proofSteps": [
+    "cR",
+    "cvv",
+    "wcel",
+    "cR",
+    "cfix",
+    "cvv",
+    "wcel",
+    "fixex.1",
+    "cR",
+    "cvv",
+    "fixexg",
+    "ax-mp"
+  ]
+}

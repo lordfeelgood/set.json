@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "<->",
+    "F",
+    ":",
+    "A",
+    "-onto->",
+    "ran",
+    "F",
+    ")"
+  ],
+  "label": "dffn4",
+  "mandatoryHypotheses": [
+    "cA",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "",
+    "cF",
+    "crn",
+    "",
+    "wceq",
+    "",
+    "wa",
+    "cA",
+    "cF",
+    "wfo",
+    "eqid",
+    "biantru",
+    "cA",
+    "cF",
+    "df-fo",
+    "bitr4i"
+  ]
+}

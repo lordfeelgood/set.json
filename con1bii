@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ps",
+    "<->",
+    "ph",
+    ")"
+  ],
+  "label": "con1bii",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "con1bii.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wn",
+    "wph",
+    "wph",
+    "wn",
+    "wps",
+    "wph",
+    "notnot",
+    "con1bii.1",
+    "xchbinx",
+    "bicomi"
+  ]
+}

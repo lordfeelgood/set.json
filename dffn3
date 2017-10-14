@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "<->",
+    "F",
+    ":",
+    "A",
+    "-->",
+    "ran",
+    "F",
+    ")"
+  ],
+  "label": "dffn3",
+  "mandatoryHypotheses": [
+    "cA",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "wfn",
+    "",
+    "cF",
+    "crn",
+    "",
+    "wss",
+    "",
+    "wa",
+    "cA",
+    "cF",
+    "wf",
+    "ssid",
+    "biantru",
+    "cA",
+    "cF",
+    "df-f",
+    "bitr4i"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E*",
+    "x",
+    "ph",
+    "->",
+    "E*",
+    "x",
+    "(",
+    "ps",
+    "/\\",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "moan",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wa",
+    "wph",
+    "vx",
+    "wps",
+    "wph",
+    "simpr",
+    "immoi"
+  ]
+}

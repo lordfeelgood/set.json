@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "T_c",
+    "Nc",
+    "_V",
+    "=",
+    "Nc",
+    "1c"
+  ],
+  "label": "tcncv",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cvv",
+    "cnc",
+    "ctc",
+    "cvv",
+    "cpw1",
+    "",
+    "cnc",
+    "c1c",
+    "cnc",
+    "cvv",
+    "vvex",
+    "tcnc",
+    "c1c",
+    "df1c2",
+    "nceqi",
+    "eqtr4i"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    "}",
+    "~~",
+    "{",
+    "B",
+    "}"
+  ],
+  "label": "ensn",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "ensn.1",
+    "ensn.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "csn",
+    "cB",
+    "csn",
+    "cen",
+    "wbr",
+    "ensn.1",
+    "ensn.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "en2sn",
+    "mp2an"
+  ]
+}

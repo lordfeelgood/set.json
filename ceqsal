@@ -1,0 +1,59 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "(",
+    "x",
+    "=",
+    "A",
+    "->",
+    "ph",
+    ")",
+    "<->",
+    "ps",
+    ")"
+  ],
+  "label": "ceqsal",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "ceqsal.1",
+    "ceqsal.2",
+    "ceqsal.3"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "wph",
+    "wi",
+    "vx",
+    "wal",
+    "wps",
+    "wb",
+    "ceqsal.2",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cvv",
+    "ceqsal.1",
+    "ceqsal.3",
+    "ceqsalg",
+    "ax-mp"
+  ]
+}

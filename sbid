@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "[",
+    "x",
+    "/",
+    "x",
+    "]",
+    "ph",
+    "<->",
+    "ph",
+    ")"
+  ],
+  "label": "sbid",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "vx",
+    "vx",
+    "wsb",
+    "",
+    "vx",
+    "vx",
+    "weq",
+    "wph",
+    "wb",
+    "vx",
+    "equid",
+    "wph",
+    "vx",
+    "vx",
+    "sbequ12",
+    "ax-mp",
+    "bicomi"
+  ]
+}

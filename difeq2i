@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "\\",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "\\",
+    "B",
+    ")"
+  ],
+  "label": "difeq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "difeqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cdif",
+    "cC",
+    "cB",
+    "cdif",
+    "wceq",
+    "difeqi.1",
+    "cA",
+    "cB",
+    "cC",
+    "difeq2",
+    "ax-mp"
+  ]
+}

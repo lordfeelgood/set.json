@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Ins2_k",
+    "A",
+    "=",
+    "Ins2_k",
+    "B"
+  ],
+  "label": "ins2keqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "inskeqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cins2k",
+    "cB",
+    "cins2k",
+    "wceq",
+    "inskeqi.1",
+    "cA",
+    "cB",
+    "ins2keq",
+    "ax-mp"
+  ]
+}

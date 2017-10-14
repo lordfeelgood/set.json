@@ -1,0 +1,83 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "y"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "A.",
+    "y",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "E.",
+    "x",
+    "ph",
+    "->",
+    "A.",
+    "y",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "pm11.53",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "vy",
+    "wal",
+    "",
+    "vx",
+    "wal",
+    "wph",
+    "wps",
+    "vy",
+    "wal",
+    "",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "wex",
+    "wi",
+    "vx",
+    "wph",
+    "wps",
+    "vy",
+    "19.21v",
+    "albii",
+    "wph",
+    "vx",
+    "wps",
+    "vx",
+    "vy",
+    "wps",
+    "vx",
+    "ax-17",
+    "hbal",
+    "19.23",
+    "bitri"
+  ]
+}

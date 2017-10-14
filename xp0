@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "X.",
+    "(/)",
+    ")",
+    "=",
+    "(/)"
+  ],
+  "label": "xp0",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "c0",
+    "cA",
+    "cxp",
+    "",
+    "ccnv",
+    "c0",
+    "ccnv",
+    "cA",
+    "c0",
+    "cxp",
+    "c0",
+    "c0",
+    "cA",
+    "xp0r",
+    "cnveqi",
+    "c0",
+    "cA",
+    "cnvxp",
+    "cnv0",
+    "3eqtr3i"
+  ]
+}

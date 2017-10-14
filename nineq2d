@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "C",
+    "-i^i",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "-i^i",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "nineq2d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "nineqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "cnin",
+    "cC",
+    "cB",
+    "cnin",
+    "wceq",
+    "nineqd.1",
+    "cA",
+    "cB",
+    "cC",
+    "nineq2",
+    "syl"
+  ]
+}

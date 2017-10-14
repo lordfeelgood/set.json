@@ -1,0 +1,55 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "ran",
+    "A",
+    "=",
+    "{",
+    "y",
+    "|",
+    "E.",
+    "x",
+    "x",
+    "A",
+    "y",
+    "}"
+  ],
+  "label": "dfrn2",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "",
+    "cA",
+    "wbr",
+    "vx",
+    "wex",
+    "vy",
+    "cA",
+    "crn",
+    "vx",
+    "cA",
+    "elrn",
+    "abbi2i"
+  ]
+}

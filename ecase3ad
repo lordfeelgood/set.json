@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "ecase3ad",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "ecase3ad.1",
+    "ecase3ad.2",
+    "ecase3ad.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wn",
+    "",
+    "wch",
+    "wn",
+    "",
+    "wth",
+    "wn",
+    "wps",
+    "wph",
+    "wth",
+    "wps",
+    "notnot2",
+    "ecase3ad.1",
+    "syl5",
+    "wn",
+    "wch",
+    "wph",
+    "wth",
+    "wch",
+    "notnot2",
+    "ecase3ad.2",
+    "syl5",
+    "ecase3ad.3",
+    "ecased"
+  ]
+}

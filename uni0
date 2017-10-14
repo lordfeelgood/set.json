@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "U.",
+    "(/)",
+    "=",
+    "(/)"
+  ],
+  "label": "uni0",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "cuni",
+    "c0",
+    "wceq",
+    "c0",
+    "c0",
+    "csn",
+    "",
+    "wss",
+    "0ss",
+    "c0",
+    "uni0b",
+    "mpbir"
+  ]
+}

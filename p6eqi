@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "P6",
+    "A",
+    "=",
+    "P6",
+    "B"
+  ],
+  "label": "p6eqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "p6eqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cp6",
+    "cB",
+    "cp6",
+    "wceq",
+    "p6eqi.1",
+    "cA",
+    "cB",
+    "p6eq",
+    "ax-mp"
+  ]
+}

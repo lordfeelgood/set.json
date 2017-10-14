@@ -1,0 +1,54 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "|^|",
+    "{",
+    "x",
+    "|",
+    "(",
+    "A",
+    "C_",
+    "x",
+    "/\\",
+    "ph",
+    ")",
+    "}"
+  ],
+  "label": "ssmin",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "vx",
+    "cv",
+    "wss",
+    "",
+    "wph",
+    "wa",
+    "",
+    "vx",
+    "cab",
+    "cint",
+    "wss",
+    "wi",
+    "vx",
+    "vx",
+    "cA",
+    "ssintab",
+    "wph",
+    "simpl",
+    "mpgbir"
+  ]
+}

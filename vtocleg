@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "vtocleg",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cV",
+    "vtocleg.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "vx",
+    "cv",
+    "cA",
+    "wceq",
+    "",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "cA",
+    "cV",
+    "elisset",
+    "wph",
+    "vx",
+    "vtocleg.1",
+    "exlimiv",
+    "syl"
+  ]
+}

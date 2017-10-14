@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ta",
+    "-/\\",
+    "ta",
+    ")",
+    "-/\\",
+    "(",
+    "(",
+    "ta",
+    "-/\\",
+    "ta",
+    ")",
+    "-/\\",
+    "(",
+    "ta",
+    "-/\\",
+    "ta",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "nic-bijust",
+  "mandatoryHypotheses": [
+    "wta"
+  ],
+  "proofSteps": [
+    "wta",
+    "wta",
+    "nic-swap"
+  ]
+}

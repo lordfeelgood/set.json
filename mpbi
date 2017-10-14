@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ps"
+  ],
+  "label": "mpbi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "mpbi.min",
+    "mpbi.maj"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "mpbi.min",
+    "wph",
+    "wps",
+    "mpbi.maj",
+    "biimpi",
+    "ax-mp"
+  ]
+}

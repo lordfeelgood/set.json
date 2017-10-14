@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "th",
+    ")",
+    ")"
+  ],
+  "label": "bitrd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "bitrd.1",
+    "bitrd.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wth",
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "wch",
+    "wi",
+    "wph",
+    "wth",
+    "wi",
+    "wph",
+    "wps",
+    "wch",
+    "bitrd.1",
+    "pm5.74i",
+    "wph",
+    "wch",
+    "wth",
+    "bitrd.2",
+    "pm5.74i",
+    "bitri",
+    "pm5.74ri"
+  ]
+}

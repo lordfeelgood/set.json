@@ -1,0 +1,25 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "We",
+    "e.",
+    "_V"
+  ],
+  "label": "weex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cwe",
+    "cstrict",
+    "cfound",
+    "cin",
+    "cvv",
+    "df-we",
+    "cstrict",
+    "cfound",
+    "strictex",
+    "foundex",
+    "inex",
+    "eqeltri"
+  ]
+}

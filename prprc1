@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A",
+    "e.",
+    "_V",
+    "->",
+    "{",
+    "A",
+    ",",
+    "B",
+    "}",
+    "=",
+    "{",
+    "B",
+    "}",
+    ")"
+  ],
+  "label": "prprc1",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "wn",
+    "cA",
+    "cB",
+    "cpr",
+    "cB",
+    "cA",
+    "cpr",
+    "cB",
+    "csn",
+    "cA",
+    "cB",
+    "prcom",
+    "cA",
+    "cB",
+    "prprc2",
+    "syl5eq"
+  ]
+}

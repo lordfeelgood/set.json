@@ -1,0 +1,71 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "->",
+    "(",
+    "iota",
+    "x",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "/\\",
+    "ph",
+    ")",
+    ")",
+    "e.",
+    "A",
+    ")"
+  ],
+  "label": "reiotacl",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "wreu",
+    "",
+    "wph",
+    "vx",
+    "cA",
+    "crab",
+    "",
+    "cA",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wa",
+    "vx",
+    "cio",
+    "cA",
+    "wss",
+    "wph",
+    "vx",
+    "cA",
+    "ssrab2",
+    "a1i",
+    "wph",
+    "vx",
+    "cA",
+    "reiotacl2",
+    "sseldd"
+  ]
+}

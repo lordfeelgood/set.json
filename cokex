@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "o._k",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "cokex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cokex.1",
+    "cokex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "ccomk",
+    "cvv",
+    "wcel",
+    "cokex.1",
+    "cokex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "cokexg",
+    "mp2an"
+  ]
+}

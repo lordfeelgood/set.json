@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "C",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "eleq2s",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "eleq2s.1",
+    "eleq2s.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "wcel",
+    "cA",
+    "cB",
+    "wcel",
+    "wph",
+    "cC",
+    "cB",
+    "cA",
+    "eleq2s.2",
+    "eleq2i",
+    "eleq2s.1",
+    "sylbi"
+  ]
+}

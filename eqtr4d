@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "A",
+    "=",
+    "C",
+    ")"
+  ],
+  "label": "eqtr4d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "eqtr4d.1",
+    "eqtr4d.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "eqtr4d.1",
+    "wph",
+    "cC",
+    "cB",
+    "eqtr4d.2",
+    "eqcomd",
+    "eqtrd"
+  ]
+}

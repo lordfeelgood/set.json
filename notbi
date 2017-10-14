@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "-.",
+    "ph",
+    "<->",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "notbi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "",
+    "wph",
+    "wn",
+    "wps",
+    "wn",
+    "wb",
+    "",
+    "wph",
+    "wps",
+    "id",
+    "notbid",
+    "wph",
+    "wps",
+    "id",
+    "con4bid",
+    "impbii"
+  ]
+}

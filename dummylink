@@ -1,0 +1,17 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "dummylink",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "dummylink.1",
+    "dummylink.2"
+  ],
+  "proofSteps": [
+    "dummylink.1"
+  ]
+}

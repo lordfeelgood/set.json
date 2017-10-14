@@ -1,0 +1,58 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "A",
+    "=",
+    "B"
+  ],
+  "label": "eqrelriiv",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "eqreliiv.1",
+    "eqreliiv.2",
+    "eqreliiv.3"
+  ],
+  "proofSteps": [
+    "cA",
+    "wrel",
+    "cB",
+    "wrel",
+    "cA",
+    "cB",
+    "wceq",
+    "eqreliiv.1",
+    "eqreliiv.2",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "eqreliiv.3",
+    "eqrelriv",
+    "mp2an"
+  ]
+}

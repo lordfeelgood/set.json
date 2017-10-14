@@ -1,0 +1,25 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "ph"
+  ],
+  "label": "nexr",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "nexr.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "vx",
+    "wex",
+    "nexr.1",
+    "wph",
+    "vx",
+    "19.8a",
+    "mto"
+  ]
+}

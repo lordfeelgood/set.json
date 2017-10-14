@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    ":",
+    "A",
+    "-1-1-onto->",
+    "B",
+    "->",
+    "F",
+    ":",
+    "A",
+    "-->",
+    "B",
+    ")"
+  ],
+  "label": "f1of",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cF",
+    "wf1o",
+    "cA",
+    "cB",
+    "cF",
+    "wf1",
+    "cA",
+    "cB",
+    "cF",
+    "wf",
+    "cA",
+    "cB",
+    "cF",
+    "f1of1",
+    "cA",
+    "cB",
+    "cF",
+    "f1f",
+    "syl"
+  ]
+}

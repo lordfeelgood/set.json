@@ -1,0 +1,64 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "<->",
+    "A.",
+    "x",
+    "(",
+    "x",
+    "=",
+    "B",
+    "->",
+    "A",
+    "e.",
+    "x",
+    ")",
+    ")"
+  ],
+  "label": "clel4",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "clel4.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "cB",
+    "wceq",
+    "cA",
+    "wcel",
+    "",
+    "wi",
+    "vx",
+    "wal",
+    "cA",
+    "cB",
+    "wcel",
+    "",
+    "vx",
+    "cB",
+    "clel4.1",
+    "cB",
+    "cA",
+    "eleq2",
+    "ceqsalv",
+    "bicomi"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "_E"
+  ],
+  "label": "rele",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "wcel",
+    "cep",
+    "df-eprel",
+    "relopabi"
+  ]
+}

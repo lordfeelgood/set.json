@@ -1,0 +1,54 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "|->",
+    "x",
+    ")",
+    "=",
+    "(",
+    "_I",
+    "|`",
+    "A",
+    ")"
+  ],
+  "label": "mptresid",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "vx",
+    "cv",
+    "",
+    "cmpt",
+    "cA",
+    "wcel",
+    "vx",
+    "weq",
+    "wa",
+    "vx",
+    "copab",
+    "cid",
+    "cA",
+    "cres",
+    "vx",
+    "cA",
+    "df-mpt",
+    "vx",
+    "cA",
+    "opabresid",
+    "eqtri"
+  ]
+}

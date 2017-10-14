@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "F",
+    "Fn",
+    "A"
+  ],
+  "label": "fnopab2",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cF",
+    "fnopab2.1",
+    "fnopab2.2"
+  ],
+  "proofSteps": [
+    "vy",
+    "cv",
+    "cB",
+    "wceq",
+    "",
+    "vx",
+    "vy",
+    "cA",
+    "cF",
+    "vy",
+    "weu",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "vy",
+    "cB",
+    "fnopab2.1",
+    "eueq1",
+    "a1i",
+    "fnopab2.2",
+    "fnopab"
+  ]
+}

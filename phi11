@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "B",
+    "<->",
+    "Phi",
+    "A",
+    "=",
+    "Phi",
+    "B",
+    ")"
+  ],
+  "label": "phi11",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cphi",
+    "",
+    "cB",
+    "cphi",
+    "",
+    "wceq",
+    "",
+    "cA",
+    "cB",
+    "phieq",
+    "cA",
+    "cB",
+    "cA",
+    "cB",
+    "phi11lem1",
+    "cB",
+    "cA",
+    "wss",
+    "cB",
+    "cA",
+    "phi11lem1",
+    "eqcoms",
+    "eqssd",
+    "impbii"
+  ]
+}

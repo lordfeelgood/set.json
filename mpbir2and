@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "mpbir2and",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mpbir2and.1",
+    "mpbir2and.2",
+    "mpbir2and.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wa",
+    "wph",
+    "wch",
+    "wth",
+    "mpbir2and.1",
+    "mpbir2and.2",
+    "jca",
+    "mpbir2and.3",
+    "mpbird"
+  ]
+}

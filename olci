@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ps",
+    "\\/",
+    "ph",
+    ")"
+  ],
+  "label": "olci",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "orci.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wph",
+    "wph",
+    "wps",
+    "wn",
+    "orci.1",
+    "a1i",
+    "orri"
+  ]
+}

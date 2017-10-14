@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "F",
+    "`",
+    "A",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "fvex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cF"
+  ],
+  "proofSteps": [
+    "cA",
+    "cF",
+    "cfv",
+    "cA",
+    "cv",
+    "cF",
+    "wbr",
+    "",
+    "cio",
+    "cvv",
+    "cA",
+    "cF",
+    "df-fv",
+    "iotaex",
+    "eqeltri"
+  ]
+}

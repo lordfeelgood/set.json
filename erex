@@ -1,0 +1,25 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Er",
+    "e.",
+    "_V"
+  ],
+  "label": "erex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cer",
+    "csym",
+    "ctrans",
+    "cin",
+    "cvv",
+    "df-er",
+    "csym",
+    "ctrans",
+    "symex",
+    "transex",
+    "inex",
+    "eqeltri"
+  ]
+}

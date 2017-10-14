@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "(",
+    "ps",
+    "/\\",
+    "th",
+    ")",
+    "->",
+    "ta",
+    ")",
+    ")"
+  ],
+  "label": "syland",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "syland.1",
+    "syland.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wth",
+    "wta",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "wta",
+    "wi",
+    "syland.1",
+    "wph",
+    "wch",
+    "wth",
+    "wta",
+    "syland.2",
+    "exp3a",
+    "syld",
+    "imp3a"
+  ]
+}

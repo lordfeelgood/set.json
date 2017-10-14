@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "imp",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "imp.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "wph",
+    "wps",
+    "wn",
+    "wi",
+    "wn",
+    "wch",
+    "wph",
+    "wps",
+    "df-an",
+    "wph",
+    "wps",
+    "wch",
+    "imp.1",
+    "impi",
+    "sylbi"
+  ]
+}

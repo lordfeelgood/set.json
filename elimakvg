@@ -1,0 +1,78 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "C",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "C",
+    "e.",
+    "(",
+    "A",
+    "\"_k",
+    "_V",
+    ")",
+    "<->",
+    "E.",
+    "y",
+    "<<",
+    "y",
+    ",",
+    "C",
+    ">>",
+    "e.",
+    "A",
+    ")",
+    ")"
+  ],
+  "label": "elimakvg",
+  "mandatoryHypotheses": [
+    "vy",
+    "cA",
+    "cC",
+    "cV"
+  ],
+  "proofSteps": [
+    "cC",
+    "cV",
+    "wcel",
+    "cC",
+    "cA",
+    "cvv",
+    "cimak",
+    "wcel",
+    "vy",
+    "cv",
+    "cC",
+    "copk",
+    "cA",
+    "wcel",
+    "",
+    "vy",
+    "cvv",
+    "wrex",
+    "vy",
+    "wex",
+    "vy",
+    "cA",
+    "cvv",
+    "cC",
+    "cV",
+    "elimakg",
+    "vy",
+    "rexv",
+    "syl6bb"
+  ]
+}

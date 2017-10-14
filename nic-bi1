@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "-/\\",
+    "(",
+    "ps",
+    "-/\\",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "nic-bi1",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "nic-bi1.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wps",
+    "wps",
+    "wph",
+    "wph",
+    "wph",
+    "wps",
+    "wnand",
+    "wps",
+    "wps",
+    "wnand",
+    "wph",
+    "wph",
+    "wnand",
+    "wph",
+    "nic-bi1.1",
+    "wph",
+    "nic-id",
+    "nic-iimp1",
+    "nic-isw2",
+    "nic-idel"
+  ]
+}

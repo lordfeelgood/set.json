@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "->",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "ps",
+    ")"
+  ],
+  "label": "reximia",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "reximia.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "vx",
+    "cA",
+    "wrex",
+    "wps",
+    "vx",
+    "cA",
+    "wrex",
+    "wi",
+    "vx",
+    "cA",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "rexim",
+    "reximia.1",
+    "mprg"
+  ]
+}

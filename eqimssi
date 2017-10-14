@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "B"
+  ],
+  "label": "eqimssi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "eqimssi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cB",
+    "cA",
+    "ssid",
+    "eqimssi.1",
+    "sseqtri"
+  ]
+}

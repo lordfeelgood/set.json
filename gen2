@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A.",
+    "x",
+    "A.",
+    "y",
+    "ph"
+  ],
+  "label": "gen2",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "gen2.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "wal",
+    "vx",
+    "wph",
+    "vy",
+    "gen2.1",
+    "ax-gen",
+    "ax-gen"
+  ]
+}

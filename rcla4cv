@@ -1,0 +1,61 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "e.",
+    "B",
+    "ph",
+    "->",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "rcla4cv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "rcla4v.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "wph",
+    "vx",
+    "cB",
+    "wral",
+    "wps",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cB",
+    "rcla4v.1",
+    "rcla4v",
+    "com12"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "x",
+    "=",
+    "x",
+    "<->",
+    "A.",
+    "x",
+    "x",
+    "=",
+    "y",
+    ")"
+  ],
+  "label": "exists1",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "vx",
+    "weq",
+    "",
+    "vx",
+    "weu",
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "wb",
+    "",
+    "vx",
+    "wal",
+    "",
+    "vy",
+    "wex",
+    "vx",
+    "wal",
+    "",
+    "vy",
+    "wex",
+    "vx",
+    "vy",
+    "df-eu",
+    "vy",
+    "vx",
+    "wb",
+    "vx",
+    "equid",
+    "tbt",
+    "bicom",
+    "bitri",
+    "albii",
+    "exbii",
+    "vy",
+    "vx",
+    "vy",
+    "vy",
+    "hbae",
+    "19.9",
+    "3bitr2i"
+  ]
+}

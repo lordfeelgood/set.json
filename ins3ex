@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Ins3",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "ins3ex",
+  "mandatoryHypotheses": [
+    "cA",
+    "insex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cins3",
+    "cvv",
+    "wcel",
+    "insex.1",
+    "cA",
+    "cvv",
+    "ins3exg",
+    "ax-mp"
+  ]
+}

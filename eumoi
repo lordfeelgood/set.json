@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "E*",
+    "x",
+    "ph"
+  ],
+  "label": "eumoi",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "eumoi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "weu",
+    "wph",
+    "vx",
+    "wmo",
+    "eumoi.1",
+    "wph",
+    "vx",
+    "eumo",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "C",
+      "x"
+    ],
+    [
+      "D",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "e.",
+    "D",
+    "/\\",
+    "C",
+    "e.",
+    "R",
+    ")",
+    "->",
+    "(",
+    "F",
+    "`",
+    "A",
+    ")",
+    "=",
+    "C",
+    ")"
+  ],
+  "label": "fvmptg",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "cR",
+    "cF",
+    "fvmptg.1",
+    "fvmptg.2"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "cR",
+    "cF",
+    "fvmptg.1",
+    "cF",
+    "vx",
+    "cD",
+    "cB",
+    "cmpt",
+    "vx",
+    "cv",
+    "cD",
+    "wcel",
+    "cv",
+    "cB",
+    "wceq",
+    "wa",
+    "vx",
+    "copab",
+    "fvmptg.2",
+    "vx",
+    "cD",
+    "cB",
+    "df-mpt",
+    "eqtri",
+    "fvopab4g"
+  ]
+}

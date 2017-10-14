@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "ph",
+    "\\/",
+    "E*",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "exmo",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wex",
+    "",
+    "wph",
+    "vx",
+    "wmo",
+    "",
+    "wn",
+    "wph",
+    "vx",
+    "weu",
+    "",
+    "wi",
+    "pm2.21",
+    "wph",
+    "vx",
+    "df-mo",
+    "sylibr",
+    "orri"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ch",
+    ")",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "an32s",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "an32s.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wch",
+    "wa",
+    "wps",
+    "wa",
+    "wph",
+    "wps",
+    "wa",
+    "wch",
+    "wa",
+    "wth",
+    "wph",
+    "wch",
+    "wps",
+    "an32",
+    "an32s.1",
+    "sylbi"
+  ]
+}

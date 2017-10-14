@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "(",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")",
+    "->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "looinv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "",
+    "wps",
+    "wi",
+    "wps",
+    "wph",
+    "wi",
+    "wph",
+    "wi",
+    "wph",
+    "wps",
+    "wph",
+    "imim1",
+    "wph",
+    "wps",
+    "peirce",
+    "syl6"
+  ]
+}

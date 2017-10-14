@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Fun",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "|->",
+    "B",
+    ")"
+  ],
+  "label": "funmpt",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cB",
+    "cmpt",
+    "",
+    "wfun",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "",
+    "cv",
+    "cB",
+    "wceq",
+    "wa",
+    "vx",
+    "copab",
+    "",
+    "wfun",
+    "vx",
+    "cB",
+    "funopab4",
+    "vx",
+    "cA",
+    "cB",
+    "df-mpt",
+    "funeqi",
+    "mpbir"
+  ]
+}

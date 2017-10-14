@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "A",
+    "=/=",
+    "B",
+    "<->",
+    "A",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "nne",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "cA",
+    "cB",
+    "wne",
+    "",
+    "wn",
+    "cA",
+    "cB",
+    "df-ne",
+    "con2bii",
+    "bicomi"
+  ]
+}

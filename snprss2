@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    "}",
+    "C_",
+    "{",
+    "B",
+    ",",
+    "A",
+    "}"
+  ],
+  "label": "snprss2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "csn",
+    "cA",
+    "cB",
+    "cpr",
+    "cB",
+    "cA",
+    "cpr",
+    "cA",
+    "cB",
+    "snprss1",
+    "cA",
+    "cB",
+    "prcom",
+    "sseqtri"
+  ]
+}

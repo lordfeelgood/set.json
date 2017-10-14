@@ -1,0 +1,70 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "z"
+    ],
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "=",
+    "y",
+    "<->",
+    "E.",
+    "z",
+    "(",
+    "x",
+    "=",
+    "z",
+    "/\\",
+    "z",
+    "=",
+    "y",
+    ")",
+    ")"
+  ],
+  "label": "equvin",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "vx",
+    "vz",
+    "weq",
+    "",
+    "vz",
+    "vy",
+    "weq",
+    "",
+    "wa",
+    "",
+    "vz",
+    "wex",
+    "vx",
+    "vy",
+    "vz",
+    "equvini",
+    "vz",
+    "vz",
+    "ax-17",
+    "vx",
+    "vz",
+    "vy",
+    "equtr",
+    "imp",
+    "exlimi",
+    "impbii"
+  ]
+}

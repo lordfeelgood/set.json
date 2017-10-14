@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "A",
+    "=",
+    "dom",
+    "B"
+  ],
+  "label": "dmeqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "dmeqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cdm",
+    "cB",
+    "cdm",
+    "wceq",
+    "dmeqi.1",
+    "cA",
+    "cB",
+    "dmeq",
+    "ax-mp"
+  ]
+}

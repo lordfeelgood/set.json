@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "vtocle",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "vtocle.1",
+    "vtocle.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "wph",
+    "vtocle.1",
+    "wph",
+    "vx",
+    "cA",
+    "cvv",
+    "vtocle.2",
+    "vtocleg",
+    "ax-mp"
+  ]
+}

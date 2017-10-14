@@ -1,0 +1,87 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "Rel",
+    "R",
+    "/\\",
+    "A",
+    "e.",
+    "R",
+    ")",
+    "->",
+    "E.",
+    "x",
+    "E.",
+    "y",
+    "A",
+    "=",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    ")"
+  ],
+  "label": "elrel",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cR"
+  ],
+  "proofSteps": [
+    "cR",
+    "wrel",
+    "",
+    "cA",
+    "cR",
+    "wcel",
+    "wa",
+    "cA",
+    "cvv",
+    "cvv",
+    "cxp",
+    "",
+    "wcel",
+    "cA",
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "cop",
+    "wceq",
+    "vy",
+    "wex",
+    "vx",
+    "wex",
+    "cR",
+    "cA",
+    "cR",
+    "wss",
+    "cR",
+    "df-rel",
+    "biimpi",
+    "sselda",
+    "vx",
+    "vy",
+    "cA",
+    "elvv",
+    "sylib"
+  ]
+}

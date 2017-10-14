@@ -1,0 +1,22 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "2c",
+    "=/=",
+    "0c"
+  ],
+  "label": "2ne0c",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c1c",
+    "c1c",
+    "cplc",
+    "c2c",
+    "c0c",
+    "1p1e2c",
+    "c1c",
+    "0cnsuc",
+    "eqnetrri"
+  ]
+}

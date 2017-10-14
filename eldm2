@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "dom",
+    "B",
+    "<->",
+    "E.",
+    "y",
+    "<.",
+    "A",
+    ",",
+    "y",
+    ">.",
+    "e.",
+    "B",
+    ")"
+  ],
+  "label": "eldm2",
+  "mandatoryHypotheses": [
+    "vy",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cdm",
+    "wcel",
+    "cA",
+    "vy",
+    "cv",
+    "",
+    "cB",
+    "wbr",
+    "",
+    "vy",
+    "wex",
+    "cA",
+    "cop",
+    "cB",
+    "wcel",
+    "",
+    "vy",
+    "wex",
+    "vy",
+    "cA",
+    "cB",
+    "eldm",
+    "vy",
+    "cA",
+    "cB",
+    "df-br",
+    "exbii",
+    "bitri"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "-i^i",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "ninex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "ninex.1",
+    "ninex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cnin",
+    "cvv",
+    "wcel",
+    "ninex.1",
+    "ninex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "ninexg",
+    "mp2an"
+  ]
+}

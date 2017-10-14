@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "X._k",
+    "B",
+    ")",
+    "C_",
+    "(",
+    "_V",
+    "X._k",
+    "_V",
+    ")"
+  ],
+  "label": "xpkssvvk",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cv",
+    "cA",
+    "wcel",
+    "cv",
+    "cB",
+    "wcel",
+    "wa",
+    "cA",
+    "cB",
+    "cxpk",
+    "cA",
+    "cB",
+    "df-xpk",
+    "opkabssvvki"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "ph",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "[",
+    "x",
+    "/",
+    "y",
+    "]",
+    "[",
+    "B",
+    "/",
+    "x",
+    "]",
+    "ph",
+    "<->",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ph",
+    ")"
+  ],
+  "label": "sbcco2",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "sbcco2.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cB",
+    "wsbc",
+    "",
+    "wph",
+    "vx",
+    "cA",
+    "wsbc",
+    "",
+    "vy",
+    "vx",
+    "vy",
+    "ax-17",
+    "vy",
+    "cv",
+    "vx",
+    "cv",
+    "wceq",
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "wb",
+    "vx",
+    "vy",
+    "sbcco2.1",
+    "equcoms",
+    "wph",
+    "vx",
+    "cA",
+    "cB",
+    "dfsbcq",
+    "bicomd",
+    "syl",
+    "sbie"
+  ]
+}

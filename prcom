@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    ",",
+    "B",
+    "}",
+    "=",
+    "{",
+    "B",
+    ",",
+    "A",
+    "}"
+  ],
+  "label": "prcom",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "csn",
+    "",
+    "cB",
+    "csn",
+    "",
+    "cun",
+    "cun",
+    "cA",
+    "cB",
+    "cpr",
+    "cB",
+    "cA",
+    "cpr",
+    "uncom",
+    "cA",
+    "cB",
+    "df-pr",
+    "cB",
+    "cA",
+    "df-pr",
+    "3eqtr4i"
+  ]
+}

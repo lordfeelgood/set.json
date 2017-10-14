@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "<->",
+    "-.",
+    "(",
+    "-.",
+    "ph",
+    "\\/",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "anor",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "wps",
+    "wn",
+    "wo",
+    "",
+    "wph",
+    "wps",
+    "wa",
+    "",
+    "wn",
+    "wph",
+    "wps",
+    "ianor",
+    "bicomi",
+    "con2bii"
+  ]
+}

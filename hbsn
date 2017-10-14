@@ -1,0 +1,64 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "y",
+    "e.",
+    "{",
+    "A",
+    "}",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "e.",
+    "{",
+    "A",
+    "}",
+    ")"
+  ],
+  "label": "hbsn",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "hbsn.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "vy",
+    "cA",
+    "csn",
+    "cv",
+    "",
+    "cA",
+    "wceq",
+    "",
+    "cab",
+    "cA",
+    "df-sn",
+    "vx",
+    "vy",
+    "vx",
+    "vy",
+    "vy",
+    "cA",
+    "vy",
+    "vx",
+    "ax17el",
+    "hbsn.1",
+    "hbeq",
+    "hbab",
+    "hbxfreq"
+  ]
+}

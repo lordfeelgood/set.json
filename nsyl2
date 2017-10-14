@@ -1,0 +1,33 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ch",
+    ")"
+  ],
+  "label": "nsyl2",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "nsyl2.1",
+    "nsyl2.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wch",
+    "wps",
+    "nsyl2.1",
+    "wch",
+    "wn",
+    "wps",
+    "wi",
+    "wph",
+    "nsyl2.2",
+    "a1i",
+    "mt3d"
+  ]
+}

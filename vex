@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "x",
+    "e.",
+    "_V"
+  ],
+  "label": "vex",
+  "mandatoryHypotheses": [
+    "vx"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "",
+    "cvv",
+    "wcel",
+    "wceq",
+    "",
+    "eqid",
+    "vx",
+    "cvv",
+    "vx",
+    "df-v",
+    "abeq2i",
+    "mpbir"
+  ]
+}

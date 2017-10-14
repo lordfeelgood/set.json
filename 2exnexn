@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "A.",
+    "y",
+    "ph",
+    "<->",
+    "-.",
+    "A.",
+    "x",
+    "E.",
+    "y",
+    "-.",
+    "ph",
+    ")"
+  ],
+  "label": "2exnexn",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "vy",
+    "wex",
+    "vx",
+    "wal",
+    "wph",
+    "vy",
+    "wal",
+    "vx",
+    "wex",
+    "wph",
+    "vx",
+    "vy",
+    "alexn",
+    "con2bii"
+  ]
+}

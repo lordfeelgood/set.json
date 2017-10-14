@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "1c",
+    "=",
+    "Nc",
+    "{",
+    "A",
+    "}"
+  ],
+  "label": "df1c3",
+  "mandatoryHypotheses": [
+    "cA",
+    "df1c3.1"
+  ],
+  "proofSteps": [
+    "c1c",
+    "cA",
+    "csn",
+    "",
+    "cnc",
+    "wceq",
+    "",
+    "c1c",
+    "wcel",
+    "",
+    "cA",
+    "df1c3.1",
+    "snel1c",
+    "c1c",
+    "cncs",
+    "wcel",
+    "wb",
+    "1cnc",
+    "c1c",
+    "ncseqnc",
+    "ax-mp",
+    "mpbir"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "mt4i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "mt4i.1",
+    "mt4i.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wch",
+    "wps",
+    "wch",
+    "wph",
+    "mt4i.1",
+    "a1i",
+    "mt4i.2",
+    "mt4d"
+  ]
+}

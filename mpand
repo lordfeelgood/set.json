@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ch",
+    "->",
+    "th",
+    ")",
+    ")"
+  ],
+  "label": "mpand",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mpand.1",
+    "mpand.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wch",
+    "wps",
+    "wth",
+    "mpand.1",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mpand.2",
+    "ancomsd",
+    "mpan2d"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "(",
+    "A",
+    "C.",
+    "B",
+    "/\\",
+    "B",
+    "C.",
+    "A",
+    ")"
+  ],
+  "label": "pssn2lp",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wpss",
+    "",
+    "cB",
+    "cA",
+    "wpss",
+    "",
+    "wn",
+    "wi",
+    "wa",
+    "wn",
+    "cB",
+    "cA",
+    "wss",
+    "",
+    "cA",
+    "cB",
+    "wss",
+    "wn",
+    "cA",
+    "cB",
+    "dfpss3",
+    "simprbi",
+    "cB",
+    "cA",
+    "pssss",
+    "nsyl",
+    "imnan",
+    "mpbi"
+  ]
+}

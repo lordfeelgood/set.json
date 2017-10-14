@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "y"
+    ],
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "iota",
+    "x",
+    "ph",
+    ")",
+    "=",
+    "(",
+    "iota",
+    "y",
+    "ps",
+    ")"
+  ],
+  "label": "cbviota",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cbviota.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cbviota.1",
+    "wph",
+    "vy",
+    "ax-17",
+    "wps",
+    "vx",
+    "ax-17",
+    "cbviotaf"
+  ]
+}

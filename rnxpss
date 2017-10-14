@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ran",
+    "(",
+    "A",
+    "X.",
+    "B",
+    ")",
+    "C_",
+    "B"
+  ],
+  "label": "rnxpss",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cxp",
+    "",
+    "crn",
+    "",
+    "cB",
+    "cA",
+    "cxp",
+    "",
+    "cdm",
+    "",
+    "cB",
+    "ccnv",
+    "",
+    "cdm",
+    "dfrn4",
+    "cA",
+    "cB",
+    "cnvxp",
+    "dmeqi",
+    "eqtri",
+    "cB",
+    "cA",
+    "dmxpss",
+    "eqsstri"
+  ]
+}

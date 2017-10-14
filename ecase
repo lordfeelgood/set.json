@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ch"
+  ],
+  "label": "ecase",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "ecase.1",
+    "ecase.2",
+    "ecase.3"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "ecase.3",
+    "ex",
+    "ecase.1",
+    "ecase.2",
+    "pm2.61nii"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "e.",
+    "~P",
+    "A"
+  ],
+  "label": "pwid",
+  "mandatoryHypotheses": [
+    "cA",
+    "pwid.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cpw",
+    "wcel",
+    "cA",
+    "cA",
+    "wss",
+    "cA",
+    "ssid",
+    "cA",
+    "cA",
+    "pwid.1",
+    "elpw",
+    "mpbir"
+  ]
+}

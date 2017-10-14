@@ -1,0 +1,73 @@
+{
+  "disjunctVariables": [
+    [
+      "F",
+      "x"
+    ],
+    [
+      "F",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "Fun",
+    "F",
+    "/\\",
+    "x",
+    "F",
+    "y",
+    ")",
+    "->",
+    "E!",
+    "y",
+    "x",
+    "F",
+    "y",
+    ")"
+  ],
+  "label": "funeu",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "wfun",
+    "",
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "cF",
+    "wbr",
+    "",
+    "vy",
+    "weu",
+    "",
+    "vy",
+    "wex",
+    "",
+    "vy",
+    "19.8a",
+    "vy",
+    "wmo",
+    "wi",
+    "vx",
+    "vy",
+    "cF",
+    "funmo",
+    "vy",
+    "df-mo",
+    "sylib",
+    "syl5",
+    "imp"
+  ]
+}

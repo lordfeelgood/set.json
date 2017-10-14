@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ps",
+    "<->",
+    "(",
+    "ps",
+    "<->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "tbt",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "tbt.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wps",
+    "wph",
+    "wb",
+    "",
+    "wb",
+    "tbt.1",
+    "wph",
+    "wps",
+    "wph",
+    "wps",
+    "ibibr",
+    "pm5.74ri",
+    "ax-mp"
+  ]
+}

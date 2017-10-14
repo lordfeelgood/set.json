@@ -1,0 +1,80 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "/\\",
+    "A.",
+    "x",
+    "e.",
+    "B",
+    "x",
+    "C_",
+    "A",
+    ")",
+    "->",
+    "A",
+    "=",
+    "U.",
+    "B",
+    ")"
+  ],
+  "label": "ssunieq",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "",
+    "vx",
+    "cv",
+    "cA",
+    "wss",
+    "vx",
+    "cB",
+    "wral",
+    "",
+    "wa",
+    "cA",
+    "cB",
+    "cuni",
+    "",
+    "wss",
+    "",
+    "cA",
+    "wss",
+    "",
+    "wa",
+    "cA",
+    "wceq",
+    "cA",
+    "cB",
+    "elssuni",
+    "vx",
+    "cB",
+    "cA",
+    "unissb",
+    "biimpri",
+    "anim12i",
+    "cA",
+    "eqss",
+    "sylibr"
+  ]
+}

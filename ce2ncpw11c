@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "2c",
+    "^c",
+    "Nc",
+    "~P1",
+    "1c",
+    ")",
+    "=",
+    "Nc",
+    "1c"
+  ],
+  "label": "ce2ncpw11c",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c2c",
+    "c1c",
+    "cpw1",
+    "cnc",
+    "",
+    "cce",
+    "co",
+    "",
+    "c1c",
+    "cpw",
+    "cnc",
+    "",
+    "c1c",
+    "cnc",
+    "wceq",
+    "wceq",
+    "eqid",
+    "c1c",
+    "1cex",
+    "ce2",
+    "ax-mp",
+    "ncpw1c",
+    "eqtri"
+  ]
+}

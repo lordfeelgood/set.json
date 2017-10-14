@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ps",
+    "<->",
+    "(",
+    "ps",
+    "->",
+    "-.",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "mt2bi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "mt2bi.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wn",
+    "",
+    "wph",
+    "wi",
+    "wps",
+    "wph",
+    "wn",
+    "wi",
+    "wph",
+    "mt2bi.1",
+    "a1bi",
+    "wph",
+    "wps",
+    "con2b",
+    "bitri"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "<.",
+    "A",
+    ",",
+    "B",
+    ">.",
+    "}",
+    "Fn",
+    "{",
+    "A",
+    "}"
+  ],
+  "label": "fnsn",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "fnsn.1",
+    "fnsn.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cop",
+    "csn",
+    "",
+    "cA",
+    "csn",
+    "",
+    "wfn",
+    "wfun",
+    "cdm",
+    "wceq",
+    "cA",
+    "cB",
+    "fnsn.1",
+    "fnsn.2",
+    "funsn",
+    "cA",
+    "cB",
+    "fnsn.2",
+    "dmsnop",
+    "df-fn",
+    "mpbir2an"
+  ]
+}

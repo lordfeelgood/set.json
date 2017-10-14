@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "ph",
+    "->",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "e.",
+    "_V",
+    ")"
+  ],
+  "label": "euabex",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "weu",
+    "wph",
+    "vx",
+    "cab",
+    "",
+    "c1c",
+    "wcel",
+    "cvv",
+    "wcel",
+    "wph",
+    "vx",
+    "dfeu2",
+    "c1c",
+    "elex",
+    "sylbi"
+  ]
+}

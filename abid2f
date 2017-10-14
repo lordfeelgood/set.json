@@ -1,0 +1,74 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "|",
+    "x",
+    "e.",
+    "A",
+    "}",
+    "=",
+    "A"
+  ],
+  "label": "abid2f",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "abid2f.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "",
+    "vx",
+    "cab",
+    "",
+    "cA",
+    "wceq",
+    "",
+    "wb",
+    "",
+    "vx",
+    "wcel",
+    "",
+    "wb",
+    "",
+    "vx",
+    "wal",
+    "vx",
+    "wal",
+    "vx",
+    "vy",
+    "cA",
+    "abid2f.1",
+    "vx",
+    "vy",
+    "hbab1",
+    "cleqf",
+    "vx",
+    "vx",
+    "abid",
+    "bibi2i",
+    "albii",
+    "bitri",
+    "biid",
+    "mpgbir",
+    "eqcomi"
+  ]
+}

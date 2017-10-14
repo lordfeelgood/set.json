@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "<->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "abeq2d",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "abeqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "wps",
+    "vx",
+    "cab",
+    "",
+    "wcel",
+    "wps",
+    "wph",
+    "cA",
+    "abeqd.1",
+    "eleq2d",
+    "wps",
+    "vx",
+    "abid",
+    "syl6bb"
+  ]
+}

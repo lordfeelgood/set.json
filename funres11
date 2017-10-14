@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "`'",
+    "F",
+    "->",
+    "Fun",
+    "`'",
+    "(",
+    "F",
+    "|`",
+    "A",
+    ")",
+    ")"
+  ],
+  "label": "funres11",
+  "mandatoryHypotheses": [
+    "cA",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "cA",
+    "cres",
+    "",
+    "cF",
+    "wss",
+    "ccnv",
+    "",
+    "cF",
+    "ccnv",
+    "",
+    "wss",
+    "wfun",
+    "wfun",
+    "wi",
+    "cF",
+    "cA",
+    "resss",
+    "cF",
+    "cnvss",
+    "funss",
+    "mp2b"
+  ]
+}

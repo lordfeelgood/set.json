@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "C",
+    "(+)",
+    "A",
+    ")",
+    "=",
+    "(",
+    "C",
+    "(+)",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "symdifeq2d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "symdifeqd.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "csymdif",
+    "cC",
+    "cB",
+    "csymdif",
+    "wceq",
+    "symdifeqd.1",
+    "cA",
+    "cB",
+    "cC",
+    "symdifeq2",
+    "syl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "a4i",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "a4i.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "wal",
+    "wph",
+    "a4i.1",
+    "wph",
+    "vx",
+    "ax-4",
+    "ax-mp"
+  ]
+}

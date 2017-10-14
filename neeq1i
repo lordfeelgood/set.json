@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=/=",
+    "C",
+    "<->",
+    "B",
+    "=/=",
+    "C",
+    ")"
+  ],
+  "label": "neeq1i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "neeq1i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cC",
+    "wne",
+    "cB",
+    "cC",
+    "wne",
+    "wb",
+    "neeq1i.1",
+    "cA",
+    "cB",
+    "cC",
+    "neeq1",
+    "ax-mp"
+  ]
+}

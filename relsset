@@ -1,0 +1,18 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "SSet"
+  ],
+  "label": "relsset",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "wss",
+    "csset",
+    "df-sset",
+    "relopabi"
+  ]
+}

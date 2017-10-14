@@ -1,0 +1,34 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ps",
+    "<->",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "biantrur",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "biantrur.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wph",
+    "wps",
+    "wa",
+    "wb",
+    "biantrur.1",
+    "wph",
+    "wps",
+    "ibar",
+    "ax-mp"
+  ]
+}

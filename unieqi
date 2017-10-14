@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "U.",
+    "A",
+    "=",
+    "U.",
+    "B"
+  ],
+  "label": "unieqi",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "unieqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cuni",
+    "cB",
+    "cuni",
+    "wceq",
+    "unieqi.1",
+    "cA",
+    "cB",
+    "unieq",
+    "ax-mp"
+  ]
+}

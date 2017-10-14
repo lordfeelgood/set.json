@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "{",
+    "x",
+    "|",
+    "ph",
+    "}",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    ")"
+  ],
+  "label": "ssabral",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "wph",
+    "vx",
+    "cab",
+    "wss",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wi",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "cA",
+    "wral",
+    "wph",
+    "vx",
+    "cA",
+    "ssab",
+    "wph",
+    "vx",
+    "cA",
+    "df-ral",
+    "bitr4i"
+  ]
+}

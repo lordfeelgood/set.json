@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(/)",
+    "`",
+    "A",
+    ")",
+    "=",
+    "(/)"
+  ],
+  "label": "fv01",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "cdm",
+    "",
+    "wcel",
+    "",
+    "wn",
+    "cA",
+    "c0",
+    "cfv",
+    "c0",
+    "wceq",
+    "cA",
+    "c0",
+    "wcel",
+    "cA",
+    "noel",
+    "c0",
+    "cA",
+    "dm0",
+    "eleq2i",
+    "mtbir",
+    "cA",
+    "c0",
+    "ndmfv",
+    "ax-mp"
+  ]
+}

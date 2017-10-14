@@ -1,0 +1,83 @@
+{
+  "disjunctVariables": [
+    [
+      "B",
+      "x"
+    ],
+    [
+      "D",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "e.",
+    "B",
+    "/\\",
+    "A.",
+    "x",
+    "e.",
+    "B",
+    "C",
+    "e.",
+    "D",
+    ")",
+    "->",
+    "[_",
+    "A",
+    "/",
+    "x",
+    "]_",
+    "C",
+    "e.",
+    "D",
+    ")"
+  ],
+  "label": "ra4csbela",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "cD"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wcel",
+    "",
+    "cC",
+    "cD",
+    "wcel",
+    "",
+    "vx",
+    "cB",
+    "wral",
+    "",
+    "vx",
+    "cA",
+    "cC",
+    "csb",
+    "cD",
+    "wcel",
+    "",
+    "vx",
+    "cA",
+    "wsbc",
+    "vx",
+    "cA",
+    "cB",
+    "ra4sbc",
+    "vx",
+    "cA",
+    "cC",
+    "cD",
+    "cB",
+    "sbcel1g",
+    "sylibd",
+    "imp"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "|->",
+    "B",
+    ")",
+    "=",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "|->",
+    "C",
+    ")",
+    ")"
+  ],
+  "label": "mpteq2dva",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "mpteq2dva.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "wph",
+    "vx",
+    "ax-17",
+    "mpteq2dva.1",
+    "mpteq2da"
+  ]
+}

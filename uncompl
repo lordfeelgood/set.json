@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "u.",
+    "~",
+    "A",
+    ")",
+    "=",
+    "_V"
+  ],
+  "label": "uncompl",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccompl",
+    "",
+    "ccompl",
+    "cin",
+    "",
+    "ccompl",
+    "c0",
+    "ccompl",
+    "cA",
+    "cun",
+    "cvv",
+    "c0",
+    "incompl",
+    "compleqi",
+    "cA",
+    "dfun2",
+    "dfv2",
+    "3eqtr4i"
+  ]
+}

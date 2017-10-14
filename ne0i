@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "B",
+    "e.",
+    "A",
+    "->",
+    "A",
+    "=/=",
+    "(/)",
+    ")"
+  ],
+  "label": "ne0i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cB",
+    "cA",
+    "wcel",
+    "cA",
+    "c0",
+    "wceq",
+    "wn",
+    "cA",
+    "c0",
+    "wne",
+    "cA",
+    "cB",
+    "n0i",
+    "cA",
+    "c0",
+    "df-ne",
+    "sylibr"
+  ]
+}

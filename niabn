@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ps",
+    "->",
+    "(",
+    "(",
+    "ch",
+    "/\\",
+    "ps",
+    ")",
+    "<->",
+    "-.",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "niabn",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "niabn.1"
+  ],
+  "proofSteps": [
+    "wch",
+    "wps",
+    "wa",
+    "wps",
+    "wph",
+    "wn",
+    "wch",
+    "wps",
+    "simpr",
+    "wph",
+    "wps",
+    "niabn.1",
+    "pm2.24i",
+    "pm5.21ni"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "ps",
+    ")"
+  ],
+  "label": "ralbiia",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "ralbiia.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cA",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wph",
+    "wps",
+    "ralbiia.1",
+    "pm5.74i",
+    "ralbii2"
+  ]
+}

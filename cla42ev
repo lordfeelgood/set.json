@@ -1,0 +1,84 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "x"
+    ],
+    [
+      "B",
+      "y"
+    ],
+    [
+      "ps",
+      "x"
+    ],
+    [
+      "ps",
+      "y"
+    ],
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "ps",
+    "->",
+    "E.",
+    "x",
+    "E.",
+    "y",
+    "ph",
+    ")"
+  ],
+  "label": "cla42ev",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cla4e2v.1",
+    "cla4e2v.2",
+    "cla4e2v.3"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "wps",
+    "wph",
+    "vy",
+    "wex",
+    "vx",
+    "wex",
+    "wi",
+    "cla4e2v.1",
+    "cla4e2v.2",
+    "wph",
+    "wps",
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "cla4e2v.3",
+    "cla42egv",
+    "mp2an"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "A",
+    "D",
+    "->",
+    "C",
+    "B",
+    "D",
+    ")"
+  ],
+  "label": "ssbri",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "ssbri.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "wss",
+    "",
+    "cC",
+    "cD",
+    "cA",
+    "wbr",
+    "cC",
+    "cD",
+    "cB",
+    "wbr",
+    "wi",
+    "cA",
+    "ssid",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "cA",
+    "cB",
+    "wss",
+    "ssbri.1",
+    "a1i",
+    "ssbrd",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "_V",
+    "=",
+    "_V"
+  ],
+  "label": "dmv",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "cvv",
+    "cdm",
+    "",
+    "cvv",
+    "ssv",
+    "cvv",
+    "cid",
+    "cdm",
+    "",
+    "dmi",
+    "cid",
+    "cvv",
+    "wss",
+    "wss",
+    "cid",
+    "ssv",
+    "cid",
+    "cvv",
+    "dmss",
+    "ax-mp",
+    "eqsstr3i",
+    "eqssi"
+  ]
+}

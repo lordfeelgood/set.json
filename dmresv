@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "dom",
+    "(",
+    "A",
+    "|`",
+    "_V",
+    ")",
+    "=",
+    "dom",
+    "A"
+  ],
+  "label": "dmresv",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "cres",
+    "cdm",
+    "cvv",
+    "cA",
+    "cdm",
+    "",
+    "cin",
+    "cvv",
+    "cin",
+    "cA",
+    "cvv",
+    "dmres",
+    "cvv",
+    "incom",
+    "inv1",
+    "3eqtri"
+  ]
+}

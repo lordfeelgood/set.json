@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "i^i",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "inex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "boolex.1",
+    "boolex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cin",
+    "cvv",
+    "wcel",
+    "boolex.1",
+    "boolex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "inexg",
+    "mp2an"
+  ]
+}

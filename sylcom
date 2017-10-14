@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "->",
+    "th",
+    ")",
+    ")"
+  ],
+  "label": "sylcom",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "sylcom.1",
+    "sylcom.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wi",
+    "wps",
+    "wth",
+    "wi",
+    "sylcom.1",
+    "wps",
+    "wch",
+    "wth",
+    "sylcom.2",
+    "a2i",
+    "syl"
+  ]
+}

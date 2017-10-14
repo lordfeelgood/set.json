@@ -1,0 +1,30 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "biimpi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "biimpi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "wph",
+    "wps",
+    "wi",
+    "biimpi.1",
+    "wph",
+    "wps",
+    "bi1",
+    "ax-mp"
+  ]
+}

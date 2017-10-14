@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "A",
+    "->",
+    "(",
+    "A",
+    "|`",
+    "_V",
+    ")",
+    "=",
+    "A",
+    ")"
+  ],
+  "label": "resid",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "wrel",
+    "cA",
+    "cdm",
+    "",
+    "cvv",
+    "wss",
+    "cA",
+    "cvv",
+    "cres",
+    "cA",
+    "wceq",
+    "ssv",
+    "cA",
+    "cvv",
+    "relssres",
+    "mpan2"
+  ]
+}

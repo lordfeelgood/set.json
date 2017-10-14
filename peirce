@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "ph",
+    ")",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "peirce",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "wph",
+    "wph",
+    "wps",
+    "simplim",
+    "wph",
+    "id",
+    "ja"
+  ]
+}

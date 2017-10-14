@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E*",
+    "x",
+    "E.",
+    "y",
+    "ph",
+    "->",
+    "A.",
+    "y",
+    "E*",
+    "x",
+    "ph",
+    ")"
+  ],
+  "label": "2moex",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "wex",
+    "",
+    "vx",
+    "wmo",
+    "wph",
+    "vx",
+    "wmo",
+    "vy",
+    "vy",
+    "vx",
+    "wph",
+    "vy",
+    "hbe1",
+    "hbmo",
+    "wph",
+    "vx",
+    "wph",
+    "vy",
+    "19.8a",
+    "immoi",
+    "alrimi"
+  ]
+}

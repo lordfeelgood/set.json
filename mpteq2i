@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "|->",
+    "B",
+    ")",
+    "=",
+    "(",
+    "x",
+    "e.",
+    "A",
+    "|->",
+    "C",
+    ")"
+  ],
+  "label": "mpteq2i",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "mpteq2i.1"
+  ],
+  "proofSteps": [
+    "vx",
+    "cA",
+    "cB",
+    "cC",
+    "cB",
+    "cC",
+    "wceq",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "mpteq2i.1",
+    "a1i",
+    "mpteq2ia"
+  ]
+}

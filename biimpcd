@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ps",
+    "->",
+    "(",
+    "ph",
+    "->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "biimpcd",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "biimpcd.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wps",
+    "wph",
+    "wch",
+    "wps",
+    "id",
+    "biimpcd.1",
+    "syl5ibcom"
+  ]
+}

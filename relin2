@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "B",
+    "->",
+    "Rel",
+    "(",
+    "A",
+    "i^i",
+    "B",
+    ")",
+    ")"
+  ],
+  "label": "relin2",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cin",
+    "",
+    "cB",
+    "wss",
+    "cB",
+    "wrel",
+    "wrel",
+    "wi",
+    "cA",
+    "cB",
+    "inss2",
+    "cB",
+    "relss",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "e.",
+    "C",
+    "/\\",
+    "-.",
+    "B",
+    "e.",
+    "C",
+    ")",
+    "->",
+    "-.",
+    "A",
+    "=",
+    "B",
+    ")"
+  ],
+  "label": "nelneq",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "wcel",
+    "",
+    "cB",
+    "cC",
+    "wcel",
+    "",
+    "wn",
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "wn",
+    "cA",
+    "cB",
+    "cC",
+    "eleq1",
+    "biimpcd",
+    "con3d",
+    "imp"
+  ]
+}

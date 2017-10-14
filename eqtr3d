@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "B",
+    "=",
+    "C",
+    ")"
+  ],
+  "label": "eqtr3d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cB",
+    "cC",
+    "eqtr3d.1",
+    "eqtr3d.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "cB",
+    "cA",
+    "cC",
+    "wph",
+    "cA",
+    "cB",
+    "eqtr3d.1",
+    "eqcomd",
+    "eqtr3d.2",
+    "eqtrd"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Rel",
+    "`'",
+    "A"
+  ],
+  "label": "relcnv",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cv",
+    "cv",
+    "cA",
+    "wbr",
+    "cA",
+    "ccnv",
+    "cA",
+    "df-cnv",
+    "relopabi"
+  ]
+}

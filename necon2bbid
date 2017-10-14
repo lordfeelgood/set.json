@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "A",
+    "=",
+    "B",
+    "<->",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "necon2bbid",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "cA",
+    "cB",
+    "necon2bbid.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "wph",
+    "wps",
+    "cA",
+    "cB",
+    "wne",
+    "wn",
+    "necon2bbid.1",
+    "cA",
+    "cB",
+    "df-ne",
+    "syl6bb",
+    "con2bid"
+  ]
+}

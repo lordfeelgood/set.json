@@ -1,0 +1,32 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "E.",
+    "x",
+    "e.",
+    "(/)",
+    "ph"
+  ],
+  "label": "rex0",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "c0",
+    "vx",
+    "cv",
+    "",
+    "c0",
+    "wcel",
+    "wph",
+    "wn",
+    "noel",
+    "pm2.21i",
+    "nrex"
+  ]
+}

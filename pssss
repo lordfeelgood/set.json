@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C.",
+    "B",
+    "->",
+    "A",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "pssss",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wpss",
+    "cA",
+    "cB",
+    "wss",
+    "cA",
+    "cB",
+    "wne",
+    "cA",
+    "cB",
+    "df-pss",
+    "simplbi"
+  ]
+}

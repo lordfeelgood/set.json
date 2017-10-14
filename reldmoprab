@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ],
+    [
+      "x",
+      "z"
+    ],
+    [
+      "y",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "Rel",
+    "dom",
+    "{",
+    "<.",
+    "<.",
+    "x",
+    ",",
+    "y",
+    ">.",
+    ",",
+    "z",
+    ">.",
+    "|",
+    "ph",
+    "}"
+  ],
+  "label": "reldmoprab",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "vz"
+  ],
+  "proofSteps": [
+    "wph",
+    "vz",
+    "wex",
+    "vx",
+    "vy",
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "copab2",
+    "cdm",
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "dmoprab",
+    "relopabi"
+  ]
+}

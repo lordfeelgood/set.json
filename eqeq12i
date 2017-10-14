@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=",
+    "C",
+    "<->",
+    "B",
+    "=",
+    "D",
+    ")"
+  ],
+  "label": "eqeq12i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "eqeq12i.1",
+    "eqeq12i.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cD",
+    "wceq",
+    "cA",
+    "cC",
+    "wceq",
+    "cB",
+    "cD",
+    "wceq",
+    "wb",
+    "eqeq12i.1",
+    "eqeq12i.2",
+    "cA",
+    "cB",
+    "cC",
+    "cD",
+    "eqeq12",
+    "mp2an"
+  ]
+}

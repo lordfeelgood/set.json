@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "ph",
+    "<->",
+    "-.",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "-.",
+    "ph",
+    ")"
+  ],
+  "label": "dfrex2",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "vx",
+    "cA",
+    "wral",
+    "wph",
+    "vx",
+    "cA",
+    "wrex",
+    "wph",
+    "vx",
+    "cA",
+    "ralnex",
+    "con2bii"
+  ]
+}

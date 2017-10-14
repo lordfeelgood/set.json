@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ps",
+    "<->",
+    "(",
+    "ps",
+    "\\/",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "biorfi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "biorfi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "",
+    "wps",
+    "wps",
+    "wph",
+    "wo",
+    "",
+    "wb",
+    "biorfi.1",
+    "wps",
+    "wps",
+    "wph",
+    "orc",
+    "wph",
+    "wps",
+    "orel2",
+    "impbid2",
+    "ax-mp"
+  ]
+}

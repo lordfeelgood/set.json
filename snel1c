@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "A",
+    "}",
+    "e.",
+    "1c"
+  ],
+  "label": "snel1c",
+  "mandatoryHypotheses": [
+    "cA",
+    "snel1c.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "csn",
+    "",
+    "c1c",
+    "wcel",
+    "cv",
+    "",
+    "csn",
+    "",
+    "wceq",
+    "",
+    "wex",
+    "",
+    "wceq",
+    "",
+    "eqid",
+    "cA",
+    "snel1c.1",
+    "cA",
+    "wceq",
+    "cA",
+    "sneq",
+    "eqeq2d",
+    "cla4ev",
+    "ax-mp",
+    "el1c",
+    "mpbir"
+  ]
+}

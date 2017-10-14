@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "-.",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    "<->",
+    "-.",
+    "(",
+    "ph",
+    "<->",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "nbbn",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wb",
+    "wn",
+    "wph",
+    "wps",
+    "wn",
+    "wb",
+    "wps",
+    "wph",
+    "wn",
+    "",
+    "wb",
+    "wps",
+    "wb",
+    "wph",
+    "wps",
+    "xor3",
+    "wph",
+    "wps",
+    "con2bi",
+    "wps",
+    "bicom",
+    "3bitrri"
+  ]
+}

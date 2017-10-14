@@ -1,0 +1,21 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "wff",
+    "x",
+    "e.",
+    "y"
+  ],
+  "label": "wel",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy"
+  ],
+  "proofSteps": [
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "wcel"
+  ]
+}

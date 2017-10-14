@@ -1,0 +1,44 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "(",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ph",
+    "<->",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "sbcg",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "cV",
+    "wph",
+    "vx",
+    "ax-17",
+    "sbcgf"
+  ]
+}

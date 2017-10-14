@@ -1,0 +1,48 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ph",
+    ")"
+  ],
+  "label": "sbcth",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "cA",
+    "cV",
+    "sbcth.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "wph",
+    "vx",
+    "wal",
+    "wph",
+    "vx",
+    "cA",
+    "wsbc",
+    "wph",
+    "vx",
+    "sbcth.1",
+    "ax-gen",
+    "wph",
+    "vx",
+    "cA",
+    "cV",
+    "a4sbc",
+    "mpi"
+  ]
+}

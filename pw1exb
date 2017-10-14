@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "~P1",
+    "A",
+    "e.",
+    "_V",
+    "<->",
+    "A",
+    "e.",
+    "_V",
+    ")"
+  ],
+  "label": "pw1exb",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cpw1",
+    "",
+    "cvv",
+    "wcel",
+    "",
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cuni",
+    "cvv",
+    "cA",
+    "unipw1",
+    "cvv",
+    "uniexg",
+    "syl5eqelr",
+    "cA",
+    "cvv",
+    "pw1exg",
+    "impbii"
+  ]
+}

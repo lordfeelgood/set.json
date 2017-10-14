@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "ph",
+    "->",
+    "(",
+    "-.",
+    "ps",
+    "<->",
+    "(",
+    "ps",
+    "->",
+    "ph",
+    ")",
+    ")",
+    ")"
+  ],
+  "label": "mtt",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wn",
+    "",
+    "wps",
+    "wn",
+    "",
+    "wi",
+    "wps",
+    "wph",
+    "wi",
+    "biimt",
+    "wps",
+    "wph",
+    "con34b",
+    "syl6bbr"
+  ]
+}

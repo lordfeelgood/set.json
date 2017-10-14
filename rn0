@@ -1,0 +1,26 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ran",
+    "(/)",
+    "=",
+    "(/)"
+  ],
+  "label": "rn0",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0",
+    "cdm",
+    "c0",
+    "wceq",
+    "c0",
+    "crn",
+    "c0",
+    "wceq",
+    "dm0",
+    "c0",
+    "dm0rn0",
+    "mpbi"
+  ]
+}

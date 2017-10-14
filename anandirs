@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "/\\",
+    "ch",
+    ")",
+    "->",
+    "ta",
+    ")"
+  ],
+  "label": "anandirs",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wta",
+    "anandirs.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "wch",
+    "wta",
+    "wph",
+    "wch",
+    "wps",
+    "wch",
+    "wta",
+    "anandirs.1",
+    "an4s",
+    "anabsan2"
+  ]
+}

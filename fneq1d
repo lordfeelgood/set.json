@@ -1,0 +1,46 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "F",
+    "Fn",
+    "A",
+    "<->",
+    "G",
+    "Fn",
+    "A",
+    ")",
+    ")"
+  ],
+  "label": "fneq1d",
+  "mandatoryHypotheses": [
+    "wph",
+    "cA",
+    "cF",
+    "cG",
+    "fneq1d.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "cF",
+    "cG",
+    "wceq",
+    "cF",
+    "cA",
+    "wfn",
+    "cG",
+    "cA",
+    "wfn",
+    "wb",
+    "fneq1d.1",
+    "cA",
+    "cF",
+    "cG",
+    "fneq1",
+    "syl"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A.",
+    "y",
+    "ph",
+    "->",
+    "A.",
+    "x",
+    "A.",
+    "y",
+    "ph",
+    ")"
+  ],
+  "label": "hbal",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "hbal.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vy",
+    "wal",
+    "",
+    "wph",
+    "vx",
+    "wal",
+    "",
+    "vy",
+    "wal",
+    "vx",
+    "wal",
+    "wph",
+    "vy",
+    "hbal.1",
+    "alimi",
+    "wph",
+    "vy",
+    "vx",
+    "ax-7",
+    "syl"
+  ]
+}

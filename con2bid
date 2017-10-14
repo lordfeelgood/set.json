@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ch",
+    "<->",
+    "-.",
+    "ps",
+    ")",
+    ")"
+  ],
+  "label": "con2bid",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "con2bid.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wn",
+    "wb",
+    "wch",
+    "wps",
+    "wn",
+    "wb",
+    "con2bid.1",
+    "wch",
+    "wps",
+    "con2bi",
+    "sylibr"
+  ]
+}

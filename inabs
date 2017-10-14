@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "i^i",
+    "(",
+    "A",
+    "u.",
+    "B",
+    ")",
+    ")",
+    "=",
+    "A"
+  ],
+  "label": "inabs",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cB",
+    "cun",
+    "",
+    "wss",
+    "cA",
+    "cin",
+    "cA",
+    "wceq",
+    "cA",
+    "cB",
+    "ssun1",
+    "cA",
+    "df-ss",
+    "mpbi"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ph"
+  ],
+  "label": "mpgbir",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "mpgbir.1",
+    "mpgbir.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "wal",
+    "wps",
+    "vx",
+    "mpgbir.2",
+    "ax-gen",
+    "mpgbir.1",
+    "mpbir"
+  ]
+}

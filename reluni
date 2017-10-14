@@ -1,0 +1,54 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "Rel",
+    "U.",
+    "A",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "A",
+    "Rel",
+    "x",
+    ")"
+  ],
+  "label": "reluni",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cuni",
+    "",
+    "wrel",
+    "vx",
+    "cA",
+    "vx",
+    "cv",
+    "",
+    "ciun",
+    "",
+    "wrel",
+    "wrel",
+    "vx",
+    "cA",
+    "wral",
+    "vx",
+    "cA",
+    "uniiun",
+    "releqi",
+    "vx",
+    "cA",
+    "reliun",
+    "bitri"
+  ]
+}

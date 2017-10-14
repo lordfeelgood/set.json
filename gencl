@@ -1,0 +1,56 @@
+{
+  "disjunctVariables": [
+    [
+      "ps",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "th",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "gencl",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "vx",
+    "cA",
+    "cB",
+    "gencl.1",
+    "gencl.2",
+    "gencl.3"
+  ],
+  "proofSteps": [
+    "wth",
+    "wch",
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "wa",
+    "",
+    "vx",
+    "wex",
+    "wps",
+    "gencl.1",
+    "wps",
+    "vx",
+    "wch",
+    "wps",
+    "wch",
+    "wph",
+    "wps",
+    "gencl.3",
+    "gencl.2",
+    "syl5ib",
+    "impcom",
+    "exlimiv",
+    "sylbi"
+  ]
+}

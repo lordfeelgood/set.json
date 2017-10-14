@@ -1,0 +1,22 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "=",
+    "A"
+  ],
+  "label": "eqid",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cA",
+    "cv",
+    "cA",
+    "wcel",
+    "biid",
+    "eqriv"
+  ]
+}

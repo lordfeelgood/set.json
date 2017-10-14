@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ps"
+  ],
+  "label": "simpri",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "simpri.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "wps",
+    "simpri.1",
+    "wph",
+    "wps",
+    "simpr",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "->",
+    "ch",
+    ")",
+    "<->",
+    "(",
+    "ps",
+    "->",
+    "th",
+    ")",
+    ")"
+  ],
+  "label": "imbi12i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "imbi12i.1",
+    "imbi12i.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wch",
+    "wi",
+    "wph",
+    "wth",
+    "wi",
+    "wps",
+    "wth",
+    "wi",
+    "wch",
+    "wth",
+    "wph",
+    "imbi12i.2",
+    "imbi2i",
+    "wph",
+    "wps",
+    "wth",
+    "imbi12i.1",
+    "imbi1i",
+    "bitri"
+  ]
+}

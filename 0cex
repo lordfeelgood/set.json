@@ -1,0 +1,21 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "0c",
+    "e.",
+    "_V"
+  ],
+  "label": "0cex",
+  "mandatoryHypotheses": [],
+  "proofSteps": [
+    "c0c",
+    "c0",
+    "csn",
+    "cvv",
+    "df-0c",
+    "c0",
+    "snex",
+    "eqeltri"
+  ]
+}

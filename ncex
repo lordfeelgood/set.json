@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "Nc",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "ncex",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cnc",
+    "cA",
+    "cen",
+    "cec",
+    "",
+    "cvv",
+    "cA",
+    "df-nc",
+    "cen",
+    "cvv",
+    "wcel",
+    "cvv",
+    "wcel",
+    "enex",
+    "cA",
+    "cvv",
+    "cen",
+    "ecexg",
+    "ax-mp",
+    "eqeltri"
+  ]
+}

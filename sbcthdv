@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "ph",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "A",
+    "e.",
+    "V",
+    ")",
+    "->",
+    "[",
+    "A",
+    "/",
+    "x",
+    "]",
+    "ps",
+    ")"
+  ],
+  "label": "sbcthdv",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "cV",
+    "sbcthdv.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "vx",
+    "wal",
+    "cA",
+    "cV",
+    "wcel",
+    "wps",
+    "vx",
+    "cA",
+    "wsbc",
+    "wph",
+    "wps",
+    "vx",
+    "sbcthdv.1",
+    "alrimiv",
+    "wps",
+    "vx",
+    "cA",
+    "cV",
+    "a4sbc",
+    "mpan9"
+  ]
+}

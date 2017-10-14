@@ -1,0 +1,53 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "-/\\",
+    "ps",
+    ")",
+    "<->",
+    "(",
+    "ps",
+    "-/\\",
+    "ph",
+    ")",
+    ")"
+  ],
+  "label": "nandcom",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wa",
+    "",
+    "wn",
+    "wps",
+    "wph",
+    "wa",
+    "",
+    "wn",
+    "wph",
+    "wps",
+    "wnand",
+    "wps",
+    "wph",
+    "wnand",
+    "wph",
+    "wps",
+    "ancom",
+    "notbii",
+    "wph",
+    "wps",
+    "df-nand",
+    "wps",
+    "wph",
+    "df-nand",
+    "3bitr4i"
+  ]
+}

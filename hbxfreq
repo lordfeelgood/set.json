@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "y",
+    "e.",
+    "A",
+    "->",
+    "A.",
+    "x",
+    "y",
+    "e.",
+    "A",
+    ")"
+  ],
+  "label": "hbxfreq",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "hbxfr.1",
+    "hbxfr.2"
+  ],
+  "proofSteps": [
+    "vy",
+    "cv",
+    "",
+    "cA",
+    "wcel",
+    "cB",
+    "wcel",
+    "vx",
+    "cA",
+    "cB",
+    "hbxfr.1",
+    "eleq2i",
+    "hbxfr.2",
+    "hbxfrbi"
+  ]
+}

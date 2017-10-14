@@ -1,0 +1,38 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ch",
+    ")",
+    "<->",
+    "(",
+    "ps",
+    "/\\",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "anbi1i",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "bi.aa"
+  ],
+  "proofSteps": [
+    "wch",
+    "wph",
+    "wps",
+    "wph",
+    "wps",
+    "wb",
+    "wch",
+    "bi.aa",
+    "a1i",
+    "pm5.32ri"
+  ]
+}

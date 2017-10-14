@@ -1,0 +1,69 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "r"
+    ],
+    [
+      "B",
+      "r"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "W",
+    "Fn",
+    "(",
+    "A",
+    "^m",
+    "B",
+    ")"
+  ],
+  "label": "enprmaplem2",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB",
+    "cW",
+    "vr",
+    "enprmaplem2.1"
+  ],
+  "proofSteps": [
+    "vr",
+    "cv",
+    "",
+    "ccnv",
+    "",
+    "vx",
+    "cv",
+    "",
+    "csn",
+    "",
+    "cima",
+    "",
+    "cvv",
+    "wcel",
+    "",
+    "cW",
+    "cA",
+    "cB",
+    "cmap",
+    "co",
+    "",
+    "wfn",
+    "vr",
+    "vr",
+    "cW",
+    "cvv",
+    "enprmaplem2.1",
+    "fnmpt",
+    "wcel",
+    "vr",
+    "vex",
+    "cnvex",
+    "snex",
+    "imaex",
+    "a1i",
+    "mprg"
+  ]
+}

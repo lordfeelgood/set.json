@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "U.",
+    "ran",
+    "{",
+    "<.",
+    "A",
+    ",",
+    "B",
+    ">.",
+    "}",
+    "=",
+    "B"
+  ],
+  "label": "op2nda",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "op2nda.1",
+    "op2nda.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cop",
+    "csn",
+    "crn",
+    "",
+    "cuni",
+    "cB",
+    "csn",
+    "",
+    "cuni",
+    "cB",
+    "cA",
+    "cB",
+    "op2nda.1",
+    "rnsnop",
+    "unieqi",
+    "cB",
+    "op2nda.2",
+    "unisn",
+    "eqtri"
+  ]
+}

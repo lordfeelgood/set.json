@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "B",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "=/=",
+    "B",
+    "->",
+    "A.",
+    "x",
+    "A",
+    "=/=",
+    "B",
+    ")"
+  ],
+  "label": "hbne",
+  "mandatoryHypotheses": [
+    "vx",
+    "vy",
+    "cA",
+    "cB",
+    "hbne.1",
+    "hbne.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wne",
+    "cA",
+    "cB",
+    "wceq",
+    "",
+    "wn",
+    "vx",
+    "cA",
+    "cB",
+    "df-ne",
+    "vx",
+    "vx",
+    "vy",
+    "vy",
+    "cA",
+    "cB",
+    "hbne.1",
+    "hbne.2",
+    "hbeq",
+    "hbn",
+    "hbxfrbi"
+  ]
+}

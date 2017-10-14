@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "~",
+    "~",
+    "A",
+    "=",
+    "A"
+  ],
+  "label": "dblcompl",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "ccompl",
+    "",
+    "ccompl",
+    "",
+    "cA",
+    "cv",
+    "",
+    "wcel",
+    "wcel",
+    "",
+    "wn",
+    "cA",
+    "wcel",
+    "",
+    "vex",
+    "",
+    "elcompl",
+    "cA",
+    "elcompl",
+    "con2bii",
+    "bitr4i",
+    "eqriv"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")"
+  ],
+  "label": "ibir",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "ibir.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wph",
+    "wps",
+    "wph",
+    "ibir.1",
+    "bicomd",
+    "ibi"
+  ]
+}

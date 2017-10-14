@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "|^|",
+    "A",
+    "=",
+    "|^|_",
+    "x",
+    "e.",
+    "A",
+    "x"
+  ],
+  "label": "intiin",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cint",
+    "cv",
+    "vx",
+    "cv",
+    "",
+    "wcel",
+    "vx",
+    "cA",
+    "wral",
+    "cab",
+    "vx",
+    "cA",
+    "ciin",
+    "vx",
+    "cA",
+    "dfint2",
+    "vx",
+    "cA",
+    "df-iin",
+    "eqtr4i"
+  ]
+}

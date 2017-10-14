@@ -1,0 +1,24 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ps"
+  ],
+  "label": "mt4",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "mt4.1",
+    "mt4.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "mt4.1",
+    "wps",
+    "wph",
+    "mt4.2",
+    "con4i",
+    "ax-mp"
+  ]
+}

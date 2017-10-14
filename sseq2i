@@ -1,0 +1,40 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "C",
+    "C_",
+    "A",
+    "<->",
+    "C",
+    "C_",
+    "B",
+    ")"
+  ],
+  "label": "sseq2i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "sseq1i.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cC",
+    "cA",
+    "wss",
+    "cC",
+    "cB",
+    "wss",
+    "wb",
+    "sseq1i.1",
+    "cA",
+    "cB",
+    "cC",
+    "sseq2",
+    "ax-mp"
+  ]
+}

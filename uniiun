@@ -1,0 +1,47 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "U.",
+    "A",
+    "=",
+    "U_",
+    "x",
+    "e.",
+    "A",
+    "x"
+  ],
+  "label": "uniiun",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "cuni",
+    "cv",
+    "vx",
+    "cv",
+    "",
+    "wcel",
+    "vx",
+    "cA",
+    "wrex",
+    "cab",
+    "vx",
+    "cA",
+    "ciun",
+    "vx",
+    "cA",
+    "dfuni2",
+    "vx",
+    "cA",
+    "df-iun",
+    "eqtr4i"
+  ]
+}

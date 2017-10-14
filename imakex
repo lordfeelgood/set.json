@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "\"_k",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "imakex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "imakex.1",
+    "imakex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cimak",
+    "cvv",
+    "wcel",
+    "imakex.1",
+    "imakex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "imakexg",
+    "mp2an"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "C"
+  ],
+  "label": "sseqtr4i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "sseqtr4.1",
+    "sseqtr4.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cC",
+    "sseqtr4.1",
+    "cC",
+    "cB",
+    "sseqtr4.2",
+    "eqcomi",
+    "sseqtri"
+  ]
+}

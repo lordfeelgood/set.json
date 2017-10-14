@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "\"",
+    "(/)",
+    ")",
+    "=",
+    "(/)"
+  ],
+  "label": "ima0",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "c0",
+    "cima",
+    "cA",
+    "c0",
+    "cres",
+    "",
+    "crn",
+    "c0",
+    "crn",
+    "c0",
+    "cA",
+    "c0",
+    "dfima3",
+    "c0",
+    "cA",
+    "res0",
+    "rneqi",
+    "rn0",
+    "3eqtri"
+  ]
+}

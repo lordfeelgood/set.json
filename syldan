@@ -1,0 +1,43 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "ph",
+    "/\\",
+    "ps",
+    ")",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "syldan",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "syldan.1",
+    "syldan.2"
+  ],
+  "proofSteps": [
+    "wch",
+    "wph",
+    "wps",
+    "wa",
+    "wth",
+    "syldan.1",
+    "wch",
+    "wph",
+    "wth",
+    "wps",
+    "wph",
+    "wch",
+    "wth",
+    "syldan.2",
+    "expcom",
+    "adantrd",
+    "mpcom"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "-.",
+    "E.",
+    "x",
+    "e.",
+    "A",
+    "ps"
+  ],
+  "label": "nrex",
+  "mandatoryHypotheses": [
+    "wps",
+    "vx",
+    "cA",
+    "nrex.1"
+  ],
+  "proofSteps": [
+    "wps",
+    "wn",
+    "",
+    "vx",
+    "cA",
+    "wral",
+    "wps",
+    "vx",
+    "cA",
+    "wrex",
+    "wn",
+    "vx",
+    "cA",
+    "nrex.1",
+    "rgen",
+    "wps",
+    "vx",
+    "cA",
+    "ralnex",
+    "mpbi"
+  ]
+}

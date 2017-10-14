@@ -1,0 +1,49 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "(",
+    "F",
+    "`",
+    "B",
+    ")",
+    "->",
+    "B",
+    "e.",
+    "dom",
+    "F",
+    ")"
+  ],
+  "label": "elfvdm",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cF"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cF",
+    "cfv",
+    "",
+    "wcel",
+    "c0",
+    "wne",
+    "cB",
+    "cF",
+    "cdm",
+    "wcel",
+    "",
+    "cA",
+    "ne0i",
+    "c0",
+    "cB",
+    "cF",
+    "ndmfv",
+    "necon1ai",
+    "syl"
+  ]
+}

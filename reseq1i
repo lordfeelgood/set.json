@@ -1,0 +1,42 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "|`",
+    "C",
+    ")",
+    "=",
+    "(",
+    "B",
+    "|`",
+    "C",
+    ")"
+  ],
+  "label": "reseq1i",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "reseqi.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wceq",
+    "cA",
+    "cC",
+    "cres",
+    "cB",
+    "cC",
+    "cres",
+    "wceq",
+    "reseqi.1",
+    "cA",
+    "cB",
+    "cC",
+    "reseq1",
+    "ax-mp"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "U.",
+    "A",
+    "e.",
+    "_V"
+  ],
+  "label": "uniex",
+  "mandatoryHypotheses": [
+    "cA",
+    "uniex.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cA",
+    "cuni",
+    "cvv",
+    "wcel",
+    "uniex.1",
+    "cA",
+    "cvv",
+    "uniexg",
+    "ax-mp"
+  ]
+}

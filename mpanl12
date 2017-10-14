@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ch",
+    "->",
+    "th",
+    ")"
+  ],
+  "label": "mpanl12",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mpanl12.1",
+    "mpanl12.2",
+    "mpanl12.3"
+  ],
+  "proofSteps": [
+    "wps",
+    "wch",
+    "wth",
+    "mpanl12.2",
+    "wph",
+    "wps",
+    "wch",
+    "wth",
+    "mpanl12.1",
+    "mpanl12.3",
+    "mpanl1",
+    "mpan"
+  ]
+}

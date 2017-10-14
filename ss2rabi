@@ -1,0 +1,52 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "{",
+    "x",
+    "e.",
+    "A",
+    "|",
+    "ph",
+    "}",
+    "C_",
+    "{",
+    "x",
+    "e.",
+    "A",
+    "|",
+    "ps",
+    "}"
+  ],
+  "label": "ss2rabi",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "ss2rabi.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "cA",
+    "crab",
+    "wps",
+    "vx",
+    "cA",
+    "crab",
+    "wss",
+    "wph",
+    "wps",
+    "wi",
+    "vx",
+    "cA",
+    "wph",
+    "wps",
+    "vx",
+    "cA",
+    "ss2rab",
+    "ss2rabi.1",
+    "mprgbir"
+  ]
+}

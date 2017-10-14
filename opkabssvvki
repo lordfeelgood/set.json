@@ -1,0 +1,60 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ],
+    [
+      "x",
+      "z"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "A",
+    "C_",
+    "(",
+    "_V",
+    "X._k",
+    "_V",
+    ")"
+  ],
+  "label": "opkabssvvki",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "cA",
+    "opkabssvvki.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "vx",
+    "cv",
+    "vy",
+    "cv",
+    "vz",
+    "cv",
+    "copk",
+    "wceq",
+    "wph",
+    "wa",
+    "vz",
+    "wex",
+    "vy",
+    "wex",
+    "vx",
+    "cab",
+    "cvv",
+    "cvv",
+    "cxpk",
+    "opkabssvvki.1",
+    "wph",
+    "vx",
+    "vy",
+    "vz",
+    "opkabssvvk",
+    "eqsstri"
+  ]
+}

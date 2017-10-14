@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "+c",
+    "B",
+    ")",
+    "e.",
+    "_V"
+  ],
+  "label": "addcex",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "addcex.1",
+    "addcex.2"
+  ],
+  "proofSteps": [
+    "cA",
+    "cvv",
+    "wcel",
+    "cB",
+    "cvv",
+    "wcel",
+    "cA",
+    "cB",
+    "cplc",
+    "cvv",
+    "wcel",
+    "addcex.1",
+    "addcex.2",
+    "cA",
+    "cB",
+    "cvv",
+    "cvv",
+    "addcexg",
+    "mp2an"
+  ]
+}

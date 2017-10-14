@@ -1,0 +1,41 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "e.",
+    "V",
+    "->",
+    "A",
+    "e.",
+    "{",
+    "A",
+    "}",
+    ")"
+  ],
+  "label": "snidg",
+  "mandatoryHypotheses": [
+    "cA",
+    "cV"
+  ],
+  "proofSteps": [
+    "cA",
+    "cV",
+    "wcel",
+    "cA",
+    "cA",
+    "csn",
+    "wcel",
+    "cA",
+    "cA",
+    "wceq",
+    "cA",
+    "eqid",
+    "cA",
+    "cA",
+    "cV",
+    "elsn2g",
+    "mpbiri"
+  ]
+}

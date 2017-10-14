@@ -1,0 +1,35 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "ch"
+  ],
+  "label": "4cases",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "4cases.1",
+    "4cases.2",
+    "4cases.3",
+    "4cases.4"
+  ],
+  "proofSteps": [
+    "wps",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "4cases.1",
+    "4cases.3",
+    "pm2.61ian",
+    "wph",
+    "wps",
+    "wn",
+    "wch",
+    "4cases.2",
+    "4cases.4",
+    "pm2.61ian",
+    "pm2.61i"
+  ]
+}

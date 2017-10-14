@@ -1,0 +1,37 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "A",
+    "<->",
+    "A",
+    "Fn",
+    "dom",
+    "A",
+    ")"
+  ],
+  "label": "funfn",
+  "mandatoryHypotheses": [
+    "cA"
+  ],
+  "proofSteps": [
+    "cA",
+    "wfun",
+    "",
+    "cA",
+    "cdm",
+    "",
+    "wceq",
+    "",
+    "wa",
+    "cA",
+    "wfn",
+    "eqid",
+    "biantru",
+    "cA",
+    "df-fn",
+    "bitr4i"
+  ]
+}

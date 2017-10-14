@@ -1,0 +1,72 @@
+{
+  "disjunctVariables": [
+    [
+      "x",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "E!",
+    "x",
+    "ph",
+    "->",
+    "E.",
+    "y",
+    "A.",
+    "x",
+    "(",
+    "ph",
+    "->",
+    "x",
+    "=",
+    "y",
+    ")",
+    ")"
+  ],
+  "label": "eumo0",
+  "mandatoryHypotheses": [
+    "wph",
+    "vx",
+    "vy",
+    "eumo0.1"
+  ],
+  "proofSteps": [
+    "wph",
+    "vx",
+    "weu",
+    "wph",
+    "vx",
+    "vy",
+    "weq",
+    "",
+    "wb",
+    "",
+    "vx",
+    "wal",
+    "",
+    "vy",
+    "wex",
+    "wph",
+    "wi",
+    "",
+    "vx",
+    "wal",
+    "",
+    "vy",
+    "wex",
+    "wph",
+    "vx",
+    "vy",
+    "eumo0.1",
+    "euf",
+    "vy",
+    "vx",
+    "wph",
+    "bi1",
+    "alimi",
+    "eximi",
+    "sylbi"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "-.",
+    "(",
+    "ph",
+    "->",
+    "ps",
+    ")",
+    "->",
+    "ph",
+    ")"
+  ],
+  "label": "simplim",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps"
+  ],
+  "proofSteps": [
+    "wph",
+    "wph",
+    "wps",
+    "wi",
+    "wph",
+    "wps",
+    "pm2.21",
+    "con1i"
+  ]
+}

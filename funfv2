@@ -1,0 +1,71 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "y"
+    ],
+    [
+      "F",
+      "y"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "Fun",
+    "F",
+    "->",
+    "(",
+    "F",
+    "`",
+    "A",
+    ")",
+    "=",
+    "U.",
+    "{",
+    "y",
+    "|",
+    "A",
+    "F",
+    "y",
+    "}",
+    ")"
+  ],
+  "label": "funfv2",
+  "mandatoryHypotheses": [
+    "vy",
+    "cA",
+    "cF"
+  ],
+  "proofSteps": [
+    "cF",
+    "wfun",
+    "cA",
+    "cF",
+    "cfv",
+    "cF",
+    "cA",
+    "csn",
+    "cima",
+    "",
+    "cuni",
+    "cA",
+    "vy",
+    "cv",
+    "cF",
+    "wbr",
+    "vy",
+    "cab",
+    "",
+    "cuni",
+    "cA",
+    "cF",
+    "funfv",
+    "vy",
+    "cA",
+    "cF",
+    "imasn",
+    "unieqi",
+    "syl6eq"
+  ]
+}

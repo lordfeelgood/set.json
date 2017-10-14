@@ -1,0 +1,39 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "ph",
+    "->",
+    "(",
+    "ps",
+    "<->",
+    "ch",
+    ")",
+    ")"
+  ],
+  "label": "2falsed",
+  "mandatoryHypotheses": [
+    "wph",
+    "wps",
+    "wch",
+    "2falsed.1",
+    "2falsed.2"
+  ],
+  "proofSteps": [
+    "wph",
+    "wps",
+    "wch",
+    "wph",
+    "wps",
+    "wch",
+    "2falsed.1",
+    "pm2.21d",
+    "wph",
+    "wch",
+    "wps",
+    "2falsed.2",
+    "pm2.21d",
+    "impbid"
+  ]
+}

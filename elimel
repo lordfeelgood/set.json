@@ -1,0 +1,50 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "if",
+    "(",
+    "A",
+    "e.",
+    "C",
+    ",",
+    "A",
+    ",",
+    "B",
+    ")",
+    "e.",
+    "C"
+  ],
+  "label": "elimel",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC",
+    "elimel.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cC",
+    "wcel",
+    "",
+    "cA",
+    "cB",
+    "cif",
+    "",
+    "cC",
+    "wcel",
+    "cB",
+    "cC",
+    "wcel",
+    "cA",
+    "cB",
+    "cA",
+    "cC",
+    "eleq1",
+    "cB",
+    "cC",
+    "eleq1",
+    "elimel.1",
+    "elimhyp"
+  ]
+}

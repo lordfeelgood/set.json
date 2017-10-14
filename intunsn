@@ -1,0 +1,51 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "|^|",
+    "(",
+    "A",
+    "u.",
+    "{",
+    "B",
+    "}",
+    ")",
+    "=",
+    "(",
+    "|^|",
+    "A",
+    "i^i",
+    "B",
+    ")"
+  ],
+  "label": "intunsn",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "intunsn.1"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "csn",
+    "",
+    "cun",
+    "cint",
+    "cA",
+    "cint",
+    "",
+    "cint",
+    "",
+    "cin",
+    "cB",
+    "cin",
+    "cA",
+    "intun",
+    "cB",
+    "cB",
+    "intunsn.1",
+    "intsn",
+    "ineq2i",
+    "eqtri"
+  ]
+}

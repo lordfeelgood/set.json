@@ -1,0 +1,45 @@
+{
+  "disjunctVariables": [],
+  "expression": [
+    "|-",
+    "(",
+    "A",
+    "C_",
+    "B",
+    "->",
+    "A",
+    "C_",
+    "(",
+    "B",
+    "u.",
+    "C",
+    ")",
+    ")"
+  ],
+  "label": "ssun3",
+  "mandatoryHypotheses": [
+    "cA",
+    "cB",
+    "cC"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "wss",
+    "cB",
+    "cB",
+    "cC",
+    "cun",
+    "",
+    "wss",
+    "cA",
+    "wss",
+    "cB",
+    "cC",
+    "ssun1",
+    "cA",
+    "cB",
+    "sstr2",
+    "mpi"
+  ]
+}

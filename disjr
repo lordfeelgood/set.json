@@ -1,0 +1,71 @@
+{
+  "disjunctVariables": [
+    [
+      "A",
+      "x"
+    ],
+    [
+      "B",
+      "x"
+    ]
+  ],
+  "expression": [
+    "|-",
+    "(",
+    "(",
+    "A",
+    "i^i",
+    "B",
+    ")",
+    "=",
+    "(/)",
+    "<->",
+    "A.",
+    "x",
+    "e.",
+    "B",
+    "-.",
+    "x",
+    "e.",
+    "A",
+    ")"
+  ],
+  "label": "disjr",
+  "mandatoryHypotheses": [
+    "vx",
+    "cA",
+    "cB"
+  ],
+  "proofSteps": [
+    "cA",
+    "cB",
+    "cin",
+    "",
+    "c0",
+    "wceq",
+    "cB",
+    "cA",
+    "cin",
+    "",
+    "c0",
+    "wceq",
+    "vx",
+    "cv",
+    "cA",
+    "wcel",
+    "wn",
+    "vx",
+    "cB",
+    "wral",
+    "c0",
+    "cA",
+    "cB",
+    "incom",
+    "eqeq1i",
+    "vx",
+    "cB",
+    "cA",
+    "disj",
+    "bitri"
+  ]
+}
