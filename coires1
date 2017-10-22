@@ -31,7 +31,6 @@
   "proofSteps": [
     "cA",
     "wrel",
-    "",
     "cA",
     "cid",
     "cB",
@@ -40,7 +39,6 @@
     "cA",
     "cid",
     "ccom",
-    "",
     "cB",
     "cres",
     "cA",

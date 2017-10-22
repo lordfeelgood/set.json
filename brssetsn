@@ -24,7 +24,6 @@
   "proofSteps": [
     "cA",
     "csn",
-    "",
     "cB",
     "csset",
     "wbr",

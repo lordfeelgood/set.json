@@ -22,10 +22,8 @@
   "proofSteps": [
     "cA",
     "ccompl",
-    "",
     "cB",
     "ccompl",
-    "",
     "cnin",
     "cnin",
     "cA",

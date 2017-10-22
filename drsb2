@@ -36,10 +36,8 @@
   "proofSteps": [
     "vx",
     "cv",
-    "",
     "vy",
     "cv",
-    "",
     "wceq",
     "wph",
     "vz",

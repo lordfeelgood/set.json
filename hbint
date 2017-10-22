@@ -35,13 +35,11 @@
   "proofSteps": [
     "vy",
     "cv",
-    "",
     "cA",
     "cint",
     "wcel",
     "cv",
     "wcel",
-    "",
     "cA",
     "wral",
     "vx",

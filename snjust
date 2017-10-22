@@ -40,12 +40,10 @@
   "proofSteps": [
     "vx",
     "cv",
-    "",
     "cA",
     "wceq",
     "vy",
     "cv",
-    "",
     "cA",
     "wceq",
     "vx",

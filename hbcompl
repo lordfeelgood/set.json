@@ -26,13 +26,11 @@
   "proofSteps": [
     "vx",
     "cv",
-    "",
     "cA",
     "ccompl",
     "wcel",
     "cA",
     "wcel",
-    "",
     "wn",
     "vy",
     "cA",

@@ -18,10 +18,8 @@
   "proofSteps": [
     "cA",
     "ccompl",
-    "",
     "ccompl",
     "cin",
-    "",
     "ccompl",
     "c0",
     "ccompl",

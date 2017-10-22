@@ -18,12 +18,10 @@
   "proofSteps": [
     "cv",
     "cv",
-    "",
     "csn",
     "wceq",
     "cv",
     "cv",
-    "",
     "csn",
     "wceq",
     "copk",

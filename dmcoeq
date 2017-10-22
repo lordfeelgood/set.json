@@ -28,10 +28,8 @@
   "proofSteps": [
     "cA",
     "cdm",
-    "",
     "cB",
     "crn",
-    "",
     "wceq",
     "wss",
     "cA",

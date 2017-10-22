@@ -32,9 +32,7 @@
   ],
   "proofSteps": [
     "cv",
-    "",
     "wceq",
-    "",
     "wph",
     "vx",
     "vy",

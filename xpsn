@@ -30,12 +30,9 @@
   "proofSteps": [
     "cA",
     "csn",
-    "",
     "cB",
     "csn",
-    "",
     "cxp",
-    "",
     "wf",
     "cA",
     "cB",

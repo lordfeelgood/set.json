@@ -13,11 +13,9 @@
   "proofSteps": [
     "vx",
     "cv",
-    "",
     "cvv",
     "wcel",
     "wceq",
-    "",
     "eqid",
     "vx",
     "cvv",

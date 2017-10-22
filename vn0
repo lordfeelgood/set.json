@@ -10,7 +10,6 @@
   "mandatoryHypotheses": [],
   "proofSteps": [
     "cv",
-    "",
     "cvv",
     "wcel",
     "cvv",

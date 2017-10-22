@@ -48,7 +48,6 @@
   "proofSteps": [
     "cR",
     "wrel",
-    "",
     "cA",
     "cR",
     "wcel",
@@ -57,7 +56,6 @@
     "cvv",
     "cvv",
     "cxp",
-    "",
     "wcel",
     "cA",
     "vx",

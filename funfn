@@ -19,12 +19,9 @@
   "proofSteps": [
     "cA",
     "wfun",
-    "",
     "cA",
     "cdm",
-    "",
     "wceq",
-    "",
     "wa",
     "cA",
     "wfn",

@@ -34,13 +34,10 @@
   "proofSteps": [
     "vx",
     "cv",
-    "",
     "cB",
     "wcel",
-    "",
     "cA",
     "wceq",
-    "",
     "wa",
     "vx",
     "wex",

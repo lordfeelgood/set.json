@@ -51,7 +51,6 @@
   "proofSteps": [
     "vx",
     "cv",
-    "",
     "cA",
     "wceq",
     "cB",

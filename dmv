@@ -12,13 +12,11 @@
   "proofSteps": [
     "cvv",
     "cdm",
-    "",
     "cvv",
     "ssv",
     "cvv",
     "cid",
     "cdm",
-    "",
     "dmi",
     "cid",
     "cvv",
