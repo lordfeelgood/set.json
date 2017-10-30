@@ -135,5 +135,9 @@
     "sbhypf",
     "opelopab",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2148
   ]
 }

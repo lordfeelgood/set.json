@@ -75,5 +75,9 @@
     "sylbi",
     "necon1i",
     "syl5eq"
+  ],
+  "scopes": [
+    0,
+    2922
   ]
 }

@@ -49,5 +49,9 @@
     "syl",
     "exlimiv",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    2932
   ]
 }

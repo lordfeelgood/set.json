@@ -61,5 +61,9 @@
     "fmptd.2",
     "fmpt",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    2735
   ]
 }

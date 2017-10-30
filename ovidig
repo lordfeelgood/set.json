@@ -92,5 +92,9 @@
     "ax-mp",
     "sylbir",
     "syl5eq"
+  ],
+  "scopes": [
+    0,
+    2657
   ]
 }

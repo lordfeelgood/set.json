@@ -57,5 +57,9 @@
     "pw10",
     "syl6eq",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1787
   ]
 }

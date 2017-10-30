@@ -55,5 +55,8 @@
     "bi2",
     "al2imi",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

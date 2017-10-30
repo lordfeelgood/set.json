@@ -29,5 +29,8 @@
     "sseqtri",
     "0ss",
     "eqssi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -21,5 +21,8 @@
     "wph",
     "wps",
     "luklem5"
+  ],
+  "scopes": [
+    0
   ]
 }

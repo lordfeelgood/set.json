@@ -77,5 +77,8 @@
     "expdimp",
     "mtod",
     "ex"
+  ],
+  "scopes": [
+    0
   ]
 }

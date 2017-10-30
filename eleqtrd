@@ -35,5 +35,9 @@
     "eleqtrd.2",
     "eleq2d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    981
   ]
 }

@@ -80,5 +80,9 @@
     "syl",
     "syl5bi",
     "ssrdv"
+  ],
+  "scopes": [
+    0,
+    2211
   ]
 }

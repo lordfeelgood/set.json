@@ -55,5 +55,9 @@
     "equs45f.1",
     "equs45f",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    734
   ]
 }

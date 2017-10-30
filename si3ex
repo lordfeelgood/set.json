@@ -55,5 +55,9 @@
     "pw1ex",
     "imaex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2788
   ]
 }

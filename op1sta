@@ -41,5 +41,9 @@
     "op1sta.1",
     "unisn",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    2379
   ]
 }

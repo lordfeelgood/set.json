@@ -72,5 +72,8 @@
     "difex",
     "intex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

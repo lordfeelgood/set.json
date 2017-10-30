@@ -86,5 +86,8 @@
     "df-ral",
     "anbi12i",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

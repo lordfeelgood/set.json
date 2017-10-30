@@ -50,5 +50,10 @@
     "psseq12d.2",
     "psseq2d",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    1619,
+    1620
   ]
 }

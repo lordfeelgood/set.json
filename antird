@@ -143,5 +143,9 @@
     "brabg",
     "syl2anc",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2858
   ]
 }

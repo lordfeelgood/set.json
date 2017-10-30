@@ -261,5 +261,9 @@
     "bitrd",
     "syl5bb",
     "bianabs"
+  ],
+  "scopes": [
+    0,
+    2659
   ]
 }

@@ -65,5 +65,9 @@
     "vex",
     "unisn",
     "syl6eq"
+  ],
+  "scopes": [
+    0,
+    1908
   ]
 }

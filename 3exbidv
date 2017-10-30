@@ -64,5 +64,9 @@
     "3exbidv.1",
     "exbidv",
     "2exbidv"
+  ],
+  "scopes": [
+    0,
+    773
   ]
 }

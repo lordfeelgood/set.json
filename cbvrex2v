@@ -133,5 +133,9 @@
     "cbvrexv",
     "rexbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1209
   ]
 }

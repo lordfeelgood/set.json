@@ -87,5 +87,9 @@
     "syl5com",
     "sylanb",
     "3impia"
+  ],
+  "scopes": [
+    0,
+    1504
   ]
 }

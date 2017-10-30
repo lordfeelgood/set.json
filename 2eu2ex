@@ -43,5 +43,8 @@
     "euex",
     "eximi",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

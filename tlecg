@@ -178,5 +178,9 @@
     "rexlimdva",
     "sylbid",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    3072
   ]
 }

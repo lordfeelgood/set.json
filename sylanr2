@@ -42,5 +42,9 @@
     "anim2i",
     "sylanr2.2",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    348
   ]
 }

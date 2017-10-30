@@ -48,5 +48,9 @@
     "ax-17",
     "rexlimdv.1",
     "rexlimd"
+  ],
+  "scopes": [
+    0,
+    1165
   ]
 }

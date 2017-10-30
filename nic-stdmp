@@ -31,5 +31,9 @@
     "nic-bi2",
     "nic-mp",
     "nic-mp"
+  ],
+  "scopes": [
+    0,
+    606
   ]
 }

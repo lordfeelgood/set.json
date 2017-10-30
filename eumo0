@@ -63,5 +63,9 @@
     "alimi",
     "eximi",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    879
   ]
 }

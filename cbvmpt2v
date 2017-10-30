@@ -152,5 +152,9 @@
     "cbvmpt2v.2",
     "sylan9eq",
     "cbvmpt2"
+  ],
+  "scopes": [
+    0,
+    2726
   ]
 }

@@ -64,5 +64,8 @@
     "sylib",
     "reseq1d",
     "eqtrd"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -32,5 +32,9 @@
     "jca",
     "mpbi2and.3",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    439
   ]
 }

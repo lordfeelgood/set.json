@@ -32,5 +32,9 @@
     "jca",
     "mpbir2and.3",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    440
   ]
 }

@@ -37,5 +37,9 @@
     "cvv",
     "cokexg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    1876
   ]
 }

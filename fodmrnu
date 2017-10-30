@@ -85,5 +85,8 @@
     "forn",
     "sylan9req",
     "jca"
+  ],
+  "scopes": [
+    0
   ]
 }

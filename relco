@@ -31,5 +31,9 @@
     "cB",
     "df-co",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2360
   ]
 }

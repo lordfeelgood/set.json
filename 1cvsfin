@@ -101,5 +101,9 @@
     "3jca",
     "df-sfin",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2038
   ]
 }

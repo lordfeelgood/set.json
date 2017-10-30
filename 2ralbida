@@ -91,5 +91,9 @@
     "anassrs",
     "ralbida",
     "ralbida"
+  ],
+  "scopes": [
+    0,
+    1099
   ]
 }

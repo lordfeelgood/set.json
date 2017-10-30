@@ -45,5 +45,9 @@
     "ceqsalv.1",
     "ceqsalv.2",
     "ceqsal"
+  ],
+  "scopes": [
+    0,
+    1237
   ]
 }

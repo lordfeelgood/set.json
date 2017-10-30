@@ -65,5 +65,9 @@
     "ifbieq12i.3",
     "ifbieq2i",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1702
   ]
 }

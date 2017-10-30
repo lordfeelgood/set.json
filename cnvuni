@@ -97,5 +97,9 @@
     "eliun",
     "bitr4i",
     "eqriv"
+  ],
+  "scopes": [
+    0,
+    2299
   ]
 }

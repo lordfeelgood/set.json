@@ -53,5 +53,9 @@
     "vex",
     "elpw",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1736
   ]
 }

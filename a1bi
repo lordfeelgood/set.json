@@ -30,5 +30,9 @@
     "wps",
     "biimt",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    223
   ]
 }

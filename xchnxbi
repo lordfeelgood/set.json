@@ -29,5 +29,9 @@
     "notbii",
     "xchnxbi.1",
     "bitr3i"
+  ],
+  "scopes": [
+    0,
+    208
   ]
 }

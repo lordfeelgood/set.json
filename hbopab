@@ -93,5 +93,9 @@
     "hbex",
     "hbab",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    2132
   ]
 }

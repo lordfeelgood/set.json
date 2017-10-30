@@ -43,5 +43,9 @@
     "dmsnop",
     "df-fn",
     "mpbir2an"
+  ],
+  "scopes": [
+    0,
+    2420
   ]
 }

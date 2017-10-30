@@ -183,5 +183,9 @@
     "syl2anc",
     "mpbid",
     "eqcomd"
+  ],
+  "scopes": [
+    0,
+    1915
   ]
 }

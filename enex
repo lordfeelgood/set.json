@@ -113,5 +113,9 @@
     "rnex",
     "inex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2928
   ]
 }

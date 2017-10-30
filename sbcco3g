@@ -145,5 +145,9 @@
     "syl",
     "adantr",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    1454
   ]
 }

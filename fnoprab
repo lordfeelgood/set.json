@@ -89,5 +89,9 @@
     "vz",
     "fnoprabg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2650
   ]
 }

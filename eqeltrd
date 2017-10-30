@@ -35,5 +35,9 @@
     "eqeltrd.1",
     "eleq1d",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    979
   ]
 }

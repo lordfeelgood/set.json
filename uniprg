@@ -81,5 +81,9 @@
     "vex",
     "unipr",
     "vtocl2g"
+  ],
+  "scopes": [
+    0,
+    1657
   ]
 }

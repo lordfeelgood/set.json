@@ -83,5 +83,9 @@
     "com12",
     "syl2im",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    654
   ]
 }

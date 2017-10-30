@@ -38,5 +38,9 @@
     "exp.1",
     "sylbir",
     "expi"
+  ],
+  "scopes": [
+    0,
+    251
   ]
 }

@@ -156,5 +156,9 @@
     "exlimi",
     "syl",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    2516
   ]
 }

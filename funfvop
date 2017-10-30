@@ -52,5 +52,9 @@
     "cF",
     "funopfvb",
     "mpbii"
+  ],
+  "scopes": [
+    0,
+    2527
   ]
 }

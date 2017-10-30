@@ -176,5 +176,9 @@
     "ord",
     "mpd",
     "eqeltrrd"
+  ],
+  "scopes": [
+    0,
+    2043
   ]
 }

@@ -72,5 +72,9 @@
     "vz",
     "ax-ext",
     "chvarv"
+  ],
+  "scopes": [
+    0,
+    913
   ]
 }

@@ -123,5 +123,9 @@
     "bitri",
     "bitri",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2323
   ]
 }

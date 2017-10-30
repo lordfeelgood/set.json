@@ -32,5 +32,8 @@
     "wps",
     "orc",
     "immoi"
+  ],
+  "scopes": [
+    0
   ]
 }

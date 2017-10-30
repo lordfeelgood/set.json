@@ -38,5 +38,8 @@
     "wps",
     "simpl",
     "ad2antrr"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -35,5 +35,9 @@
     "neeqtrd.2",
     "neeq2d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    1028
   ]
 }

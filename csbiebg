@@ -104,5 +104,9 @@
     "csbiebg.2",
     "csbieb",
     "vtoclbg"
+  ],
+  "scopes": [
+    0,
+    1442
   ]
 }

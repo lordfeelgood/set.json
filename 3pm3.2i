@@ -39,5 +39,9 @@
     "wch",
     "df-3an",
     "mpbir2an"
+  ],
+  "scopes": [
+    0,
+    469
   ]
 }

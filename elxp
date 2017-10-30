@@ -113,5 +113,9 @@
     "cA",
     "elopab",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2235
   ]
 }

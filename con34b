@@ -39,5 +39,8 @@
     "wph",
     "ax-3",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

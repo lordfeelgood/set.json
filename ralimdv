@@ -51,5 +51,9 @@
     "ralimdv.1",
     "adantr",
     "ralimdva"
+  ],
+  "scopes": [
+    0,
+    1122
   ]
 }

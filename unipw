@@ -50,5 +50,9 @@
     "sylancr",
     "impbii",
     "eqriv"
+  ],
+  "scopes": [
+    0,
+    1766
   ]
 }

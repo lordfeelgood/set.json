@@ -91,5 +91,8 @@
     "cN",
     "preaddccan1",
     "mpdan"
+  ],
+  "scopes": [
+    0
   ]
 }

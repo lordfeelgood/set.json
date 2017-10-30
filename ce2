@@ -179,5 +179,9 @@
     "mpbir",
     "eqtri",
     "syl6eq"
+  ],
+  "scopes": [
+    0,
+    3044
   ]
 }

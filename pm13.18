@@ -51,5 +51,8 @@
     "biimprd",
     "necon3d",
     "imp"
+  ],
+  "scopes": [
+    0
   ]
 }

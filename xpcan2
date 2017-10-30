@@ -129,5 +129,8 @@
     "impbid1",
     "sylanb",
     "pm2.61ian"
+  ],
+  "scopes": [
+    0
   ]
 }

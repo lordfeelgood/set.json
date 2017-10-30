@@ -40,5 +40,9 @@
     "a1i",
     "sylan2i.2",
     "sylan2d"
+  ],
+  "scopes": [
+    0,
+    350
   ]
 }

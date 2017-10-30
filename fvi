@@ -78,5 +78,9 @@
     "mpbiri",
     "mp2an",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    2554
   ]
 }

@@ -129,5 +129,9 @@
     "df-opab",
     "eqtri",
     "eleq2s"
+  ],
+  "scopes": [
+    0,
+    2235
   ]
 }

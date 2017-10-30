@@ -51,5 +51,8 @@
     "olc",
     "immoi",
     "jca"
+  ],
+  "scopes": [
+    0
   ]
 }

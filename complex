@@ -25,5 +25,9 @@
     "cvv",
     "complexg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1762
   ]
 }

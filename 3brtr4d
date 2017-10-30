@@ -43,5 +43,9 @@
     "3brtr4d.3",
     "breq12d",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2110
   ]
 }

@@ -115,5 +115,8 @@
     "addccom",
     "syl6eq",
     "eqtrd"
+  ],
+  "scopes": [
+    0
   ]
 }

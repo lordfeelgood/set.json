@@ -56,5 +56,9 @@
     "elab4g.2",
     "elab2g",
     "biadan2"
+  ],
+  "scopes": [
+    0,
+    1313
   ]
 }

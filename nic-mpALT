@@ -50,5 +50,9 @@
     "mpbir",
     "simprd",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    594
   ]
 }

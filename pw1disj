@@ -115,5 +115,9 @@
     "disj",
     "sylibr",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1788
   ]
 }

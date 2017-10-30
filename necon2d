@@ -46,5 +46,9 @@
     "df-ne",
     "syl6ib",
     "necon2ad"
+  ],
+  "scopes": [
+    0,
+    1056
   ]
 }

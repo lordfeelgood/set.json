@@ -88,5 +88,9 @@
     "csbconstgfv",
     "breqd",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    2127
   ]
 }

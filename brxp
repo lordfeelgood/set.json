@@ -56,5 +56,9 @@
     "cD",
     "opelxp",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2240
   ]
 }

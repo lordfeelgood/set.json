@@ -40,5 +40,9 @@
     "jctl",
     "mpanlr1.2",
     "sylanl2"
+  ],
+  "scopes": [
+    0,
+    381
   ]
 }

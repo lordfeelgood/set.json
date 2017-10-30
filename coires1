@@ -54,5 +54,8 @@
     "coi1",
     "reseq1d",
     "syl5eqr"
+  ],
+  "scopes": [
+    0
   ]
 }

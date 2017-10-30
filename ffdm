@@ -57,5 +57,8 @@
     "eqimss",
     "syl",
     "jca"
+  ],
+  "scopes": [
+    0
   ]
 }

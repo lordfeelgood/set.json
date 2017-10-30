@@ -75,5 +75,9 @@
     "3bitri",
     "3bitr4ri",
     "eqrelriiv"
+  ],
+  "scopes": [
+    0,
+    2380
   ]
 }

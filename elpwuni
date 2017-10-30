@@ -50,5 +50,8 @@
     "eqimss",
     "impbid1",
     "syl5bb"
+  ],
+  "scopes": [
+    0
   ]
 }

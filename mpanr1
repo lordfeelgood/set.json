@@ -34,5 +34,9 @@
     "mpanr1.2",
     "anassrs",
     "mpanl2"
+  ],
+  "scopes": [
+    0,
+    378
   ]
 }

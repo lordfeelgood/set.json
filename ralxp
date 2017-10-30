@@ -195,5 +195,9 @@
     "pm2.43b",
     "ralrimiv",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2245
   ]
 }

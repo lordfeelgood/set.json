@@ -68,5 +68,9 @@
     "raleqd.1",
     "ralbidv",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    1203
   ]
 }

@@ -60,5 +60,8 @@
     "bicomi",
     "nic-justbi",
     "mpbi"
+  ],
+  "scopes": [
+    0
   ]
 }

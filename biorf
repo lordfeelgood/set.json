@@ -36,5 +36,8 @@
     "wps",
     "orel1",
     "impbid2"
+  ],
+  "scopes": [
+    0
   ]
 }

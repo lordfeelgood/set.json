@@ -45,5 +45,8 @@
     "wps",
     "simp3r",
     "adantr"
+  ],
+  "scopes": [
+    0
   ]
 }

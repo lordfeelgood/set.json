@@ -35,5 +35,8 @@
     "wph",
     "pm1.4",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

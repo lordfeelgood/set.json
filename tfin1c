@@ -62,5 +62,8 @@
     "addceq1i",
     "eqtri",
     "3eqtr3i"
+  ],
+  "scopes": [
+    0
   ]
 }

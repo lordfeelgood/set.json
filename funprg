@@ -141,5 +141,8 @@
     "df-pr",
     "funeqi",
     "sylibr"
+  ],
+  "scopes": [
+    0
   ]
 }

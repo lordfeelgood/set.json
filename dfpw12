@@ -124,5 +124,9 @@
     "3bitri",
     "bitr4i",
     "eqriv"
+  ],
+  "scopes": [
+    0,
+    1871
   ]
 }

@@ -35,5 +35,9 @@
     "a1i",
     "syl5breq.2",
     "breqtrd"
+  ],
+  "scopes": [
+    0,
+    2115
   ]
 }

@@ -58,5 +58,8 @@
     "impbid2",
     "bibi2d",
     "biimpa"
+  ],
+  "scopes": [
+    0
   ]
 }

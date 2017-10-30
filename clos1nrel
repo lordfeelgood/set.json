@@ -97,5 +97,9 @@
     "clos1base",
     "a1i",
     "eqssd"
+  ],
+  "scopes": [
+    0,
+    2848
   ]
 }

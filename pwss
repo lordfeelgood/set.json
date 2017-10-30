@@ -66,5 +66,9 @@
     "imbi1i",
     "albii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1740
   ]
 }

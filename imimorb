@@ -60,5 +60,8 @@
     "dfor2",
     "imbi2i",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

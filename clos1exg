@@ -66,5 +66,9 @@
     "vex",
     "clos1ex",
     "vtocl2g"
+  ],
+  "scopes": [
+    0,
+    2840
   ]
 }

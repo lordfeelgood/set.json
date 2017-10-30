@@ -41,5 +41,8 @@
     "cnvss",
     "funss",
     "mp2b"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -91,5 +91,9 @@
     "cC",
     "iunss",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2205
   ]
 }

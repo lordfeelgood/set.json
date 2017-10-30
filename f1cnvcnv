@@ -66,5 +66,8 @@
     "anbi12i",
     "ancom",
     "3bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

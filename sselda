@@ -39,5 +39,9 @@
     "sseld.1",
     "sseld",
     "imp"
+  ],
+  "scopes": [
+    0,
+    1562
   ]
 }

@@ -36,5 +36,8 @@
     "wps",
     "simpl",
     "3ad2ant1"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -87,5 +87,9 @@
     "ovmpt2g",
     "mpd3an3",
     "syl2an"
+  ],
+  "scopes": [
+    0,
+    2796
   ]
 }

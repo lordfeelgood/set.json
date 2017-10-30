@@ -48,5 +48,8 @@
     "wps",
     "peirce",
     "syl6"
+  ],
+  "scopes": [
+    0
   ]
 }

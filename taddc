@@ -271,5 +271,9 @@
     "bitri",
     "3bitri",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    3071
   ]
 }

@@ -48,5 +48,9 @@
     "cvv",
     "brdisjg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    2801
   ]
 }

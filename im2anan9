@@ -58,5 +58,9 @@
     "im2an9.2",
     "adantl",
     "anim12d"
+  ],
+  "scopes": [
+    0,
+    423
   ]
 }

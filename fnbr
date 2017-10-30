@@ -56,5 +56,8 @@
     "simpl",
     "eleqtrd",
     "sylan"
+  ],
+  "scopes": [
+    0
   ]
 }

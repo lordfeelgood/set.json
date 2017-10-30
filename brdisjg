@@ -70,5 +70,9 @@
     "eqeq1d",
     "df-disj",
     "brabg"
+  ],
+  "scopes": [
+    0,
+    2800
   ]
 }

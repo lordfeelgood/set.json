@@ -112,5 +112,9 @@
     "fvres",
     "syl5eq",
     "eqtr3d"
+  ],
+  "scopes": [
+    0,
+    2557
   ]
 }

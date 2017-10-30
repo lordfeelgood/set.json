@@ -26,5 +26,9 @@
     "sylibr.2",
     "biimpri",
     "syl"
+  ],
+  "scopes": [
+    0,
+    131
   ]
 }

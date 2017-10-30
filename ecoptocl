@@ -137,5 +137,9 @@
     "syl",
     "ecoptocl.1",
     "eleq2s"
+  ],
+  "scopes": [
+    0,
+    2909
   ]
 }

@@ -53,5 +53,9 @@
     "ceqsalv",
     "bitri",
     "bitr2i"
+  ],
+  "scopes": [
+    0,
+    1629
   ]
 }

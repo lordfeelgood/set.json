@@ -51,5 +51,8 @@
     "cA",
     "relssres",
     "syl2anc"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -49,5 +49,9 @@
     "tbt",
     "albii",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    1495
   ]
 }

@@ -29,5 +29,9 @@
     "adantl.1",
     "adantr",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    265
   ]
 }

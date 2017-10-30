@@ -191,5 +191,9 @@
     "imaexg",
     "syl2an",
     "syl5eqel"
+  ],
+  "scopes": [
+    0,
+    2896
   ]
 }

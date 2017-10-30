@@ -33,5 +33,8 @@
     "vx",
     "modal-b",
     "mpg"
+  ],
+  "scopes": [
+    0
   ]
 }

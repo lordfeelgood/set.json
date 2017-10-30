@@ -56,5 +56,9 @@
     "ax-17",
     "cbvralv.1",
     "cbvrex"
+  ],
+  "scopes": [
+    0,
+    1207
   ]
 }

@@ -66,5 +66,9 @@
     "df-cnv",
     "brabg",
     "pm5.21nii"
+  ],
+  "scopes": [
+    0,
+    2297
   ]
 }

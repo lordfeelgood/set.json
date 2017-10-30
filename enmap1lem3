@@ -186,5 +186,9 @@
     "syl5ibcom",
     "expimpd",
     "syl5"
+  ],
+  "scopes": [
+    0,
+    2960
   ]
 }

@@ -75,5 +75,8 @@
     "syl6bbr",
     "pm5.32i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

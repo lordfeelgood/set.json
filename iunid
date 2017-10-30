@@ -69,5 +69,9 @@
     "abid2",
     "eqtr3i",
     "3eqtri"
+  ],
+  "scopes": [
+    0,
+    2213
   ]
 }

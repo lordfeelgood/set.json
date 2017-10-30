@@ -16,5 +16,9 @@
     "cen",
     "df-en",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2926
   ]
 }

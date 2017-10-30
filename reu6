@@ -187,5 +187,9 @@
     "df-rex",
     "bitr4i",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    1348
   ]
 }

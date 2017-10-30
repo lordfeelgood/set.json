@@ -51,5 +51,9 @@
     "reubidv.1",
     "adantr",
     "reubidva"
+  ],
+  "scopes": [
+    0,
+    1196
   ]
 }

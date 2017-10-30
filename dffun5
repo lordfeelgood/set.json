@@ -113,5 +113,9 @@
     "albii",
     "anbi2i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2401
   ]
 }

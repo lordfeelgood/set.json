@@ -72,5 +72,9 @@
     "mpd",
     "impbida",
     "eqrdv"
+  ],
+  "scopes": [
+    0,
+    924
   ]
 }

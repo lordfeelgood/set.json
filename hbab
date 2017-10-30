@@ -57,5 +57,9 @@
     "hbab.1",
     "hbsb",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    916
   ]
 }

@@ -91,5 +91,8 @@
     "syl6ibr",
     "eximd",
     "3impia"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -31,5 +31,8 @@
     "vx",
     "eu5",
     "simprbi"
+  ],
+  "scopes": [
+    0
   ]
 }

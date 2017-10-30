@@ -54,5 +54,8 @@
     "rnresi",
     "syl6eq",
     "syl5eq"
+  ],
+  "scopes": [
+    0
   ]
 }

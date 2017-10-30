@@ -142,5 +142,9 @@
     "csbeq1d",
     "adantr",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    1453
   ]
 }

@@ -65,5 +65,8 @@
     "funssres",
     "mpan2",
     "syl5req"
+  ],
+  "scopes": [
+    0
   ]
 }

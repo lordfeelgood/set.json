@@ -83,5 +83,9 @@
     "sylan9bb",
     "exlimi",
     "sylbir"
+  ],
+  "scopes": [
+    0,
+    1256
   ]
 }

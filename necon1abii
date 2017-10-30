@@ -33,5 +33,9 @@
     "necon1abii.1",
     "con1bii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1057
   ]
 }

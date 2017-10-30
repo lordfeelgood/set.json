@@ -133,5 +133,9 @@
     "finds.5",
     "elabg",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    1934
   ]
 }

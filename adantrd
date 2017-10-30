@@ -36,5 +36,9 @@
     "simpl",
     "adantrd.1",
     "syl5"
+  ],
+  "scopes": [
+    0,
+    267
   ]
 }

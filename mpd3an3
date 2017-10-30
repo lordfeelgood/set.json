@@ -35,5 +35,9 @@
     "mpd3an3.3",
     "3expa",
     "mpdan"
+  ],
+  "scopes": [
+    0,
+    583
   ]
 }

@@ -35,5 +35,9 @@
     "biid",
     "abbi2i",
     "eqcomi"
+  ],
+  "scopes": [
+    0,
+    1015
   ]
 }

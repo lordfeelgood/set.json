@@ -27,5 +27,8 @@
     "noel",
     "pm2.21i",
     "nrex"
+  ],
+  "scopes": [
+    0
   ]
 }

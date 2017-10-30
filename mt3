@@ -20,5 +20,9 @@
     "mt3.2",
     "mto",
     "notnotri"
+  ],
+  "scopes": [
+    0,
+    112
   ]
 }

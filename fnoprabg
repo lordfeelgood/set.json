@@ -176,5 +176,9 @@
     "syl5eq",
     "df-fn",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    2649
   ]
 }

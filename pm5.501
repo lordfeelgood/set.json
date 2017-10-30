@@ -37,5 +37,8 @@
     "bi1",
     "com12",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

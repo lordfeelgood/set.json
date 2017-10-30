@@ -46,5 +46,9 @@
     "pm2.21i",
     "3ad2ant2",
     "connexrd"
+  ],
+  "scopes": [
+    0,
+    2866
   ]
 }

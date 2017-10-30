@@ -61,5 +61,8 @@
     "wch",
     "or4",
     "bitr3i"
+  ],
+  "scopes": [
+    0
   ]
 }

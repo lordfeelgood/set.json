@@ -39,5 +39,9 @@
     "necon1i.1",
     "sylbir",
     "necon1ai"
+  ],
+  "scopes": [
+    0,
+    1050
   ]
 }

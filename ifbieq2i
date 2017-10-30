@@ -66,5 +66,9 @@
     "ifeq2",
     "ax-mp",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1700
   ]
 }

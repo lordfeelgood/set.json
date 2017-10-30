@@ -64,5 +64,9 @@
     "complex",
     "cnvex",
     "inex"
+  ],
+  "scopes": [
+    0,
+    2794
   ]
 }

@@ -64,5 +64,8 @@
     "cF",
     "oveq2",
     "sylan9eq"
+  ],
+  "scopes": [
+    0
   ]
 }

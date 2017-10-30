@@ -57,5 +57,8 @@
     "breldm",
     "adantl",
     "impbida"
+  ],
+  "scopes": [
+    0
   ]
 }

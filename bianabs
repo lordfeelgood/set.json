@@ -31,5 +31,9 @@
     "wch",
     "ibar",
     "bitr4d"
+  ],
+  "scopes": [
+    0,
+    429
   ]
 }

@@ -1,0 +1,20 @@
+[
+  {
+    "activevariables": [],
+    "disjvars": [
+      [
+        "x",
+        "z"
+      ],
+      [
+        "w",
+        "x"
+      ],
+      [
+        "y",
+        "z"
+      ]
+    ],
+    "floatinghyp": {}
+  }
+]

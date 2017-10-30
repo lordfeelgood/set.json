@@ -55,5 +55,9 @@
     "ceqsal.3",
     "ceqsalg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1236
   ]
 }

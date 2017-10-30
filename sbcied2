@@ -70,5 +70,9 @@
     "sbcied2.3",
     "syldan",
     "sbcied"
+  ],
+  "scopes": [
+    0,
+    1376
   ]
 }

@@ -36,5 +36,9 @@
     "exp3acom3r.1",
     "exp3a",
     "com3l"
+  ],
+  "scopes": [
+    0,
+    612
   ]
 }

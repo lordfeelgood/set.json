@@ -65,5 +65,8 @@
     "vy",
     "sbi2",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

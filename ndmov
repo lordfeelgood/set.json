@@ -76,5 +76,9 @@
     "ndmfv",
     "syl5eq",
     "sylnbir"
+  ],
+  "scopes": [
+    0,
+    2676
   ]
 }

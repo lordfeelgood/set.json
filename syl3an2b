@@ -36,5 +36,9 @@
     "biimpi",
     "syl3an2b.2",
     "syl3an2"
+  ],
+  "scopes": [
+    0,
+    535
   ]
 }

@@ -14,5 +14,9 @@
     "cid",
     "dfid3",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2280
   ]
 }

@@ -60,5 +60,9 @@
     "fneq1",
     "mpbiri",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2434
   ]
 }

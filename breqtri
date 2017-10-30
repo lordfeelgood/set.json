@@ -32,5 +32,9 @@
     "breqtr.2",
     "breq2i",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    2103
   ]
 }

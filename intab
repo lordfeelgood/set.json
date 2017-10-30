@@ -243,5 +243,9 @@
     "abssi",
     "eqssi",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1687
   ]
 }

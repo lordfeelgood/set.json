@@ -65,5 +65,8 @@
     "vy",
     "sbbi",
     "mpbi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -81,5 +81,9 @@
     "syl6bb",
     "cbvex",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1655
   ]
 }

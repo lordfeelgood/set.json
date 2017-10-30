@@ -60,5 +60,8 @@
     "necon3bbid",
     "pm5.32i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

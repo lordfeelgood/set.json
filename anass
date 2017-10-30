@@ -52,5 +52,8 @@
     "id",
     "anasss",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

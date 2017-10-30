@@ -227,5 +227,9 @@
     "inss2",
     "syl6ss",
     "syl3an"
+  ],
+  "scopes": [
+    0,
+    2036
   ]
 }

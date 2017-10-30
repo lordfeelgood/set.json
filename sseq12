@@ -56,5 +56,8 @@
     "cB",
     "sseq2",
     "sylan9bb"
+  ],
+  "scopes": [
+    0
   ]
 }

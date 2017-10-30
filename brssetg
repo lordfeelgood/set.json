@@ -52,5 +52,9 @@
     "sseq2",
     "df-sset",
     "brabg"
+  ],
+  "scopes": [
+    0,
+    2178
   ]
 }

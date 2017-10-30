@@ -28,5 +28,9 @@
     "wps",
     "notbi",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    197
   ]
 }

@@ -59,5 +59,9 @@
     "vz",
     "dfoprab2",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2622
   ]
 }

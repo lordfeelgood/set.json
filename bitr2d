@@ -33,5 +33,9 @@
     "bitr2d.2",
     "bitrd",
     "bicomd"
+  ],
+  "scopes": [
+    0,
+    166
   ]
 }

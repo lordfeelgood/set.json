@@ -121,5 +121,8 @@
     "an4s",
     "syl2anb",
     "imp"
+  ],
+  "scopes": [
+    0
   ]
 }

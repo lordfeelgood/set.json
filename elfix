@@ -90,5 +90,9 @@
     "3bitri",
     "vtoclbg",
     "pm5.21nii"
+  ],
+  "scopes": [
+    0,
+    2774
   ]
 }

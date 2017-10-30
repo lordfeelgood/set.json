@@ -190,5 +190,9 @@
     "enprmaplem6.2",
     "enprmaplem5",
     "eqssd"
+  ],
+  "scopes": [
+    0,
+    2970
   ]
 }

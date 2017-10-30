@@ -31,5 +31,9 @@
     "anabsi5.1",
     "imp",
     "anabss5"
+  ],
+  "scopes": [
+    0,
+    411
   ]
 }

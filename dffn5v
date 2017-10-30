@@ -69,5 +69,9 @@
     "df-mpt",
     "eqeq2i",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    2744
   ]
 }

@@ -37,5 +37,9 @@
     "cvv",
     "txpexg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    2772
   ]
 }

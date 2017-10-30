@@ -74,5 +74,9 @@
     "ce0nnul",
     "adantr",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    3031
   ]
 }

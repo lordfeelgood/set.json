@@ -34,5 +34,9 @@
     "syl6sseq.2",
     "sseq2i",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    1598
   ]
 }

@@ -43,5 +43,8 @@
     "vy",
     "sbequ2",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

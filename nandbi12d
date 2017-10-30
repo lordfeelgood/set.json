@@ -54,5 +54,9 @@
     "nandbid.2",
     "nandbi2d",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    593
   ]
 }

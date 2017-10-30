@@ -49,5 +49,8 @@
     "iotaequ",
     "eqeq1d",
     "bitr4d"
+  ],
+  "scopes": [
+    0
   ]
 }

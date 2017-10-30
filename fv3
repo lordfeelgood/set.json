@@ -170,5 +170,9 @@
     "impbii",
     "bitri",
     "abbi2i"
+  ],
+  "scopes": [
+    0,
+    2480
   ]
 }

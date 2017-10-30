@@ -44,5 +44,9 @@
     "wph",
     "idd",
     "syl2and"
+  ],
+  "scopes": [
+    0,
+    305
   ]
 }

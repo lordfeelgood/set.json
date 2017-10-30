@@ -118,5 +118,8 @@
     "impexp",
     "bicomi",
     "pm3.2i"
+  ],
+  "scopes": [
+    0
   ]
 }

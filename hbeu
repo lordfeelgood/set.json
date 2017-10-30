@@ -85,5 +85,9 @@
     "pm2.61i",
     "hbex",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    872
   ]
 }

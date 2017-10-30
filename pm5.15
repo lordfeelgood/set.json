@@ -36,5 +36,8 @@
     "xor3",
     "biimpi",
     "orri"
+  ],
+  "scopes": [
+    0
   ]
 }

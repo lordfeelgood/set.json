@@ -22,5 +22,9 @@
     "cswap",
     "df-swap",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2390
   ]
 }

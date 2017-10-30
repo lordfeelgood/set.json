@@ -19,5 +19,8 @@
     "c2c",
     "nnnc",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

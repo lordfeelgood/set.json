@@ -148,5 +148,9 @@
     "eleq1d",
     "ralxp",
     "syl6bb"
+  ],
+  "scopes": [
+    0,
+    2672
   ]
 }

@@ -44,5 +44,9 @@
     "ax-17",
     "exlimdv.1",
     "exlimd"
+  ],
+  "scopes": [
+    0,
+    744
   ]
 }

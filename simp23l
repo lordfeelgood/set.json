@@ -49,5 +49,8 @@
     "wps",
     "simp3l",
     "3ad2ant2"
+  ],
+  "scopes": [
+    0
   ]
 }

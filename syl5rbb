@@ -33,5 +33,9 @@
     "syl5rbb.2",
     "syl5bb",
     "bicomd"
+  ],
+  "scopes": [
+    0,
+    170
   ]
 }

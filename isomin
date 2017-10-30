@@ -245,5 +245,9 @@
     "3bitr4i",
     "3bitr4g",
     "con4bid"
+  ],
+  "scopes": [
+    0,
+    2587
   ]
 }

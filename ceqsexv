@@ -45,5 +45,9 @@
     "ceqsexv.1",
     "ceqsexv.2",
     "ceqsex"
+  ],
+  "scopes": [
+    0,
+    1246
   ]
 }

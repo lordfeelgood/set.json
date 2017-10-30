@@ -55,5 +55,8 @@
     "reseq12i",
     "syl6eq",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

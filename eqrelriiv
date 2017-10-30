@@ -54,5 +54,9 @@
     "eqreliiv.3",
     "eqrelriv",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    2266
   ]
 }

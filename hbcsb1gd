@@ -145,5 +145,9 @@
     "3imtr3d",
     "hbeld",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    1437
   ]
 }

@@ -468,5 +468,9 @@
     "ceqsex6v.12",
     "ceqsex3v",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    1251
   ]
 }

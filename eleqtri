@@ -28,5 +28,9 @@
     "eleqtr.2",
     "eleq2i",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    977
   ]
 }

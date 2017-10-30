@@ -85,5 +85,9 @@
     "ssrel",
     "syl",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2264
   ]
 }

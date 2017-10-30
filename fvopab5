@@ -162,5 +162,9 @@
     "syl",
     "unieqd",
     "sylan9eq"
+  ],
+  "scopes": [
+    0,
+    2518
   ]
 }

@@ -53,5 +53,9 @@
     "sbcgf.1",
     "sbf",
     "vtoclbg"
+  ],
+  "scopes": [
+    0,
+    1396
   ]
 }

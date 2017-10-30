@@ -7576,5 +7576,9 @@
     "imor",
     "bitr4i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    3132
   ]
 }

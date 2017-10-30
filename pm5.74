@@ -77,5 +77,8 @@
     "pm2.86d",
     "impbidd",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

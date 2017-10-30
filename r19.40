@@ -65,5 +65,8 @@
     "simpr",
     "reximi",
     "jca"
+  ],
+  "scopes": [
+    0
   ]
 }

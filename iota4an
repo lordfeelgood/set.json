@@ -72,5 +72,8 @@
     "ax-mp",
     "mpbi",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

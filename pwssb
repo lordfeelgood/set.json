@@ -56,5 +56,9 @@
     "cB",
     "unissb",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2225
   ]
 }

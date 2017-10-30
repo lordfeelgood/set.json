@@ -135,5 +135,9 @@
     "cbvralv",
     "ralbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1208
   ]
 }

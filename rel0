@@ -19,5 +19,8 @@
     "c0",
     "df-rel",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

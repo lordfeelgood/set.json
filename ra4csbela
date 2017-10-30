@@ -75,5 +75,9 @@
     "sbcel1g",
     "sylibd",
     "imp"
+  ],
+  "scopes": [
+    0,
+    1455
   ]
 }

@@ -63,5 +63,8 @@
     "mpbi",
     "reseq2i",
     "3eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

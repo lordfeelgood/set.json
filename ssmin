@@ -48,5 +48,9 @@
     "wph",
     "simpl",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    1682
   ]
 }

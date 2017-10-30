@@ -41,5 +41,9 @@
     "cA",
     "abid2",
     "sseqtri"
+  ],
+  "scopes": [
+    0,
+    1610
   ]
 }

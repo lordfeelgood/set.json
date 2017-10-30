@@ -53,5 +53,9 @@
     "ancoms",
     "syl3anl2",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    551
   ]
 }

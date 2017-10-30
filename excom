@@ -42,5 +42,8 @@
     "vx",
     "excomim",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

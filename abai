@@ -35,5 +35,8 @@
     "wps",
     "biimt",
     "pm5.32i"
+  ],
+  "scopes": [
+    0
   ]
 }

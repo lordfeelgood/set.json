@@ -34,5 +34,8 @@
     "cvv",
     "eqss",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -149,5 +149,9 @@
     "ssrdv",
     "impbii",
     "3bitr2ri"
+  ],
+  "scopes": [
+    0,
+    2370
   ]
 }

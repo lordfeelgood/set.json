@@ -184,5 +184,9 @@
     "cR",
     "ersymtr",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    2867
   ]
 }

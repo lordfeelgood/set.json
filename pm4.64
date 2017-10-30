@@ -34,5 +34,8 @@
     "wps",
     "df-or",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

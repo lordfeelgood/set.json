@@ -21,5 +21,8 @@
     "swapex",
     "coex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

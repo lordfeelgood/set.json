@@ -56,5 +56,9 @@
     "pw1ex",
     "fvmpt",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2823
   ]
 }

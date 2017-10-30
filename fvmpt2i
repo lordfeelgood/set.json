@@ -82,5 +82,9 @@
     "cbvmpt",
     "eqtri",
     "fvmpti"
+  ],
+  "scopes": [
+    0,
+    2743
   ]
 }

@@ -140,5 +140,9 @@
     "mpan2",
     "impbid1",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    2574
   ]
 }

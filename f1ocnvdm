@@ -65,5 +65,8 @@
     "cC",
     "ffvelrn",
     "sylan"
+  ],
+  "scopes": [
+    0
   ]
 }

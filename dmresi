@@ -36,5 +36,8 @@
     "cid",
     "ssdmres",
     "mpbi"
+  ],
+  "scopes": [
+    0
   ]
 }

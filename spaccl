@@ -150,5 +150,9 @@
     "clos1conn",
     "syl2anc",
     "eleqtrrd"
+  ],
+  "scopes": [
+    0,
+    3105
   ]
 }

@@ -53,5 +53,9 @@
     "uneqri.1",
     "bitri",
     "eqriv"
+  ],
+  "scopes": [
+    0,
+    1481
   ]
 }

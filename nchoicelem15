@@ -79,5 +79,9 @@
     "necon1ad",
     "syl5",
     "imp"
+  ],
+  "scopes": [
+    0,
+    3121
   ]
 }

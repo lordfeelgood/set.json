@@ -338,5 +338,9 @@
     "spfininduct",
     "mp3an12",
     "syl"
+  ],
+  "scopes": [
+    0,
+    2047
   ]
 }

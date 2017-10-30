@@ -67,5 +67,8 @@
     "anim2i",
     "jaoi",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

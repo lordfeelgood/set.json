@@ -39,5 +39,9 @@
     "3sstr3d.3",
     "sseq12d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    1594
   ]
 }

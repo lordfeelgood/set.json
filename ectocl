@@ -67,5 +67,9 @@
     "adantl",
     "ectocld",
     "mpan"
+  ],
+  "scopes": [
+    0,
+    2904
   ]
 }

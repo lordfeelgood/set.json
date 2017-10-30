@@ -90,5 +90,9 @@
     "anassrs",
     "rexbidva",
     "rexbidva"
+  ],
+  "scopes": [
+    0,
+    1100
   ]
 }

@@ -34,5 +34,8 @@
     "dfpss3",
     "simprbi",
     "con2i"
+  ],
+  "scopes": [
+    0
   ]
 }

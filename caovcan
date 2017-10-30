@@ -208,5 +208,10 @@
     "caovcan.2",
     "vtocl",
     "vtocl2ga"
+  ],
+  "scopes": [
+    0,
+    2685,
+    2690
   ]
 }

@@ -149,5 +149,9 @@
     "imaex",
     "mptexlem",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2824
   ]
 }

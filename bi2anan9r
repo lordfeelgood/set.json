@@ -55,5 +55,9 @@
     "bi2an9.2",
     "bi2anan9",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    428
   ]
 }

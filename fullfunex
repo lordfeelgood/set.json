@@ -25,5 +25,9 @@
     "cvv",
     "fullfunexg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2830
   ]
 }

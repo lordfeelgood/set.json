@@ -166,5 +166,9 @@
     "vtocl2gf",
     "mpan9",
     "3impb"
+  ],
+  "scopes": [
+    0,
+    1266
   ]
 }

@@ -49,5 +49,8 @@
     "simpl",
     "com12",
     "syl5bi"
+  ],
+  "scopes": [
+    0
   ]
 }

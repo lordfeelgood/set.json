@@ -65,5 +65,9 @@
     "df-co",
     "funeqi",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2413
   ]
 }

@@ -100,5 +100,9 @@
     "dedth2h",
     "dedth2h",
     "imp"
+  ],
+  "scopes": [
+    0,
+    1715
   ]
 }

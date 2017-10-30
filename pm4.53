@@ -39,5 +39,8 @@
     "pm4.52",
     "con2bii",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

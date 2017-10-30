@@ -38,5 +38,9 @@
     "cvv",
     "pprodexg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    2812
   ]
 }

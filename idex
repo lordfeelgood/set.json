@@ -23,5 +23,8 @@
     "cnvex",
     "inex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

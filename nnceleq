@@ -78,5 +78,8 @@
     "adantr",
     "orel1",
     "sylc"
+  ],
+  "scopes": [
+    0
   ]
 }

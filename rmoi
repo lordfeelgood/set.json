@@ -104,5 +104,9 @@
     "rmob",
     "biimprd",
     "3impia"
+  ],
+  "scopes": [
+    0,
+    1412
   ]
 }

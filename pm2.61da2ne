@@ -50,5 +50,9 @@
     "anassrs",
     "pm2.61dane",
     "pm2.61dane"
+  ],
+  "scopes": [
+    0,
+    1080
   ]
 }

@@ -119,5 +119,9 @@
     "orcomd",
     "exlimivv",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    3009
   ]
 }

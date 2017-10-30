@@ -26,5 +26,8 @@
     "wph",
     "pm2.07",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

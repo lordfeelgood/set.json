@@ -120,5 +120,9 @@
     "exp3a",
     "3impia",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    1342
   ]
 }

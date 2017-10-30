@@ -18,5 +18,8 @@
     "vvex",
     "complex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

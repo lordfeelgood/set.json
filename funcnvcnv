@@ -31,5 +31,8 @@
     "cA",
     "funss",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

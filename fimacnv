@@ -96,5 +96,8 @@
     "syl2anc",
     "mpbid",
     "eqssd"
+  ],
+  "scopes": [
+    0
   ]
 }

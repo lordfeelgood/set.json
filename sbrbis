@@ -62,5 +62,9 @@
     "sbrbis.1",
     "bibi1i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    751
   ]
 }

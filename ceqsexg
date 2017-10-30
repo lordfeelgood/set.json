@@ -77,5 +77,9 @@
     "wph",
     "biid",
     "vtoclgf"
+  ],
+  "scopes": [
+    0,
+    1297
   ]
 }

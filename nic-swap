@@ -53,5 +53,8 @@
     "wth",
     "nic-ax",
     "nic-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

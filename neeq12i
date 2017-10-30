@@ -42,5 +42,9 @@
     "neeq1i.1",
     "neeq1i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1021
   ]
 }

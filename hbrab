@@ -83,5 +83,9 @@
     "hban",
     "hbab",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    1194
   ]
 }

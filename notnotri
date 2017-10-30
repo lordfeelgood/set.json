@@ -18,5 +18,9 @@
     "wph",
     "notnot2",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    66
   ]
 }

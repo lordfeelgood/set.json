@@ -54,5 +54,8 @@
     "opexb",
     "bicomi",
     "3imtr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

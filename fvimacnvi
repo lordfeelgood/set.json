@@ -91,5 +91,8 @@
     "sseq1d",
     "syl5bb",
     "mpbird"
+  ],
+  "scopes": [
+    0
   ]
 }

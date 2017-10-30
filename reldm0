@@ -69,5 +69,9 @@
     "albii",
     "bitr2i",
     "syl6bb"
+  ],
+  "scopes": [
+    0,
+    2314
   ]
 }

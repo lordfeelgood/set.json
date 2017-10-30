@@ -196,5 +196,9 @@
     "rcla4v",
     "sylan9",
     "3impa"
+  ],
+  "scopes": [
+    0,
+    1292
   ]
 }

@@ -111,5 +111,9 @@
     "sylbir",
     "ax-gen",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    2815
   ]
 }

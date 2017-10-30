@@ -42,5 +42,9 @@
     "sfineq2",
     "syl",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    2041
   ]
 }

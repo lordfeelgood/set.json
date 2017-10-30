@@ -42,5 +42,9 @@
     "necon3abid.1",
     "notbid",
     "syl5bb"
+  ],
+  "scopes": [
+    0,
+    1039
   ]
 }

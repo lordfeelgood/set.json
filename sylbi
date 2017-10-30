@@ -26,5 +26,9 @@
     "biimpi",
     "sylbi.2",
     "syl"
+  ],
+  "scopes": [
+    0,
+    118
   ]
 }

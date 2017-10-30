@@ -87,5 +87,9 @@
     "syl2anc",
     "pm5.32i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2562
   ]
 }

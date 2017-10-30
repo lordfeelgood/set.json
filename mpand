@@ -34,5 +34,9 @@
     "mpand.2",
     "ancomsd",
     "mpan2d"
+  ],
+  "scopes": [
+    0,
+    370
   ]
 }

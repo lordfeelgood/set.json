@@ -44,5 +44,10 @@
     "sylXanc.5",
     "syl23anc.6",
     "syl13anc"
+  ],
+  "scopes": [
+    0,
+    495,
+    505
   ]
 }

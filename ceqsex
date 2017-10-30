@@ -76,5 +76,9 @@
     "syl",
     "mpi",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1245
   ]
 }

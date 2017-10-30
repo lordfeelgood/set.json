@@ -58,5 +58,8 @@
     "wps",
     "luk-2",
     "luklem1"
+  ],
+  "scopes": [
+    0
   ]
 }

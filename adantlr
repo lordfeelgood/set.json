@@ -36,5 +36,9 @@
     "simpl",
     "adant2.1",
     "sylan"
+  ],
+  "scopes": [
+    0,
+    393
   ]
 }

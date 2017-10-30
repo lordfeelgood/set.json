@@ -121,5 +121,9 @@
     "hbabd",
     "hbunid",
     "hbxfrd"
+  ],
+  "scopes": [
+    0,
+    1903
   ]
 }

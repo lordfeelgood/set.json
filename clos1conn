@@ -154,5 +154,10 @@
     "impcom",
     "vtocl2g",
     "mpcom"
+  ],
+  "scopes": [
+    0,
+    2841,
+    2842
   ]
 }

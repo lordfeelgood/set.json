@@ -91,5 +91,9 @@
     "sbequ",
     "cbvral",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1211
   ]
 }

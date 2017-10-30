@@ -95,5 +95,9 @@
     "hbbr",
     "hbrex",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    2327
   ]
 }

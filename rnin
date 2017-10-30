@@ -56,5 +56,8 @@
     "dfrn4",
     "ineq12i",
     "3sstr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

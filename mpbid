@@ -27,5 +27,9 @@
     "mpbid.maj",
     "biimpd",
     "mpd"
+  ],
+  "scopes": [
+    0,
+    129
   ]
 }

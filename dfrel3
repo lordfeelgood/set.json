@@ -39,5 +39,8 @@
     "cnvcnv2",
     "eqeq1i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

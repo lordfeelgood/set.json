@@ -66,5 +66,9 @@
     "syl5reqr",
     "biimpi",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    2386
   ]
 }

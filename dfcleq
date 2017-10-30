@@ -42,5 +42,9 @@
     "vx",
     "ax-ext",
     "df-cleq"
+  ],
+  "scopes": [
+    0,
+    919
   ]
 }

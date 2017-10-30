@@ -63,5 +63,8 @@
     "fnco",
     "3expb",
     "sylan2b"
+  ],
+  "scopes": [
+    0
   ]
 }

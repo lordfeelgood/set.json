@@ -18,5 +18,8 @@
     "wph",
     "id",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

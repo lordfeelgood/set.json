@@ -161,5 +161,9 @@
     "eqrdv",
     "syl5eq",
     "syl5eq"
+  ],
+  "scopes": [
+    0,
+    2568
   ]
 }

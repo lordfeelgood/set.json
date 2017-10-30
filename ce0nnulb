@@ -155,5 +155,9 @@
     "syl5bi",
     "impbid",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    3035
   ]
 }

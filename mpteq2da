@@ -77,5 +77,9 @@
     "cC",
     "mpteq12f",
     "sylancr"
+  ],
+  "scopes": [
+    0,
+    2713
   ]
 }

@@ -35,5 +35,9 @@
     "eldm",
     "mpbir",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    2313
   ]
 }

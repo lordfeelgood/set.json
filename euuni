@@ -112,5 +112,9 @@
     "vx",
     "eupickb",
     "mpd3an23"
+  ],
+  "scopes": [
+    0,
+    1895
   ]
 }

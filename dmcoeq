@@ -44,5 +44,9 @@
     "cB",
     "dmcosseq",
     "syl"
+  ],
+  "scopes": [
+    0,
+    2341
   ]
 }

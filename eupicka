@@ -58,5 +58,8 @@
     "vx",
     "eupick",
     "alrimi"
+  ],
+  "scopes": [
+    0
   ]
 }

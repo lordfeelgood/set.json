@@ -112,5 +112,9 @@
     "mpbiri",
     "exlimiv",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    3061
   ]
 }

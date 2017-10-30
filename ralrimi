@@ -45,5 +45,9 @@
     "cA",
     "df-ral",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    1124
   ]
 }

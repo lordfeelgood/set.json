@@ -35,5 +35,9 @@
     "eqtr3d",
     "3eqtr3d.3",
     "eqtr3d"
+  ],
+  "scopes": [
+    0,
+    953
   ]
 }

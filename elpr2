@@ -79,5 +79,9 @@
     "syl",
     "ibir",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1540
   ]
 }

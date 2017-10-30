@@ -36,5 +36,8 @@
     "wch",
     "orc",
     "imim1i"
+  ],
+  "scopes": [
+    0
   ]
 }

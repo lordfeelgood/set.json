@@ -60,5 +60,9 @@
     "brcnv",
     "abbii",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    2358
   ]
 }

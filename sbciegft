@@ -160,5 +160,9 @@
     "3ad2ant1",
     "sylibrd",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    1370
   ]
 }

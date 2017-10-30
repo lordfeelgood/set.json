@@ -33,5 +33,9 @@
     "imdistanri.1",
     "com12",
     "impac"
+  ],
+  "scopes": [
+    0,
+    384
   ]
 }

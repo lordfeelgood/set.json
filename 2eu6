@@ -448,5 +448,9 @@
     "jca",
     "impbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    909
   ]
 }

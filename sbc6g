@@ -76,5 +76,9 @@
     "ceqex",
     "ceqsalg",
     "bitr4d"
+  ],
+  "scopes": [
+    0,
+    1364
   ]
 }

@@ -37,5 +37,9 @@
     "eqcomd",
     "sylan9req.2",
     "sylan9eq"
+  ],
+  "scopes": [
+    0,
+    964
   ]
 }

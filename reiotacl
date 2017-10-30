@@ -65,5 +65,9 @@
     "cA",
     "reiotacl2",
     "sseldd"
+  ],
+  "scopes": [
+    0,
+    1911
   ]
 }

@@ -29,5 +29,9 @@
     "sylnib.2",
     "a1i",
     "mtbid"
+  ],
+  "scopes": [
+    0,
+    204
   ]
 }

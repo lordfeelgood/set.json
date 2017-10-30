@@ -316,5 +316,9 @@
     "resex",
     "mptexlem",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2958
   ]
 }

@@ -117,5 +117,9 @@
     "syl6",
     "syld",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    732
   ]
 }

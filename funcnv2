@@ -69,5 +69,9 @@
     "mobii",
     "albii",
     "3bitr2i"
+  ],
+  "scopes": [
+    0,
+    2422
   ]
 }

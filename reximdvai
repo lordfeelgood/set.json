@@ -45,5 +45,9 @@
     "ax-17",
     "reximdvai.1",
     "reximdai"
+  ],
+  "scopes": [
+    0,
+    1152
   ]
 }

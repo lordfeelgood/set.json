@@ -119,5 +119,9 @@
     "inass",
     "eqtri",
     "3eqtri"
+  ],
+  "scopes": [
+    0,
+    1697
   ]
 }

@@ -99,5 +99,9 @@
     "df-ral",
     "imbi2i",
     "3bitr4g"
+  ],
+  "scopes": [
+    0,
+    1128
   ]
 }

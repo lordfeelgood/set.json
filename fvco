@@ -67,5 +67,8 @@
     "cG",
     "fvco2",
     "sylanb"
+  ],
+  "scopes": [
+    0
   ]
 }

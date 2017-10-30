@@ -34,5 +34,9 @@
     "peano2",
     "ax-mp",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    1932
   ]
 }

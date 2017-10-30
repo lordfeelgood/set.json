@@ -39,5 +39,8 @@
     "vx",
     "sbequ2",
     "equcoms"
+  ],
+  "scopes": [
+    0
   ]
 }

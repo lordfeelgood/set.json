@@ -26,5 +26,9 @@
     "bicomi",
     "bitr3i.2",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    163
   ]
 }

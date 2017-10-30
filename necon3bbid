@@ -43,5 +43,9 @@
     "bicomd",
     "necon3abid",
     "bicomd"
+  ],
+  "scopes": [
+    0,
+    1040
   ]
 }

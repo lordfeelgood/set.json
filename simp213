@@ -54,5 +54,8 @@
     "wta",
     "simp13",
     "3ad2ant2"
+  ],
+  "scopes": [
+    0
   ]
 }

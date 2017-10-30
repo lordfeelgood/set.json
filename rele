@@ -14,5 +14,9 @@
     "cep",
     "df-eprel",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2280
   ]
 }

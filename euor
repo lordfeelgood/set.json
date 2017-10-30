@@ -50,5 +50,9 @@
     "biorf",
     "eubid",
     "biimpa"
+  ],
+  "scopes": [
+    0,
+    882
   ]
 }

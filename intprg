@@ -81,5 +81,9 @@
     "vex",
     "intpr",
     "vtocl2g"
+  ],
+  "scopes": [
+    0,
+    1690
   ]
 }

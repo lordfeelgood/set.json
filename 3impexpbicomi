@@ -45,5 +45,9 @@
     "3impexpbicomi.1",
     "bicomd",
     "3exp"
+  ],
+  "scopes": [
+    0,
+    611
   ]
 }

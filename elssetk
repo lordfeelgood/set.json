@@ -50,5 +50,9 @@
     "cvv",
     "elssetkg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    1845
   ]
 }

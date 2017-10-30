@@ -136,5 +136,9 @@
     "hban",
     "hboprab",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    2722
   ]
 }

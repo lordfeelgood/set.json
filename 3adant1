@@ -37,5 +37,9 @@
     "3simpc",
     "3adant.1",
     "syl"
+  ],
+  "scopes": [
+    0,
+    463
   ]
 }

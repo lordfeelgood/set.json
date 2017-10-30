@@ -64,5 +64,9 @@
     "imp",
     "exlimi",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    760
   ]
 }

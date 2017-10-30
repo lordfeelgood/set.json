@@ -149,5 +149,8 @@
     "syl",
     "eqtr3d",
     "syl5eqr"
+  ],
+  "scopes": [
+    0
   ]
 }

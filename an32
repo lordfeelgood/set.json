@@ -59,5 +59,8 @@
     "wps",
     "ancom",
     "3bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

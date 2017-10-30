@@ -75,5 +75,9 @@
     "anbi1i",
     "exbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1321
   ]
 }

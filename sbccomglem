@@ -192,5 +192,9 @@
     "bitr2d",
     "syl5bb",
     "3bitrd"
+  ],
+  "scopes": [
+    0,
+    1403
   ]
 }

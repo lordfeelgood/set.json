@@ -108,5 +108,9 @@
     "spfininduct",
     "mp3an1",
     "sylancl"
+  ],
+  "scopes": [
+    0,
+    2037
   ]
 }

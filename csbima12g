@@ -161,5 +161,9 @@
     "imaeq2d",
     "eqtrd",
     "3eqtr3d"
+  ],
+  "scopes": [
+    0,
+    2329
   ]
 }

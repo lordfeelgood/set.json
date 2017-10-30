@@ -26,5 +26,9 @@
     "a1i",
     "mpbii.maj",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    130
   ]
 }

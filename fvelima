@@ -85,5 +85,9 @@
     "reximdv",
     "syl5bi",
     "imp"
+  ],
+  "scopes": [
+    0,
+    2493
   ]
 }

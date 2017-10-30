@@ -18,5 +18,8 @@
     "nncex",
     "uniex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

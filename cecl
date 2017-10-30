@@ -106,5 +106,9 @@
     "ceclb",
     "syl5ib",
     "imp"
+  ],
+  "scopes": [
+    0,
+    3039
   ]
 }

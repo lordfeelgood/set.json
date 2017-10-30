@@ -93,5 +93,9 @@
     "df-rab",
     "eqeq12i",
     "3bitr4i"
+  ],
+  "scopes": [
+    0,
+    1192
   ]
 }

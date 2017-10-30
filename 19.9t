@@ -53,5 +53,8 @@
     "hbnt",
     "con1d",
     "syl5bi"
+  ],
+  "scopes": [
+    0
   ]
 }

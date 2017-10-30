@@ -52,5 +52,8 @@
     "wch",
     "orimdi",
     "biimpi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -86,5 +86,8 @@
     "anbi2d",
     "syl5bb",
     "pm5.21nii"
+  ],
+  "scopes": [
+    0
   ]
 }

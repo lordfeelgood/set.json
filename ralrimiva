@@ -39,5 +39,9 @@
     "ralrimiva.1",
     "ex",
     "ralrimiv"
+  ],
+  "scopes": [
+    0,
+    1126
   ]
 }

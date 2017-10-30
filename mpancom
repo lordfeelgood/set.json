@@ -26,5 +26,9 @@
     "id",
     "mpancom.2",
     "syl2anc"
+  ],
+  "scopes": [
+    0,
+    364
   ]
 }

@@ -38,5 +38,8 @@
     "wch",
     "simpl",
     "ad2antrl"
+  ],
+  "scopes": [
+    0
   ]
 }

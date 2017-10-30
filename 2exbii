@@ -38,5 +38,9 @@
     "2exbii.1",
     "exbii",
     "exbii"
+  ],
+  "scopes": [
+    0,
+    635
   ]
 }

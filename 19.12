@@ -45,5 +45,8 @@
     "ax-4",
     "eximi",
     "alrimi"
+  ],
+  "scopes": [
+    0
   ]
 }

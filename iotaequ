@@ -59,5 +59,9 @@
     "eqtr4d",
     "exlimiv",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    1908
   ]
 }

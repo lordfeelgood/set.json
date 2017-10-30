@@ -41,5 +41,9 @@
     "imdistanda.1",
     "ex",
     "imdistand"
+  ],
+  "scopes": [
+    0,
+    386
   ]
 }

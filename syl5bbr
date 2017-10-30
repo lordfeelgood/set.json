@@ -32,5 +32,9 @@
     "bicomi",
     "syl5bbr.2",
     "syl5bb"
+  ],
+  "scopes": [
+    0,
+    171
   ]
 }

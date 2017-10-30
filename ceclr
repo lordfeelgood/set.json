@@ -89,5 +89,9 @@
     "bi2anan9",
     "3adant3",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    3040
   ]
 }

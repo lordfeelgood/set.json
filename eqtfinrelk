@@ -712,5 +712,9 @@
     "df-tfin",
     "eqeq2i",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    1991
   ]
 }

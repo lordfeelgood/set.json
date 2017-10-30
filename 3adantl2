@@ -43,5 +43,9 @@
     "3simpb",
     "3adantl.1",
     "sylan"
+  ],
+  "scopes": [
+    0,
+    465
   ]
 }

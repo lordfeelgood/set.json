@@ -95,5 +95,9 @@
     "vex",
     "dmprop",
     "vtocl2g"
+  ],
+  "scopes": [
+    0,
+    2378
   ]
 }

@@ -72,5 +72,9 @@
     "cvv",
     "elimakg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1836
   ]
 }

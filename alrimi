@@ -33,5 +33,9 @@
     "alrimi.2",
     "alimi",
     "syl"
+  ],
+  "scopes": [
+    0,
+    628
   ]
 }

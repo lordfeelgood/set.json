@@ -52,5 +52,9 @@
     "biimpar",
     "funfni.1",
     "syl2anc"
+  ],
+  "scopes": [
+    0,
+    2431
   ]
 }

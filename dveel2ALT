@@ -52,5 +52,9 @@
     "vz",
     "elequ2",
     "dvelimfALT"
+  ],
+  "scopes": [
+    0,
+    853
   ]
 }

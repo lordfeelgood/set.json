@@ -62,5 +62,9 @@
     "hbel",
     "hbss",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    1738
   ]
 }

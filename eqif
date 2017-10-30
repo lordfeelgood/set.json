@@ -64,5 +64,8 @@
     "cA",
     "eqeq2",
     "elimif"
+  ],
+  "scopes": [
+    0
   ]
 }

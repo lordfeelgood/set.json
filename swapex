@@ -198,5 +198,8 @@
     "vvex",
     "imakex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

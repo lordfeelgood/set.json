@@ -192,5 +192,9 @@
     "vtocl2gaf.5",
     "vtocl2gf",
     "pm2.43i"
+  ],
+  "scopes": [
+    0,
+    1270
   ]
 }

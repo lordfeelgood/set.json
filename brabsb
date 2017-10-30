@@ -81,5 +81,10 @@
     "vw",
     "opelopabsb",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    2135,
+    2136
   ]
 }

@@ -93,5 +93,9 @@
     "vtoclg",
     "adantl",
     "mpd"
+  ],
+  "scopes": [
+    0,
+    1909
   ]
 }

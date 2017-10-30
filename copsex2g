@@ -169,5 +169,9 @@
     "exlimi",
     "sylbir",
     "syl2an"
+  ],
+  "scopes": [
+    0,
+    2073
   ]
 }

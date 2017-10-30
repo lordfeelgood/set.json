@@ -39,5 +39,9 @@
     "3sstr4d.3",
     "sseq12d",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    1595
   ]
 }

@@ -35,5 +35,9 @@
     "notnot1",
     "syl6",
     "con4d"
+  ],
+  "scopes": [
+    0,
+    74
   ]
 }

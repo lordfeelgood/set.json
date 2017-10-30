@@ -173,5 +173,9 @@
     "cnnc",
     "risset",
     "mtbir"
+  ],
+  "scopes": [
+    0,
+    2052
   ]
 }

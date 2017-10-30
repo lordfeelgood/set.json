@@ -50,5 +50,9 @@
     "cnnc",
     "eluni2",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1940
   ]
 }

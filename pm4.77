@@ -52,5 +52,8 @@
     "wch",
     "jaob",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

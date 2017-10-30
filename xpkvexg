@@ -83,5 +83,9 @@
     "bitri",
     "mpbir",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1858
   ]
 }

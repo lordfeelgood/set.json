@@ -108,5 +108,9 @@
     "adantl",
     "caovcld",
     "mpan"
+  ],
+  "scopes": [
+    0,
+    2684
   ]
 }

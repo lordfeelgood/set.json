@@ -78,5 +78,9 @@
     "difeqri",
     "eqeq1i",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    1642
   ]
 }

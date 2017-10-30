@@ -231,5 +231,9 @@
     "rexlimiva",
     "jaoi",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2846
   ]
 }

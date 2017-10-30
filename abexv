@@ -52,5 +52,9 @@
     "mpbiri",
     "jaoi",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1886
   ]
 }

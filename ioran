@@ -41,5 +41,8 @@
     "wps",
     "pm4.64",
     "xchnxbi"
+  ],
+  "scopes": [
+    0
   ]
 }

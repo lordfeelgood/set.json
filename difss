@@ -32,5 +32,9 @@
     "eldif",
     "simplbi",
     "ssriv"
+  ],
+  "scopes": [
+    0,
+    1622
   ]
 }

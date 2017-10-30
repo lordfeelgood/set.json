@@ -424,5 +424,9 @@
     "syld",
     "rexlimdvw",
     "mpd"
+  ],
+  "scopes": [
+    0,
+    2046
   ]
 }

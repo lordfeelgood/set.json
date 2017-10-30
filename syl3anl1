@@ -48,5 +48,9 @@
     "3anim1i",
     "syl3anl1.2",
     "sylan"
+  ],
+  "scopes": [
+    0,
+    546
   ]
 }

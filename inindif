@@ -61,5 +61,8 @@
     "in0",
     "eqtri",
     "3eqtr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

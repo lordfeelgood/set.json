@@ -68,5 +68,8 @@
     "orcom",
     "orbi2i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

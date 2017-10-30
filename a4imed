@@ -68,5 +68,9 @@
     "adantld",
     "a4ime",
     "ex"
+  ],
+  "scopes": [
+    0,
+    718
   ]
 }

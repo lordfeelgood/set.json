@@ -69,5 +69,9 @@
     "dmeqi",
     "releqi",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    2753
   ]
 }

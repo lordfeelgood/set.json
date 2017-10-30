@@ -149,5 +149,9 @@
     "vtoclg",
     "impcom",
     "pm5.21nd"
+  ],
+  "scopes": [
+    0,
+    2494
   ]
 }

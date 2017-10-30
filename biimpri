@@ -22,5 +22,9 @@
     "biimpri.1",
     "bicomi",
     "biimpi"
+  ],
+  "scopes": [
+    0,
+    125
   ]
 }

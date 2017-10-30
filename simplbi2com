@@ -29,5 +29,9 @@
     "simplbi2com.1",
     "simplbi2",
     "com12"
+  ],
+  "scopes": [
+    0,
+    614
   ]
 }

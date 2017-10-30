@@ -83,5 +83,8 @@
     "wta",
     "nic-ax",
     "nic-imp"
+  ],
+  "scopes": [
+    0
   ]
 }

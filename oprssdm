@@ -101,5 +101,9 @@
     "con4i",
     "sylbi",
     "relssi"
+  ],
+  "scopes": [
+    0,
+    2674
   ]
 }

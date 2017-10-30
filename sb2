@@ -54,5 +54,8 @@
     "vy",
     "df-sb",
     "sylanbrc"
+  ],
+  "scopes": [
+    0
   ]
 }

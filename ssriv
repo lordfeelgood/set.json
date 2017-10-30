@@ -40,5 +40,9 @@
     "dfss2",
     "ssriv.1",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    1564
   ]
 }

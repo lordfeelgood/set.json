@@ -308,5 +308,9 @@
     "exbidv",
     "syl5bb",
     "syl2an"
+  ],
+  "scopes": [
+    0,
+    1837
   ]
 }

@@ -38,5 +38,9 @@
     "alimi.1",
     "alimi",
     "alimi"
+  ],
+  "scopes": [
+    0,
+    624
   ]
 }

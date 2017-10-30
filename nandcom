@@ -47,5 +47,8 @@
     "wph",
     "df-nand",
     "3bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

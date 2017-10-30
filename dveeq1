@@ -48,5 +48,9 @@
     "vz",
     "equequ1",
     "dvelim"
+  ],
+  "scopes": [
+    0,
+    847
   ]
 }

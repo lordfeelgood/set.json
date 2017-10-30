@@ -43,5 +43,8 @@
     "wps",
     "imor",
     "xchbinx"
+  ],
+  "scopes": [
+    0
   ]
 }

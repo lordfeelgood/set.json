@@ -65,5 +65,9 @@
     "brcnv",
     "exbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2301
   ]
 }

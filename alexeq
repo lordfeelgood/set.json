@@ -78,5 +78,9 @@
     "sb56",
     "vtoclb",
     "bicomi"
+  ],
+  "scopes": [
+    0,
+    1295
   ]
 }

@@ -75,5 +75,9 @@
     "vex",
     "ifex",
     "vtocl2g"
+  ],
+  "scopes": [
+    0,
+    1730
   ]
 }

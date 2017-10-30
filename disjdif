@@ -56,5 +56,9 @@
     "bitri",
     "mtbir",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    1508
   ]
 }

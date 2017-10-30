@@ -38,5 +38,9 @@
     "iftrue",
     "ax-mp",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1995
   ]
 }

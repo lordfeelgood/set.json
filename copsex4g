@@ -325,5 +325,9 @@
     "copsex4g.1",
     "cgsex4g",
     "syl5bb"
+  ],
+  "scopes": [
+    0,
+    2074
   ]
 }

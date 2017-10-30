@@ -65,5 +65,9 @@
     "sbf",
     "imbi1i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    748
   ]
 }

@@ -430,5 +430,9 @@
     "exlimdvv",
     "sylbid",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    3032
   ]
 }

@@ -39,5 +39,9 @@
     "snex",
     "elpw",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    1765
   ]
 }

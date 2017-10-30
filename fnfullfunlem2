@@ -73,5 +73,9 @@
     "gen2",
     "dffun2",
     "mpbir2an"
+  ],
+  "scopes": [
+    0,
+    2829
   ]
 }

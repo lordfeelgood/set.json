@@ -64,5 +64,8 @@
     "id",
     "3impd",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

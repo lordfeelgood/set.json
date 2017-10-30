@@ -63,5 +63,9 @@
     "syl3anc",
     "ibi",
     "simpld"
+  ],
+  "scopes": [
+    0,
+    2918
   ]
 }

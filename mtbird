@@ -28,5 +28,9 @@
     "mtbird.maj",
     "biimpd",
     "mtod"
+  ],
+  "scopes": [
+    0,
+    201
   ]
 }

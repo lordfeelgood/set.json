@@ -42,5 +42,9 @@
     "orim12i.2",
     "olcd",
     "jaoi"
+  ],
+  "scopes": [
+    0,
+    287
   ]
 }

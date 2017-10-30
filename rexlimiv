@@ -35,5 +35,9 @@
     "ax-17",
     "rexlimiv.1",
     "rexlimi"
+  ],
+  "scopes": [
+    0,
+    1160
   ]
 }

@@ -32,5 +32,8 @@
     "cB",
     "snssg",
     "ibi"
+  ],
+  "scopes": [
+    0
   ]
 }

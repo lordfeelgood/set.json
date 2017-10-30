@@ -32,5 +32,8 @@
     "ecexg",
     "ax-mp",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

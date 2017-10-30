@@ -46,5 +46,9 @@
     "orbi12i.1",
     "orbi1i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    290
   ]
 }

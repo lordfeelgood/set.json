@@ -109,5 +109,9 @@
     "exbii",
     "3bitri",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2324
   ]
 }

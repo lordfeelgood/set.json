@@ -39,5 +39,9 @@
     "ninba.1",
     "niabn",
     "bicomd"
+  ],
+  "scopes": [
+    0,
+    457
   ]
 }

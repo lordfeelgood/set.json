@@ -80,5 +80,8 @@
     "ax-meredith",
     "ax-mp",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

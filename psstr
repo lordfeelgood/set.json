@@ -70,5 +70,8 @@
     "cC",
     "dfpss2",
     "sylanbrc"
+  ],
+  "scopes": [
+    0
   ]
 }

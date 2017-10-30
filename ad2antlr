@@ -35,5 +35,9 @@
     "ad2ant.1",
     "adantr",
     "adantll"
+  ],
+  "scopes": [
+    0,
+    396
   ]
 }

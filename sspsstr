@@ -58,5 +58,8 @@
     "jaoi",
     "imp",
     "sylanb"
+  ],
+  "scopes": [
+    0
   ]
 }

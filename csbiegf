@@ -102,5 +102,9 @@
     "csbiegft",
     "3expb",
     "mpdan"
+  ],
+  "scopes": [
+    0,
+    1443
   ]
 }

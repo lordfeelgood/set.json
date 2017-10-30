@@ -110,5 +110,9 @@
     "anbi2i",
     "3bitri",
     "exbii"
+  ],
+  "scopes": [
+    0,
+    805
   ]
 }

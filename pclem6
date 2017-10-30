@@ -40,5 +40,8 @@
     "nbbn",
     "sylib",
     "con2i"
+  ],
+  "scopes": [
+    0
   ]
 }

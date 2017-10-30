@@ -32,5 +32,9 @@
     "wch",
     "ancom",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    254
   ]
 }

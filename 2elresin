@@ -152,5 +152,8 @@
     "sseli",
     "anim12i",
     "impbid1"
+  ],
+  "scopes": [
+    0
   ]
 }

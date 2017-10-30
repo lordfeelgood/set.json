@@ -54,5 +54,9 @@
     "elab2g",
     "ibi",
     "simprd"
+  ],
+  "scopes": [
+    0,
+    2009
   ]
 }

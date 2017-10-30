@@ -171,5 +171,9 @@
     "df-opab",
     "eqtri",
     "syl6eqr"
+  ],
+  "scopes": [
+    0,
+    2241
   ]
 }

@@ -57,5 +57,8 @@
     "complexg",
     "3syl",
     "syl5eqel"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -76,5 +76,8 @@
     "jaoi",
     "orc",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

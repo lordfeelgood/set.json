@@ -88,5 +88,9 @@
     "eqrel",
     "mp2an",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2268
   ]
 }

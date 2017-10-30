@@ -122,5 +122,9 @@
     "r19.28av",
     "ralimi",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1305
   ]
 }

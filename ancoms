@@ -29,5 +29,9 @@
     "ancoms.1",
     "expcom",
     "imp"
+  ],
+  "scopes": [
+    0,
+    255
   ]
 }

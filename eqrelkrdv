@@ -91,5 +91,10 @@
     "eqrelk",
     "mp2an",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    1804,
+    1806
   ]
 }

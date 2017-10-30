@@ -134,5 +134,9 @@
     "cnvex",
     "mptexlem",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2968
   ]
 }

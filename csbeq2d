@@ -79,5 +79,9 @@
     "sbceqg",
     "sylibd",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    1429
   ]
 }

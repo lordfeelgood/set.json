@@ -56,5 +56,8 @@
     "vy",
     "sbim",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

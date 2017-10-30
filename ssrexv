@@ -59,5 +59,9 @@
     "ssel",
     "anim1d",
     "reximdv2"
+  ],
+  "scopes": [
+    0,
+    1604
   ]
 }

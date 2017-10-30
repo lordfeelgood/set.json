@@ -43,5 +43,8 @@
     "cA",
     "dfrn4",
     "3sstr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

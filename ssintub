@@ -56,5 +56,9 @@
     "elrab",
     "simprbi",
     "mprgbir"
+  ],
+  "scopes": [
+    0,
+    1682
   ]
 }

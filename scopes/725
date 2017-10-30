@@ -1,0 +1,11 @@
+[
+  {
+    "activevariables": [
+      "A"
+    ],
+    "disjvars": [],
+    "floatinghyp": {
+      "A": "wsbc.cA"
+    }
+  }
+]

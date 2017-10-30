@@ -67,5 +67,8 @@
     "3bitri",
     "df-or",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

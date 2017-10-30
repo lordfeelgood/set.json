@@ -50,5 +50,8 @@
     "wch",
     "simp32",
     "adantr"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -45,5 +45,8 @@
     "wch",
     "simpr2",
     "adantr"
+  ],
+  "scopes": [
+    0
   ]
 }

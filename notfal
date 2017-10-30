@@ -16,5 +16,8 @@
     "notnoti",
     "df-fal",
     "mtbir"
+  ],
+  "scopes": [
+    0
   ]
 }

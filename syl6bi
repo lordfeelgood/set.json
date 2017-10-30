@@ -33,5 +33,9 @@
     "biimpd",
     "syl6bi.2",
     "syl6"
+  ],
+  "scopes": [
+    0,
+    144
   ]
 }

@@ -30,5 +30,9 @@
     "bitr4i",
     "3bitr2i.3",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    184
   ]
 }

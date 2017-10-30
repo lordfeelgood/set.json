@@ -112,5 +112,9 @@
     "eqrel",
     "sylancr",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2415
   ]
 }

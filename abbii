@@ -39,5 +39,9 @@
     "abbi",
     "abbii.1",
     "mpgbi"
+  ],
+  "scopes": [
+    0,
+    1010
   ]
 }

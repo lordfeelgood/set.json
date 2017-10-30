@@ -37,5 +37,8 @@
     "sbequ12",
     "ax-mp",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

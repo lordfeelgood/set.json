@@ -35,5 +35,9 @@
     "bicomi",
     "necon3abii",
     "bicomi"
+  ],
+  "scopes": [
+    0,
+    1037
   ]
 }

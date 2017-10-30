@@ -175,5 +175,8 @@
     "uni1ex",
     "uni1ex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

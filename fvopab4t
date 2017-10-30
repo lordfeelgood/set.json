@@ -233,5 +233,9 @@
     "funopfv",
     "sylc",
     "syl3an3"
+  ],
+  "scopes": [
+    0,
+    2502
   ]
 }

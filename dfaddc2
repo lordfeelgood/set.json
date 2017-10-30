@@ -304,5 +304,9 @@
     "bitri",
     "abbi2i",
     "eqtr4i"
+  ],
+  "scopes": [
+    0,
+    1920
   ]
 }

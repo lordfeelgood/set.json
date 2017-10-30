@@ -153,5 +153,9 @@
     "3expa",
     "expcom",
     "pm2.61ine"
+  ],
+  "scopes": [
+    0,
+    2044
   ]
 }

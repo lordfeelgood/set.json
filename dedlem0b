@@ -65,5 +65,8 @@
     "con1d",
     "com12",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

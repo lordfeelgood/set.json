@@ -38,5 +38,9 @@
     "sseq2",
     "biimpa",
     "sylancl"
+  ],
+  "scopes": [
+    0,
+    1600
   ]
 }

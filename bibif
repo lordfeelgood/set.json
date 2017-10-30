@@ -41,5 +41,8 @@
     "wph",
     "bicom",
     "syl6rbb"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -37,5 +37,8 @@
     "c1c",
     "ncaddccl",
     "mpan2"
+  ],
+  "scopes": [
+    0
   ]
 }

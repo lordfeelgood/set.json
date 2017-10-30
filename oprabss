@@ -86,5 +86,9 @@
     "xpss12",
     "mp2an",
     "sstri"
+  ],
+  "scopes": [
+    0,
+    2641
   ]
 }

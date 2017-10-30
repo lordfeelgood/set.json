@@ -41,5 +41,8 @@
     "biimpi",
     "imnan",
     "mpbi"
+  ],
+  "scopes": [
+    0
   ]
 }

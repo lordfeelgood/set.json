@@ -34,5 +34,9 @@
     "rgenw.1",
     "rgenw",
     "rgenw"
+  ],
+  "scopes": [
+    0,
+    1112
   ]
 }

@@ -29,5 +29,9 @@
     "cR",
     "df-si",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2605
   ]
 }

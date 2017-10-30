@@ -28,5 +28,9 @@
     "funeq",
     "df-funs",
     "elab2"
+  ],
+  "scopes": [
+    0,
+    2808
   ]
 }

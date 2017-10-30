@@ -106,5 +106,9 @@
     "rexlimivw",
     "sylbi",
     "mprgbir"
+  ],
+  "scopes": [
+    0,
+    2601
   ]
 }

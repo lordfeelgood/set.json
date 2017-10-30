@@ -129,5 +129,9 @@
     "3expa",
     "sbcied",
     "sbc2ie"
+  ],
+  "scopes": [
+    0,
+    1402
   ]
 }

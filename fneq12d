@@ -50,5 +50,9 @@
     "fneq12d.2",
     "fneq2d",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    2427
   ]
 }

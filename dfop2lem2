@@ -229,5 +229,9 @@
     "rexbii",
     "bitri",
     "abbi2i"
+  ],
+  "scopes": [
+    0,
+    2056
   ]
 }

@@ -145,5 +145,9 @@
     "bibi2i",
     "albii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2075
   ]
 }

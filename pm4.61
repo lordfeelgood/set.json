@@ -36,5 +36,8 @@
     "wps",
     "annim",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -47,5 +47,8 @@
     "wps",
     "bicom",
     "3bitrri"
+  ],
+  "scopes": [
+    0
   ]
 }

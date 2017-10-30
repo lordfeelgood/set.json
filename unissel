@@ -43,5 +43,8 @@
     "elssuni",
     "adantl",
     "eqssd"
+  ],
+  "scopes": [
+    0
   ]
 }

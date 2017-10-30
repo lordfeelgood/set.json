@@ -149,5 +149,8 @@
     "cD",
     "opkeq12",
     "impbid1"
+  ],
+  "scopes": [
+    0
   ]
 }

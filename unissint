@@ -69,5 +69,8 @@
     "eqimss",
     "jaoi",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

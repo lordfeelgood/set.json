@@ -1,0 +1,27 @@
+[
+  {
+    "activevariables": [
+      "f"
+    ],
+    "disjvars": [
+      [
+        "f",
+        "u",
+        "v"
+      ],
+      [
+        "f",
+        "u",
+        "x",
+        "y"
+      ],
+      [
+        "u",
+        "w"
+      ]
+    ],
+    "floatinghyp": {
+      "f": "aev.vf"
+    }
+  }
+]

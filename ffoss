@@ -108,5 +108,9 @@
     "sylan",
     "exlimiv",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2462
   ]
 }

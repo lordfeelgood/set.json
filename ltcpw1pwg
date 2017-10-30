@@ -77,5 +77,9 @@
     "ncpw1pwneg",
     "brltc",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    3049
   ]
 }

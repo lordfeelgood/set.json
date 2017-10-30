@@ -88,5 +88,9 @@
     "bitr4i",
     "anbi2i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2409
   ]
 }

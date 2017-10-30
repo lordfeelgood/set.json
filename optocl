@@ -114,5 +114,9 @@
     "sylbi",
     "optocl.1",
     "eleq2s"
+  ],
+  "scopes": [
+    0,
+    2254
   ]
 }

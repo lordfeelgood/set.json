@@ -39,5 +39,9 @@
     "biimprd",
     "a4imev",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    768
   ]
 }

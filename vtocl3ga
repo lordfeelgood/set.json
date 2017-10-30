@@ -172,5 +172,9 @@
     "vtocl3ga.3",
     "vtocl3ga.4",
     "vtocl3gaf"
+  ],
+  "scopes": [
+    0,
+    1273
   ]
 }

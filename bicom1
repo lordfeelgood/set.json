@@ -34,5 +34,8 @@
     "wps",
     "bi1",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -62,5 +62,9 @@
     "eqeq1",
     "cbvex",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1223
   ]
 }

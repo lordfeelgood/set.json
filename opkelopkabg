@@ -243,5 +243,9 @@
     "3bitrd",
     "syl2an",
     "syl5bb"
+  ],
+  "scopes": [
+    0,
+    1826
   ]
 }

@@ -231,5 +231,9 @@
     "albii",
     "exbii",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    1753
   ]
 }

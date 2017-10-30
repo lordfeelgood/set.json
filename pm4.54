@@ -40,5 +40,8 @@
     "wps",
     "pm4.66",
     "xchbinx"
+  ],
+  "scopes": [
+    0
   ]
 }

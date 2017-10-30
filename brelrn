@@ -49,5 +49,8 @@
     "dfrn4",
     "eleq2i",
     "3imtr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

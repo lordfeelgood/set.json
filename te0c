@@ -68,5 +68,9 @@
     "syl",
     "bitr3d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    3078
   ]
 }

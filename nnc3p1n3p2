@@ -123,5 +123,9 @@
     "eqtr2i",
     "eqeq2i",
     "sylnibr"
+  ],
+  "scopes": [
+    0,
+    3099
   ]
 }

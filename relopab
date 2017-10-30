@@ -29,5 +29,8 @@
     "copab",
     "eqid",
     "relopabi"
+  ],
+  "scopes": [
+    0
   ]
 }

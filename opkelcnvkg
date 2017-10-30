@@ -78,5 +78,9 @@
     "opkeq1",
     "eleq1d",
     "opkelopkabg"
+  ],
+  "scopes": [
+    0,
+    1830
   ]
 }

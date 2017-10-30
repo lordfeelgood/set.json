@@ -33,5 +33,9 @@
     "breqtrrd.2",
     "eqcomd",
     "breqtrd"
+  ],
+  "scopes": [
+    0,
+    2106
   ]
 }

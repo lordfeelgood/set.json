@@ -20,5 +20,9 @@
     "mpbir.maj",
     "biimpri",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    128
   ]
 }

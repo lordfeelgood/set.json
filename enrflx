@@ -24,5 +24,9 @@
     "cvv",
     "enrflxg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2931
   ]
 }

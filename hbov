@@ -79,5 +79,9 @@
     "hbop",
     "hbfv",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    2613
   ]
 }

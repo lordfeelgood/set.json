@@ -61,5 +61,8 @@
     "cR",
     "df-ec",
     "eleq2s"
+  ],
+  "scopes": [
+    0
   ]
 }

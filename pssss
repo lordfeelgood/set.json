@@ -31,5 +31,8 @@
     "cB",
     "df-pss",
     "simplbi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -30,5 +30,8 @@
     "wps",
     "id",
     "ad2antrl"
+  ],
+  "scopes": [
+    0
   ]
 }

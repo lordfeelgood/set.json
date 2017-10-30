@@ -33,5 +33,9 @@
     "syl5ibr.2",
     "bicomd",
     "syl5ib"
+  ],
+  "scopes": [
+    0,
+    139
   ]
 }

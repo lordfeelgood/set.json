@@ -161,5 +161,9 @@
     "map0b",
     "sylan9eq",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2923
   ]
 }

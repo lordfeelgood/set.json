@@ -72,5 +72,9 @@
     "df-br",
     "eubii",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    2432
   ]
 }

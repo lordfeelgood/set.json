@@ -79,5 +79,9 @@
     "fvconst2",
     "sylbir",
     "syl5eq"
+  ],
+  "scopes": [
+    0,
+    2673
   ]
 }

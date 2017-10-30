@@ -167,5 +167,9 @@
     "albid",
     "3imtr3d",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    1393
   ]
 }

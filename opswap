@@ -50,5 +50,9 @@
     "opex",
     "unisn",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    2380
   ]
 }

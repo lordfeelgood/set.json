@@ -62,5 +62,9 @@
     "funopabeq",
     "funss",
     "mp2"
+  ],
+  "scopes": [
+    0,
+    2412
   ]
 }

@@ -63,5 +63,9 @@
     "eleq1d",
     "rexsn",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1856
   ]
 }

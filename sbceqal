@@ -97,5 +97,9 @@
     "eqsbc3",
     "3bitrd",
     "sylibd"
+  ],
+  "scopes": [
+    0,
+    1383
   ]
 }

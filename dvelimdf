@@ -117,5 +117,9 @@
     "adantr",
     "3imtr3d",
     "ex"
+  ],
+  "scopes": [
+    0,
+    756
   ]
 }

@@ -107,5 +107,9 @@
     "breq2",
     "ceqsex2v",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2767
   ]
 }

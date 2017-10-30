@@ -26,5 +26,9 @@
     "wth",
     "nic-swap",
     "nic-mp"
+  ],
+  "scopes": [
+    0,
+    597
   ]
 }

@@ -31,5 +31,9 @@
     "eqcomd",
     "eqsstr3d.2",
     "eqsstrd"
+  ],
+  "scopes": [
+    0,
+    1587
   ]
 }

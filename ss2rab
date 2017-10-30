@@ -93,5 +93,8 @@
     "albii",
     "bitr2i",
     "3bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

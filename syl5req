@@ -31,5 +31,9 @@
     "syl5req.2",
     "syl5eq",
     "eqcomd"
+  ],
+  "scopes": [
+    0,
+    956
   ]
 }

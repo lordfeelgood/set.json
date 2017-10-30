@@ -76,5 +76,9 @@
     "syl",
     "eqtr3d",
     "3eqtr4a"
+  ],
+  "scopes": [
+    0,
+    2899
   ]
 }

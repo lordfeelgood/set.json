@@ -31,5 +31,9 @@
     "eqcomd",
     "eqnetrrd.2",
     "eqnetrd"
+  ],
+  "scopes": [
+    0,
+    1026
   ]
 }

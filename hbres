@@ -72,5 +72,9 @@
     "hbxp",
     "hbin",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    2319
   ]
 }

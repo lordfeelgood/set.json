@@ -68,5 +68,9 @@
     "exlimiv",
     "sylbi",
     "necon1bi"
+  ],
+  "scopes": [
+    0,
+    2914
   ]
 }

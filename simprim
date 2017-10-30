@@ -27,5 +27,8 @@
     "wps",
     "idd",
     "impi"
+  ],
+  "scopes": [
+    0
   ]
 }

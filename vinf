@@ -120,5 +120,9 @@
     "evenodddisj",
     "syl6eleq",
     "mto"
+  ],
+  "scopes": [
+    0,
+    2051
   ]
 }

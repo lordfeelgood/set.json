@@ -35,5 +35,9 @@
     "wph",
     "id",
     "alrimivv"
+  ],
+  "scopes": [
+    0,
+    780
   ]
 }

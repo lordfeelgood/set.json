@@ -230,5 +230,9 @@
     "syl5bbr",
     "oprabbidv",
     "syl5eq"
+  ],
+  "scopes": [
+    0,
+    2646
   ]
 }

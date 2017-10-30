@@ -40,5 +40,9 @@
     "cvv",
     "snelpwg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1764
   ]
 }

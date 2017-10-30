@@ -48,5 +48,8 @@
     "ancom",
     "bibi2i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

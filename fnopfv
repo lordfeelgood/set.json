@@ -47,5 +47,8 @@
     "cF",
     "funfvop",
     "funfni"
+  ],
+  "scopes": [
+    0
   ]
 }

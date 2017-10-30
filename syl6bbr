@@ -32,5 +32,9 @@
     "syl6bbr.2",
     "bicomi",
     "syl6bb"
+  ],
+  "scopes": [
+    0,
+    175
   ]
 }

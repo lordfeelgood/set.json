@@ -31,5 +31,9 @@
     "impbid2.1",
     "impbid1",
     "bicomd"
+  ],
+  "scopes": [
+    0,
+    123
   ]
 }

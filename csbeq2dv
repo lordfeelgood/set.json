@@ -53,5 +53,9 @@
     "ax-17",
     "csbeq2dv.1",
     "csbeq2d"
+  ],
+  "scopes": [
+    0,
+    1430
   ]
 }

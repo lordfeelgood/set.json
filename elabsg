@@ -58,5 +58,8 @@
     "elabs2",
     "baib",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

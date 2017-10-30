@@ -34,5 +34,8 @@
     "snex",
     "unex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

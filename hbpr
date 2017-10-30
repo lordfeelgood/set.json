@@ -72,5 +72,9 @@
     "hbsn",
     "hbun",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    1531
   ]
 }

@@ -33,5 +33,9 @@
     "biimprd",
     "sylbird.2",
     "syld"
+  ],
+  "scopes": [
+    0,
+    151
   ]
 }

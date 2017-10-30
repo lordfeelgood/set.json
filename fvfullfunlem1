@@ -157,5 +157,9 @@
     "bitr2i",
     "3bitri",
     "abbi2i"
+  ],
+  "scopes": [
+    0,
+    2831
   ]
 }

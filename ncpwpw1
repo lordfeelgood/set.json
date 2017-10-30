@@ -42,5 +42,9 @@
     "pwex",
     "eqnc",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    3013
   ]
 }

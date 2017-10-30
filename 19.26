@@ -60,5 +60,8 @@
     "id",
     "alanimi",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

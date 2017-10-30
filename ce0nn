@@ -224,5 +224,9 @@
     "syl5ibr",
     "syl",
     "finds"
+  ],
+  "scopes": [
+    0,
+    3033
   ]
 }

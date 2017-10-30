@@ -65,5 +65,9 @@
     "2rexbiia.1",
     "rexbidva",
     "rexbiia"
+  ],
+  "scopes": [
+    0,
+    1097
   ]
 }

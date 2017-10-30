@@ -98,5 +98,9 @@
     "eleq2",
     "reu4",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    1976
   ]
 }

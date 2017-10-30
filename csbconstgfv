@@ -40,5 +40,9 @@
     "vx",
     "ax-17",
     "csbconstgf"
+  ],
+  "scopes": [
+    0,
+    1424
   ]
 }

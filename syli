@@ -33,5 +33,9 @@
     "syli.2",
     "com12",
     "sylcom"
+  ],
+  "scopes": [
+    0,
+    24
   ]
 }

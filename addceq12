@@ -58,5 +58,8 @@
     "cC",
     "addceq2",
     "sylan9eq"
+  ],
+  "scopes": [
+    0
   ]
 }

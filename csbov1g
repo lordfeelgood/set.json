@@ -88,5 +88,9 @@
     "csbconstgfv",
     "oveq2d",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    2618
   ]
 }

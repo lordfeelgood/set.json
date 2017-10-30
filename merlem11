@@ -59,5 +59,8 @@
     "merlem10",
     "ax-mp",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

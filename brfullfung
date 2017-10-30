@@ -72,5 +72,8 @@
     "mpan",
     "syl5rbbr",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

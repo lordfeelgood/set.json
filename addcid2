@@ -28,5 +28,8 @@
     "cA",
     "addcid1",
     "eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

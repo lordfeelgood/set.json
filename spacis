@@ -175,5 +175,9 @@
     "elabg",
     "adantl",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    3107
   ]
 }

@@ -45,5 +45,8 @@
     "biimpcd",
     "con3d",
     "imp"
+  ],
+  "scopes": [
+    0
   ]
 }

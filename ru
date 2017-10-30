@@ -60,5 +60,9 @@
     "cvv",
     "df-nel",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    1352
   ]
 }

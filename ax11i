@@ -51,5 +51,9 @@
     "biimprcd",
     "alrimi",
     "syl6bi"
+  ],
+  "scopes": [
+    0,
+    705
   ]
 }

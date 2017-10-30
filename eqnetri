@@ -28,5 +28,9 @@
     "eqnetr.1",
     "neeq1i",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    1023
   ]
 }

@@ -39,5 +39,8 @@
     "vz",
     "ax-8",
     "equcoms"
+  ],
+  "scopes": [
+    0
   ]
 }

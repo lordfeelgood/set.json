@@ -150,5 +150,9 @@
     "sylbid",
     "impbid2",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    3080
   ]
 }

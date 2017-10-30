@@ -64,5 +64,9 @@
     "cA",
     "rabbi",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    1215
   ]
 }

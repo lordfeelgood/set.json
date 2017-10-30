@@ -39,5 +39,9 @@
     "ss2ab",
     "ss2abi.1",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    1607
   ]
 }

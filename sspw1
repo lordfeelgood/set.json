@@ -105,5 +105,9 @@
     "impcom",
     "exlimiv",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1896
   ]
 }

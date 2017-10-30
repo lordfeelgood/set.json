@@ -28,5 +28,9 @@
     "mtbiri.maj",
     "biimpd",
     "mtoi"
+  ],
+  "scopes": [
+    0,
+    203
   ]
 }

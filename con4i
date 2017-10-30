@@ -23,5 +23,9 @@
     "notnot1",
     "con4i.1",
     "nsyl2"
+  ],
+  "scopes": [
+    0,
+    79
   ]
 }

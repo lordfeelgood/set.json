@@ -36,5 +36,9 @@
     "wps",
     "con2b",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    224
   ]
 }

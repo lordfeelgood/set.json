@@ -70,5 +70,9 @@
     "bibi12i",
     "albii",
     "bitr2i"
+  ],
+  "scopes": [
+    0,
+    1008
   ]
 }

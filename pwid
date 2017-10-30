@@ -27,5 +27,9 @@
     "pwid.1",
     "elpw",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    1739
   ]
 }

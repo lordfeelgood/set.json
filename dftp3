@@ -66,5 +66,9 @@
     "df-pr",
     "uneq2i",
     "3eqtr4i"
+  ],
+  "scopes": [
+    0,
+    1545
   ]
 }

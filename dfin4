@@ -51,5 +51,8 @@
     "difin",
     "difeq2i",
     "eqtr3i"
+  ],
+  "scopes": [
+    0
   ]
 }

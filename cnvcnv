@@ -68,5 +68,8 @@
     "mpbi",
     "eqtr4i",
     "3eqtr3ri"
+  ],
+  "scopes": [
+    0
   ]
 }

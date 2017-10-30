@@ -41,5 +41,8 @@
     "id",
     "con4bid",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

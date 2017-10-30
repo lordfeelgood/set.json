@@ -64,5 +64,8 @@
     "cA",
     "eleq2",
     "elimif"
+  ],
+  "scopes": [
+    0
   ]
 }

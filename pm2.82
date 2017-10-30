@@ -67,5 +67,8 @@
     "orim2d",
     "jaoi",
     "orim1d"
+  ],
+  "scopes": [
+    0
   ]
 }

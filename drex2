@@ -44,5 +44,9 @@
     "hbae",
     "drex2.1",
     "exbid"
+  ],
+  "scopes": [
+    0,
+    714
   ]
 }

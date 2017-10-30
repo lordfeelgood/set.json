@@ -53,5 +53,8 @@
     "olc",
     "alimi",
     "jaoi"
+  ],
+  "scopes": [
+    0
   ]
 }

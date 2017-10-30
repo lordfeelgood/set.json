@@ -28,5 +28,9 @@
     "eqsstr.1",
     "sseq1i",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    1582
   ]
 }

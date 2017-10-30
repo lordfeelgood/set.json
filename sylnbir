@@ -27,5 +27,9 @@
     "bicomi",
     "sylnbir.2",
     "sylnbi"
+  ],
+  "scopes": [
+    0,
+    207
   ]
 }

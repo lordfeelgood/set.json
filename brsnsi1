@@ -110,5 +110,9 @@
     "exbii",
     "bitri",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2768
   ]
 }

@@ -28,5 +28,8 @@
     "xpss",
     "df-rel",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

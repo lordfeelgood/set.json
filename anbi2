@@ -39,5 +39,8 @@
     "wch",
     "id",
     "anbi2d"
+  ],
+  "scopes": [
+    0
   ]
 }

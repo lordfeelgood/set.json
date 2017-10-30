@@ -44,5 +44,9 @@
     "fun2cnv",
     "anbi2i",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    2422
   ]
 }

@@ -76,5 +76,9 @@
     "csbconstgfv",
     "eqeq2d",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    1426
   ]
 }

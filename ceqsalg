@@ -84,5 +84,9 @@
     "biimprcd",
     "alrimi",
     "impbid1"
+  ],
+  "scopes": [
+    0,
+    1235
   ]
 }

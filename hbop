@@ -107,5 +107,9 @@
     "hbab",
     "hbun",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    2068
   ]
 }

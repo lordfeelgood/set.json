@@ -252,5 +252,9 @@
     "rexlimiv",
     "jaoi",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1935
   ]
 }

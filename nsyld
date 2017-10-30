@@ -36,5 +36,9 @@
     "nsyld.2",
     "con3d",
     "syld"
+  ],
+  "scopes": [
+    0,
+    88
   ]
 }

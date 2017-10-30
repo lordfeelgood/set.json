@@ -184,5 +184,9 @@
     "eqtri",
     "ovigg",
     "mpd"
+  ],
+  "scopes": [
+    0,
+    2748
   ]
 }

@@ -121,5 +121,9 @@
     "hban",
     "sbc2iegf.1",
     "sbciedf"
+  ],
+  "scopes": [
+    0,
+    1399
   ]
 }

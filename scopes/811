@@ -1,0 +1,50 @@
+[
+  {
+    "activevariables": [
+      "f",
+      "g"
+    ],
+    "disjvars": [
+      [
+        "ch",
+        "w",
+        "z"
+      ],
+      [
+        "ph",
+        "u",
+        "v"
+      ],
+      [
+        "ps",
+        "x",
+        "y"
+      ],
+      [
+        "f",
+        "g",
+        "ps"
+      ],
+      [
+        "f",
+        "w"
+      ],
+      [
+        "g",
+        "z"
+      ],
+      [
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z"
+      ]
+    ],
+    "floatinghyp": {
+      "f": "cbvex4v.vf",
+      "g": "cbvex4v.vg"
+    }
+  }
+]

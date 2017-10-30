@@ -28,5 +28,8 @@
     "wps",
     "orc",
     "con3i"
+  ],
+  "scopes": [
+    0
   ]
 }

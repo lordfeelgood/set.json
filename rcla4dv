@@ -99,5 +99,9 @@
     "syl5bir",
     "pm2.86d",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    1289
   ]
 }

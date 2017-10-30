@@ -52,5 +52,9 @@
     "vz",
     "equequ2",
     "dvelimfALT"
+  ],
+  "scopes": [
+    0,
+    741
   ]
 }

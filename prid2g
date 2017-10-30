@@ -41,5 +41,8 @@
     "cB",
     "prcom",
     "syl6eleq"
+  ],
+  "scopes": [
+    0
   ]
 }

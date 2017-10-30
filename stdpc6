@@ -20,5 +20,8 @@
     "vx",
     "equid",
     "ax-gen"
+  ],
+  "scopes": [
+    0
   ]
 }

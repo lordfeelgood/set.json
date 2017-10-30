@@ -31,5 +31,9 @@
     "mpanl12.3",
     "mpanl1",
     "mpan"
+  ],
+  "scopes": [
+    0,
+    377
   ]
 }

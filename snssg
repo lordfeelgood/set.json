@@ -55,5 +55,9 @@
     "vex",
     "snss",
     "vtoclbg"
+  ],
+  "scopes": [
+    0,
+    1630
   ]
 }

@@ -94,5 +94,9 @@
     "relssi",
     "sstri",
     "eqsstri"
+  ],
+  "scopes": [
+    0,
+    2783
   ]
 }

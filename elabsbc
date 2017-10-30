@@ -45,5 +45,9 @@
     "cA",
     "elabs2",
     "mpbiran"
+  ],
+  "scopes": [
+    0,
+    1379
   ]
 }

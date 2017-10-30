@@ -182,5 +182,9 @@
     "eximdv",
     "2eximdv",
     "syl5com"
+  ],
+  "scopes": [
+    0,
+    1283
   ]
 }

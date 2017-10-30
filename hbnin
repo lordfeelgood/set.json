@@ -60,5 +60,9 @@
     "hban",
     "hbn",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    1464
   ]
 }

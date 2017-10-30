@@ -49,5 +49,9 @@
     "biantru",
     "exbii",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    1222
   ]
 }

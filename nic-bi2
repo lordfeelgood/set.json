@@ -38,5 +38,9 @@
     "nic-id",
     "nic-iimp1",
     "nic-idel"
+  ],
+  "scopes": [
+    0,
+    605
   ]
 }

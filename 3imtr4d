@@ -37,5 +37,9 @@
     "3imtr4d.3",
     "sylibrd",
     "sylbid"
+  ],
+  "scopes": [
+    0,
+    180
   ]
 }

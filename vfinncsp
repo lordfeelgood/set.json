@@ -241,5 +241,9 @@
     "mpan2",
     "addceq12d",
     "3eqtrd"
+  ],
+  "scopes": [
+    0,
+    2050
   ]
 }

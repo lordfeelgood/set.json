@@ -33,5 +33,9 @@
     "adantl",
     "sylan2.2",
     "syldan"
+  ],
+  "scopes": [
+    0,
+    273
   ]
 }

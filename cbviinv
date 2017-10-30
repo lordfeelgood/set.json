@@ -57,5 +57,9 @@
     "ax-17",
     "cbviunv.1",
     "cbviin"
+  ],
+  "scopes": [
+    0,
+    2200
   ]
 }

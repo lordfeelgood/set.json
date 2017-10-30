@@ -96,5 +96,8 @@
     "andi",
     "orbi12i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

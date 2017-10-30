@@ -41,5 +41,9 @@
     "op2nda.2",
     "unisn",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    2382
   ]
 }

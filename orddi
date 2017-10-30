@@ -96,5 +96,8 @@
     "ordi",
     "anbi12i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

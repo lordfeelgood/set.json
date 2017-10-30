@@ -83,5 +83,9 @@
     "biimpar",
     "adantrl",
     "pm2.61ian"
+  ],
+  "scopes": [
+    0,
+    1711
   ]
 }

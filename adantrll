@@ -42,5 +42,9 @@
     "simpr",
     "adantr2.1",
     "sylanr1"
+  ],
+  "scopes": [
+    0,
+    395
   ]
 }

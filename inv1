@@ -31,5 +31,9 @@
     "elin",
     "mpbiran2",
     "eqriv"
+  ],
+  "scopes": [
+    0,
+    1500
   ]
 }

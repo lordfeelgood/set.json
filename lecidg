@@ -70,5 +70,9 @@
     "anidms",
     "adantr",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    3046
   ]
 }

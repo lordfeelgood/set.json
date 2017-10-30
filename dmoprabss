@@ -130,5 +130,9 @@
     "opabssxp",
     "eqsstri",
     "eqsstri"
+  ],
+  "scopes": [
+    0,
+    2638
   ]
 }

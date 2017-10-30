@@ -28,5 +28,9 @@
     "nbn3.1",
     "notnoti",
     "nbn"
+  ],
+  "scopes": [
+    0,
+    227
   ]
 }

@@ -170,5 +170,9 @@
     "ceqsrex2v.2",
     "ceqsrexv",
     "sylan9bb"
+  ],
+  "scopes": [
+    0,
+    1300
   ]
 }

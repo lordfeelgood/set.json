@@ -29,5 +29,8 @@
     "vx",
     "df-ex",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

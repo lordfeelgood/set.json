@@ -296,5 +296,9 @@
     "dfop2lem2",
     "uneq12i",
     "eqtr4i"
+  ],
+  "scopes": [
+    0,
+    2056
   ]
 }

@@ -99,5 +99,8 @@
     "pw1ex",
     "imakex",
     "difex"
+  ],
+  "scopes": [
+    0
   ]
 }

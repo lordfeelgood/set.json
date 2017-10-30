@@ -34,5 +34,8 @@
     "wph",
     "simpl",
     "impbid1"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -103,5 +103,8 @@
     "preaddccan1",
     "syl2anb",
     "syl5bb"
+  ],
+  "scopes": [
+    0
   ]
 }

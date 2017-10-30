@@ -46,5 +46,8 @@
     "wch",
     "orass",
     "biimpri"
+  ],
+  "scopes": [
+    0
   ]
 }

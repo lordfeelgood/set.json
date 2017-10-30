@@ -35,5 +35,8 @@
     "wps",
     "nbn2",
     "biimpd"
+  ],
+  "scopes": [
+    0
   ]
 }

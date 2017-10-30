@@ -59,5 +59,9 @@
     "cvv",
     "elmapg",
     "mp3an"
+  ],
+  "scopes": [
+    0,
+    2919
   ]
 }

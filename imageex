@@ -25,5 +25,9 @@
     "cvv",
     "imageexg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2782
   ]
 }

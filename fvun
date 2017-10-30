@@ -126,5 +126,8 @@
     "syl",
     "syl5eq",
     "3eqtrd"
+  ],
+  "scopes": [
+    0
   ]
 }

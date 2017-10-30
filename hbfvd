@@ -144,5 +144,9 @@
     "hbfvd.1",
     "albid",
     "3imtr3d"
+  ],
+  "scopes": [
+    0,
+    2475
   ]
 }

@@ -243,5 +243,8 @@
     "xpkex",
     "difex",
     "unex"
+  ],
+  "scopes": [
+    0
   ]
 }

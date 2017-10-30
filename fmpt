@@ -64,5 +64,9 @@
     "df-mpt",
     "eqtri",
     "fopab2"
+  ],
+  "scopes": [
+    0,
+    2734
   ]
 }

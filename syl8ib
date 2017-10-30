@@ -38,5 +38,9 @@
     "syl8ib.2",
     "biimpi",
     "syl8"
+  ],
+  "scopes": [
+    0,
+    147
   ]
 }

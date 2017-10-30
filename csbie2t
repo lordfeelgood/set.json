@@ -195,5 +195,9 @@
     "exlimd",
     "syl5bir",
     "mp2ani"
+  ],
+  "scopes": [
+    0,
+    1446
   ]
 }

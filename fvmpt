@@ -65,5 +65,10 @@
     "fvmptg.2",
     "fvmptg",
     "mpan2"
+  ],
+  "scopes": [
+    0,
+    2739,
+    2740
   ]
 }

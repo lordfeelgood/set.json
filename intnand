@@ -31,5 +31,9 @@
     "wps",
     "simpr",
     "nsyl"
+  ],
+  "scopes": [
+    0,
+    435
   ]
 }

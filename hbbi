@@ -56,5 +56,10 @@
     "hbim",
     "hban",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    665,
+    666
   ]
 }

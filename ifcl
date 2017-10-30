@@ -55,5 +55,8 @@
     "cC",
     "eleq1",
     "ifboth"
+  ],
+  "scopes": [
+    0
   ]
 }

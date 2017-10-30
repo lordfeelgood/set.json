@@ -32,5 +32,9 @@
     "biimpri",
     "syl5bir.2",
     "syl5"
+  ],
+  "scopes": [
+    0,
+    137
   ]
 }

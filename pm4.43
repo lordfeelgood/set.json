@@ -48,5 +48,8 @@
     "wps",
     "ordi",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

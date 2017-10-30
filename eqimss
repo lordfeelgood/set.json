@@ -31,5 +31,8 @@
     "cB",
     "eqss",
     "simplbi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -464,5 +464,9 @@
     "inundif",
     "eqtri",
     "3brtr3g"
+  ],
+  "scopes": [
+    0,
+    3050
   ]
 }

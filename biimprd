@@ -28,5 +28,9 @@
     "id",
     "biimprd.1",
     "syl5ibr"
+  ],
+  "scopes": [
+    0,
+    140
   ]
 }

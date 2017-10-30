@@ -90,5 +90,8 @@
     "lenltfin",
     "syl2an",
     "3bitr4d"
+  ],
+  "scopes": [
+    0
   ]
 }

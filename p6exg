@@ -69,5 +69,9 @@
     "exlimiv",
     "ax-mp",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1862
   ]
 }

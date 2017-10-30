@@ -57,5 +57,9 @@
     "eleq1",
     "ceqsalv",
     "bicomi"
+  ],
+  "scopes": [
+    0,
+    1301
   ]
 }

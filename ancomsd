@@ -38,5 +38,9 @@
     "ancom",
     "ancomsd.1",
     "syl5bi"
+  ],
+  "scopes": [
+    0,
+    256
   ]
 }

@@ -19,5 +19,8 @@
     "cvv",
     "ne0i",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

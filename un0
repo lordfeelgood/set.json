@@ -28,5 +28,9 @@
     "biorfi",
     "bicomi",
     "uneqri"
+  ],
+  "scopes": [
+    0,
+    1499
   ]
 }

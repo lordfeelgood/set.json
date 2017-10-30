@@ -61,5 +61,9 @@
     "csbieb",
     "csbief.3",
     "mpgbi"
+  ],
+  "scopes": [
+    0,
+    1444
   ]
 }

@@ -52,5 +52,9 @@
     "fveq12d.2",
     "fveq2d",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    2473
   ]
 }

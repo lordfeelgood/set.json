@@ -310,5 +310,9 @@
     "syl",
     "dffun4",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    2422
   ]
 }

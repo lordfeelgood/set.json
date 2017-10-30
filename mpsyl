@@ -30,5 +30,9 @@
     "mpsyl.2",
     "mpsyl.3",
     "sylc"
+  ],
+  "scopes": [
+    0,
+    47
   ]
 }

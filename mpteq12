@@ -81,5 +81,9 @@
     "cD",
     "mpteq12f",
     "sylan"
+  ],
+  "scopes": [
+    0,
+    2704
   ]
 }

@@ -55,5 +55,9 @@
     "ex",
     "com23",
     "ralrimdv"
+  ],
+  "scopes": [
+    0,
+    1133
   ]
 }

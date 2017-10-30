@@ -56,5 +56,9 @@
     "cA",
     "sseq2",
     "opkelopkabg"
+  ],
+  "scopes": [
+    0,
+    1844
   ]
 }

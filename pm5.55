@@ -54,5 +54,8 @@
     "nsyl4",
     "con1i",
     "orri"
+  ],
+  "scopes": [
+    0
   ]
 }

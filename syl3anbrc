@@ -37,5 +37,9 @@
     "3jca",
     "syl3anbrc.4",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    475
   ]
 }

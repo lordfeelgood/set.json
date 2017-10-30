@@ -75,5 +75,9 @@
     "eqid",
     "dmmpt",
     "syl6reqr"
+  ],
+  "scopes": [
+    0,
+    2729
   ]
 }

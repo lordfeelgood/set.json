@@ -203,5 +203,9 @@
     "cbvex2v",
     "2exbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    811
   ]
 }

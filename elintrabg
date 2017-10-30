@@ -90,5 +90,9 @@
     "vex",
     "elintrab",
     "vtoclbg"
+  ],
+  "scopes": [
+    0,
+    1681
   ]
 }

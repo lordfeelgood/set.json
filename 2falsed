@@ -35,5 +35,9 @@
     "2falsed.2",
     "pm2.21d",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    229
   ]
 }

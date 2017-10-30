@@ -28,5 +28,8 @@
     "df-pr",
     "unidm",
     "eqtr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

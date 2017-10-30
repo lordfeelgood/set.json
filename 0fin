@@ -42,5 +42,8 @@
     "c0",
     "elfin",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

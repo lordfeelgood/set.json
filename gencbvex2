@@ -85,5 +85,9 @@
     "exlimiv",
     "impbii",
     "gencbvex"
+  ],
+  "scopes": [
+    0,
+    1254
   ]
 }

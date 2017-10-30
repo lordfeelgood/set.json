@@ -97,5 +97,9 @@
     "eluni2",
     "syl6ibr",
     "ssrdv"
+  ],
+  "scopes": [
+    0,
+    2526
   ]
 }

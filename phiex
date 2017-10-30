@@ -25,5 +25,9 @@
     "cvv",
     "phiexg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2055
   ]
 }

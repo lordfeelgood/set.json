@@ -58,5 +58,8 @@
     "df-rex",
     "xchbinxr",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

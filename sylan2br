@@ -32,5 +32,9 @@
     "biimpri",
     "sylan2br.2",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    275
   ]
 }

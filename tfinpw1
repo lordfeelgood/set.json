@@ -96,5 +96,9 @@
     "rexlimdva",
     "adantld",
     "mpd"
+  ],
+  "scopes": [
+    0,
+    1998
   ]
 }

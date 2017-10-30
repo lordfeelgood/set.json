@@ -46,5 +46,9 @@
     "nne",
     "syl6ibr",
     "necon4ad"
+  ],
+  "scopes": [
+    0,
+    1075
   ]
 }

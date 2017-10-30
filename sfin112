@@ -152,5 +152,9 @@
     "exlimdvv",
     "3impia",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    2025
   ]
 }

@@ -59,5 +59,8 @@
     "res0",
     "syl6eq",
     "syl5eq"
+  ],
+  "scopes": [
+    0
   ]
 }

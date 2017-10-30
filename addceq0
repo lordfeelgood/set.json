@@ -152,5 +152,9 @@
     "addcid2",
     "syl6eq",
     "impbid1"
+  ],
+  "scopes": [
+    0,
+    3064
   ]
 }

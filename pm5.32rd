@@ -55,5 +55,9 @@
     "wps",
     "ancom",
     "3bitr4g"
+  ],
+  "scopes": [
+    0,
+    339
   ]
 }

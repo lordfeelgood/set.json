@@ -61,5 +61,8 @@
     "syl6",
     "imp",
     "sylbi"
+  ],
+  "scopes": [
+    0
   ]
 }

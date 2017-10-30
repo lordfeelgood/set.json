@@ -133,5 +133,9 @@
     "mpan2d",
     "impr",
     "spacis"
+  ],
+  "scopes": [
+    0,
+    3111
   ]
 }

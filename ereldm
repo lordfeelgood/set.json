@@ -69,5 +69,10 @@
     "elec",
     "sylibr",
     "sseldd"
+  ],
+  "scopes": [
+    0,
+    2886,
+    2887
   ]
 }

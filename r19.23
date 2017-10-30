@@ -82,5 +82,9 @@
     "df-rex",
     "imbi1i",
     "3bitr4i"
+  ],
+  "scopes": [
+    0,
+    1157
   ]
 }

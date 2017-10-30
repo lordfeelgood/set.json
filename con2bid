@@ -35,5 +35,9 @@
     "wps",
     "con2bi",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    219
   ]
 }

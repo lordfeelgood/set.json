@@ -51,5 +51,8 @@
     "cores",
     "ax-mp",
     "eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

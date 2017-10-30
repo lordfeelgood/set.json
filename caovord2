@@ -190,5 +190,10 @@
     "caovcom",
     "breq12i",
     "syl6bb"
+  ],
+  "scopes": [
+    0,
+    2685,
+    2691
   ]
 }

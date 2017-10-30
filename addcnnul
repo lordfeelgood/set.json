@@ -84,5 +84,8 @@
     "syl6eq",
     "necon3i",
     "jca"
+  ],
+  "scopes": [
+    0
   ]
 }

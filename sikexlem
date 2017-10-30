@@ -238,5 +238,9 @@
     "2albii",
     "3bitri",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1866
   ]
 }

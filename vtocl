@@ -35,5 +35,9 @@
     "vtocl.2",
     "vtocl.3",
     "vtoclf"
+  ],
+  "scopes": [
+    0,
+    1258
   ]
 }

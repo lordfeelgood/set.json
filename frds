@@ -293,5 +293,9 @@
     "df-rex",
     "3bitr4i",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    2862
   ]
 }

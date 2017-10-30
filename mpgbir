@@ -23,5 +23,9 @@
     "ax-gen",
     "mpgbir.1",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    622
   ]
 }

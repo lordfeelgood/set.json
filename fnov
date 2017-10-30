@@ -201,5 +201,9 @@
     "eqtr4i",
     "eqeq2i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2655
   ]
 }

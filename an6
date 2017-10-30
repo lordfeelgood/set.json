@@ -107,5 +107,8 @@
     "3bitri",
     "df-3an",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

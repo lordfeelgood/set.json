@@ -103,5 +103,9 @@
     "eubid",
     "biimpa",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    900
   ]
 }

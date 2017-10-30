@@ -328,5 +328,9 @@
     "df-muc",
     "ovmpt2g",
     "mpd3an3"
+  ],
+  "scopes": [
+    0,
+    2995
   ]
 }

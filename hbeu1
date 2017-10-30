@@ -39,5 +39,9 @@
     "hba1",
     "hbex",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    871
   ]
 }

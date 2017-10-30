@@ -42,5 +42,10 @@
     "psseq12i.2",
     "psseq2i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1617,
+    1618
   ]
 }

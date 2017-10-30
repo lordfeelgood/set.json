@@ -265,5 +265,9 @@
     "ralimdaa",
     "mpd",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2537
   ]
 }

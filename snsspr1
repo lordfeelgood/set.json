@@ -31,5 +31,8 @@
     "cB",
     "df-pr",
     "sseqtr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

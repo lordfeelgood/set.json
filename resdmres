@@ -92,5 +92,8 @@
     "cB",
     "rescnvcnv",
     "eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

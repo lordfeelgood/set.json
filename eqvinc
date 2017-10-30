@@ -83,5 +83,9 @@
     "eqtr2",
     "exlimiv",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1293
   ]
 }

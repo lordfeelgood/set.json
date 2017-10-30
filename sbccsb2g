@@ -82,5 +82,8 @@
     "csbvarg",
     "eleq1d",
     "3bitr3d"
+  ],
+  "scopes": [
+    0
   ]
 }

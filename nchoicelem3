@@ -156,5 +156,9 @@
     "clos1nrel",
     "syl",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    3110
   ]
 }

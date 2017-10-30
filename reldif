@@ -35,5 +35,8 @@
     "cA",
     "relss",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

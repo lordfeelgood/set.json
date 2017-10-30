@@ -74,5 +74,9 @@
     "fnopab2g.1",
     "fnopabg",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2437
   ]
 }

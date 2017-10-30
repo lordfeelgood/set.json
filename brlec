@@ -79,5 +79,9 @@
     "cvv",
     "brlecg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    2983
   ]
 }

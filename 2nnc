@@ -25,5 +25,8 @@
     "peano2",
     "ax-mp",
     "eqeltrri"
+  ],
+  "scopes": [
+    0
   ]
 }

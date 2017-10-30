@@ -89,5 +89,8 @@
     "sb2",
     "jaoi",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -60,5 +60,8 @@
     "a1i",
     "jaod",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

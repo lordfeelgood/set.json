@@ -72,5 +72,8 @@
     "biimpi",
     "biimpri",
     "pm3.2i"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -34,5 +34,8 @@
     "wps",
     "df-or",
     "biimpi"
+  ],
+  "scopes": [
+    0
   ]
 }

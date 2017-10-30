@@ -53,5 +53,8 @@
     "simprim",
     "ax-mp",
     "expi"
+  ],
+  "scopes": [
+    0
   ]
 }

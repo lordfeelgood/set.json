@@ -168,5 +168,9 @@
     "exlimiv",
     "exlimivv",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    3000
   ]
 }

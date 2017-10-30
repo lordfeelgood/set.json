@@ -73,5 +73,9 @@
     "rexlimiv",
     "orim2i",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    1179
   ]
 }

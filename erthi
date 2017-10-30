@@ -70,5 +70,9 @@
     "syl",
     "erth",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    2885
   ]
 }

@@ -69,5 +69,8 @@
     "vz",
     "excom13",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -44,5 +44,9 @@
     "cC",
     "symdifeq1",
     "syl"
+  ],
+  "scopes": [
+    0,
+    1478
   ]
 }

@@ -67,5 +67,9 @@
     "eximd",
     "impcom",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    692
   ]
 }

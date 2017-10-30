@@ -103,5 +103,8 @@
     "sylan9ss",
     "jca",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

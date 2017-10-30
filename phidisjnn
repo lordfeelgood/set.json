@@ -84,5 +84,9 @@
     "abeq1",
     "bitri",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2078
   ]
 }

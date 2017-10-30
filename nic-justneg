@@ -34,5 +34,8 @@
     "anidm",
     "xchbinx",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

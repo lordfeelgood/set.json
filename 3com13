@@ -38,5 +38,9 @@
     "3anrev",
     "3exp.1",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    485
   ]
 }

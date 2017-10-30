@@ -39,5 +39,9 @@
     "breqtrd.2",
     "breq2d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    2104
   ]
 }

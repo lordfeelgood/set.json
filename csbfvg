@@ -69,5 +69,9 @@
     "csbvarg",
     "fveq2d",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    2478
   ]
 }

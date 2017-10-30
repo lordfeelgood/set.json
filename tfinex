@@ -37,5 +37,9 @@
     "iotaex",
     "ifex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    1990
   ]
 }

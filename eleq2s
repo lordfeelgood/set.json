@@ -34,5 +34,9 @@
     "eleq2i",
     "eleq2s.1",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    991
   ]
 }

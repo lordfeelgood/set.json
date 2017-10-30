@@ -80,5 +80,9 @@
     "abbii",
     "unieqi",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1900
   ]
 }

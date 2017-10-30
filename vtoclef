@@ -36,5 +36,9 @@
     "vtoclef.3",
     "exlimi",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1276
   ]
 }

@@ -33,5 +33,9 @@
     "a1d",
     "syl5com.2",
     "sylcom"
+  ],
+  "scopes": [
+    0,
+    17
   ]
 }

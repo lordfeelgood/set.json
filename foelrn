@@ -98,5 +98,9 @@
     "rexbidv",
     "rcla4cva",
     "sylan"
+  ],
+  "scopes": [
+    0,
+    2535
   ]
 }

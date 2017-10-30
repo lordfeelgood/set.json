@@ -56,5 +56,8 @@
     "sylibr",
     "con2d",
     "impcom"
+  ],
+  "scopes": [
+    0
   ]
 }

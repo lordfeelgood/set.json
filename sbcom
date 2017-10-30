@@ -292,5 +292,8 @@
     "sbbid",
     "bitr3d",
     "pm2.61ii"
+  ],
+  "scopes": [
+    0
   ]
 }

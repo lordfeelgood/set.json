@@ -103,5 +103,9 @@
     "syl5bb",
     "sylan2br",
     "3impb"
+  ],
+  "scopes": [
+    0,
+    2621
   ]
 }

@@ -63,5 +63,9 @@
     "bibi12d",
     "vtoclbg.3",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1264
   ]
 }

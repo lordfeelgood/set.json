@@ -121,5 +121,9 @@
     "ovcross",
     "eqeq2d",
     "bitr3d"
+  ],
+  "scopes": [
+    0,
+    2820
   ]
 }

@@ -64,5 +64,9 @@
     "sbcieg.1",
     "sbciegf",
     "syl"
+  ],
+  "scopes": [
+    0,
+    1372
   ]
 }

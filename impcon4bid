@@ -31,5 +31,9 @@
     "impcon4bid.2",
     "con4d",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    124
   ]
 }

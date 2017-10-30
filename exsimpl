@@ -32,5 +32,8 @@
     "wps",
     "simpl",
     "eximi"
+  ],
+  "scopes": [
+    0
   ]
 }

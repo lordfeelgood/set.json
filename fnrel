@@ -30,5 +30,8 @@
     "cF",
     "funrel",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

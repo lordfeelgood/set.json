@@ -42,5 +42,9 @@
     "anassrs",
     "pm2.61dan",
     "pm2.61dan"
+  ],
+  "scopes": [
+    0,
+    402
   ]
 }

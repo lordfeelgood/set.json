@@ -41,5 +41,8 @@
     "wps",
     "pm2.68",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -116,5 +116,9 @@
     "funcnvuni",
     "syl",
     "jca"
+  ],
+  "scopes": [
+    0,
+    2422
   ]
 }

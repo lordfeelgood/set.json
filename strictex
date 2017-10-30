@@ -21,5 +21,8 @@
     "connexex",
     "inex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

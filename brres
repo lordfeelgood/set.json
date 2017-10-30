@@ -91,5 +91,9 @@
     "anbi2i",
     "3bitr4ri",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    2325
   ]
 }

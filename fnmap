@@ -64,5 +64,9 @@
     "eqtri",
     "fneq1i",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    2915
   ]
 }

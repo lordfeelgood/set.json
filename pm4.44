@@ -39,5 +39,8 @@
     "simpl",
     "jaoi",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

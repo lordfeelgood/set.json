@@ -135,5 +135,9 @@
     "df-csb",
     "eqeq12i",
     "syl6bbr"
+  ],
+  "scopes": [
+    0,
+    1425
   ]
 }

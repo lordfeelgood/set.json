@@ -44,5 +44,9 @@
     "eleq1",
     "elimel.1",
     "elimhyp"
+  ],
+  "scopes": [
+    0,
+    1723
   ]
 }

@@ -113,5 +113,9 @@
     "opabbii",
     "fvopab4g",
     "sylan"
+  ],
+  "scopes": [
+    0,
+    2511
   ]
 }

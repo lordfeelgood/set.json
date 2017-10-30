@@ -107,5 +107,9 @@
     "feq1",
     "syl5ibrcom",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    2560
   ]
 }

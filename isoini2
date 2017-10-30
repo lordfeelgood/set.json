@@ -224,5 +224,9 @@
     "cS",
     "df-iso",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    2589
   ]
 }

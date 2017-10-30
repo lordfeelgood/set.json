@@ -47,5 +47,8 @@
     "cV",
     "elprg",
     "mpbiri"
+  ],
+  "scopes": [
+    0
   ]
 }

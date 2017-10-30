@@ -54,5 +54,8 @@
     "ctrans",
     "brin",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

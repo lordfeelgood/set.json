@@ -98,5 +98,8 @@
     "nic-dfim",
     "nic-bi1",
     "nic-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

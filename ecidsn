@@ -28,5 +28,8 @@
     "df-ec",
     "imai",
     "eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

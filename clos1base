@@ -37,5 +37,9 @@
     "df-clos1",
     "eqtr2i",
     "sseqtri"
+  ],
+  "scopes": [
+    0,
+    2841
   ]
 }

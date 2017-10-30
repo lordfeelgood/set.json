@@ -39,5 +39,9 @@
     "cvv",
     "elcomplg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1461
   ]
 }

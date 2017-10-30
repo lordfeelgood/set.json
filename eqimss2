@@ -27,5 +27,8 @@
     "cB",
     "eqimss",
     "eqcoms"
+  ],
+  "scopes": [
+    0
   ]
 }

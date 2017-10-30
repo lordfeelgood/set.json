@@ -91,5 +91,9 @@
     "eleq2",
     "syl5ibcom",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    1982
   ]
 }

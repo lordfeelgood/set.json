@@ -160,5 +160,9 @@
     "hbral",
     "hban",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    2579
   ]
 }

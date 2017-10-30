@@ -45,5 +45,8 @@
     "eleq2s",
     "necon2bi",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

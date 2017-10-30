@@ -47,5 +47,9 @@
     "brssetsn.2",
     "brssetsn",
     "bitr3i"
+  ],
+  "scopes": [
+    0,
+    2180
   ]
 }

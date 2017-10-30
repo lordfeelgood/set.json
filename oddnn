@@ -76,5 +76,9 @@
     "rexlimiv",
     "adantr",
     "syl"
+  ],
+  "scopes": [
+    0,
+    2008
   ]
 }

@@ -57,5 +57,8 @@
     "bi2",
     "imim2i",
     "exp3a"
+  ],
+  "scopes": [
+    0
   ]
 }

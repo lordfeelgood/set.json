@@ -70,5 +70,9 @@
     "syl6eq",
     "exlimiv",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    3005
   ]
 }

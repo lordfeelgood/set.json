@@ -34,5 +34,9 @@
     "mpgbir",
     "df-spfin",
     "eleqtrri"
+  ],
+  "scopes": [
+    0,
+    2034
   ]
 }

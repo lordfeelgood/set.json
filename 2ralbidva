@@ -72,5 +72,9 @@
     "ax-17",
     "2ralbidva.1",
     "2ralbida"
+  ],
+  "scopes": [
+    0,
+    1100
   ]
 }

@@ -74,5 +74,8 @@
     "2exeu",
     "expcom",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

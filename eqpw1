@@ -127,5 +127,9 @@
     "bitri",
     "syl6bb",
     "biadan2"
+  ],
+  "scopes": [
+    0,
+    1783
   ]
 }

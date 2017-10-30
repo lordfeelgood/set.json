@@ -55,5 +55,10 @@
     "breqan12i.2",
     "breqan12d",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    2095,
+    2098
   ]
 }

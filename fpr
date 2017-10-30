@@ -123,5 +123,9 @@
     "jctir",
     "df-f",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2550
   ]
 }

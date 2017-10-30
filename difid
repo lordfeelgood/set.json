@@ -29,5 +29,8 @@
     "cA",
     "incompl",
     "eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

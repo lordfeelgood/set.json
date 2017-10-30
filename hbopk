@@ -75,5 +75,9 @@
     "hbpr",
     "hbpr",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    1555
   ]
 }

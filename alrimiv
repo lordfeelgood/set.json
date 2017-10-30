@@ -31,5 +31,9 @@
     "ax-17",
     "alrimiv.1",
     "alrimi"
+  ],
+  "scopes": [
+    0,
+    777
   ]
 }

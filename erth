@@ -188,5 +188,9 @@
     "sylib",
     "ersym",
     "impbida"
+  ],
+  "scopes": [
+    0,
+    2883
   ]
 }

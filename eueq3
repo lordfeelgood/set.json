@@ -268,5 +268,9 @@
     "eubidv",
     "mpbid",
     "ecase3"
+  ],
+  "scopes": [
+    0,
+    1337
   ]
 }

@@ -35,5 +35,9 @@
     "ax-17",
     "ralrimiv.1",
     "ralrimi"
+  ],
+  "scopes": [
+    0,
+    1125
   ]
 }

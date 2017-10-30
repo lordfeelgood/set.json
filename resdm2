@@ -41,5 +41,8 @@
     "dmcnvcnv",
     "reseq2i",
     "3eqtr3ri"
+  ],
+  "scopes": [
+    0
   ]
 }

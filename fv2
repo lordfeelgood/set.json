@@ -81,5 +81,9 @@
     "vx",
     "dfiota2",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    2465
   ]
 }

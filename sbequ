@@ -58,5 +58,8 @@
     "sbequi",
     "equcoms",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

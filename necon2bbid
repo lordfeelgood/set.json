@@ -41,5 +41,9 @@
     "df-ne",
     "syl6bb",
     "con2bid"
+  ],
+  "scopes": [
+    0,
+    1064
   ]
 }

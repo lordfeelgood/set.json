@@ -32,5 +32,8 @@
     "wta",
     "wta",
     "nic-swap"
+  ],
+  "scopes": [
+    0
   ]
 }

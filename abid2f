@@ -63,5 +63,9 @@
     "biid",
     "mpgbir",
     "eqcomi"
+  ],
+  "scopes": [
+    0,
+    1016
   ]
 }

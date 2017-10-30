@@ -46,5 +46,9 @@
     "vtoclg.1",
     "vtoclg.2",
     "vtoclgf"
+  ],
+  "scopes": [
+    0,
+    1263
   ]
 }

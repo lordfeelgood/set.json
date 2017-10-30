@@ -393,5 +393,9 @@
     "cH",
     "df-iso",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    2590
   ]
 }

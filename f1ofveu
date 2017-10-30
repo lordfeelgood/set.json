@@ -128,5 +128,9 @@
     "syl",
     "adantr",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2576
   ]
 }

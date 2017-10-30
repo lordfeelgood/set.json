@@ -29,5 +29,9 @@
     "notbii",
     "sylnbi.2",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    206
   ]
 }

@@ -136,5 +136,9 @@
     "oveq2",
     "eqeq2d",
     "rcla42ev"
+  ],
+  "scopes": [
+    0,
+    2620
   ]
 }

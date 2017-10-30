@@ -48,5 +48,8 @@
     "dblcompl",
     "uneq12i",
     "3eqtrri"
+  ],
+  "scopes": [
+    0
   ]
 }

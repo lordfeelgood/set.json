@@ -38,5 +38,9 @@
     "vx",
     "alnex",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    640
   ]
 }

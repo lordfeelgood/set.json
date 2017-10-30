@@ -60,5 +60,9 @@
     "df-clab",
     "bicomi",
     "vtoclbg"
+  ],
+  "scopes": [
+    0,
+    1367
   ]
 }

@@ -199,5 +199,10 @@
     "caovass",
     "eqtr3i",
     "3eqtr4i"
+  ],
+  "scopes": [
+    0,
+    2685,
+    2695
   ]
 }

@@ -175,5 +175,9 @@
     "adantlr",
     "rexlimdva",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    3056
   ]
 }

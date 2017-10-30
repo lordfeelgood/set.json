@@ -67,5 +67,9 @@
     "cncs",
     "addlec",
     "mpd3an3"
+  ],
+  "scopes": [
+    0,
+    3055
   ]
 }

@@ -48,5 +48,9 @@
     "cA",
     "ralnex",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    1146
   ]
 }

@@ -45,5 +45,8 @@
     "wph",
     "imim2",
     "imp"
+  ],
+  "scopes": [
+    0
   ]
 }

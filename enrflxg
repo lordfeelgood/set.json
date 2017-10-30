@@ -50,5 +50,8 @@
     "cvv",
     "f1oeng",
     "sylancl"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -26,5 +26,9 @@
     "rgen",
     "mprgbir.1",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    1114
   ]
 }

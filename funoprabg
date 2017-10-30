@@ -96,5 +96,9 @@
     "funopab",
     "bitr2i",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    2647
   ]
 }

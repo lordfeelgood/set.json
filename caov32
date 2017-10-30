@@ -164,5 +164,10 @@
     "caopr.ass",
     "caovass",
     "3eqtr4i"
+  ],
+  "scopes": [
+    0,
+    2685,
+    2695
   ]
 }

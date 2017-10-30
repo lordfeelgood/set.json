@@ -142,5 +142,8 @@
     "jca",
     "impbid1",
     "sylbi"
+  ],
+  "scopes": [
+    0
   ]
 }

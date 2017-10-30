@@ -60,5 +60,9 @@
     "sylibr",
     "simpl",
     "eleqtrd"
+  ],
+  "scopes": [
+    0,
+    2907
   ]
 }

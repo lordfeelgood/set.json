@@ -187,5 +187,9 @@
     "eladdci",
     "syl3anc",
     "syl5eqel"
+  ],
+  "scopes": [
+    0,
+    2020
   ]
 }

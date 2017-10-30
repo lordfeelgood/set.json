@@ -69,5 +69,8 @@
     "rexim",
     "syl",
     "imp"
+  ],
+  "scopes": [
+    0
   ]
 }

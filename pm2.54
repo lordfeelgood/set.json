@@ -34,5 +34,8 @@
     "wps",
     "df-or",
     "biimpri"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -51,5 +51,8 @@
     "syl5ib",
     "sylbi",
     "impbid2"
+  ],
+  "scopes": [
+    0
   ]
 }

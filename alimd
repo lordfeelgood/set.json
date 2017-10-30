@@ -45,5 +45,9 @@
     "alimd.2",
     "al2imi",
     "syl"
+  ],
+  "scopes": [
+    0,
+    627
   ]
 }

@@ -32,5 +32,8 @@
     "cA",
     "df-fn",
     "simprbi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -29,5 +29,9 @@
     "anabsi8.1",
     "anabsi5",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    414
   ]
 }

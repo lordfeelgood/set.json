@@ -25,5 +25,9 @@
     "cvv",
     "sikexg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1868
   ]
 }

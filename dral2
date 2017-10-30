@@ -44,5 +44,9 @@
     "hbae",
     "dral2.1",
     "albid"
+  ],
+  "scopes": [
+    0,
+    712
   ]
 }

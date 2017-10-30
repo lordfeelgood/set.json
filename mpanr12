@@ -31,5 +31,9 @@
     "mpanr12.3",
     "mpanr1",
     "mpan2"
+  ],
+  "scopes": [
+    0,
+    380
   ]
 }

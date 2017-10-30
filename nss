@@ -64,5 +64,9 @@
     "vx",
     "exanali",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    1603
   ]
 }

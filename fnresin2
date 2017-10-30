@@ -49,5 +49,8 @@
     "cF",
     "fnssres",
     "mpan2"
+  ],
+  "scopes": [
+    0
   ]
 }

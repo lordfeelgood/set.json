@@ -124,5 +124,9 @@
     "iffalse",
     "eqtr4d",
     "pm2.61i"
+  ],
+  "scopes": [
+    0,
+    1883
   ]
 }

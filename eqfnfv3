@@ -145,5 +145,9 @@
     "anbi2i",
     "3bitri",
     "syl6bb"
+  ],
+  "scopes": [
+    0,
+    2520
   ]
 }

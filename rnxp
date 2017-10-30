@@ -47,5 +47,8 @@
     "cA",
     "dmxp",
     "syl5eq"
+  ],
+  "scopes": [
+    0
   ]
 }

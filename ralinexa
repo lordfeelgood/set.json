@@ -62,5 +62,8 @@
     "cA",
     "ralnex",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

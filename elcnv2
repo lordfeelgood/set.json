@@ -98,5 +98,9 @@
     "anbi2i",
     "2exbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2295
   ]
 }

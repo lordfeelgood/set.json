@@ -29,5 +29,8 @@
     "wph",
     "iman",
     "mpbi"
+  ],
+  "scopes": [
+    0
   ]
 }

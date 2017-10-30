@@ -39,5 +39,9 @@
     "eqbrtrd.1",
     "breq1d",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2100
   ]
 }

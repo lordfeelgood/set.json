@@ -233,5 +233,9 @@
     "uni1ex",
     "inex",
     "eqeltrri"
+  ],
+  "scopes": [
+    0,
+    2950
   ]
 }

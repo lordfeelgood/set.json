@@ -37,5 +37,9 @@
     "expimpd.1",
     "ex",
     "imp3a"
+  ],
+  "scopes": [
+    0,
+    313
   ]
 }

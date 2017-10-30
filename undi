@@ -78,5 +78,9 @@
     "bitr2i",
     "3bitrri",
     "uneqri"
+  ],
+  "scopes": [
+    0,
+    1485
   ]
 }

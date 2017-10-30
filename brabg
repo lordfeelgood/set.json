@@ -93,5 +93,10 @@
     "sylan9bb",
     "brabg.5",
     "brabga"
+  ],
+  "scopes": [
+    0,
+    2142,
+    2143
   ]
 }

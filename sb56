@@ -59,5 +59,9 @@
     "com12",
     "impbid",
     "equsex"
+  ],
+  "scopes": [
+    0,
+    763
   ]
 }

@@ -32,5 +32,9 @@
     "impbid1.2",
     "a1i",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    122
   ]
 }

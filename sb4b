@@ -60,5 +60,8 @@
     "vy",
     "sb2",
     "impbid1"
+  ],
+  "scopes": [
+    0
   ]
 }

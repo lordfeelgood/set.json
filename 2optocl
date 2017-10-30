@@ -210,5 +210,9 @@
     "com12",
     "optocl",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    2255
   ]
 }

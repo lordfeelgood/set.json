@@ -41,5 +41,9 @@
     "nic-iimp1",
     "nic-isw2",
     "nic-idel"
+  ],
+  "scopes": [
+    0,
+    604
   ]
 }

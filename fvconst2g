@@ -61,5 +61,8 @@
     "cC",
     "fvconst",
     "sylan"
+  ],
+  "scopes": [
+    0
   ]
 }

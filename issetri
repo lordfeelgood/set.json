@@ -32,5 +32,9 @@
     "cA",
     "isset",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    1225
   ]
 }

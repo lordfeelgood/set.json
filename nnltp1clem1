@@ -148,5 +148,9 @@
     "coex",
     "fixex",
     "eqeltrri"
+  ],
+  "scopes": [
+    0,
+    3089
   ]
 }

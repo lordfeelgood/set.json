@@ -46,5 +46,9 @@
     "cla4v.2",
     "cla4egv",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1284
   ]
 }

@@ -94,5 +94,9 @@
     "uniabio",
     "syl",
     "syl5eq"
+  ],
+  "scopes": [
+    0,
+    1908
   ]
 }

@@ -37,5 +37,9 @@
     "syl2an.3",
     "sylan",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    276
   ]
 }

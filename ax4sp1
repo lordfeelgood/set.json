@@ -32,5 +32,8 @@
     "vy",
     "equidqe",
     "pm2.21i"
+  ],
+  "scopes": [
+    0
   ]
 }

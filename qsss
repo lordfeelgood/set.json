@@ -53,5 +53,9 @@
     "cA",
     "sspwuni",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2899
   ]
 }

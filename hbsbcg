@@ -82,5 +82,9 @@
     "hbsbc.2",
     "hbsb",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1359
   ]
 }

@@ -160,5 +160,9 @@
     "syl2anc",
     "mpd",
     "mp2and"
+  ],
+  "scopes": [
+    0,
+    2859
   ]
 }

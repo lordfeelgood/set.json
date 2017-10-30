@@ -130,5 +130,9 @@
     "expcom",
     "vtoclga",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    2551
   ]
 }

@@ -121,5 +121,9 @@
     "fvopab4g.2",
     "fvopab3ig",
     "mpi"
+  ],
+  "scopes": [
+    0,
+    2505
   ]
 }

@@ -198,5 +198,9 @@
     "df-clel",
     "syl6bbr",
     "syl"
+  ],
+  "scopes": [
+    0,
+    1408
   ]
 }

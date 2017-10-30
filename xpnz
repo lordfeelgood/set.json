@@ -106,5 +106,9 @@
     "necon3i",
     "jca",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2369
   ]
 }

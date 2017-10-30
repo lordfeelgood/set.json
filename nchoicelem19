@@ -351,5 +351,9 @@
     "imdistand",
     "reximdva",
     "mpd"
+  ],
+  "scopes": [
+    0,
+    3125
   ]
 }

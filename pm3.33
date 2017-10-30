@@ -45,5 +45,8 @@
     "wch",
     "imim1",
     "imp"
+  ],
+  "scopes": [
+    0
   ]
 }

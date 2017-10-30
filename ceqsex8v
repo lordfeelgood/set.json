@@ -752,5 +752,9 @@
     "ceqsex8v.16",
     "ceqsex4v",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    1252
   ]
 }

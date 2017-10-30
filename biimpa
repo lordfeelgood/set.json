@@ -29,5 +29,9 @@
     "biimpa.1",
     "biimpd",
     "imp"
+  ],
+  "scopes": [
+    0,
+    282
   ]
 }

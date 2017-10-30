@@ -137,5 +137,9 @@
     "hbimd",
     "hbabd",
     "hbxfrd"
+  ],
+  "scopes": [
+    0,
+    1705
   ]
 }

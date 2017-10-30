@@ -53,5 +53,9 @@
     "cbvral.2",
     "cbvral.3",
     "cbvralf"
+  ],
+  "scopes": [
+    0,
+    1206
   ]
 }

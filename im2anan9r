@@ -55,5 +55,9 @@
     "im2an9.2",
     "im2anan9",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    423
   ]
 }

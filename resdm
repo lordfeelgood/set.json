@@ -34,5 +34,8 @@
     "cA",
     "relssres",
     "mpan2"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -101,5 +101,9 @@
     "albidv",
     "cbvexv",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    865
   ]
 }

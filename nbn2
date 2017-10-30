@@ -37,5 +37,8 @@
     "wps",
     "notbi",
     "syl6bbr"
+  ],
+  "scopes": [
+    0
   ]
 }

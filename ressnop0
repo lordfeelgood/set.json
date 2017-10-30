@@ -70,5 +70,8 @@
     "biimpri",
     "syl5eq",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -80,5 +80,9 @@
     "dfrn2",
     "eqeq1i",
     "3bitr4i"
+  ],
+  "scopes": [
+    0,
+    2314
   ]
 }

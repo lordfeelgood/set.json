@@ -115,5 +115,9 @@
     "oveq12d",
     "eleqtrrd",
     "pm2.61i"
+  ],
+  "scopes": [
+    0,
+    2636
   ]
 }

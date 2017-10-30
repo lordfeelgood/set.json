@@ -33,5 +33,9 @@
     "mpan9.2",
     "syl5",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    268
   ]
 }

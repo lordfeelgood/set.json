@@ -64,5 +64,9 @@
     "biimprd",
     "cbv3",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    722
   ]
 }

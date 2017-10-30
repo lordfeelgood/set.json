@@ -52,5 +52,9 @@
     "jaao.2",
     "adantl",
     "jaod"
+  ],
+  "scopes": [
+    0,
+    286
   ]
 }

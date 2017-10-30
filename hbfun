@@ -71,5 +71,9 @@
     "hbss",
     "hban",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    2407
   ]
 }

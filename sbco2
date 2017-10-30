@@ -95,5 +95,9 @@
     "sbied",
     "bicomd",
     "pm2.61i"
+  ],
+  "scopes": [
+    0,
+    758
   ]
 }

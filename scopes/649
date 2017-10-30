@@ -1,0 +1,13 @@
+[
+  {
+    "activevariables": [
+      "A",
+      "B"
+    ],
+    "disjvars": [],
+    "floatinghyp": {
+      "A": "wcel.cA",
+      "B": "wcel.cB"
+    }
+  }
+]

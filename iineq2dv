@@ -43,5 +43,9 @@
     "ax-17",
     "iuneq2dv.1",
     "iineq2d"
+  ],
+  "scopes": [
+    0,
+    2192
   ]
 }

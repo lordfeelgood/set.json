@@ -31,5 +31,9 @@
     "sseqtr4d.2",
     "eqcomd",
     "sseqtrd"
+  ],
+  "scopes": [
+    0,
+    1589
   ]
 }

@@ -115,5 +115,9 @@
     "vx",
     "sb3an",
     "vtoclbg"
+  ],
+  "scopes": [
+    0,
+    1389
   ]
 }

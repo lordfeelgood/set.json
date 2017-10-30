@@ -33,5 +33,9 @@
     "df-ral",
     "rgen.1",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    1110
   ]
 }

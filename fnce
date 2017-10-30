@@ -79,5 +79,9 @@
     "fneq2i",
     "bitri",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    3029
   ]
 }

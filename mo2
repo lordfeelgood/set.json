@@ -85,5 +85,9 @@
     "simplbi2com",
     "impbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    884
   ]
 }

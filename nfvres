@@ -66,5 +66,8 @@
     "cA",
     "ndmfv",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

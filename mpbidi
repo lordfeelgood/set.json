@@ -33,5 +33,9 @@
     "mpbidi.maj",
     "biimpd",
     "sylcom"
+  ],
+  "scopes": [
+    0,
+    135
   ]
 }

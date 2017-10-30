@@ -68,5 +68,9 @@
     "2ralbidv.1",
     "ralbidv",
     "ralbidv"
+  ],
+  "scopes": [
+    0,
+    1101
   ]
 }

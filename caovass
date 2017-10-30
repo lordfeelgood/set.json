@@ -166,5 +166,10 @@
     "caovassg",
     "mpan",
     "mp3an"
+  ],
+  "scopes": [
+    0,
+    2685,
+    2689
   ]
 }

@@ -30,5 +30,9 @@
     "3anidm12.1",
     "3expib",
     "anabsi5"
+  ],
+  "scopes": [
+    0,
+    555
   ]
 }

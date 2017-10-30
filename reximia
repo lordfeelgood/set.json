@@ -46,5 +46,9 @@
     "rexim",
     "reximia.1",
     "mprg"
+  ],
+  "scopes": [
+    0,
+    1147
   ]
 }

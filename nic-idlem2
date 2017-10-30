@@ -69,5 +69,9 @@
     "nic-imp",
     "nic-imp",
     "nic-mp"
+  ],
+  "scopes": [
+    0,
+    596
   ]
 }

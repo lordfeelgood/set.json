@@ -28,5 +28,9 @@
     "eqtr3i",
     "3eqtr3i.3",
     "eqtr3i"
+  ],
+  "scopes": [
+    0,
+    945
   ]
 }

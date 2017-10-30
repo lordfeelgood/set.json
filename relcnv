@@ -20,5 +20,9 @@
     "cA",
     "df-cnv",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2359
   ]
 }

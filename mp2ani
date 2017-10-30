@@ -31,5 +31,9 @@
     "mp2ani.3",
     "mpani",
     "mpi"
+  ],
+  "scopes": [
+    0,
+    373
   ]
 }

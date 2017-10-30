@@ -48,5 +48,9 @@
     "wta",
     "impexp",
     "syl6ib"
+  ],
+  "scopes": [
+    0,
+    316
   ]
 }

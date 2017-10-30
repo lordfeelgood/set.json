@@ -115,5 +115,9 @@
     "imaex",
     "difex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2802
   ]
 }

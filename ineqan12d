@@ -59,5 +59,10 @@
     "ineqan12d.2",
     "ineq2d",
     "sylan9eq"
+  ],
+  "scopes": [
+    0,
+    1471,
+    1472
   ]
 }

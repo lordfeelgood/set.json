@@ -151,5 +151,9 @@
     "jcai",
     "impbida",
     "f1od"
+  ],
+  "scopes": [
+    0,
+    2759
   ]
 }

@@ -70,5 +70,9 @@
     "ifeq2da.1",
     "ifeq2d",
     "pm2.61dan"
+  ],
+  "scopes": [
+    0,
+    1707
   ]
 }

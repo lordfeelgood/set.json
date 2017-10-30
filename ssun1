@@ -33,5 +33,9 @@
     "elun",
     "sylibr",
     "ssriv"
+  ],
+  "scopes": [
+    0,
+    1624
   ]
 }

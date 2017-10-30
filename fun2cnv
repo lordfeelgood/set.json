@@ -66,5 +66,9 @@
     "mobii",
     "albii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2422
   ]
 }

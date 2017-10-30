@@ -198,5 +198,9 @@
     "mp2an",
     "sylibr",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    3067
   ]
 }

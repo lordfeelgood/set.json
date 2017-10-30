@@ -222,5 +222,9 @@
     "syl6bb",
     "reu4",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    3017
   ]
 }

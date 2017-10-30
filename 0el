@@ -64,5 +64,9 @@
     "eq0",
     "rexbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1496
   ]
 }

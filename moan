@@ -32,5 +32,8 @@
     "wph",
     "simpr",
     "immoi"
+  ],
+  "scopes": [
+    0
   ]
 }

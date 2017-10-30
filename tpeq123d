@@ -75,5 +75,9 @@
     "tpeq123d.3",
     "tpeq3d",
     "3eqtrd"
+  ],
+  "scopes": [
+    0,
+    1529
   ]
 }

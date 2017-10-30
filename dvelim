@@ -46,5 +46,9 @@
     "ax-17",
     "dvelim.2",
     "dvelimf"
+  ],
+  "scopes": [
+    0,
+    845
   ]
 }

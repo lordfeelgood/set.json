@@ -62,5 +62,8 @@
     "vy",
     "sbbi",
     "sylib"
+  ],
+  "scopes": [
+    0
   ]
 }

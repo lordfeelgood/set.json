@@ -55,5 +55,8 @@
     "wch",
     "nan",
     "bitr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

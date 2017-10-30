@@ -117,5 +117,8 @@
     "syl6bb",
     "bitr3d",
     "syl2an"
+  ],
+  "scopes": [
+    0
   ]
 }

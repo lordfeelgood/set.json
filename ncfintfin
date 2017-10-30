@@ -75,5 +75,9 @@
     "simprd",
     "nnceleq",
     "syl22anc"
+  ],
+  "scopes": [
+    0,
+    1999
   ]
 }

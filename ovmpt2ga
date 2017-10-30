@@ -130,5 +130,9 @@
     "df-mpt2",
     "eqtri",
     "ov2ag"
+  ],
+  "scopes": [
+    0,
+    2749
   ]
 }

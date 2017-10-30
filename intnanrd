@@ -31,5 +31,9 @@
     "wch",
     "simpl",
     "nsyl"
+  ],
+  "scopes": [
+    0,
+    435
   ]
 }

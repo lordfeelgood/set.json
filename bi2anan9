@@ -60,5 +60,9 @@
     "bi2an9.2",
     "anbi2d",
     "sylan9bb"
+  ],
+  "scopes": [
+    0,
+    428
   ]
 }

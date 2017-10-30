@@ -92,5 +92,9 @@
     "ssintub",
     "a1i",
     "eqssd"
+  ],
+  "scopes": [
+    0,
+    1682
   ]
 }

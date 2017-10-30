@@ -37,5 +37,9 @@
     "bitr4d",
     "3bitr2d.3",
     "bitr2d"
+  ],
+  "scopes": [
+    0,
+    188
   ]
 }

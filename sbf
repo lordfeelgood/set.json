@@ -59,5 +59,9 @@
     "stdpc4",
     "syl",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    728
   ]
 }

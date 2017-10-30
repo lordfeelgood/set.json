@@ -20,5 +20,9 @@
     "wps",
     "simpl",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    258
   ]
 }

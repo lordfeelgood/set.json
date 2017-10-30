@@ -44,5 +44,9 @@
     "syl2ani.3",
     "sylan2i",
     "sylani"
+  ],
+  "scopes": [
+    0,
+    351
   ]
 }

@@ -56,5 +56,9 @@
     "sylbi",
     "com12",
     "ssrdv"
+  ],
+  "scopes": [
+    0,
+    2212
   ]
 }

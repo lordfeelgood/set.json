@@ -88,5 +88,9 @@
     "mpan",
     "orbi2d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    3062
   ]
 }

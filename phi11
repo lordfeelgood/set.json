@@ -45,5 +45,8 @@
     "eqcoms",
     "eqssd",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

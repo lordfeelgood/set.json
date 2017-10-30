@@ -93,5 +93,9 @@
     "sbc2ie.3",
     "sbc2iegf",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    1400
   ]
 }

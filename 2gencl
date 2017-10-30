@@ -134,5 +134,9 @@
     "com12",
     "gencl",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    1240
   ]
 }

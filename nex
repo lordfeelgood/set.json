@@ -26,5 +26,9 @@
     "alnex",
     "nex.1",
     "mpgbi"
+  ],
+  "scopes": [
+    0,
+    639
   ]
 }

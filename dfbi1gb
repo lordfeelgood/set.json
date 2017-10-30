@@ -85,5 +85,8 @@
     "ax-mp",
     "ax-mp",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

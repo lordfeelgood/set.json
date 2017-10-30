@@ -13,5 +13,9 @@
   ],
   "proofSteps": [
     "dummylink.1"
+  ],
+  "scopes": [
+    0,
+    1
   ]
 }

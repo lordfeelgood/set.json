@@ -118,5 +118,9 @@
     "ssrelk",
     "ax-mp",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    1853
   ]
 }

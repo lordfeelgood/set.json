@@ -96,5 +96,9 @@
     "a4imv",
     "3syl",
     "alrimi"
+  ],
+  "scopes": [
+    0,
+    737
   ]
 }

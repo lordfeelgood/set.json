@@ -32,5 +32,9 @@
     "biimpi",
     "syl5bi.2",
     "syl5"
+  ],
+  "scopes": [
+    0,
+    136
   ]
 }

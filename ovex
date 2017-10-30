@@ -34,5 +34,8 @@
     "cF",
     "fvex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

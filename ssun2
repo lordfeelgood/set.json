@@ -30,5 +30,8 @@
     "cB",
     "uncom",
     "sseqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -54,5 +54,9 @@
     "hbim",
     "hbal",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    1103
   ]
 }

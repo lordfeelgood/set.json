@@ -476,5 +476,9 @@
     "vtoclga",
     "com3l",
     "3imp"
+  ],
+  "scopes": [
+    0,
+    2019
   ]
 }

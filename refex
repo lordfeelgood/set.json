@@ -217,5 +217,9 @@
     "complex",
     "inex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2850
   ]
 }

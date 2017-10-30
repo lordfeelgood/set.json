@@ -87,5 +87,9 @@
     "syl5bi",
     "sylbird",
     "mpd"
+  ],
+  "scopes": [
+    0,
+    2878
   ]
 }

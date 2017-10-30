@@ -73,5 +73,8 @@
     "imim2i",
     "a4s",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

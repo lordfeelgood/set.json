@@ -70,5 +70,9 @@
     "bitri",
     "eqrelriv",
     "mpan"
+  ],
+  "scopes": [
+    0,
+    2386
   ]
 }

@@ -56,5 +56,8 @@
     "alcom",
     "albii",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

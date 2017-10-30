@@ -49,5 +49,9 @@
     "cA",
     "opabresid",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    2756
   ]
 }

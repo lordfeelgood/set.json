@@ -48,5 +48,9 @@
     "ss2rab",
     "ss2rabi.1",
     "mprgbir"
+  ],
+  "scopes": [
+    0,
+    1615
   ]
 }

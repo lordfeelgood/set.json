@@ -91,5 +91,9 @@
     "cB",
     "df-xp",
     "sseqtr4i"
+  ],
+  "scopes": [
+    0,
+    2253
   ]
 }

@@ -72,5 +72,8 @@
     "opelxp",
     "syl6ib",
     "imp"
+  ],
+  "scopes": [
+    0
   ]
 }

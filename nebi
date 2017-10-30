@@ -59,5 +59,8 @@
     "id",
     "necon4bid",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

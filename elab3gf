@@ -81,5 +81,9 @@
     "elab3gf.3",
     "elabgf",
     "ja"
+  ],
+  "scopes": [
+    0,
+    1314
   ]
 }

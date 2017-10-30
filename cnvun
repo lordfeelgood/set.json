@@ -58,5 +58,9 @@
     "uneq12i",
     "df-cnv",
     "3eqtr4ri"
+  ],
+  "scopes": [
+    0,
+    2365
   ]
 }

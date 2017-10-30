@@ -42,5 +42,9 @@
     "brssetsn.1",
     "snss",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    2180
   ]
 }

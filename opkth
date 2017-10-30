@@ -73,5 +73,9 @@
     "cvv",
     "opkthg",
     "mp3an"
+  ],
+  "scopes": [
+    0,
+    1774
   ]
 }

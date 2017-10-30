@@ -25,5 +25,9 @@
     "cvv",
     "ncelncs",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2988
   ]
 }

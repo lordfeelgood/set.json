@@ -378,5 +378,9 @@
     "bitri",
     "abbi2i",
     "eqtr4i"
+  ],
+  "scopes": [
+    0,
+    2171
   ]
 }

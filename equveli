@@ -188,5 +188,8 @@
     "adantrd",
     "pm2.61i",
     "sylbi"
+  ],
+  "scopes": [
+    0
   ]
 }

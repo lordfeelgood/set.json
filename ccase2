@@ -54,5 +54,9 @@
     "ccase2.3",
     "adantl",
     "ccase"
+  ],
+  "scopes": [
+    0,
+    451
   ]
 }

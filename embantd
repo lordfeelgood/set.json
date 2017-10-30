@@ -40,5 +40,9 @@
     "embantd.2",
     "imim2d",
     "mpid"
+  ],
+  "scopes": [
+    0,
+    38
   ]
 }

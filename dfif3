@@ -125,5 +125,9 @@
     "eqtr4i",
     "uneq12i",
     "eqtr4i"
+  ],
+  "scopes": [
+    0,
+    1697
   ]
 }

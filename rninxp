@@ -117,5 +117,9 @@
     "bitr3i",
     "ralbii",
     "3bitr3i"
+  ],
+  "scopes": [
+    0,
+    2371
   ]
 }

@@ -24,5 +24,8 @@
     "wph",
     "oridm",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

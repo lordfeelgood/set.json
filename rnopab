@@ -74,5 +74,9 @@
     "exbii",
     "abbii",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    2337
   ]
 }

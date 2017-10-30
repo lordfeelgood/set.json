@@ -56,5 +56,8 @@
     "iffalse",
     "syl",
     "orri"
+  ],
+  "scopes": [
+    0
   ]
 }

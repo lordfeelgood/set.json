@@ -108,5 +108,8 @@
     "elsng",
     "adantr",
     "mpbid"
+  ],
+  "scopes": [
+    0
   ]
 }

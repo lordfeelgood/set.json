@@ -52,5 +52,9 @@
     "anim12ii.2",
     "adantl",
     "jcad"
+  ],
+  "scopes": [
+    0,
+    309
   ]
 }

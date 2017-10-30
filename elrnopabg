@@ -212,5 +212,9 @@
     "sylan9bbr",
     "mpdan",
     "syl"
+  ],
+  "scopes": [
+    0,
+    2524
   ]
 }

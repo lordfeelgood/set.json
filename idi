@@ -11,5 +11,9 @@
   ],
   "proofSteps": [
     "idi.1"
+  ],
+  "scopes": [
+    0,
+    2
   ]
 }

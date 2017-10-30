@@ -53,5 +53,9 @@
     "nic-idbl.1",
     "nic-imp",
     "nic-ich"
+  ],
+  "scopes": [
+    0,
+    603
   ]
 }

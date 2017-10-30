@@ -51,5 +51,9 @@
     "ncid",
     "nceleq",
     "mp4an"
+  ],
+  "scopes": [
+    0,
+    3069
   ]
 }

@@ -85,5 +85,8 @@
     "imbi2d",
     "syl5bb",
     "bitr3d"
+  ],
+  "scopes": [
+    0
   ]
 }

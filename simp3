@@ -32,5 +32,8 @@
     "wch",
     "3simpc",
     "simprd"
+  ],
+  "scopes": [
+    0
   ]
 }

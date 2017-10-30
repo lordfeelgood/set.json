@@ -68,5 +68,8 @@
     "luk-1",
     "ax-mp",
     "luklem1"
+  ],
+  "scopes": [
+    0
   ]
 }

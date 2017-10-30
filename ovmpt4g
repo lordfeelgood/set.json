@@ -98,5 +98,9 @@
     "df-mpt2",
     "eqtri",
     "ov4g"
+  ],
+  "scopes": [
+    0,
+    2747
   ]
 }

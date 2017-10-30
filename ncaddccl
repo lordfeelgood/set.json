@@ -144,5 +144,9 @@
     "exlimivv",
     "sylbir",
     "syl2anb"
+  ],
+  "scopes": [
+    0,
+    3007
   ]
 }

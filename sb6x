@@ -56,5 +56,9 @@
     "biidd",
     "equsal",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    729
   ]
 }

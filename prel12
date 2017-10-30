@@ -161,5 +161,9 @@
     "syl5bi",
     "imp3a",
     "impbid2"
+  ],
+  "scopes": [
+    0,
+    1772
   ]
 }

@@ -52,5 +52,8 @@
     "vx",
     "alnex",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

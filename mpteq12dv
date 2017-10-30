@@ -76,5 +76,9 @@
     "cD",
     "mpteq12f",
     "syl2anc"
+  ],
+  "scopes": [
+    0,
+    2703
   ]
 }

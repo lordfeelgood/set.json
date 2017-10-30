@@ -24,5 +24,9 @@
     "sseqtr4.2",
     "eqcomi",
     "sseqtri"
+  ],
+  "scopes": [
+    0,
+    1585
   ]
 }

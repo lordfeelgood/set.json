@@ -64,5 +64,8 @@
     "olc",
     "imim2i",
     "jaao"
+  ],
+  "scopes": [
+    0
   ]
 }

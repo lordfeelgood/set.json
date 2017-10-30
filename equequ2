@@ -47,5 +47,8 @@
     "equtrr",
     "equcoms",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

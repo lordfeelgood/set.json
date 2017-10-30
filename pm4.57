@@ -38,5 +38,8 @@
     "wps",
     "oran",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -29,5 +29,9 @@
     "dedex.1",
     "dedex.2",
     "keepel"
+  ],
+  "scopes": [
+    0,
+    1729
   ]
 }

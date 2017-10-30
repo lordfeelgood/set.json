@@ -82,5 +82,9 @@
     "imbi12d",
     "cbval",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    1682
   ]
 }

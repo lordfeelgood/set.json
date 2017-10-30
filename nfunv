@@ -92,5 +92,9 @@
     "cvv",
     "dffun2",
     "mtbir"
+  ],
+  "scopes": [
+    0,
+    2410
   ]
 }

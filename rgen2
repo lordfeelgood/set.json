@@ -47,5 +47,9 @@
     "rgen2.1",
     "ralrimiva",
     "rgen"
+  ],
+  "scopes": [
+    0,
+    1139
   ]
 }

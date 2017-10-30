@@ -99,5 +99,9 @@
     "eqrel",
     "adantr",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2269
   ]
 }

@@ -42,5 +42,8 @@
     "cvv",
     "dblcompl",
     "3eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -56,5 +56,9 @@
     "con3i",
     "alrimi",
     "syl"
+  ],
+  "scopes": [
+    0,
+    655
   ]
 }

@@ -33,5 +33,8 @@
     "wps",
     "simplim",
     "a1d"
+  ],
+  "scopes": [
+    0
   ]
 }

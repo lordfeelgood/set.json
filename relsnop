@@ -49,5 +49,9 @@
     "opex",
     "relsn",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    2272
   ]
 }

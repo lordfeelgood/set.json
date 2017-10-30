@@ -227,5 +227,10 @@
     "caovord.3",
     "vtocl2",
     "vtoclga"
+  ],
+  "scopes": [
+    0,
+    2685,
+    2691
   ]
 }

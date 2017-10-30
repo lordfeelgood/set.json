@@ -61,5 +61,8 @@
     "elmapg",
     "syl3anc",
     "ibi"
+  ],
+  "scopes": [
+    0
   ]
 }

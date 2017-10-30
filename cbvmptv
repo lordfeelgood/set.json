@@ -61,5 +61,9 @@
     "ax-17",
     "cbvmptv.1",
     "cbvmpt"
+  ],
+  "scopes": [
+    0,
+    2724
   ]
 }

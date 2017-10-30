@@ -30,5 +30,9 @@
     "eqcomi",
     "syl5reqr.2",
     "syl5req"
+  ],
+  "scopes": [
+    0,
+    958
   ]
 }

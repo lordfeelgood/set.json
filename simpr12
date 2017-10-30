@@ -50,5 +50,8 @@
     "wta",
     "simp12",
     "adantl"
+  ],
+  "scopes": [
+    0
   ]
 }

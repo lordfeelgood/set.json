@@ -44,5 +44,9 @@
     "iuneq2",
     "iuneq2i.1",
     "mprg"
+  ],
+  "scopes": [
+    0,
+    2190
   ]
 }

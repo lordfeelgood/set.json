@@ -44,5 +44,8 @@
     "incom",
     "eqeq1i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

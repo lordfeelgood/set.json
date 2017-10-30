@@ -83,5 +83,9 @@
     "hba1",
     "hbral",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    1105
   ]
 }

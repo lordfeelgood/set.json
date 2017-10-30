@@ -140,5 +140,9 @@
     "3bitri",
     "abbi2i",
     "3eqtr4ri"
+  ],
+  "scopes": [
+    0,
+    2206
   ]
 }

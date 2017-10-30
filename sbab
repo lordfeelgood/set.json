@@ -61,5 +61,9 @@
     "vy",
     "sbequ12",
     "abbi2dv"
+  ],
+  "scopes": [
+    0,
+    1019
   ]
 }

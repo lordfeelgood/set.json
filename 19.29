@@ -56,5 +56,8 @@
     "exim",
     "syl",
     "imp"
+  ],
+  "scopes": [
+    0
   ]
 }

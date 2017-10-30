@@ -48,5 +48,8 @@
     "wps",
     "jaob",
     "bitr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

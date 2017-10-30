@@ -323,5 +323,9 @@
     "eqeq2d",
     "ceqsexv",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    3094
   ]
 }

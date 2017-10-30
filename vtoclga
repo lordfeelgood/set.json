@@ -50,5 +50,9 @@
     "vtoclga.1",
     "vtoclga.2",
     "vtoclgaf"
+  ],
+  "scopes": [
+    0,
+    1269
   ]
 }

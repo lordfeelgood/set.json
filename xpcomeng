@@ -80,5 +80,9 @@
     "vex",
     "xpcomen",
     "vtocl2g"
+  ],
+  "scopes": [
+    0,
+    2944
   ]
 }

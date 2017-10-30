@@ -39,5 +39,9 @@
     "dedth2v.3",
     "dedth2h",
     "anidms"
+  ],
+  "scopes": [
+    0,
+    1716
   ]
 }

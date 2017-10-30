@@ -44,5 +44,9 @@
     "necon2bi",
     "pm2.21d",
     "ralrimiv"
+  ],
+  "scopes": [
+    0,
+    1516
   ]
 }

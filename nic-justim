@@ -47,5 +47,8 @@
     "wps",
     "anidmdbi",
     "bitr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

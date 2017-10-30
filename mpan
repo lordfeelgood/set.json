@@ -26,5 +26,9 @@
     "a1i",
     "mpan.2",
     "mpancom"
+  ],
+  "scopes": [
+    0,
+    365
   ]
 }

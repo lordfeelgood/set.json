@@ -23,5 +23,9 @@
     "ax-gen",
     "mpgbi.1",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    621
   ]
 }

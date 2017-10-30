@@ -70,5 +70,8 @@
     "imnan",
     "anbi12i",
     "3bitrri"
+  ],
+  "scopes": [
+    0
   ]
 }

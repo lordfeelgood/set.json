@@ -39,5 +39,8 @@
     "wph",
     "con2",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

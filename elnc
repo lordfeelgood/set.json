@@ -80,5 +80,8 @@
     "ersymb",
     "syl5bb",
     "pm5.21nii"
+  ],
+  "scopes": [
+    0
   ]
 }

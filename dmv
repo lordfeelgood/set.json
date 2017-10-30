@@ -30,5 +30,9 @@
     "ax-mp",
     "eqsstr3i",
     "eqssi"
+  ],
+  "scopes": [
+    0,
+    2313
   ]
 }

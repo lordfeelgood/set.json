@@ -54,5 +54,9 @@
     "dfsbcq",
     "syl5ib",
     "vtocleg"
+  ],
+  "scopes": [
+    0,
+    1353
   ]
 }

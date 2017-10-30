@@ -39,5 +39,8 @@
     "wch",
     "id",
     "imbi1d"
+  ],
+  "scopes": [
+    0
   ]
 }

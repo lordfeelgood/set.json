@@ -57,5 +57,9 @@
     "iotanul",
     "syl",
     "syl5eq"
+  ],
+  "scopes": [
+    0,
+    2466
   ]
 }

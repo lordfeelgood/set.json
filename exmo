@@ -35,5 +35,8 @@
     "df-mo",
     "sylibr",
     "orri"
+  ],
+  "scopes": [
+    0
   ]
 }

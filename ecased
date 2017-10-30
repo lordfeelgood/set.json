@@ -40,5 +40,9 @@
     "ecased.3",
     "syl5",
     "ecase3d"
+  ],
+  "scopes": [
+    0,
+    447
   ]
 }

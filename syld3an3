@@ -44,5 +44,9 @@
     "syld3an3.1",
     "syld3an3.2",
     "syl3anc"
+  ],
+  "scopes": [
+    0,
+    543
   ]
 }

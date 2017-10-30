@@ -32,5 +32,9 @@
     "jca",
     "sylanbrc.3",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    359
   ]
 }

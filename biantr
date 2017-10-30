@@ -46,5 +46,8 @@
     "id",
     "bibi2d",
     "biimparc"
+  ],
+  "scopes": [
+    0
   ]
 }

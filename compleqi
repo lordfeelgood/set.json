@@ -28,5 +28,9 @@
     "cB",
     "compleq",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1468
   ]
 }

@@ -25,5 +25,9 @@
     "simprd.1",
     "ancomd",
     "simpld"
+  ],
+  "scopes": [
+    0,
+    262
   ]
 }

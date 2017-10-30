@@ -39,5 +39,9 @@
     "ralbiia.1",
     "pm5.74i",
     "ralbii2"
+  ],
+  "scopes": [
+    0,
+    1096
   ]
 }

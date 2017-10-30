@@ -110,5 +110,8 @@
     "sbco2d",
     "syl5rbbr",
     "pm2.61i"
+  ],
+  "scopes": [
+    0
   ]
 }

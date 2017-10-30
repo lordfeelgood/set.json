@@ -43,5 +43,8 @@
     "con1i",
     "alimi",
     "3syl"
+  ],
+  "scopes": [
+    0
   ]
 }

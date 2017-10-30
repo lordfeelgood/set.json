@@ -28,5 +28,9 @@
     "bianfi",
     "bicomi",
     "ineqri"
+  ],
+  "scopes": [
+    0,
+    1499
   ]
 }

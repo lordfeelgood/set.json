@@ -66,5 +66,8 @@
     "elcomplg",
     "pm5.32i",
     "3bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

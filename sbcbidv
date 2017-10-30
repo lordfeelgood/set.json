@@ -47,5 +47,9 @@
     "ax-17",
     "sbcbidv.1",
     "sbcbid"
+  ],
+  "scopes": [
+    0,
+    1386
   ]
 }

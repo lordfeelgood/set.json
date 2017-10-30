@@ -64,5 +64,8 @@
     "cC",
     "eleq1",
     "elimif"
+  ],
+  "scopes": [
+    0
   ]
 }

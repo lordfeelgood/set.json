@@ -82,5 +82,9 @@
     "cA",
     "unissb",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    1665
   ]
 }

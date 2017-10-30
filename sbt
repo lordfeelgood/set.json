@@ -32,5 +32,9 @@
     "hbth",
     "sbf",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    731
   ]
 }

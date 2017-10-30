@@ -75,5 +75,10 @@
     "ndmov",
     "sylnbi",
     "eqtr4d"
+  ],
+  "scopes": [
+    0,
+    2676,
+    2678
   ]
 }

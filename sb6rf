@@ -69,5 +69,9 @@
     "sbid2",
     "sylib",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    760
   ]
 }

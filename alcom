@@ -42,5 +42,8 @@
     "vx",
     "ax-7",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

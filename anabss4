@@ -29,5 +29,9 @@
     "anabss4.1",
     "anabss1",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    409
   ]
 }

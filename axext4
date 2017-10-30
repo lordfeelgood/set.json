@@ -59,5 +59,9 @@
     "vz",
     "axext3",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    913
   ]
 }

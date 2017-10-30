@@ -41,5 +41,9 @@
     "sbf",
     "hbs1f.1",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    730
   ]
 }

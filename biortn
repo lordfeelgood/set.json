@@ -36,5 +36,8 @@
     "wps",
     "biorf",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

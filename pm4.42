@@ -47,5 +47,8 @@
     "wph",
     "dedlemb",
     "pm2.61i"
+  ],
+  "scopes": [
+    0
   ]
 }

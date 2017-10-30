@@ -65,5 +65,8 @@
     "cvv",
     "opexg",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

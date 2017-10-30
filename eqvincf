@@ -94,5 +94,9 @@
     "anbi12d",
     "cbvex",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1294
   ]
 }

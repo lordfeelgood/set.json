@@ -51,5 +51,9 @@
     "fnopab.2",
     "fnopabg",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    2438
   ]
 }

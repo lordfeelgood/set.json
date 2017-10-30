@@ -58,5 +58,8 @@
     "syl5ib",
     "syl",
     "impcom"
+  ],
+  "scopes": [
+    0
   ]
 }

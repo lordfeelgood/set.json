@@ -52,5 +52,8 @@
     "ibar",
     "imbi2d",
     "pm5.74i"
+  ],
+  "scopes": [
+    0
   ]
 }

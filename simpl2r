@@ -45,5 +45,8 @@
     "wth",
     "simp2r",
     "adantr"
+  ],
+  "scopes": [
+    0
   ]
 }

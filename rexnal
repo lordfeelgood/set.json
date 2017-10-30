@@ -58,5 +58,8 @@
     "df-ral",
     "xchbinxr",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

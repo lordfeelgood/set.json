@@ -43,5 +43,9 @@
     "df-mpt",
     "funeqi",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    2732
   ]
 }

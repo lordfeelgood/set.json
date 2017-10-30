@@ -52,5 +52,9 @@
     "reseqd.2",
     "reseq2d",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    2318
   ]
 }

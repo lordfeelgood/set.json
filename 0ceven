@@ -87,5 +87,9 @@
     "df-evenfin",
     "elab2",
     "mpbir2an"
+  ],
+  "scopes": [
+    0,
+    2006
   ]
 }

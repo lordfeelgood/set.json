@@ -57,5 +57,8 @@
     "jaod",
     "imp",
     "sylan2b"
+  ],
+  "scopes": [
+    0
   ]
 }

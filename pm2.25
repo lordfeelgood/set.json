@@ -32,5 +32,8 @@
     "wps",
     "orel1",
     "orri"
+  ],
+  "scopes": [
+    0
   ]
 }

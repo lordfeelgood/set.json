@@ -210,5 +210,9 @@
     "eqtri",
     "funeqi",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2422
   ]
 }

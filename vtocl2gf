@@ -115,5 +115,9 @@
     "vtoclgf",
     "vtoclgf",
     "mpan9"
+  ],
+  "scopes": [
+    0,
+    1265
   ]
 }

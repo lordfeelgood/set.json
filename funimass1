@@ -81,5 +81,8 @@
     "sylan9eq",
     "sseq1d",
     "syl5ib"
+  ],
+  "scopes": [
+    0
   ]
 }

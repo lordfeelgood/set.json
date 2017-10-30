@@ -40,5 +40,8 @@
     "cB",
     "resabs2",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

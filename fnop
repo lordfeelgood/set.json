@@ -55,5 +55,8 @@
     "cF",
     "fnbr",
     "sylan2br"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -47,5 +47,8 @@
     "c0c",
     "df-ne",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

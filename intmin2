@@ -52,5 +52,9 @@
     "intmin",
     "ax-mp",
     "eqtr3i"
+  ],
+  "scopes": [
+    0,
+    1684
   ]
 }

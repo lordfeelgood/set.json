@@ -28,5 +28,9 @@
     "mtbid.maj",
     "biimprd",
     "mtod"
+  ],
+  "scopes": [
+    0,
+    200
   ]
 }

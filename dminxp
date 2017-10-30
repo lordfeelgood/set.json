@@ -129,5 +129,9 @@
     "rexbii",
     "ralbii",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    2372
   ]
 }

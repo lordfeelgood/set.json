@@ -478,5 +478,9 @@
     "3syl",
     "3syl",
     "syl5eqelr"
+  ],
+  "scopes": [
+    0,
+    3024
   ]
 }

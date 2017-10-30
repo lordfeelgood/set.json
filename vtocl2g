@@ -83,5 +83,9 @@
     "vtocl2g.2",
     "vtocl2g.3",
     "vtocl2gf"
+  ],
+  "scopes": [
+    0,
+    1267
   ]
 }

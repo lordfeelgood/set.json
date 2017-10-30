@@ -23,5 +23,9 @@
     "ibir.1",
     "bicomd",
     "ibi"
+  ],
+  "scopes": [
+    0,
+    155
   ]
 }

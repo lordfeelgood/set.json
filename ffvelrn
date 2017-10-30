@@ -69,5 +69,8 @@
     "sseld",
     "adantr",
     "mpd"
+  ],
+  "scopes": [
+    0
   ]
 }

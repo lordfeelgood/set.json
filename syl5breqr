@@ -33,5 +33,9 @@
     "syl5breqr.2",
     "eqcomd",
     "syl5breq"
+  ],
+  "scopes": [
+    0,
+    2116
   ]
 }

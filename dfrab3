@@ -66,5 +66,9 @@
     "ineq1i",
     "eqtr3i",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1488
   ]
 }

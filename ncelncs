@@ -44,5 +44,9 @@
     "syl",
     "elncs",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2987
   ]
 }

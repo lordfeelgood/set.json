@@ -326,5 +326,9 @@
     "rnex",
     "mptexlem",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    3083
   ]
 }

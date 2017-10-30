@@ -21,5 +21,8 @@
     "transex",
     "inex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

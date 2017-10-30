@@ -82,5 +82,9 @@
     "bitr4d",
     "syl5ib",
     "imp"
+  ],
+  "scopes": [
+    0,
+    3038
   ]
 }

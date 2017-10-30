@@ -39,5 +39,8 @@
     "wch",
     "id",
     "imim2d"
+  ],
+  "scopes": [
+    0
   ]
 }

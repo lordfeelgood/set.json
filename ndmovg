@@ -91,5 +91,8 @@
     "ndmfv",
     "syl",
     "syl5eq"
+  ],
+  "scopes": [
+    0
   ]
 }

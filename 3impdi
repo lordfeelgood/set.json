@@ -34,5 +34,9 @@
     "3impdi.1",
     "anandis",
     "3impb"
+  ],
+  "scopes": [
+    0,
+    553
   ]
 }

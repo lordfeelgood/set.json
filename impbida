@@ -35,5 +35,9 @@
     "impbida.2",
     "ex",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    422
   ]
 }

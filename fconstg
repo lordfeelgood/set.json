@@ -64,5 +64,9 @@
     "vex",
     "fconst",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    2455
   ]
 }

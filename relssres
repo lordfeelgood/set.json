@@ -71,5 +71,9 @@
     "syl6ibr",
     "relssdv",
     "eqssd"
+  ],
+  "scopes": [
+    0,
+    2345
   ]
 }

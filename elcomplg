@@ -59,5 +59,8 @@
     "xchbinx",
     "syl6bb",
     "syl5bb"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -39,5 +39,8 @@
     "wph",
     "id",
     "orim2d"
+  ],
+  "scopes": [
+    0
   ]
 }

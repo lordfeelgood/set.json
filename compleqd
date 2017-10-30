@@ -34,5 +34,9 @@
     "cB",
     "compleq",
     "syl"
+  ],
+  "scopes": [
+    0,
+    1469
   ]
 }

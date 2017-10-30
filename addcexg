@@ -101,5 +101,8 @@
     "sylan",
     "ancoms",
     "syl5eqel"
+  ],
+  "scopes": [
+    0
   ]
 }

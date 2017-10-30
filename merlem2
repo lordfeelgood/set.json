@@ -57,5 +57,8 @@
     "wth",
     "ax-meredith",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

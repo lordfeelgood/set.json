@@ -215,5 +215,9 @@
     "exlimd",
     "imp",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    2072
   ]
 }

@@ -44,5 +44,8 @@
     "wps",
     "ordir",
     "mpbiran2"
+  ],
+  "scopes": [
+    0
   ]
 }

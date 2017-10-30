@@ -878,5 +878,9 @@
     "difex",
     "inex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    1969
   ]
 }

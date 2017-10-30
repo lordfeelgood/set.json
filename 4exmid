@@ -71,5 +71,8 @@
     "xor",
     "orbi12i",
     "mpbi"
+  ],
+  "scopes": [
+    0
   ]
 }

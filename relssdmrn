@@ -60,5 +60,9 @@
     "cA",
     "ssrel",
     "mpbiri"
+  ],
+  "scopes": [
+    0,
+    2389
   ]
 }

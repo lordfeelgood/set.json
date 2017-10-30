@@ -76,5 +76,9 @@
     "cvv",
     "funprg",
     "mp3an23"
+  ],
+  "scopes": [
+    0,
+    2419
   ]
 }

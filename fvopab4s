@@ -91,5 +91,9 @@
     "fvopab4s.2",
     "fvopab4sf",
     "vtoclga"
+  ],
+  "scopes": [
+    0,
+    2509
   ]
 }

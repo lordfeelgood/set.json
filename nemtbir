@@ -29,5 +29,9 @@
     "mpbi",
     "nemtbir.2",
     "mtbir"
+  ],
+  "scopes": [
+    0,
+    1084
   ]
 }

@@ -166,5 +166,9 @@
     "syl6bb",
     "opelopaba",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2147
   ]
 }

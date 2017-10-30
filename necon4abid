@@ -41,5 +41,9 @@
     "necon4abid.1",
     "syl5bbr",
     "con4bid"
+  ],
+  "scopes": [
+    0,
+    1070
   ]
 }

@@ -86,5 +86,9 @@
     "eleq1",
     "anbi2d",
     "opkelopkabg"
+  ],
+  "scopes": [
+    0,
+    1828
   ]
 }

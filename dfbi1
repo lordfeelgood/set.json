@@ -59,5 +59,8 @@
     "bi3",
     "impi",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

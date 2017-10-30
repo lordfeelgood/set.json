@@ -54,5 +54,9 @@
     "ssequn2",
     "sylib",
     "syl5eq"
+  ],
+  "scopes": [
+    0,
+    1944
   ]
 }

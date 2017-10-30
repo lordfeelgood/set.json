@@ -21,5 +21,8 @@
     "idex",
     "difex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

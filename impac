@@ -35,5 +35,9 @@
     "impac.1",
     "ancrd",
     "imp"
+  ],
+  "scopes": [
+    0,
+    331
   ]
 }

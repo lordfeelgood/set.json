@@ -50,5 +50,8 @@
     "wch",
     "pm3.31",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

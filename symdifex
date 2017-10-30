@@ -37,5 +37,9 @@
     "cvv",
     "symdifexg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    1762
   ]
 }

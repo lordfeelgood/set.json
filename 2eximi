@@ -38,5 +38,9 @@
     "eximi.1",
     "eximi",
     "eximi"
+  ],
+  "scopes": [
+    0,
+    633
   ]
 }

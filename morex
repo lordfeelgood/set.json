@@ -113,5 +113,9 @@
     "syl",
     "sylan2b",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    1344
   ]
 }

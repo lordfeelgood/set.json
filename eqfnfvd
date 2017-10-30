@@ -75,5 +75,9 @@
     "eqfnfv2",
     "syl2anc",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2520
   ]
 }

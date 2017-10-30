@@ -69,5 +69,9 @@
     "ifclda.2",
     "eqeltrd",
     "pm2.61dan"
+  ],
+  "scopes": [
+    0,
+    1708
   ]
 }

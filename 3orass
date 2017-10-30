@@ -52,5 +52,8 @@
     "wch",
     "orass",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

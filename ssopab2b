@@ -144,5 +144,9 @@
     "vy",
     "ssopab2",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2150
   ]
 }

@@ -35,5 +35,9 @@
     "eqsstrd.1",
     "sseq1d",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    1586
   ]
 }

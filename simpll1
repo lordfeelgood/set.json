@@ -45,5 +45,8 @@
     "wth",
     "simpl1",
     "adantr"
+  ],
+  "scopes": [
+    0
   ]
 }

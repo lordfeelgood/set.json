@@ -34,5 +34,9 @@
     "jctr",
     "mpanr2.2",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    379
   ]
 }

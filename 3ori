@@ -50,5 +50,9 @@
     "mpbi",
     "ori",
     "sylbir"
+  ],
+  "scopes": [
+    0,
+    558
   ]
 }

@@ -60,5 +60,8 @@
     "anbi12i",
     "pm4.56",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -47,5 +47,9 @@
     "cvv",
     "ecelqsg",
     "mpan"
+  ],
+  "scopes": [
+    0,
+    2894
   ]
 }

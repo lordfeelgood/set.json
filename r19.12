@@ -99,5 +99,9 @@
     "reximdv",
     "ralimia",
     "syl"
+  ],
+  "scopes": [
+    0,
+    1155
   ]
 }

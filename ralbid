@@ -48,5 +48,9 @@
     "ralbid.2",
     "adantr",
     "ralbida"
+  ],
+  "scopes": [
+    0,
+    1089
   ]
 }

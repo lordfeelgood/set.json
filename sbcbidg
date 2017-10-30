@@ -81,5 +81,9 @@
     "sbcbig",
     "sylibd",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    1385
   ]
 }

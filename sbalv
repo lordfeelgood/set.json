@@ -61,5 +61,9 @@
     "sbalv.1",
     "albii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    842
   ]
 }

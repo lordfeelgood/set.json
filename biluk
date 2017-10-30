@@ -71,5 +71,8 @@
     "wps",
     "biass",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

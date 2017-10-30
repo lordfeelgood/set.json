@@ -83,5 +83,9 @@
     "sylibrd",
     "sylibrd",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    1388
   ]
 }

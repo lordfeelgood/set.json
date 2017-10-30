@@ -140,5 +140,9 @@
     "df-rex",
     "anbi12i",
     "3bitr4i"
+  ],
+  "scopes": [
+    0,
+    1185
   ]
 }

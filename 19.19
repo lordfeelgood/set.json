@@ -49,5 +49,9 @@
     "vx",
     "exbi",
     "syl5bbr"
+  ],
+  "scopes": [
+    0,
+    673
   ]
 }

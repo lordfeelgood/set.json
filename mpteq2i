@@ -41,5 +41,9 @@
     "mpteq2i.1",
     "a1i",
     "mpteq2ia"
+  ],
+  "scopes": [
+    0,
+    2707
   ]
 }

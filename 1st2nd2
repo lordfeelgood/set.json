@@ -88,5 +88,9 @@
     "rexlimivw",
     "rexlimivw",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    2603
   ]
 }

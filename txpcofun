@@ -259,5 +259,9 @@
     "exlimivv",
     "sylbi",
     "mprgbir"
+  ],
+  "scopes": [
+    0,
+    2785
   ]
 }

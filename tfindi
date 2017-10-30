@@ -168,5 +168,9 @@
     "exlimdv",
     "syl5bi",
     "3impia"
+  ],
+  "scopes": [
+    0,
+    2000
   ]
 }

@@ -32,5 +32,9 @@
     "1cvsfin",
     "spfinsfincl",
     "sylancr"
+  ],
+  "scopes": [
+    0,
+    2039
   ]
 }

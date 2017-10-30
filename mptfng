@@ -56,5 +56,9 @@
     "df-mpt",
     "eqtri",
     "fnopab2g"
+  ],
+  "scopes": [
+    0,
+    2733
   ]
 }

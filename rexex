@@ -46,5 +46,8 @@
     "simpr",
     "eximi",
     "sylbi"
+  ],
+  "scopes": [
+    0
   ]
 }

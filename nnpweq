@@ -433,5 +433,9 @@
     "rcla42v",
     "syl5com",
     "3impib"
+  ],
+  "scopes": [
+    0,
+    2022
   ]
 }

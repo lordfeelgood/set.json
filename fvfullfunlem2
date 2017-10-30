@@ -73,5 +73,9 @@
     "ssrel",
     "mp2b",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    2832
   ]
 }

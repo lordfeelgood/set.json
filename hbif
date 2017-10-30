@@ -105,5 +105,9 @@
     "hbim",
     "hbab",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    1704
   ]
 }

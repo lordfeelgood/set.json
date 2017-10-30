@@ -40,5 +40,9 @@
     "cvv",
     "eluni1g",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1792
   ]
 }

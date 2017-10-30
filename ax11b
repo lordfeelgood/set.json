@@ -65,5 +65,8 @@
     "com12",
     "adantl",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

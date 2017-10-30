@@ -63,5 +63,8 @@
     "impbid1",
     "syl",
     "eubid"
+  ],
+  "scopes": [
+    0
   ]
 }

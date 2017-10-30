@@ -398,5 +398,9 @@
     "bitri",
     "albii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    3129
   ]
 }

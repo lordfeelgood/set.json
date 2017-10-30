@@ -70,5 +70,9 @@
     "hbex",
     "hbex",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    2296
   ]
 }

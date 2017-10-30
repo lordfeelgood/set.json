@@ -39,5 +39,8 @@
     "ianor",
     "bicomi",
     "con2bii"
+  ],
+  "scopes": [
+    0
   ]
 }

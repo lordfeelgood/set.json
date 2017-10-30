@@ -82,5 +82,9 @@
     "elrnopab.1",
     "a1i",
     "mprg"
+  ],
+  "scopes": [
+    0,
+    2525
   ]
 }

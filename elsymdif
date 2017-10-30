@@ -81,5 +81,8 @@
     "eleq2i",
     "xor",
     "3bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -105,5 +105,9 @@
     "mpdan",
     "adantr",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    1967
   ]
 }

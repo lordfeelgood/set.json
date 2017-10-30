@@ -33,5 +33,9 @@
     "eqcomd",
     "syl6eqbrr.2",
     "syl6eqbr"
+  ],
+  "scopes": [
+    0,
+    2118
   ]
 }

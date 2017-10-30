@@ -105,5 +105,9 @@
     "disj1",
     "dfcleq",
     "3imtr4i"
+  ],
+  "scopes": [
+    0,
+    1505
   ]
 }

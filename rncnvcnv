@@ -26,5 +26,8 @@
     "dfrn4",
     "df-dm",
     "eqtr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

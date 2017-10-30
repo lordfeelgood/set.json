@@ -48,5 +48,8 @@
     "df-ne",
     "anbi2i",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

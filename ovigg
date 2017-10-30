@@ -180,5 +180,9 @@
     "eqtri",
     "eqeq1i",
     "syl6ibr"
+  ],
+  "scopes": [
+    0,
+    2660
   ]
 }

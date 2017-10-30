@@ -39,5 +39,9 @@
     "vex",
     "snel1c",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1778
   ]
 }

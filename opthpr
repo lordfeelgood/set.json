@@ -92,5 +92,9 @@
     "orc",
     "impbid1",
     "syl5bb"
+  ],
+  "scopes": [
+    0,
+    1772
   ]
 }

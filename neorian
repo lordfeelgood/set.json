@@ -60,5 +60,8 @@
     "orbi12i",
     "ianor",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

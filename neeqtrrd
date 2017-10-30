@@ -31,5 +31,9 @@
     "neeqtrrd.2",
     "eqcomd",
     "neeqtrd"
+  ],
+  "scopes": [
+    0,
+    1030
   ]
 }

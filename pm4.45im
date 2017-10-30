@@ -36,5 +36,8 @@
     "wph",
     "simpl",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -93,5 +93,9 @@
     "vex",
     "preqr2",
     "vtocl2g"
+  ],
+  "scopes": [
+    0,
+    1771
   ]
 }

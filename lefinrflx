@@ -69,5 +69,9 @@
     "opklefing",
     "anidms",
     "mpbiri"
+  ],
+  "scopes": [
+    0,
+    1972
   ]
 }

@@ -41,5 +41,8 @@
     "pwv",
     "nceqi",
     "eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

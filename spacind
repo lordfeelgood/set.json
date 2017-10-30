@@ -299,5 +299,9 @@
     "syl3anc",
     "eqsstrd",
     "sylanl2"
+  ],
+  "scopes": [
+    0,
+    3106
   ]
 }

@@ -52,5 +52,9 @@
     "cokeq12d.2",
     "cokeq2d",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    1819
   ]
 }

@@ -99,5 +99,9 @@
     "exlimiv",
     "sylbi",
     "ssriv"
+  ],
+  "scopes": [
+    0,
+    1857
   ]
 }

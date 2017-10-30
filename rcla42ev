@@ -125,5 +125,9 @@
     "rexbidv",
     "rcla4ev",
     "syl"
+  ],
+  "scopes": [
+    0,
+    1291
   ]
 }

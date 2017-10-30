@@ -20,5 +20,9 @@
     "mpbi.maj",
     "biimpi",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    127
   ]
 }

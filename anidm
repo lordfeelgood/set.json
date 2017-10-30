@@ -24,5 +24,8 @@
     "wph",
     "pm4.24",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -78,5 +78,9 @@
     "breq1",
     "ceqsexv",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    2769
   ]
 }

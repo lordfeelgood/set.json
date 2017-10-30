@@ -62,5 +62,8 @@
     "cF",
     "fveq2",
     "ifsb"
+  ],
+  "scopes": [
+    0
   ]
 }

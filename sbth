@@ -189,5 +189,9 @@
     "syl",
     "rexlimdvva",
     "sylbid"
+  ],
+  "scopes": [
+    0,
+    3053
   ]
 }

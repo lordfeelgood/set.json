@@ -53,5 +53,8 @@
     "cC",
     "resabs1",
     "syl5eq"
+  ],
+  "scopes": [
+    0
   ]
 }

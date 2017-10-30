@@ -105,5 +105,9 @@
     "exlimiv",
     "sylbi",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    903
   ]
 }

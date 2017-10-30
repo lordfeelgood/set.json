@@ -80,5 +80,9 @@
     "rexlimdvva.1",
     "ex",
     "rexlimdvv"
+  ],
+  "scopes": [
+    0,
+    1170
   ]
 }

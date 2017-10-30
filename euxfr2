@@ -109,5 +109,9 @@
     "ceqsexv",
     "eubii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1345
   ]
 }

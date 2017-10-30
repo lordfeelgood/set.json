@@ -62,5 +62,9 @@
     "rexlimivv.1",
     "rexlimdva",
     "rexlimiv"
+  ],
+  "scopes": [
+    0,
+    1168
   ]
 }

@@ -69,5 +69,9 @@
     "exp3a",
     "ralrimdv",
     "ralrimiv"
+  ],
+  "scopes": [
+    0,
+    1134
   ]
 }

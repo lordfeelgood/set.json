@@ -43,5 +43,9 @@
     "dedth.1",
     "syl",
     "mpbiri"
+  ],
+  "scopes": [
+    0,
+    1712
   ]
 }

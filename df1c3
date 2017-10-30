@@ -34,5 +34,9 @@
     "ncseqnc",
     "ax-mp",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    3003
   ]
 }

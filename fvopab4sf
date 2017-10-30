@@ -106,5 +106,9 @@
     "fvopab4sf.4",
     "fvopab4gf",
     "mpan2"
+  ],
+  "scopes": [
+    0,
+    2508
   ]
 }

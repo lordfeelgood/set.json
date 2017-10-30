@@ -53,5 +53,9 @@
     "abid",
     "exbii",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    1498
   ]
 }

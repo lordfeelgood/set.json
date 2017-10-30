@@ -61,5 +61,9 @@
     "hbab",
     "hbel",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    1359
   ]
 }

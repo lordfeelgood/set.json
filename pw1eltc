@@ -74,5 +74,9 @@
     "adantr",
     "mpbird",
     "eleqtrrd"
+  ],
+  "scopes": [
+    0,
+    3020
   ]
 }

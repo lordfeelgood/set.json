@@ -21,5 +21,9 @@
     "mtbir.2",
     "bicomi",
     "mtbi"
+  ],
+  "scopes": [
+    0,
+    199
   ]
 }

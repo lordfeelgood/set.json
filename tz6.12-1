@@ -144,5 +144,9 @@
     "impbid",
     "eqrdv",
     "sylan2b"
+  ],
+  "scopes": [
+    0,
+    2482
   ]
 }

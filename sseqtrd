@@ -35,5 +35,9 @@
     "sseqtrd.2",
     "sseq2d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    1588
   ]
 }

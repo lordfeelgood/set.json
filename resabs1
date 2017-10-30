@@ -72,5 +72,8 @@
     "biimpi",
     "reseq2d",
     "syl5eq"
+  ],
+  "scopes": [
+    0
   ]
 }

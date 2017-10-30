@@ -22,5 +22,8 @@
     "cvv",
     "dblcompl",
     "eqtr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

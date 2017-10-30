@@ -130,5 +130,9 @@
     "jctil",
     "eqss",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    2208
   ]
 }

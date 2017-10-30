@@ -54,5 +54,9 @@
     "hban",
     "hbeu",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    1189
   ]
 }

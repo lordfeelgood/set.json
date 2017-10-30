@@ -69,5 +69,9 @@
     "1cex",
     "imaex",
     "difex"
+  ],
+  "scopes": [
+    0,
+    2795
   ]
 }

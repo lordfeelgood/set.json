@@ -46,5 +46,9 @@
     "releq",
     "mpbii",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2373
   ]
 }

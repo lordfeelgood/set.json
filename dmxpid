@@ -51,5 +51,8 @@
     "cA",
     "dmxp",
     "pm2.61ine"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -47,5 +47,9 @@
     "reiotacl",
     "syl",
     "syl5eqel"
+  ],
+  "scopes": [
+    0,
+    3018
   ]
 }

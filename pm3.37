@@ -50,5 +50,8 @@
     "wch",
     "pm4.14",
     "biimpi"
+  ],
+  "scopes": [
+    0
   ]
 }

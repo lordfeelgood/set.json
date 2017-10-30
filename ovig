@@ -212,5 +212,9 @@
     "ovig.3",
     "ovigg",
     "mpand"
+  ],
+  "scopes": [
+    0,
+    2661
   ]
 }

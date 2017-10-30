@@ -48,5 +48,9 @@
     "wps",
     "bicom",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    213
   ]
 }

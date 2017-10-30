@@ -63,5 +63,9 @@
     "df-ov",
     "eqeq1i",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    2836
   ]
 }

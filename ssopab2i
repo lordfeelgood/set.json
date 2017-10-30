@@ -55,5 +55,9 @@
     "ssopab2i.1",
     "ax-gen",
     "mpg"
+  ],
+  "scopes": [
+    0,
+    2151
   ]
 }

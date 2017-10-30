@@ -37,5 +37,8 @@
     "wth",
     "simp2",
     "adantl"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -62,5 +62,9 @@
     "mpbir",
     "dff1o4",
     "mpbir2an"
+  ],
+  "scopes": [
+    0,
+    2463
   ]
 }

@@ -668,5 +668,9 @@
     "2albii",
     "exbii",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    1758
   ]
 }

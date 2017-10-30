@@ -31,5 +31,8 @@
     "vx",
     "df-ex",
     "con2bii"
+  ],
+  "scopes": [
+    0
   ]
 }

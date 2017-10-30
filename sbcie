@@ -50,5 +50,9 @@
     "sbcie.2",
     "sbcieg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1373
   ]
 }

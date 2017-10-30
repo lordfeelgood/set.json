@@ -29,5 +29,9 @@
     "eldm2",
     "mtbir",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    2313
   ]
 }

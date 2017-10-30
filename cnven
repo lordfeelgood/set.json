@@ -57,5 +57,9 @@
     "cvv",
     "f1oeng",
     "syl2anr"
+  ],
+  "scopes": [
+    0,
+    2937
   ]
 }

@@ -174,5 +174,9 @@
     "exrot3",
     "bitri",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    2252
   ]
 }

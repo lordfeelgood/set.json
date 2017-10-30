@@ -33,5 +33,8 @@
     "eqss",
     "mpbiran2",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

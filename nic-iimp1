@@ -35,5 +35,9 @@
     "nic-imp",
     "nic-mp",
     "nic-isw1"
+  ],
+  "scopes": [
+    0,
+    599
   ]
 }

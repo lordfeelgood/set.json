@@ -32,5 +32,9 @@
     "biimpi",
     "sylan2b.2",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    274
   ]
 }

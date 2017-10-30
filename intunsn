@@ -44,5 +44,9 @@
     "intsn",
     "ineq2i",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1693
   ]
 }

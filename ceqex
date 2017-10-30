@@ -100,5 +100,9 @@
     "impbid",
     "vtoclg",
     "mpcom"
+  ],
+  "scopes": [
+    0,
+    1296
   ]
 }

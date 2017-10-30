@@ -64,5 +64,9 @@
     "imim2i",
     "alrimi",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    674
   ]
 }

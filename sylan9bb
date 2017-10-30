@@ -48,5 +48,9 @@
     "sylan9bb.2",
     "adantl",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    389
   ]
 }

@@ -49,5 +49,9 @@
     "cA",
     "moeq",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    2412
   ]
 }

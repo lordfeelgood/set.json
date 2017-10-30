@@ -63,5 +63,9 @@
     "ncex",
     "brlec",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    3045
   ]
 }

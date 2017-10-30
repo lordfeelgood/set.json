@@ -34,5 +34,8 @@
     "df-ne",
     "anbi2i",
     "mtbir"
+  ],
+  "scopes": [
+    0
   ]
 }

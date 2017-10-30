@@ -71,5 +71,8 @@
     "syl6bi",
     "imp",
     "sylan2"
+  ],
+  "scopes": [
+    0
   ]
 }

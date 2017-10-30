@@ -41,5 +41,9 @@
     "abeq2",
     "abbiri.1",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    1009
   ]
 }

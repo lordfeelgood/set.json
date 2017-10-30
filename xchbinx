@@ -29,5 +29,9 @@
     "xchbinx.2",
     "notbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    210
   ]
 }

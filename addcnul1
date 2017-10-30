@@ -48,5 +48,9 @@
     "eladdc",
     "mtbir",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    1960
   ]
 }

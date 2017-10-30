@@ -34,5 +34,9 @@
     "wch",
     "df-or",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    236
   ]
 }

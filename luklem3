@@ -54,5 +54,8 @@
     "wch",
     "luklem2",
     "luklem1"
+  ],
+  "scopes": [
+    0
   ]
 }

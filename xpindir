@@ -59,5 +59,9 @@
     "inidm",
     "xpeq2i",
     "eqtr2i"
+  ],
+  "scopes": [
+    0,
+    2280
   ]
 }

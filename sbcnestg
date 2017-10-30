@@ -162,5 +162,9 @@
     "bitr4d",
     "3bitrd",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    1451
   ]
 }

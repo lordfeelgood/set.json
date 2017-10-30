@@ -69,5 +69,9 @@
     "sbequ",
     "equsex",
     "bicomi"
+  ],
+  "scopes": [
+    0,
+    835
   ]
 }

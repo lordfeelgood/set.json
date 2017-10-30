@@ -36,5 +36,9 @@
     "orel2",
     "impbid2",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    246
   ]
 }

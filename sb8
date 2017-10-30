@@ -60,5 +60,9 @@
     "stdpc7",
     "cbv3",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    761
   ]
 }

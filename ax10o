@@ -66,5 +66,8 @@
     "pm2.27",
     "al2imi",
     "sylsyld"
+  ],
+  "scopes": [
+    0
   ]
 }

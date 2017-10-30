@@ -234,5 +234,9 @@
     "inex",
     "intex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2033
   ]
 }

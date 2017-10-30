@@ -44,5 +44,9 @@
     "reseqi.2",
     "reseq2i",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    2317
   ]
 }

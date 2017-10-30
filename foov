@@ -171,5 +171,9 @@
     "ralbii",
     "anbi2i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2671
   ]
 }

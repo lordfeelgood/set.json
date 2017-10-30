@@ -84,5 +84,9 @@
     "dedhb.1",
     "syl",
     "mpbiri"
+  ],
+  "scopes": [
+    0,
+    1331
   ]
 }

@@ -68,5 +68,9 @@
     "sb6",
     "exbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    843
   ]
 }

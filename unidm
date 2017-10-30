@@ -30,5 +30,8 @@
     "cA",
     "dblcompl",
     "3eqtr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

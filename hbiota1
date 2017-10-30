@@ -75,5 +75,9 @@
     "hbex",
     "hbxfrbi",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    1901
   ]
 }

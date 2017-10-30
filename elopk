@@ -66,5 +66,8 @@
     "prex",
     "elpr2",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

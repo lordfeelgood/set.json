@@ -51,5 +51,8 @@
     "biimt",
     "syl",
     "bitrd"
+  ],
+  "scopes": [
+    0
   ]
 }

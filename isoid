@@ -69,5 +69,9 @@
     "cR",
     "df-iso",
     "mpbir2an"
+  ],
+  "scopes": [
+    0,
+    2582
   ]
 }

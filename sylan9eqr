@@ -39,5 +39,9 @@
     "sylan9eqr.2",
     "sylan9eq",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    965
   ]
 }

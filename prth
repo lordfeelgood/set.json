@@ -54,5 +54,8 @@
     "simpl",
     "simpr",
     "anim12d"
+  ],
+  "scopes": [
+    0
   ]
 }

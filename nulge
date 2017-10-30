@@ -76,5 +76,9 @@
     "opklefing",
     "ancoms",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    1963
   ]
 }

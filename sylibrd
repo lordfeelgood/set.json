@@ -33,5 +33,9 @@
     "sylibrd.2",
     "biimprd",
     "syld"
+  ],
+  "scopes": [
+    0,
+    150
   ]
 }

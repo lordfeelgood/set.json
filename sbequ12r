@@ -44,5 +44,8 @@
     "sbequ12",
     "bicomd",
     "equcoms"
+  ],
+  "scopes": [
+    0
   ]
 }

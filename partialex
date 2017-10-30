@@ -26,5 +26,8 @@
     "antisymex",
     "inex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

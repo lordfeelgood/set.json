@@ -29,5 +29,9 @@
     "orcd.1",
     "orcd",
     "orcomd"
+  ],
+  "scopes": [
+    0,
+    243
   ]
 }

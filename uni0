@@ -22,5 +22,8 @@
     "c0",
     "uni0b",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

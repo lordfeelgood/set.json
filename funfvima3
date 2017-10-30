@@ -80,5 +80,9 @@
     "sylibr",
     "exp32",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    2563
   ]
 }

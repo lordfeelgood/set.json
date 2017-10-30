@@ -93,5 +93,9 @@
     "opelopaba.3",
     "opelopabga",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    2140
   ]
 }

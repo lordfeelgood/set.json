@@ -85,5 +85,9 @@
     "sbc5",
     "abbii",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1414
   ]
 }

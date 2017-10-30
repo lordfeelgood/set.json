@@ -43,5 +43,9 @@
     "ad2ant2.1",
     "adantrr",
     "adantll"
+  ],
+  "scopes": [
+    0,
+    397
   ]
 }

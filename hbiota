@@ -82,5 +82,9 @@
     "hbab",
     "hbuni",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    1902
   ]
 }

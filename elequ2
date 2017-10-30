@@ -47,5 +47,8 @@
     "ax-14",
     "equcoms",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

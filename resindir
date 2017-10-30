@@ -67,5 +67,8 @@
     "df-res",
     "ineq12i",
     "3eqtr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

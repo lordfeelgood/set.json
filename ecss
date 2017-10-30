@@ -57,5 +57,9 @@
     "ecss.2",
     "eqtr3d",
     "syl5sseq"
+  ],
+  "scopes": [
+    0,
+    2881
   ]
 }

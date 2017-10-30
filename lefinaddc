@@ -80,5 +80,9 @@
     "opklefing",
     "syldan",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    1958
   ]
 }

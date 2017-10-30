@@ -28,5 +28,9 @@
     "eqtri.2",
     "eqeq2i",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    939
   ]
 }

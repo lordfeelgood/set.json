@@ -69,5 +69,9 @@
     "relssi.2",
     "ax-gen",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    2263
   ]
 }

@@ -122,5 +122,9 @@
     "albii",
     "3bitrri",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    2209
   ]
 }

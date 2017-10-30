@@ -36,5 +36,9 @@
     "bicomd",
     "con2bid",
     "bicomd"
+  ],
+  "scopes": [
+    0,
+    220
   ]
 }

@@ -103,5 +103,9 @@
     "vtocl2g",
     "mpcom",
     "ex"
+  ],
+  "scopes": [
+    0,
+    2490
   ]
 }

@@ -102,5 +102,9 @@
     "cvv",
     "opkelcokg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    1838
   ]
 }

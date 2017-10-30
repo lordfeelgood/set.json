@@ -26,5 +26,8 @@
     "mpbir",
     "2th",
     "eqriv"
+  ],
+  "scopes": [
+    0
   ]
 }

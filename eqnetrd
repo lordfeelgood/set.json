@@ -35,5 +35,9 @@
     "eqnetrd.1",
     "neeq1d",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    1024
   ]
 }

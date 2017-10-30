@@ -50,5 +50,9 @@
     "impcom",
     "exlimiv",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    1239
   ]
 }

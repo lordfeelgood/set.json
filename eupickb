@@ -80,5 +80,8 @@
     "eupick",
     "3syl",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -57,5 +57,10 @@
     "opreqan12i.2",
     "oveqan12d",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    2609,
+    2611
   ]
 }

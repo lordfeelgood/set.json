@@ -114,5 +114,9 @@
     "eqtri",
     "incom",
     "3eqtri"
+  ],
+  "scopes": [
+    0,
+    2218
   ]
 }

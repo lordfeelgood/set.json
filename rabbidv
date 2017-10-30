@@ -53,5 +53,9 @@
     "rabbidv.1",
     "adantr",
     "rabbidva"
+  ],
+  "scopes": [
+    0,
+    1216
   ]
 }

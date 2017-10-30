@@ -141,5 +141,9 @@
     "sylbi",
     "vtocl2g",
     "mpcom"
+  ],
+  "scopes": [
+    0,
+    2957
   ]
 }

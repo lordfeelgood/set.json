@@ -97,5 +97,8 @@
     "unexg",
     "syl2anc",
     "syl5eqel"
+  ],
+  "scopes": [
+    0
   ]
 }

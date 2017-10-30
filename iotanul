@@ -81,5 +81,9 @@
     "syl6eq",
     "syl5eq",
     "sylnbi"
+  ],
+  "scopes": [
+    0,
+    1908
   ]
 }

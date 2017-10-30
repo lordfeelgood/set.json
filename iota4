@@ -74,5 +74,9 @@
     "mpbid",
     "exlimiv",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    1908
   ]
 }

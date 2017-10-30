@@ -139,5 +139,9 @@
     "mpand",
     "syl5bi",
     "impbid2"
+  ],
+  "scopes": [
+    0,
+    3011
   ]
 }

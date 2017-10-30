@@ -66,5 +66,8 @@
     "impexp",
     "bitri",
     "imbi2i"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -20,5 +20,9 @@
     "ssid",
     "eqimssi.1",
     "sseqtr4i"
+  ],
+  "scopes": [
+    0,
+    1602
   ]
 }

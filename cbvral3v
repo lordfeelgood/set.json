@@ -216,5 +216,9 @@
     "cbvral2v",
     "ralbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1210
   ]
 }

@@ -50,5 +50,8 @@
     "wta",
     "simp21",
     "adantr"
+  ],
+  "scopes": [
+    0
   ]
 }

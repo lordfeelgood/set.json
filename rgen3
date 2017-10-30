@@ -82,5 +82,9 @@
     "3expa",
     "ralrimiva",
     "rgen2"
+  ],
+  "scopes": [
+    0,
+    1140
   ]
 }

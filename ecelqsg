@@ -78,5 +78,9 @@
     "syl",
     "biimpar",
     "sylan2"
+  ],
+  "scopes": [
+    0,
+    2893
   ]
 }

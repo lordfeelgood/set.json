@@ -42,5 +42,8 @@
     "wps",
     "ancom",
     "imbi1i"
+  ],
+  "scopes": [
+    0
   ]
 }

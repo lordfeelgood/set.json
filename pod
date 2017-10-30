@@ -130,5 +130,9 @@
     "cR",
     "porta",
     "syl3anbrc"
+  ],
+  "scopes": [
+    0,
+    2863
   ]
 }

@@ -63,5 +63,9 @@
     "elrab.1",
     "elrab",
     "baib"
+  ],
+  "scopes": [
+    0,
+    1318
   ]
 }

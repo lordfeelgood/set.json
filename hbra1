@@ -45,5 +45,8 @@
     "vx",
     "hba1",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0
   ]
 }

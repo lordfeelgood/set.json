@@ -44,5 +44,9 @@
     "cokeq12i.2",
     "cokeq2i",
     "eqtri"
+  ],
+  "scopes": [
+    0,
+    1818
   ]
 }

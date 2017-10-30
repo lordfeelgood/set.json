@@ -53,5 +53,8 @@
     "ax-11",
     "imp",
     "exlimi"
+  ],
+  "scopes": [
+    0
   ]
 }

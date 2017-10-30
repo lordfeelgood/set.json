@@ -233,5 +233,9 @@
     "com12",
     "ecoptocl",
     "impcom"
+  ],
+  "scopes": [
+    0,
+    2910
   ]
 }

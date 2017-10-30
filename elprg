@@ -81,5 +81,8 @@
     "elsng",
     "orbi12d",
     "syl5bb"
+  ],
+  "scopes": [
+    0
   ]
 }

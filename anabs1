@@ -37,5 +37,8 @@
     "simpl",
     "pm4.71i",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

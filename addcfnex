@@ -335,5 +335,9 @@
     "imaex",
     "mpt2exlem",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2803
   ]
 }

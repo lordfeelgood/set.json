@@ -143,5 +143,9 @@
     "brltc",
     "3imtr4g",
     "finds"
+  ],
+  "scopes": [
+    0,
+    3090
   ]
 }

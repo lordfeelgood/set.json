@@ -35,5 +35,8 @@
     "cA",
     "df-ss",
     "mpbi"
+  ],
+  "scopes": [
+    0
   ]
 }

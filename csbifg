@@ -145,5 +145,9 @@
     "ifbieq12d",
     "csbief",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1709
   ]
 }

@@ -78,5 +78,9 @@
     "mpbiri",
     "jca",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    1979
   ]
 }

@@ -28,5 +28,9 @@
     "mpbiran2.1",
     "biantru",
     "bitr4i"
+  ],
+  "scopes": [
+    0,
+    437
   ]
 }

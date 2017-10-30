@@ -76,5 +76,8 @@
     "sstr2",
     "3syl",
     "mpd"
+  ],
+  "scopes": [
+    0
   ]
 }

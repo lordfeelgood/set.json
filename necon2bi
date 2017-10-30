@@ -34,5 +34,9 @@
     "df-ne",
     "sylib",
     "con2i"
+  ],
+  "scopes": [
+    0,
+    1052
   ]
 }

@@ -38,5 +38,9 @@
     "con4bid.1",
     "biimpd",
     "impcon4bid"
+  ],
+  "scopes": [
+    0,
+    194
   ]
 }

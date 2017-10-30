@@ -34,5 +34,9 @@
     "abeqri.1",
     "eleq2i",
     "bitr3i"
+  ],
+  "scopes": [
+    0,
+    1006
   ]
 }

@@ -100,5 +100,8 @@
     "biimpd",
     "expimpd",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

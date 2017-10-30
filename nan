@@ -58,5 +58,8 @@
     "imnan",
     "imbi2i",
     "bitr2i"
+  ],
+  "scopes": [
+    0
   ]
 }

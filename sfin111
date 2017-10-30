@@ -141,5 +141,9 @@
     "sylib",
     "orel1",
     "sylc"
+  ],
+  "scopes": [
+    0,
+    2032
   ]
 }

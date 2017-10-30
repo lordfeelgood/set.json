@@ -26,5 +26,9 @@
     "df-ncfin",
     "iotaex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    1977
   ]
 }

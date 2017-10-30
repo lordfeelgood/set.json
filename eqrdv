@@ -54,5 +54,9 @@
     "cB",
     "dfcleq",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    923
   ]
 }

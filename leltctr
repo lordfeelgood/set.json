@@ -139,5 +139,9 @@
     "brltc",
     "3imtr4g",
     "expimpd"
+  ],
+  "scopes": [
+    0,
+    3058
   ]
 }

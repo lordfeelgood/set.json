@@ -51,5 +51,8 @@
     "imaeq2i",
     "eqtr4i",
     "3eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

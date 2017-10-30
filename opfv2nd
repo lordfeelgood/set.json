@@ -93,5 +93,9 @@
     "funbrfvb",
     "mp2an",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    2602
   ]
 }

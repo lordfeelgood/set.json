@@ -78,5 +78,9 @@
     "syl5ib",
     "sylbird",
     "vtocleg"
+  ],
+  "scopes": [
+    0,
+    1356
   ]
 }

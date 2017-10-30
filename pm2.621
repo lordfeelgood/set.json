@@ -36,5 +36,8 @@
     "wps",
     "idd",
     "jaod"
+  ],
+  "scopes": [
+    0
   ]
 }

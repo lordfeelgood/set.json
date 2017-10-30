@@ -38,5 +38,9 @@
     "sylsyld.3",
     "syl",
     "syld"
+  ],
+  "scopes": [
+    0,
+    40
   ]
 }

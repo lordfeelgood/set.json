@@ -42,5 +42,9 @@
     "alrimd.3",
     "alimd",
     "syl5"
+  ],
+  "scopes": [
+    0,
+    637
   ]
 }

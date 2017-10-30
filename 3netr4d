@@ -39,5 +39,9 @@
     "3netr4d.3",
     "neeq12d",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    1033
   ]
 }

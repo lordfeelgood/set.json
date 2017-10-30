@@ -25,5 +25,9 @@
     "ecase.1",
     "ecase.2",
     "pm2.61nii"
+  ],
+  "scopes": [
+    0,
+    445
   ]
 }

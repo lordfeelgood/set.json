@@ -44,5 +44,8 @@
     "bicom",
     "syl6bb",
     "pm5.74i"
+  ],
+  "scopes": [
+    0
   ]
 }

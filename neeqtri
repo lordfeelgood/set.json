@@ -28,5 +28,9 @@
     "neeqtr.2",
     "neeq2i",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    1027
   ]
 }

@@ -36,5 +36,8 @@
     "cB",
     "ssuni",
     "mpan"
+  ],
+  "scopes": [
+    0
   ]
 }

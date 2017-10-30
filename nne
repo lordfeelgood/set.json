@@ -31,5 +31,8 @@
     "df-ne",
     "con2bii",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

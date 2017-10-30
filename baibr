@@ -29,5 +29,9 @@
     "baibr.1",
     "baib",
     "bicomd"
+  ],
+  "scopes": [
+    0,
+    432
   ]
 }

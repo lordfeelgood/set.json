@@ -664,5 +664,9 @@
     "imbi1i",
     "albii",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    3130
   ]
 }

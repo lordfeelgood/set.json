@@ -26,5 +26,9 @@
     "simplbi.1",
     "biimpi",
     "simpld"
+  ],
+  "scopes": [
+    0,
+    260
   ]
 }

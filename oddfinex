@@ -859,5 +859,9 @@
     "snex",
     "difex",
     "eqeltri"
+  ],
+  "scopes": [
+    0,
+    2005
   ]
 }

@@ -91,5 +91,9 @@
     "ceclb",
     "mpan2",
     "syl5bb"
+  ],
+  "scopes": [
+    0,
+    3037
   ]
 }

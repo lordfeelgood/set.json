@@ -386,5 +386,9 @@
     "cla4gv",
     "mpan9",
     "mpcom"
+  ],
+  "scopes": [
+    0,
+    2028
   ]
 }

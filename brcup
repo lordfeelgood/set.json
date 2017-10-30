@@ -56,5 +56,9 @@
     "cvv",
     "brcupg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    2798
   ]
 }

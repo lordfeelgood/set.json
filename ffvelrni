@@ -44,5 +44,9 @@
     "cF",
     "ffvelrn",
     "mpan"
+  ],
+  "scopes": [
+    0,
+    2531
   ]
 }

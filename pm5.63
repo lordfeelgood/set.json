@@ -45,5 +45,8 @@
     "ordi",
     "mpbiran",
     "bicomi"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -42,5 +42,8 @@
     "cR",
     "opeldm",
     "sylbi"
+  ],
+  "scopes": [
+    0
   ]
 }

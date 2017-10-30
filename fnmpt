@@ -59,5 +59,9 @@
     "mptfng.1",
     "mptfng",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    2733
   ]
 }

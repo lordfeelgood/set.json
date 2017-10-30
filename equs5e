@@ -72,5 +72,8 @@
     "syl6ibr",
     "alrimi",
     "sylbi"
+  ],
+  "scopes": [
+    0
   ]
 }

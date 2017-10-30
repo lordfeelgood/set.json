@@ -36,5 +36,8 @@
     "wps",
     "simpl",
     "imim1i"
+  ],
+  "scopes": [
+    0
   ]
 }

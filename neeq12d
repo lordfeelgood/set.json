@@ -50,5 +50,9 @@
     "neeq12d.2",
     "neeq2d",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    1022
   ]
 }

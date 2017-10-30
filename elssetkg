@@ -71,5 +71,8 @@
     "snssg",
     "bicomd",
     "sylan9bbr"
+  ],
+  "scopes": [
+    0
   ]
 }

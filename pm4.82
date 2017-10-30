@@ -49,5 +49,8 @@
     "pm2.21",
     "jca",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

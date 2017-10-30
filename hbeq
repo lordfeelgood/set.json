@@ -63,5 +63,9 @@
     "hbbi",
     "hbal",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    1000
   ]
 }

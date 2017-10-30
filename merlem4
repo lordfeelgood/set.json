@@ -57,5 +57,8 @@
     "wta",
     "merlem3",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

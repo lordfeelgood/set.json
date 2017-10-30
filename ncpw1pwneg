@@ -49,5 +49,9 @@
     "syl",
     "necon3abid",
     "mpbiri"
+  ],
+  "scopes": [
+    0,
+    3048
   ]
 }

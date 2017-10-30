@@ -78,5 +78,9 @@
     "cB",
     "eqrel",
     "mpbiri"
+  ],
+  "scopes": [
+    0,
+    2265
   ]
 }

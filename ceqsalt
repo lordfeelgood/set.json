@@ -145,5 +145,9 @@
     "3ad2ant1",
     "mpbid",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    1233
   ]
 }

@@ -39,5 +39,9 @@
     "rexlimiva.1",
     "ex",
     "rexlimiv"
+  ],
+  "scopes": [
+    0,
+    1161
   ]
 }

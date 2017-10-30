@@ -136,5 +136,9 @@
     "bitri",
     "anbi2i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1349
   ]
 }

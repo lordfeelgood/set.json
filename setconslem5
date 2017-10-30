@@ -346,5 +346,8 @@
     "pw1ex",
     "imakex",
     "complex"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -54,5 +54,9 @@
     "4casesdan.4",
     "expcom",
     "4cases"
+  ],
+  "scopes": [
+    0,
+    453
   ]
 }

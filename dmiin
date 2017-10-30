@@ -60,5 +60,9 @@
     "dmss",
     "syl",
     "mprgbir"
+  ],
+  "scopes": [
+    0,
+    2335
   ]
 }

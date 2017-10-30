@@ -47,5 +47,9 @@
     "df-ex",
     "bitri",
     "con4bii"
+  ],
+  "scopes": [
+    0,
+    1495
   ]
 }

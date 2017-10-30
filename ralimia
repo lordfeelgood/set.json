@@ -39,5 +39,9 @@
     "ralimia.1",
     "a2i",
     "ralimi2"
+  ],
+  "scopes": [
+    0,
+    1116
   ]
 }

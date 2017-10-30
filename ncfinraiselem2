@@ -531,5 +531,9 @@
     "complex",
     "uni1ex",
     "eqeltrri"
+  ],
+  "scopes": [
+    0,
+    1985
   ]
 }

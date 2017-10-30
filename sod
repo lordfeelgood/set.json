@@ -119,5 +119,9 @@
     "cR",
     "sopc",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    2864
   ]
 }

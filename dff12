@@ -81,5 +81,9 @@
     "funcnv2",
     "anbi2i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2457
   ]
 }

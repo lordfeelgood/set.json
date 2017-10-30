@@ -58,5 +58,8 @@
     "wph",
     "iman",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -114,5 +114,9 @@
     "ineq12d",
     "csbief",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1489
   ]
 }

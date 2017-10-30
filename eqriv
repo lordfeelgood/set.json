@@ -40,5 +40,9 @@
     "dfcleq",
     "eqriv.1",
     "mpgbir"
+  ],
+  "scopes": [
+    0,
+    922
   ]
 }

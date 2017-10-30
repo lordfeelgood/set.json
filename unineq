@@ -135,5 +135,9 @@
     "ineq1",
     "jca",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1486
   ]
 }

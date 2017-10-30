@@ -68,5 +68,8 @@
     "simpl",
     "orim12i",
     "pm4.71ri"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -314,5 +314,9 @@
     "vtocleg",
     "mpcom",
     "syl3an"
+  ],
+  "scopes": [
+    0,
+    2642
   ]
 }

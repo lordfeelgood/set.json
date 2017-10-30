@@ -42,5 +42,8 @@
     "cA",
     "df-ss",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -45,5 +45,8 @@
     "cA",
     "df-rab",
     "abeq2i"
+  ],
+  "scopes": [
+    0
   ]
 }

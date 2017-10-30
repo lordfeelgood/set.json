@@ -26,5 +26,9 @@
     "breqtrr.2",
     "eqcomi",
     "breqtri"
+  ],
+  "scopes": [
+    0,
+    2105
   ]
 }

@@ -92,5 +92,9 @@
     "sseq1i",
     "bitr4i",
     "syl6bb"
+  ],
+  "scopes": [
+    0,
+    1635
   ]
 }

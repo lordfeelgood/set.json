@@ -120,5 +120,9 @@
     "opkelopkab.3",
     "opkelopkabg",
     "mp2an"
+  ],
+  "scopes": [
+    0,
+    1827
   ]
 }

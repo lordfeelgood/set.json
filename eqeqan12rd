@@ -51,5 +51,9 @@
     "eqeqan12rd.2",
     "eqeqan12d",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    938
   ]
 }

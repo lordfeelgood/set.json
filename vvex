@@ -19,5 +19,8 @@
     "complex",
     "unex",
     "eqeltrri"
+  ],
+  "scopes": [
+    0
   ]
 }

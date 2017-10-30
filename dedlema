@@ -64,5 +64,8 @@
     "adantld",
     "jaod",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

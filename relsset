@@ -14,5 +14,9 @@
     "csset",
     "df-sset",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2593
   ]
 }

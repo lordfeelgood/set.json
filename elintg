@@ -76,5 +76,9 @@
     "vex",
     "elint2",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    1677
   ]
 }

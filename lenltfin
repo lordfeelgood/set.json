@@ -163,5 +163,9 @@
     "expcom",
     "pm2.61ine",
     "impbid"
+  ],
+  "scopes": [
+    0,
+    1974
   ]
 }

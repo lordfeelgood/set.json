@@ -31,5 +31,9 @@
     "eqbrtri",
     "3brtr4.3",
     "breqtrri"
+  ],
+  "scopes": [
+    0,
+    2108
   ]
 }

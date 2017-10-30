@@ -37,5 +37,9 @@
     "bitrd",
     "3bitrd.3",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    187
   ]
 }

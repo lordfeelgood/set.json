@@ -46,5 +46,9 @@
     "nandbi12.2",
     "nandbi2i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    592
   ]
 }

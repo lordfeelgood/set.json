@@ -65,5 +65,9 @@
     "pm2.04",
     "ralimi2",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    1184
   ]
 }

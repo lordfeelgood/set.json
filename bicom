@@ -35,5 +35,8 @@
     "wph",
     "bicom1",
     "impbii"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -48,5 +48,9 @@
     "ancoms",
     "mp3anl3",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    581
   ]
 }

@@ -18,5 +18,9 @@
     "wcel",
     "biid",
     "eqriv"
+  ],
+  "scopes": [
+    0,
+    925
   ]
 }

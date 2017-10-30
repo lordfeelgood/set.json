@@ -55,5 +55,9 @@
     "cM",
     "spacval",
     "eleqtrrd"
+  ],
+  "scopes": [
+    0,
+    3104
   ]
 }

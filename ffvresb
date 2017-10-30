@@ -168,5 +168,9 @@
     "sylanbrc",
     "ex",
     "impbid2"
+  ],
+  "scopes": [
+    0,
+    2543
   ]
 }

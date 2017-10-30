@@ -83,5 +83,8 @@
     "cN",
     "cecl",
     "syl22anc"
+  ],
+  "scopes": [
+    0
   ]
 }

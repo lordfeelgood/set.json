@@ -43,5 +43,8 @@
     "hbeu1",
     "hbim",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0
   ]
 }

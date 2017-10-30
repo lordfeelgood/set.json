@@ -92,5 +92,9 @@
     "vx",
     "sbbi",
     "vtoclbg"
+  ],
+  "scopes": [
+    0,
+    1381
   ]
 }

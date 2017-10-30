@@ -142,5 +142,9 @@
     "excom",
     "bitri",
     "3bitr4g"
+  ],
+  "scopes": [
+    0,
+    3030
   ]
 }

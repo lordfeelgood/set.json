@@ -35,5 +35,8 @@
     "cA",
     "iffalse",
     "pm2.61i"
+  ],
+  "scopes": [
+    0
   ]
 }

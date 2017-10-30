@@ -64,5 +64,9 @@
     "ifbieq2d.2",
     "ifeq2d",
     "eqtrd"
+  ],
+  "scopes": [
+    0,
+    1701
   ]
 }

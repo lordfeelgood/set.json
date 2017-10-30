@@ -148,5 +148,9 @@
     "bitr3i",
     "syl6bb",
     "syl5bb"
+  ],
+  "scopes": [
+    0,
+    2493
   ]
 }

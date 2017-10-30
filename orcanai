@@ -31,5 +31,9 @@
     "orcanai.1",
     "ord",
     "imp"
+  ],
+  "scopes": [
+    0,
+    433
   ]
 }

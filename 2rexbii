@@ -52,5 +52,9 @@
     "ralbii.1",
     "rexbii",
     "rexbii"
+  ],
+  "scopes": [
+    0,
+    1093
   ]
 }

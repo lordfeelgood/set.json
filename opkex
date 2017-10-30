@@ -31,5 +31,8 @@
     "df-opk",
     "prex",
     "eqeltri"
+  ],
+  "scopes": [
+    0
   ]
 }

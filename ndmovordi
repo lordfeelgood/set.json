@@ -78,5 +78,9 @@
     "ndmovordi.6",
     "biimprd",
     "mpcom"
+  ],
+  "scopes": [
+    0,
+    2682
   ]
 }

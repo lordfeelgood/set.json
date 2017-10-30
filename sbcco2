@@ -79,5 +79,9 @@
     "bicomd",
     "syl",
     "sbie"
+  ],
+  "scopes": [
+    0,
+    1361
   ]
 }

@@ -50,5 +50,9 @@
     "cF",
     "fconst2g",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2561
   ]
 }

@@ -94,5 +94,9 @@
     "eqrel",
     "mpan",
     "mpbiri"
+  ],
+  "scopes": [
+    0,
+    2280
   ]
 }

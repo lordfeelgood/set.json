@@ -47,5 +47,9 @@
     "cA",
     "reliun",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2278
   ]
 }

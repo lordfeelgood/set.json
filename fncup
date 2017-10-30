@@ -70,5 +70,9 @@
     "sylan9bb",
     "mp2an",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    2797
   ]
 }

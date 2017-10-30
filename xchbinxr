@@ -27,5 +27,9 @@
     "xchbinxr.2",
     "bicomi",
     "xchbinx"
+  ],
+  "scopes": [
+    0,
+    211
   ]
 }

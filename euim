@@ -64,5 +64,8 @@
     "vx",
     "eu5",
     "syl6ibr"
+  ],
+  "scopes": [
+    0
   ]
 }

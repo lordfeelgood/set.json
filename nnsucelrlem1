@@ -627,5 +627,9 @@
     "imakex",
     "complex",
     "eqeltrri"
+  ],
+  "scopes": [
+    0,
+    1941
   ]
 }

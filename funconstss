@@ -107,5 +107,9 @@
     "cF",
     "funimass3",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    2528
   ]
 }

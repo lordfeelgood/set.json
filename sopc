@@ -54,5 +54,8 @@
     "cconnex",
     "brin",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

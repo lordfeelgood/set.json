@@ -44,5 +44,9 @@
     "bitr4i",
     "mpbir",
     "necomi"
+  ],
+  "scopes": [
+    0,
+    1479
   ]
 }

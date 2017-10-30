@@ -35,5 +35,9 @@
     "biimp3a.1",
     "biimpa",
     "3impa"
+  ],
+  "scopes": [
+    0,
+    585
   ]
 }

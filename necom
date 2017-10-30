@@ -26,5 +26,8 @@
     "cB",
     "eqcom",
     "necon3bii"
+  ],
+  "scopes": [
+    0
   ]
 }

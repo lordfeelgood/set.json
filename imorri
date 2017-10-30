@@ -27,5 +27,9 @@
     "wps",
     "imor",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    248
   ]
 }

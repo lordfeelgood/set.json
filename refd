@@ -85,5 +85,9 @@
     "breq12d",
     "rcla4cv",
     "sylc"
+  ],
+  "scopes": [
+    0,
+    2857
   ]
 }

@@ -243,5 +243,9 @@
     "exlimivv",
     "sylbi",
     "pm2.43i"
+  ],
+  "scopes": [
+    0,
+    2071
   ]
 }

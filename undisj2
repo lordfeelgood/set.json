@@ -70,5 +70,8 @@
     "indi",
     "eqeq1i",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

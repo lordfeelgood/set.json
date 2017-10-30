@@ -41,5 +41,8 @@
     "df-txp",
     "releqi",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

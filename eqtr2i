@@ -24,5 +24,9 @@
     "eqtr2i.2",
     "eqtri",
     "eqcomi"
+  ],
+  "scopes": [
+    0,
+    940
   ]
 }

@@ -48,5 +48,8 @@
     "ancom",
     "mobii",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

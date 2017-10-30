@@ -61,5 +61,9 @@
     "elab2g.1",
     "elabg",
     "syl5bb"
+  ],
+  "scopes": [
+    0,
+    1311
   ]
 }

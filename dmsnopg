@@ -56,5 +56,9 @@
     "vex",
     "dmsnop",
     "vtoclg"
+  ],
+  "scopes": [
+    0,
+    2376
   ]
 }

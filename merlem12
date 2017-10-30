@@ -58,5 +58,8 @@
     "wph",
     "merlem11",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

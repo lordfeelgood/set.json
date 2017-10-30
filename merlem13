@@ -105,5 +105,8 @@
     "wph",
     "ax-meredith",
     "ax-mp"
+  ],
+  "scopes": [
+    0
   ]
 }

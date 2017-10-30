@@ -52,5 +52,9 @@
     "cA",
     "dmopabss",
     "eqsstri"
+  ],
+  "scopes": [
+    0,
+    2730
   ]
 }

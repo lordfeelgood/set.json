@@ -72,5 +72,9 @@
     "elabf.3",
     "bitr3d",
     "vtoclef"
+  ],
+  "scopes": [
+    0,
+    1307
   ]
 }

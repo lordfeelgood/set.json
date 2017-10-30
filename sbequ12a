@@ -57,5 +57,8 @@
     "sbequ12",
     "equcoms",
     "bitr3d"
+  ],
+  "scopes": [
+    0
   ]
 }

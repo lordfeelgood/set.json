@@ -68,5 +68,9 @@
     "hbsbc1",
     "hbab",
     "hbxfreq"
+  ],
+  "scopes": [
+    0,
+    1435
   ]
 }

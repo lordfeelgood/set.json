@@ -108,5 +108,9 @@
     "eqtr3i",
     "eqeq1i",
     "bitr3i"
+  ],
+  "scopes": [
+    0,
+    2805
   ]
 }

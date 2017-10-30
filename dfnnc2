@@ -306,5 +306,9 @@
     "abbi2i",
     "inteqi",
     "eqtr4i"
+  ],
+  "scopes": [
+    0,
+    1924
   ]
 }

@@ -75,5 +75,8 @@
     "compleqi",
     "eqtri",
     "eqtr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

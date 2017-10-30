@@ -31,5 +31,8 @@
     "ax-mp",
     "vss",
     "mpbi"
+  ],
+  "scopes": [
+    0
   ]
 }

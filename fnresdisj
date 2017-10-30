@@ -78,5 +78,8 @@
     "syl5eq",
     "eqeq1d",
     "syl5rbb"
+  ],
+  "scopes": [
+    0
   ]
 }

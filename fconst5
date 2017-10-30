@@ -141,5 +141,8 @@
     "adantrd",
     "pm2.61i",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

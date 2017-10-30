@@ -93,5 +93,9 @@
     "eumoi",
     "euxfr2",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1346
   ]
 }

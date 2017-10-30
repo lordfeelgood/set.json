@@ -80,5 +80,9 @@
     "cA",
     "df-ral",
     "syl6ibr"
+  ],
+  "scopes": [
+    0,
+    1410
   ]
 }

@@ -44,5 +44,9 @@
     "vx",
     "exsimpl",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    878
   ]
 }

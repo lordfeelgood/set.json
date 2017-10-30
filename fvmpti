@@ -124,5 +124,9 @@
     "adantl",
     "eqtr4d",
     "pm2.61dan"
+  ],
+  "scopes": [
+    0,
+    2739
   ]
 }

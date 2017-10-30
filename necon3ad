@@ -41,5 +41,9 @@
     "nne",
     "syl6ibr",
     "con2d"
+  ],
+  "scopes": [
+    0,
+    1042
   ]
 }

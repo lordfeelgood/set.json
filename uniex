@@ -25,5 +25,9 @@
     "cvv",
     "uniexg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1880
   ]
 }

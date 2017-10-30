@@ -93,5 +93,8 @@
     "necon3abid",
     "pm5.32da",
     "syl5bb"
+  ],
+  "scopes": [
+    0
   ]
 }

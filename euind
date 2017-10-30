@@ -273,5 +273,9 @@
     "albidv",
     "eu4",
     "sylanbrc"
+  ],
+  "scopes": [
+    0,
+    1347
   ]
 }

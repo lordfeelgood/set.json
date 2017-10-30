@@ -81,5 +81,9 @@
     "mpan2",
     "adantr",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    3047
   ]
 }

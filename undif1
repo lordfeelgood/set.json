@@ -65,5 +65,8 @@
     "inv1",
     "eqtri",
     "eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

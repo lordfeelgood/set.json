@@ -83,5 +83,8 @@
     "syl6",
     "3imp",
     "syl5bi"
+  ],
+  "scopes": [
+    0
   ]
 }

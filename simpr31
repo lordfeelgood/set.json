@@ -50,5 +50,8 @@
     "wch",
     "simp31",
     "adantl"
+  ],
+  "scopes": [
+    0
   ]
 }

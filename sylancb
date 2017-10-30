@@ -31,5 +31,9 @@
     "sylancb.3",
     "syl2anb",
     "anidms"
+  ],
+  "scopes": [
+    0,
+    360
   ]
 }

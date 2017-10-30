@@ -28,5 +28,9 @@
     "sseqtr.2",
     "sseq2i",
     "mpbi"
+  ],
+  "scopes": [
+    0,
+    1584
   ]
 }

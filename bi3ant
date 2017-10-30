@@ -81,5 +81,9 @@
     "bi3ant.1",
     "imim3i",
     "syl2im"
+  ],
+  "scopes": [
+    0,
+    193
   ]
 }

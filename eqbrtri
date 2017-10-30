@@ -32,5 +32,9 @@
     "eqbrtr.1",
     "breq1i",
     "mpbir"
+  ],
+  "scopes": [
+    0,
+    2099
   ]
 }

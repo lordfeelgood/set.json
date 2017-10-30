@@ -34,5 +34,8 @@
     "wps",
     "simpr",
     "impbid1"
+  ],
+  "scopes": [
+    0
   ]
 }

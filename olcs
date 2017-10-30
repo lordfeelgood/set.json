@@ -25,5 +25,9 @@
     "olcs.1",
     "orcoms",
     "orcs"
+  ],
+  "scopes": [
+    0,
+    245
   ]
 }

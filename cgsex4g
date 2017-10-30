@@ -326,5 +326,9 @@
     "2eximdv",
     "syl5com",
     "impbid2"
+  ],
+  "scopes": [
+    0,
+    1244
   ]
 }

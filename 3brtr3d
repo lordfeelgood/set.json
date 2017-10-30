@@ -43,5 +43,9 @@
     "3brtr3d.3",
     "breq12d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    2109
   ]
 }

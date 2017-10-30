@@ -67,5 +67,9 @@
     "lenc",
     "ax-mp",
     "sylibr"
+  ],
+  "scopes": [
+    0,
+    3119
   ]
 }

@@ -71,5 +71,8 @@
     "exbii",
     "mobii",
     "syl6ibr"
+  ],
+  "scopes": [
+    0
   ]
 }

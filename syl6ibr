@@ -32,5 +32,9 @@
     "syl6ibr.2",
     "biimpri",
     "syl6"
+  ],
+  "scopes": [
+    0,
+    143
   ]
 }

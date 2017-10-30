@@ -93,5 +93,9 @@
     "csbeq1d",
     "eqtrd",
     "syl"
+  ],
+  "scopes": [
+    0,
+    1452
   ]
 }

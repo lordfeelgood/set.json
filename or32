@@ -59,5 +59,8 @@
     "wps",
     "orcom",
     "3bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

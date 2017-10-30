@@ -83,5 +83,9 @@
     "df-phi",
     "elab2",
     "mtbir"
+  ],
+  "scopes": [
+    0,
+    2064
   ]
 }

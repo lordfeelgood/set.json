@@ -239,5 +239,9 @@
     "impbid",
     "syl5bb",
     "eqrdv"
+  ],
+  "scopes": [
+    0,
+    3001
   ]
 }

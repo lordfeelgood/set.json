@@ -82,5 +82,9 @@
     "df-ral",
     "sylibr",
     "rgen"
+  ],
+  "scopes": [
+    0,
+    1111
   ]
 }

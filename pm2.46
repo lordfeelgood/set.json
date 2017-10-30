@@ -28,5 +28,8 @@
     "wph",
     "olc",
     "con3i"
+  ],
+  "scopes": [
+    0
   ]
 }

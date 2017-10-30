@@ -63,5 +63,9 @@
     "ecdmn0",
     "sylib",
     "ectocld"
+  ],
+  "scopes": [
+    0,
+    2906
   ]
 }

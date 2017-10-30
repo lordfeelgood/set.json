@@ -47,5 +47,9 @@
     "2false",
     "bitri",
     "eqriv"
+  ],
+  "scopes": [
+    0,
+    2258
   ]
 }

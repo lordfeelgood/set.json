@@ -333,5 +333,9 @@
     "3bitrri",
     "3bitr4i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1873
   ]
 }

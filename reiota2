@@ -75,5 +75,9 @@
     "a17d",
     "reiota2.1",
     "reiota2f"
+  ],
+  "scopes": [
+    0,
+    1914
   ]
 }

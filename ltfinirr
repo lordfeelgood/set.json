@@ -115,5 +115,9 @@
     "opkltfing",
     "anidms",
     "mtbird"
+  ],
+  "scopes": [
+    0,
+    1964
   ]
 }

@@ -75,5 +75,8 @@
     "syl6bi",
     "com12",
     "impbid"
+  ],
+  "scopes": [
+    0
   ]
 }

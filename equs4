@@ -61,5 +61,8 @@
     "imp",
     "eximi",
     "syl"
+  ],
+  "scopes": [
+    0
   ]
 }

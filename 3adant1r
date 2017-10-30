@@ -48,5 +48,9 @@
     "3expb",
     "adantlr",
     "3impb"
+  ],
+  "scopes": [
+    0,
+    494
   ]
 }

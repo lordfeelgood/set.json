@@ -60,5 +60,9 @@
     "preqr2.2",
     "preqr1",
     "sylbi"
+  ],
+  "scopes": [
+    0,
+    1770
   ]
 }

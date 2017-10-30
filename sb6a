@@ -74,5 +74,9 @@
     "pm5.74i",
     "albii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    831
   ]
 }

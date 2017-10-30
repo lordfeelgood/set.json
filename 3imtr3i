@@ -30,5 +30,9 @@
     "sylbir",
     "3imtr3.3",
     "sylib"
+  ],
+  "scopes": [
+    0,
+    177
   ]
 }

@@ -44,5 +44,8 @@
     "elpwi",
     "sseld",
     "impcom"
+  ],
+  "scopes": [
+    0
   ]
 }

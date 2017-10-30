@@ -35,5 +35,9 @@
     "hbae",
     "hbalequs.1",
     "syl"
+  ],
+  "scopes": [
+    0,
+    706
   ]
 }

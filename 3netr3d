@@ -39,5 +39,9 @@
     "3netr3d.3",
     "neeq12d",
     "mpbid"
+  ],
+  "scopes": [
+    0,
+    1032
   ]
 }

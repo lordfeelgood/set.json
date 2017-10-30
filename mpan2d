@@ -34,5 +34,9 @@
     "mpan2d.2",
     "exp3a",
     "mpid"
+  ],
+  "scopes": [
+    0,
+    369
   ]
 }

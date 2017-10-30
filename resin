@@ -140,5 +140,8 @@
     "ax-mp",
     "3bitrri",
     "sylib"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -51,5 +51,9 @@
     "reximdv.1",
     "a1d",
     "reximdvai"
+  ],
+  "scopes": [
+    0,
+    1153
   ]
 }

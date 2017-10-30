@@ -98,5 +98,9 @@
     "eleq1d",
     "rcla42v",
     "mpi"
+  ],
+  "scopes": [
+    0,
+    2652
   ]
 }

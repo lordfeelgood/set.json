@@ -69,5 +69,9 @@
     "fvex",
     "dfiin2",
     "syl6reqr"
+  ],
+  "scopes": [
+    0,
+    2496
   ]
 }

@@ -78,5 +78,9 @@
     "syl5ibrcom",
     "rexlimiv",
     "impbid1"
+  ],
+  "scopes": [
+    0,
+    3079
   ]
 }

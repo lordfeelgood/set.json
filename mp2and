@@ -31,5 +31,9 @@
     "mp2and.3",
     "mpand",
     "mpd"
+  ],
+  "scopes": [
+    0,
+    374
   ]
 }

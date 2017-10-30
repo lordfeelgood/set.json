@@ -35,5 +35,8 @@
     "vy",
     "equcomi",
     "mpg"
+  ],
+  "scopes": [
+    0
   ]
 }

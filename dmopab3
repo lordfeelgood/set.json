@@ -111,5 +111,9 @@
     "abeq2",
     "3bitr2ri",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    2312
   ]
 }

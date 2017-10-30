@@ -49,5 +49,8 @@
     "iotaex",
     "elabsbc",
     "sylibr"
+  ],
+  "scopes": [
+    0
   ]
 }

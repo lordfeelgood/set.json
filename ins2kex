@@ -25,5 +25,9 @@
     "cvv",
     "ins2kexg",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1875
   ]
 }

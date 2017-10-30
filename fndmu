@@ -42,5 +42,8 @@
     "cF",
     "fndm",
     "sylan9req"
+  ],
+  "scopes": [
+    0
   ]
 }

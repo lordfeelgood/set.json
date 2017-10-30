@@ -111,5 +111,9 @@
     "sseq1",
     "mpbiri",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    2347
   ]
 }

@@ -48,5 +48,8 @@
     "df-ne",
     "imbi1i",
     "bitr4i"
+  ],
+  "scopes": [
+    0
   ]
 }

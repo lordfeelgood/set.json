@@ -121,5 +121,8 @@
     "eqtrd",
     "reseq2d",
     "eqtrd"
+  ],
+  "scopes": [
+    0
   ]
 }

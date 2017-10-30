@@ -52,5 +52,9 @@
     "rexsn.2",
     "rexsng",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    1536
   ]
 }

@@ -58,5 +58,8 @@
     "ra4",
     "imp",
     "ralbida"
+  ],
+  "scopes": [
+    0
   ]
 }

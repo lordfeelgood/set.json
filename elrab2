@@ -67,5 +67,9 @@
     "elrab2.1",
     "elrab",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    1319
   ]
 }

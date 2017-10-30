@@ -36,5 +36,8 @@
     "eleq2",
     "mtbiri",
     "con2i"
+  ],
+  "scopes": [
+    0
   ]
 }

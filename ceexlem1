@@ -112,5 +112,9 @@
     "opelco",
     "df-clel",
     "3bitr4i"
+  ],
+  "scopes": [
+    0,
+    3026
   ]
 }

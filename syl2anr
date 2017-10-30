@@ -37,5 +37,9 @@
     "syl2an.3",
     "syl2an",
     "ancoms"
+  ],
+  "scopes": [
+    0,
+    276
   ]
 }

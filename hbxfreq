@@ -37,5 +37,9 @@
     "eleq2i",
     "hbxfr.2",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    997
   ]
 }

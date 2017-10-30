@@ -29,5 +29,9 @@
     "bianfi.1",
     "intnan",
     "2false"
+  ],
+  "scopes": [
+    0,
+    441
   ]
 }

@@ -132,5 +132,9 @@
     "bitri",
     "3bitri",
     "vtocl2g"
+  ],
+  "scopes": [
+    0,
+    2161
   ]
 }

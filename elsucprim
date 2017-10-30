@@ -358,5 +358,9 @@
     "va",
     "exanali",
     "3bitri"
+  ],
+  "scopes": [
+    0,
+    3128
   ]
 }

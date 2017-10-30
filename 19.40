@@ -51,5 +51,8 @@
     "simpr",
     "eximi",
     "jca"
+  ],
+  "scopes": [
+    0
   ]
 }

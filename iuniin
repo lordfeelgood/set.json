@@ -120,5 +120,9 @@
     "ax-mp",
     "3imtr4i",
     "ssriv"
+  ],
+  "scopes": [
+    0,
+    2187
   ]
 }

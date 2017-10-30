@@ -126,5 +126,9 @@
     "rexbidv",
     "anbi2d",
     "opkelopkabg"
+  ],
+  "scopes": [
+    0,
+    1957
   ]
 }

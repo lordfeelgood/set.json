@@ -18,5 +18,9 @@
     "clec",
     "df-lec",
     "relopabi"
+  ],
+  "scopes": [
+    0,
+    2984
   ]
 }

@@ -89,5 +89,8 @@
     "sylan9eq",
     "jaoi",
     "sylbi"
+  ],
+  "scopes": [
+    0
   ]
 }

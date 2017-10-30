@@ -109,5 +109,8 @@
     "jca",
     "impbii",
     "bitri"
+  ],
+  "scopes": [
+    0
   ]
 }

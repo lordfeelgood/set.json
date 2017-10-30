@@ -90,5 +90,9 @@
     "eqtr4i",
     "reseq1i",
     "eqtr3i"
+  ],
+  "scopes": [
+    0,
+    2350
   ]
 }

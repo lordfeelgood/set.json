@@ -151,5 +151,9 @@
     "eqeq2d",
     "ceqsexv",
     "bitr2i"
+  ],
+  "scopes": [
+    0,
+    2070
   ]
 }

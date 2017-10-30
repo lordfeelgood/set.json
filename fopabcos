@@ -273,5 +273,9 @@
     "eqfnfv2",
     "sylancl",
     "mpbird"
+  ],
+  "scopes": [
+    0,
+    2545
   ]
 }

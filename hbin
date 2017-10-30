@@ -52,5 +52,9 @@
     "hbbool.2",
     "hban",
     "hbxfrbi"
+  ],
+  "scopes": [
+    0,
+    1464
   ]
 }

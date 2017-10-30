@@ -215,5 +215,9 @@
     "ancoms",
     "3bitr3rd",
     "syl2an"
+  ],
+  "scopes": [
+    0,
+    1404
   ]
 }

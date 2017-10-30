@@ -96,5 +96,9 @@
     "rexbidv",
     "elab",
     "sylnibr"
+  ],
+  "scopes": [
+    0,
+    2045
   ]
 }

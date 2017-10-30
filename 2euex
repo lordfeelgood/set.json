@@ -74,5 +74,8 @@
     "syl5bi",
     "impcom",
     "sylbi"
+  ],
+  "scopes": [
+    0
   ]
 }

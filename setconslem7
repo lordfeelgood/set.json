@@ -475,5 +475,9 @@
     "eqop",
     "elcompl",
     "3bitr4ri"
+  ],
+  "scopes": [
+    0,
+    2166
   ]
 }

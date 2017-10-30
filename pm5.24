@@ -67,5 +67,8 @@
     "wps",
     "dfbi3",
     "xchnxbi"
+  ],
+  "scopes": [
+    0
   ]
 }

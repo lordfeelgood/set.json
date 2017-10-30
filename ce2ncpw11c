@@ -36,5 +36,8 @@
     "ax-mp",
     "ncpw1c",
     "eqtri"
+  ],
+  "scopes": [
+    0
   ]
 }

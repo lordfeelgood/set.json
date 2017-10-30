@@ -54,5 +54,8 @@
     "simpl",
     "simpr",
     "orbi12d"
+  ],
+  "scopes": [
+    0
   ]
 }

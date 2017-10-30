@@ -91,5 +91,9 @@
     "imp",
     "ralrimivv",
     "ex"
+  ],
+  "scopes": [
+    0,
+    1137
   ]
 }

@@ -90,5 +90,9 @@
     "cB",
     "ceqsralt",
     "mp3an12"
+  ],
+  "scopes": [
+    0,
+    1238
   ]
 }

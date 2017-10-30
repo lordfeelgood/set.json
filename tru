@@ -12,5 +12,8 @@
     "biid",
     "df-tru",
     "mpbir"
+  ],
+  "scopes": [
+    0
   ]
 }

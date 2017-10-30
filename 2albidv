@@ -54,5 +54,9 @@
     "2albidv.1",
     "albidv",
     "albidv"
+  ],
+  "scopes": [
+    0,
+    772
   ]
 }

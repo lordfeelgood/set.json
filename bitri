@@ -38,5 +38,9 @@
     "bitri.1",
     "sylibr",
     "impbii"
+  ],
+  "scopes": [
+    0,
+    161
   ]
 }

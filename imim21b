@@ -80,5 +80,8 @@
     "imim2i",
     "pm5.74d",
     "syl5bb"
+  ],
+  "scopes": [
+    0
   ]
 }

@@ -67,5 +67,8 @@
     "eqimss",
     "syl",
     "pm2.61ine"
+  ],
+  "scopes": [
+    0
   ]
 }

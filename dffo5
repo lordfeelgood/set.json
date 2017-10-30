@@ -137,5 +137,9 @@
     "imdistani",
     "impbii",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    2534
   ]
 }

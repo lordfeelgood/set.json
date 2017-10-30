@@ -33,5 +33,8 @@
     "wps",
     "ax-1",
     "impbid21d"
+  ],
+  "scopes": [
+    0
   ]
 }

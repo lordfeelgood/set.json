@@ -46,5 +46,10 @@
     "bibi.a",
     "bibi1i",
     "bitri"
+  ],
+  "scopes": [
+    0,
+    213,
+    214
   ]
 }

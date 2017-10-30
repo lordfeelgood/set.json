@@ -54,5 +54,9 @@
     "imbi12d.2",
     "imbi2d",
     "bitrd"
+  ],
+  "scopes": [
+    0,
+    216
   ]
 }

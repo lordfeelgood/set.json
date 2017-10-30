@@ -144,5 +144,9 @@
     "cB",
     "ceqsalt",
     "3bitr2d"
+  ],
+  "scopes": [
+    0,
+    1234
   ]
 }

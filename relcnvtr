@@ -84,5 +84,8 @@
     "mpsyl",
     "com12",
     "impbid2"
+  ],
+  "scopes": [
+    0
   ]
 }

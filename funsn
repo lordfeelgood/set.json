@@ -66,5 +66,9 @@
     "ax-gen",
     "dffun6",
     "mpbir2an"
+  ],
+  "scopes": [
+    0,
+    2417
   ]
 }

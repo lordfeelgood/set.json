@@ -94,5 +94,8 @@
     "df-nel",
     "syl6bbr",
     "3bitrd"
+  ],
+  "scopes": [
+    0
   ]
 }

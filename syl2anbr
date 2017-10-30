@@ -37,5 +37,9 @@
     "syl2anbr.3",
     "sylanbr",
     "sylan2br"
+  ],
+  "scopes": [
+    0,
+    278
   ]
 }

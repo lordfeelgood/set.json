@@ -121,5 +121,8 @@
     "cD",
     "xpss12",
     "impbid1"
+  ],
+  "scopes": [
+    0
   ]
 }

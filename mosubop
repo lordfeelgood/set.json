@@ -88,5 +88,9 @@
     "cA",
     "mosubopt",
     "ax-mp"
+  ],
+  "scopes": [
+    0,
+    2077
   ]
 }

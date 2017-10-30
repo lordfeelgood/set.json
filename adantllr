@@ -42,5 +42,9 @@
     "simpl",
     "adantl2.1",
     "sylanl1"
+  ],
+  "scopes": [
+    0,
+    394
   ]
 }

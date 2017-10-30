@@ -45,5 +45,9 @@
     "ax-17",
     "ralbidv.1",
     "ralbid"
+  ],
+  "scopes": [
+    0,
+    1090
   ]
 }
